@@ -97,14 +97,13 @@ if __name__ == "__main__":
 			kanji.root.childs.append(stroke)
 		kanjis.append(kanji)
 
-	mismatch.sort()
-	misout = codecs.open("wiki.d/Main.StrokeCountMismatch", "w", "utf-8")
-	misout.write('version=pmwiki-2.1.0 urlencoded=1\ntext=')
-	misout.write("'''This page is generated - please do not edit it!'''%0a%0aThe following kanjis have a stroke order mismatch between their XML and SVG descriptions:%0a")
-	for i in range(len(mismatch)):
-		misout.write("* %s: XML %d, SVG %d" % (mismatch[i][0], mismatch[i][1], mismatch[i][2]))
-		misout.write("%0a")
-		#print "%s: %5d %5d" % (mismatch[i][0], mismatch[i][1], mismatch[i][2])
+	#mismatch.sort()
+	#misout = codecs.open("wiki.d/Main.StrokeCountMismatch", "w", "utf-8")
+	#misout.write('version=pmwiki-2.1.0 urlencoded=1\ntext=')
+	#misout.write("'''This page is generated - please do not edit it!'''%0a%0aThe following kanjis have a stroke order mismatch between their XML and SVG descriptions:%0a")
+	#for i in range(len(mismatch)):
+		#misout.write("* %s: XML %d, SVG %d" % (mismatch[i][0], mismatch[i][1], mismatch[i][2]))
+		#misout.write("%0a")
 	kanjis.sort(lambda x,y: cmp(x.id, y.id))
 
 	out = codecs.open("kanjivg.xml", "w", "utf-8")
