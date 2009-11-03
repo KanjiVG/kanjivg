@@ -1,0 +1,20 @@
+<kanji midashi="拈" id="62c8">
+<strokegr element="拈">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="占" position="right">
+		<strokegr element="卜" variant="true" original="ト" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

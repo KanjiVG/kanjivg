@@ -1,0 +1,29 @@
+<kanji midashi="鈴" id="9234">
+<strokegr element="鈴">
+	<strokegr element="金" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="令" position="right" phon="令">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="卩" original="マ">
+				<stroke type="㇇/㇆"/>
+				<stroke type="㇔/㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

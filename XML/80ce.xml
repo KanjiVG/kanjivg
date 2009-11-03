@@ -1,0 +1,21 @@
+<kanji midashi="胎" id="80ce">
+<strokegr element="胎">
+	<strokegr element="月" variant="true" original="肉" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="台" position="right" phon="台">
+		<strokegr element="厶" position="top">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

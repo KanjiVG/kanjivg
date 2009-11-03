@@ -1,0 +1,21 @@
+<kanji midashi="契" id="5951">
+<strokegr element="契">
+	<strokegr position="top" phon="2+3+2+6+刀">
+		<strokegr position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="刀" position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="大" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

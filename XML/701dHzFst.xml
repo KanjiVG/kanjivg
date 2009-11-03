@@ -1,0 +1,47 @@
+<kanji midashi="瀝" id="701dHzFst">
+<strokegr element="瀝">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="歴" variant="true" position="right">
+		<strokegr element="厂" position="tare">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="林" variant="true">
+			<strokegr element="禾" position="left">
+				<strokegr element="丿" position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="木" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="禾" position="right">
+				<strokegr element="丿" position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="木" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="止">
+			<strokegr element="卜" original="ト">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

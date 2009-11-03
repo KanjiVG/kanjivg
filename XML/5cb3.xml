@@ -1,0 +1,22 @@
+<kanji midashi="岳" id="5cb3">
+<strokegr element="岳">
+	<strokegr element="丘" position="top">
+		<strokegr element="斤">
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="山" position="bottom" radical="tradit">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,32 @@
+<kanji midashi="開" id="958bKaisho">
+<strokegr element="開">
+	<strokegr element="門" position="kamae" radical="general">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="幵" partial="true">
+		<strokegr element="干">
+			<stroke type="㇐"/>
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇒/㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="干" partial="true">
+			<strokegr element="十" partial="true">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,27 @@
+<kanji midashi="掀" id="6380">
+<strokegr element="掀">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="欣" position="right">
+		<strokegr element="斤" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="欠" position="right">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇖a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

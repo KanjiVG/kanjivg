@@ -1,0 +1,25 @@
+<kanji midashi="垢" id="57a2">
+<strokegr element="垢">
+	<strokegr element="土" variant="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="后" position="right">
+		<strokegr position="kamae">
+			<strokegr element="厂" variant="true">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

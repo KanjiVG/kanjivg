@@ -1,0 +1,43 @@
+<kanji midashi="襯" id="896fKaisho">
+<strokegr element="襯">
+	<strokegr element="衤" variant="true" original="衣" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇇"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="親" position="right">
+		<strokegr position="left">
+			<strokegr element="立">
+				<strokegr element="亠" position="top">
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇔"/>
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="木">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="見" position="right">
+			<strokegr element="目">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

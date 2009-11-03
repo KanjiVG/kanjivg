@@ -1,0 +1,24 @@
+<kanji midashi="沿" id="6cbf">
+<strokegr element="沿">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="㕣" position="right" phon="㕣">
+		<strokegr element="八">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

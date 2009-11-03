@@ -1,0 +1,30 @@
+<kanji midashi="駅" id="99c5">
+<strokegr element="駅">
+	<strokegr element="馬" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="尺" position="right" phon="尺/睪V">
+		<strokegr element="尸">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<strokegr element="八" part="1">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" part="2">
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,24 @@
+<kanji midashi="殷" id="6bb7">
+<strokegr element="殷">
+	<strokegr position="left">
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇆"/>
+	</strokegr>
+	<strokegr element="殳" position="right" radical="tradit">
+		<strokegr element="几" position="top">
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇈"/>
+		</strokegr>
+		<strokegr element="又" position="bottom">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

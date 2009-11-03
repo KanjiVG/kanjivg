@@ -1,0 +1,22 @@
+<kanji midashi="浙" id="6d59">
+<strokegr element="浙">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="折" position="right">
+		<strokegr element="扌" variant="true" original="手" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="斤" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,30 @@
+<kanji midashi="費" id="8cbb">
+<strokegr element="費">
+	<strokegr element="弗" position="top" phon="弗">
+		<strokegr element="弓">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇉"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丨">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="貝" position="bottom" radical="general">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

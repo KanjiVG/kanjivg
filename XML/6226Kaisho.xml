@@ -1,0 +1,41 @@
+<kanji midashi="戦" id="6226Kaisho">
+<strokegr element="戦">
+	<strokegr element="単" position="left">
+		<strokegr element="⺍" original="つ" position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="甲" part="1" position="bottom">
+			<strokegr element="田" partial="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="甲" part="2">
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="戈" position="right" radical="general">
+		<strokegr element="弋" part="1">
+			<stroke type="㇐"/>
+			<stroke type="㇂"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="弋" part="2">
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,41 @@
+<kanji midashi="彈" id="5f48Kaisho">
+<strokegr element="彈">
+	<strokegr element="弓" position="left" radical="general">
+		<stroke type="㇕c"/>
+		<stroke type="㇐"/>
+		<stroke type="㇉"/>
+	</strokegr>
+	<strokegr element="單" position="right">
+		<strokegr position="top">
+			<strokegr element="口" position="left">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="口" position="right">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="甲" part="1">
+				<strokegr element="田" partial="true">
+					<stroke type="㇑"/>
+					<stroke type="㇕"/>
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="甲" part="2">
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

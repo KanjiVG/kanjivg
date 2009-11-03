@@ -1,0 +1,40 @@
+<kanji midashi="蘿" id="863f">
+<strokegr element="蘿">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="羅" position="bottom">
+		<strokegr element="罒" variant="true" original="网" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="維" position="bottom">
+			<strokegr element="糸" position="left">
+				<stroke type="㇜"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="隹" position="right">
+				<strokegr element="亻" variant="true" original="人">
+					<stroke type="㇒"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇒"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

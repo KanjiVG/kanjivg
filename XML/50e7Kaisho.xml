@@ -1,0 +1,27 @@
+<kanji midashi="僧" id="50e7Kaisho">
+<strokegr element="僧">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="曽" position="right">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<strokegr element="田">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

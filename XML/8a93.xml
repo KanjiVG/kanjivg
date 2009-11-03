@@ -1,0 +1,28 @@
+<kanji midashi="誓" id="8a93">
+<strokegr element="誓">
+	<strokegr element="折" position="top" phon="折">
+		<strokegr element="扌" variant="true" original="手" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="斤" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="言" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

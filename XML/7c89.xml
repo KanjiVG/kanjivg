@@ -1,0 +1,22 @@
+<kanji midashi="粉" id="7c89">
+<strokegr element="粉">
+	<strokegr element="米" variant="true" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="分" position="right" phon="分">
+		<strokegr element="八" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="刀" position="bottom">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

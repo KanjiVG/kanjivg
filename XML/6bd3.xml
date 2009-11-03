@@ -1,0 +1,36 @@
+<kanji midashi="毓" id="6bd3">
+<strokegr element="毓">
+	<strokegr element="毎" variant="true" position="left">
+		<strokegr position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="毋" variant="true" original="母" position="bottom" radical="general">
+			<stroke type="㇛"/>
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr position="top">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="厶">
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="川" variant="true" original="巛" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

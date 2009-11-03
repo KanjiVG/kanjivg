@@ -1,0 +1,48 @@
+<kanji midashi="爾" id="723e">
+<strokegr element="爾">
+	<strokegr element="一" radical="nelson">
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="八">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="冂">
+		<stroke type="㇑"/>
+		<stroke type="㇆a"/>
+	</strokegr>
+	<stroke type="㇑"/>
+	<strokegr element="爻" variant="true" radical="tradit">
+		<strokegr element="乂" variant="true" position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="乂" variant="true" position="bottom">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="爻" variant="true" radical="tradit">
+		<strokegr element="乂" variant="true" position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="乂" variant="true" position="bottom">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

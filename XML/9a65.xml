@@ -1,0 +1,52 @@
+<kanji midashi="驥" id="9a65">
+<strokegr element="驥">
+	<strokegr element="馬" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="冀" position="right">
+		<strokegr element="北" position="top">
+			<strokegr position="left">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇀"/>
+			</strokegr>
+			<strokegr element="匕" position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="異" position="bottom">
+			<strokegr element="田" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="共" position="bottom">
+				<strokegr position="top">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="八" position="bottom">
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

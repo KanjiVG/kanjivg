@@ -1,0 +1,32 @@
+<kanji midashi="徳" id="5fb3">
+<strokegr element="徳">
+	<strokegr element="彳" position="left" radical="general">
+		<stroke type="㇒"/>
+		<strokegr element="亻" variant="true" original="人">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr phon="直T">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="罒" variant="true" original="网">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="心">
+			<stroke type="㇔"/>
+			<stroke type="㇟b"/>
+			<stroke type="㇔a"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

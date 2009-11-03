@@ -1,0 +1,45 @@
+<kanji midashi="簽" id="7c3d">
+<strokegr element="簽">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="僉" position="bottom">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

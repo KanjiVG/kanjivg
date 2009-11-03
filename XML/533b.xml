@@ -1,0 +1,21 @@
+<kanji midashi="医" id="533b">
+<strokegr element="医">
+	<strokegr element="匚" part="1" radical="general">
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="矢" variant="true">
+		<stroke type="㇒"/>
+		<strokegr element="天" variant="true">
+			<stroke type="㇐"/>
+			<strokegr element="大" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="匚" part="2" radical="general">
+		<stroke type="㇗"/>
+	</strokegr>
+</strokegr>
+</kanji>

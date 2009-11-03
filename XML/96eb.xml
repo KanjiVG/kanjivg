@@ -1,0 +1,23 @@
+<kanji midashi="雫" id="96eb">
+<strokegr element="雫">
+	<strokegr element="雨" variant="true" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇔/㇑"/>
+		<stroke type="㇖b/㇆"/>
+		<stroke type="㇑"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="下" position="bottom">
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="卜" original="ト">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,41 @@
+<kanji midashi="醋" id="918b">
+<strokegr element="醋">
+	<strokegr element="酉" position="left" radical="general">
+		<strokegr element="西" part="1" original="襾">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇒"/>
+			<stroke type="㇟a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="西" part="2" original="襾">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="昔" position="right">
+		<strokegr position="top">
+			<strokegr element="廾" variant="true">
+				<strokegr element="十" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="丿" variant="true">
+					<stroke type="㇑"/>
+				</strokegr>
+				<strokegr element="十" part="2">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

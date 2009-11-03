@@ -1,0 +1,29 @@
+<kanji midashi="涯" id="6daf">
+<strokegr element="涯">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="厓" position="kamae" phon="厓">
+			<strokegr element="厂">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="圭">
+				<strokegr element="土" position="top">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="土" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

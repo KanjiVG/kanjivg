@@ -1,0 +1,33 @@
+<kanji midashi="楓" id="6953Kaisho">
+<strokegr element="楓">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="風" position="right">
+		<strokegr element="几">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇈a"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<strokegr element="虫">
+			<strokegr element="中">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑a"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇀"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

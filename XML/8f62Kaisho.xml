@@ -1,0 +1,44 @@
+<kanji midashi="轢" id="8f62Kaisho">
+<strokegr element="轢">
+	<strokegr element="車" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="樂" position="right">
+		<strokegr position="top">
+			<strokegr element="白">
+				<strokegr position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="日" position="bottom">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="幺">
+				<stroke type="㇜"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="幺">
+				<stroke type="㇜"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="木" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,23 @@
+<kanji midashi="睫" id="776bKaisho">
+<strokegr element="睫">
+	<strokegr element="目" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr position="right">
+		<stroke type="㇐"/>
+		<strokegr element="⺕" variant="true" original="彑">
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐c"/>
+		</strokegr>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

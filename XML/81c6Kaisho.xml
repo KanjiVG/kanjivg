@@ -1,0 +1,37 @@
+<kanji midashi="臆" id="81c6Kaisho">
+<strokegr element="臆">
+	<strokegr element="月" variant="true" original="肉" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="意" position="right">
+		<strokegr element="音" position="top">
+			<strokegr element="立">
+				<strokegr element="亠" position="top">
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇔"/>
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="日">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="心" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇟b"/>
+			<stroke type="㇔a"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

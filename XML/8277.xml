@@ -1,0 +1,54 @@
+<kanji midashi="艷" id="8277">
+<strokegr element="艷">
+	<strokegr element="豐" position="left">
+		<strokegr position="top">
+			<strokegr element="山" part="1">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<strokegr element="山" part="2">
+				<stroke type="㇄"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="豆" position="bottom">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="色" position="right" radical="general">
+		<strokegr element="𠂊" variant="true" original="勹" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇇a"/>
+		</strokegr>
+		<strokegr element="巴" position="bottom">
+			<strokegr element="己" part="1" original="巳">
+				<stroke type="㇕"/>
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="己" part="2" original="巳">
+				<stroke type="㇐a"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

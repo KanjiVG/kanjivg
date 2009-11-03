@@ -1,0 +1,29 @@
+<kanji midashi="墜" id="589c">
+<strokegr element="墜">
+	<strokegr element="隊" position="top" phon="隊">
+		<strokegr element="⻖" variant="true" original="阜" position="left">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<strokegr element="豕">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇕v"/>
+				<stroke type="㇒"/>
+				<stroke type="㇒"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

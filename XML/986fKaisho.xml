@@ -1,0 +1,51 @@
+<kanji midashi="顯" id="986fKaisho">
+<strokegr element="顯">
+	<strokegr position="left">
+		<strokegr element="日" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr position="top">
+				<strokegr element="幺" position="left">
+					<stroke type="㇜"/>
+					<stroke type="㇜"/>
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr element="幺" position="right">
+					<stroke type="㇜"/>
+					<stroke type="㇜"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="灬" variant="true" original="火" position="bottom">
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="頁" position="right" radical="tradit">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="貝" position="bottom">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

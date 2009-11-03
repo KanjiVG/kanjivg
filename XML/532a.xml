@@ -1,0 +1,24 @@
+<kanji midashi="匪" id="532a">
+<strokegr element="匪">
+	<strokegr element="匚" part="1" radical="general">
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="非">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="匚" part="2" radical="general">
+		<stroke type="㇗"/>
+	</strokegr>
+</strokegr>
+</kanji>

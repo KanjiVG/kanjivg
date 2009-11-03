@@ -1,0 +1,32 @@
+<kanji midashi="鴕" id="9d15">
+<strokegr element="鴕">
+	<strokegr element="鳥" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="它" position="right">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匕" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

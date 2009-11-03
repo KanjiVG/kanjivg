@@ -1,0 +1,29 @@
+<kanji midashi="賄" id="8cc4">
+<strokegr element="賄">
+	<strokegr position="left">
+		<strokegr element="貝" radical="general">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="有" position="right" phon="有">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<strokegr element="月">
+			<stroke type="㇑/㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

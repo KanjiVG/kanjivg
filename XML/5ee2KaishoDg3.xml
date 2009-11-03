@@ -1,0 +1,43 @@
+<kanji midashi="廢" id="5ee2KaishoDg3">
+<strokegr element="廢">
+	<strokegr element="广" position="tare" radical="tradit">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="發">
+		<strokegr element="癶" position="top">
+			<strokegr position="left">
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇏"/>
+				<stroke type="㇒"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="弓" position="left">
+				<stroke type="㇕c"/>
+				<stroke type="㇐"/>
+				<stroke type="㇉"/>
+			</strokegr>
+			<strokegr element="殳" position="right">
+				<strokegr element="几" position="top">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇈b"/>
+				</strokegr>
+				<strokegr element="又" position="bottom">
+					<stroke type="㇇"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

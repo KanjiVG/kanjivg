@@ -1,0 +1,36 @@
+<kanji midashi="懈" id="61c8">
+<strokegr element="懈">
+	<strokegr element="忄" variant="true" original="心" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="解" position="right">
+		<strokegr element="角" position="left">
+			<strokegr element="𠂊" variant="true" original="勹" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇇a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="刀" position="top">
+				<stroke type="㇆"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="牛" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

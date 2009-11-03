@@ -1,0 +1,24 @@
+<kanji midashi="航" id="822aKaisho">
+<strokegr element="航">
+	<strokegr element="舟" variant="true" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="亢" position="right">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="几" position="bottom">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇈b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

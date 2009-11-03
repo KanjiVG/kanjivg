@@ -1,0 +1,39 @@
+<kanji midashi="躋" id="8e8b">
+<strokegr element="躋">
+	<strokegr element="足" position="left" radical="general">
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇏"/>
+	</strokegr>
+	<strokegr element="齊" position="right">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<strokegr element="刀">
+				<stroke type="㇆"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇏"/>
+			<stroke type="㇒"/>
+			<strokegr element="二">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

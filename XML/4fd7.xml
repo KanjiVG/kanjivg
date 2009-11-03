@@ -1,0 +1,23 @@
+<kanji midashi="俗" id="4fd7">
+<strokegr element="俗">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="谷" position="right" phon="谷">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

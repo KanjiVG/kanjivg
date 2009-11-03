@@ -1,0 +1,43 @@
+<kanji midashi="瑾" id="747e">
+<strokegr element="瑾">
+	<strokegr element="王" original="玉" partial="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="廿" position="top">
+			<strokegr element="艹" part="1" variant="true" original="艸">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="艹" part="2" variant="true" original="艸">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<strokegr element="三">
+				<strokegr element="一" position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

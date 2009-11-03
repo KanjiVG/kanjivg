@@ -1,0 +1,26 @@
+<kanji midashi="復" id="5fa9">
+<strokegr element="復">
+	<strokegr element="彳" position="left" radical="general">
+		<stroke type="㇒"/>
+		<strokegr element="亻" variant="true" original="人">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="复" position="right" phon="复">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<strokegr element="日">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="夂">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

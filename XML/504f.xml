@@ -1,0 +1,33 @@
+<kanji midashi="偏" id="504f">
+<strokegr element="偏">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="扁" position="right" phon="扁">
+		<strokegr element="戸" position="tare">
+			<stroke type="㇐"/>
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="冊">
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<strokegr element="廾" variant="true">
+				<strokegr element="十" part="1" variant="true">
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr element="丿" variant="true">
+					<stroke type="㇑"/>
+				</strokegr>
+				<strokegr element="十" part="2" variant="true">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

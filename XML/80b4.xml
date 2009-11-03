@@ -1,0 +1,20 @@
+<kanji midashi="肴" id="80b4">
+<strokegr element="肴">
+	<strokegr element="乂" position="top">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇏"/>
+	</strokegr>
+	<strokegr element="有" position="bottom">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<strokegr element="月" variant="true" original="肉" radical="general">
+			<stroke type="㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

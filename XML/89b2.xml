@@ -1,0 +1,50 @@
+<kanji midashi="覲" id="89b2">
+<strokegr element="覲">
+	<strokegr position="left">
+		<strokegr element="廿" position="top">
+			<strokegr element="艹" part="1" variant="true" original="艸">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="艹" part="2" variant="true" original="艸">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<strokegr element="三">
+				<strokegr element="一" position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="見" position="right" radical="general">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

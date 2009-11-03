@@ -1,0 +1,26 @@
+<kanji midashi="孱" id="5b71">
+<strokegr element="孱">
+	<strokegr element="尸" position="tare">
+		<stroke type="㇕c"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="子" position="top" radical="general">
+		<stroke type="㇖"/>
+		<stroke type="㇕v"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="子" variant="true" position="left" radical="general">
+			<stroke type="㇖"/>
+			<stroke type="㇕v"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+		<strokegr element="子" position="right" radical="general">
+			<stroke type="㇖"/>
+			<stroke type="㇕v"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

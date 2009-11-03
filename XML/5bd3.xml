@@ -1,0 +1,30 @@
+<kanji midashi="寓" id="5bd3">
+<strokegr element="寓">
+	<strokegr element="宀" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="禺" position="bottom">
+		<strokegr element="日">
+			<strokegr element="田" part="1" variant="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禸">
+			<stroke type="㇑"/>
+			<stroke type="㇆"/>
+			<strokegr element="田" part="2" variant="true">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="６"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

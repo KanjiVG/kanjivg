@@ -1,0 +1,22 @@
+<kanji midashi="府" id="5e9c">
+<strokegr element="府">
+	<strokegr element="广" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="付" phon="付">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="寸" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

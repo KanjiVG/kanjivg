@@ -1,0 +1,24 @@
+<kanji midashi="肬" id="80acKaisho">
+<strokegr element="肬">
+	<strokegr element="月" position="left" radical="tradit">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="尤" position="right">
+		<strokegr element="尢">
+			<stroke type="㇐"/>
+			<strokegr element="儿" original="八">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

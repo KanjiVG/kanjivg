@@ -1,0 +1,34 @@
+<kanji midashi="壘" id="58d8Kaisho">
+<strokegr element="壘">
+	<strokegr position="top">
+		<strokegr element="田" position="top" radical="nelson">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="田" position="left">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="田" position="right">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

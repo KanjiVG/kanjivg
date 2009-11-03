@@ -1,0 +1,36 @@
+<kanji midashi="鞆" id="9786">
+<strokegr element="鞆">
+	<strokegr element="革" position="left" radical="general">
+		<strokegr element="廿" position="top">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="丙" position="right">
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="内">
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

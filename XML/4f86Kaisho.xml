@@ -1,0 +1,24 @@
+<kanji midashi="來" id="4f86Kaisho">
+<strokegr element="來">
+	<strokegr element="木" part="1">
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="从">
+		<strokegr element="人" position="left" radical="tradit">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="人" position="right" radical="tradit">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="木" part="2">
+		<stroke type="㇑"/>
+		<strokegr element="丿" radical="nelson">
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

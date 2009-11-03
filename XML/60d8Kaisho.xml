@@ -1,0 +1,31 @@
+<kanji midashi="惘" id="60d8Kaisho">
+<strokegr element="惘">
+	<strokegr element="忄" variant="true" original="心" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="罔" position="right">
+		<strokegr element="罒" variant="true" original="网" position="kamae">
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="亡">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<strokegr element="匸" part="1" variant="true" original="匚">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="匸" part="2" variant="true" original="匚">
+				<stroke type="㇄a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

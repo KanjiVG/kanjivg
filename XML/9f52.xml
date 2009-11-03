@@ -1,0 +1,39 @@
+<kanji midashi="齒" id="9f52">
+<strokegr element="齒" radical="general">
+	<strokegr element="止" position="top">
+		<strokegr element="卜" original="ト">
+			<stroke type="㇑a"/>
+			<stroke type="㇐b/㇔"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="从">
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="从">
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="凵">
+			<stroke type="㇗a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

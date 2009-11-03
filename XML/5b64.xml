@@ -1,0 +1,21 @@
+<kanji midashi="孤" id="5b64">
+<strokegr element="孤">
+	<strokegr element="子" variant="true" position="left" radical="general">
+		<stroke type="㇖"/>
+		<stroke type="㇕v"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="瓜" position="right" phon="瓜">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<strokegr element="厶" variant="true" original="厶">
+			<stroke type="㇑a"/>
+			<stroke type="㇀/㇐"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

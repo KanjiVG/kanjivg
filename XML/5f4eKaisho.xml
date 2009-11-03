@@ -1,0 +1,36 @@
+<kanji midashi="彎" id="5f4eKaisho">
+<strokegr element="彎">
+	<strokegr position="top">
+		<strokegr element="糸" variant="true">
+			<stroke type="㇜"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="言">
+			<stroke type="㇔"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="糸" variant="true">
+			<stroke type="㇜"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="弓" position="bottom" radical="general">
+		<stroke type="㇕c"/>
+		<stroke type="㇐"/>
+		<stroke type="㇉"/>
+	</strokegr>
+</strokegr>
+</kanji>

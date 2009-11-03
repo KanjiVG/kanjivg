@@ -1,0 +1,23 @@
+<kanji midashi="妍" id="598d">
+<strokegr element="妍">
+	<strokegr element="女" variant="true" position="left" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="幵" partial="true" position="right">
+		<strokegr element="干">
+			<stroke type="㇐"/>
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇒/㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="干" partial="true">
+			<strokegr element="十" partial="true">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

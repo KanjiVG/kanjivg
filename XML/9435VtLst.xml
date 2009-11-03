@@ -1,0 +1,59 @@
+<kanji midashi="鐵" id="9435VtLst">
+<strokegr element="鐵">
+	<strokegr element="金" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="載" variant="true" position="right">
+		<strokegr element="裁" variant="true">
+			<strokegr element="吉" part="1">
+				<strokegr element="士" part="1" original="土">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<strokegr element="戈" part="1">
+						<strokegr element="弋" part="1">
+							<strokegr element="士" part="2" original="土">
+								<stroke type="㇐"/>
+							</strokegr>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+			<strokegr element="呈">
+				<strokegr element="吉" part="2" position="top">
+					<strokegr element="口">
+						<stroke type="㇑"/>
+						<stroke type="㇕b"/>
+						<stroke type="㇐b"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="王" original="玉" partial="true" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="戈" part="2">
+				<strokegr element="弋" part="2">
+					<stroke type="㇂"/>
+				</strokegr>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="弋" part="3">
+					<strokegr element="丶">
+						<stroke type="㇔"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

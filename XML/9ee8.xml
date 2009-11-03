@@ -1,0 +1,40 @@
+<kanji midashi="黨" id="9ee8">
+<strokegr element="黨">
+	<strokegr element="尚" variant="true" position="top">
+		<strokegr element="𡭔" variant="true" original="小" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冂" variant="true">
+				<stroke type="㇔"/>
+				<stroke type="㇖"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="黑" variant="true" original="黒" position="bottom" radical="general">
+		<strokegr element="里" variant="true" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="灬" variant="true" original="火" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

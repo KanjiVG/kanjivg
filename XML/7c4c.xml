@@ -1,0 +1,44 @@
+<kanji midashi="籌" id="7c4c">
+<strokegr element="籌">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="壽" position="bottom">
+		<strokegr element="士" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇖"/>
+			<strokegr element="工">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口" position="left">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="寸" position="right">
+				<stroke type="㇐"/>
+				<stroke type="㇚"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

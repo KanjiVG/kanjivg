@@ -1,0 +1,26 @@
+<kanji midashi="衰" id="8870Kaisho">
+<strokegr element="衰">
+	<strokegr element="衣" part="1" position="top" radical="tradit">
+		<strokegr element="亠" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="口" part="1">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="口" part="2">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="衣" part="2" radical="tradit">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

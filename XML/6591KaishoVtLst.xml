@@ -1,0 +1,28 @@
+<kanji midashi="斑" id="6591KaishoVtLst">
+<strokegr element="斑">
+	<strokegr element="王" original="玉" partial="true" position="left" radical="nelson">
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="文" radical="tradit">
+			<strokegr element="亠" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="乂" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="王" original="玉" partial="true">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

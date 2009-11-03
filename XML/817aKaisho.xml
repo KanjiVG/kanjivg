@@ -1,0 +1,29 @@
+<kanji midashi="腺" id="817aKaisho">
+<strokegr element="腺">
+	<strokegr element="月" variant="true" original="肉" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="泉" position="right">
+		<strokegr element="白" position="top">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="日" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="水" position="bottom">
+			<stroke type="㇚"/>
+			<stroke type="㇇"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

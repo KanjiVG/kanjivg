@@ -1,0 +1,28 @@
+<kanji midashi="景" id="666fKaisho">
+<strokegr element="景">
+	<strokegr element="日" position="top" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="京" position="bottom">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="小">
+				<stroke type="㇚"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

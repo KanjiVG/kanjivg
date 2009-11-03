@@ -1,0 +1,20 @@
+<kanji midashi="拊" id="62ca">
+<strokegr element="拊">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="付" position="right">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="寸" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

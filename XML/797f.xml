@@ -1,0 +1,29 @@
+<kanji midashi="祿" id="797f">
+<strokegr element="祿">
+	<strokegr element="示" variant="true" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑/㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="彑" position="top">
+			<stroke type="㇗"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="氺" variant="true" original="水" position="bottom">
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

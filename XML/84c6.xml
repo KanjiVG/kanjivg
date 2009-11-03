@@ -1,0 +1,33 @@
+<kanji midashi="蓆" id="84c6">
+<strokegr element="蓆">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="席" position="tare">
+			<strokegr element="广">
+				<stroke type="㇑a"/>
+				<strokegr element="厂">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="廿">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="巾">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,27 @@
+<kanji midashi="翌" id="7fcc">
+<strokegr element="翌">
+	<strokegr element="羽" position="top" radical="general" phon="翼T">
+		<strokegr position="left">
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="立" position="bottom">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

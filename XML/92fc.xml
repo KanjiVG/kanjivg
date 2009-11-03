@@ -1,0 +1,28 @@
+<kanji midashi="鋼" id="92fc">
+<strokegr element="鋼">
+	<strokegr element="金" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="岡" position="right" phon="岡">
+		<strokegr element="冂" position="kamae">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<strokegr element="山">
+			<stroke type="㇑a"/>
+			<stroke type="㇄a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

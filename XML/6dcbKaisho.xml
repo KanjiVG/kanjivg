@@ -1,0 +1,23 @@
+<kanji midashi="淋" id="6dcbKaisho">
+<strokegr element="淋">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="林" position="right">
+		<strokegr element="木" variant="true" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="木" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

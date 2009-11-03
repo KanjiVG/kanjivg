@@ -1,0 +1,35 @@
+<kanji midashi="癇" id="7647Kaisho">
+<strokegr element="癇">
+	<strokegr element="疒" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="間" variant="true">
+		<strokegr element="門" position="kamae">
+			<strokegr position="left">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="日" variant="true">
+			<strokegr element="月">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

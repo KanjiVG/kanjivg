@@ -1,0 +1,28 @@
+<kanji midashi="装" id="88c5">
+<strokegr element="装">
+	<strokegr element="壮" position="top" phon="壮">
+		<strokegr element="⺦" variant="true" original="爿" position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="士" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="衣" position="bottom" radical="general">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

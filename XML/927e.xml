@@ -1,0 +1,26 @@
+<kanji midashi="鉾" id="927e">
+<strokegr element="鉾">
+	<strokegr element="金" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="牟" position="right">
+		<strokegr element="厶" position="top">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="牛" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

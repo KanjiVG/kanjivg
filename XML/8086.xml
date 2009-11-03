@@ -1,0 +1,27 @@
+<kanji midashi="肆" id="8086">
+<strokegr element="肆">
+	<strokegr element="長" variant="true" position="left" radical="nelson">
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐"/>
+		<strokegr element="厶">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="聿" position="right" radical="tradit">
+		<strokegr element="⺕" variant="true" original="彑">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="丨">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

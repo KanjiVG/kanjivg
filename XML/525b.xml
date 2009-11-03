@@ -1,0 +1,24 @@
+<kanji midashi="剛" id="525b">
+<strokegr element="剛">
+	<strokegr element="岡" position="left" phon="岡">
+		<strokegr element="冂" position="kamae">
+			<strokegr element="丨" radical="nelson">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<strokegr element="山">
+			<stroke type="㇑a"/>
+			<stroke type="㇄a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="tradit">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

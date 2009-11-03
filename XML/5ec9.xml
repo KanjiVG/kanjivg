@@ -1,0 +1,37 @@
+<kanji midashi="廉" id="5ec9">
+<strokegr element="廉">
+	<strokegr element="广" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="兼" phon="兼">
+		<strokegr element="八" variant="true" position="top">
+			<strokegr position="left">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇐"/>
+			<strokegr element="⺕" variant="true" original="彑">
+				<stroke type="㇕c"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,42 @@
+<kanji midashi="蹣" id="8e63">
+<strokegr element="蹣">
+	<strokegr element="足" position="left" radical="general">
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇏"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="廿">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="兩" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="兩" part="2">
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<strokegr element="入">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="入">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

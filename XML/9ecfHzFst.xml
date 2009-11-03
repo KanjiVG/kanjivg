@@ -1,0 +1,39 @@
+<kanji midashi="黏" id="9ecfHzFst">
+<strokegr element="黏">
+	<strokegr element="黍" position="left" radical="tradit">
+		<strokegr position="top">
+			<strokegr element="禾" variant="true">
+				<strokegr element="丿" position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="木" variant="true" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="氺" variant="true" original="水" position="bottom">
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="占" position="right">
+		<strokegr element="卜" variant="true" original="ト" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

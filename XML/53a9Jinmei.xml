@@ -1,0 +1,32 @@
+<kanji midashi="厩" id="53a9Jinmei">
+<strokegr element="厩">
+	<strokegr element="厂" position="tare" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="既">
+		<strokegr element="艮" variant="true" position="left">
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="旡" variant="true" original="无" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<strokegr element="儿">
+				<strokegr element="八" variant="true">
+					<strokegr element="丿" position="left">
+						<stroke type="㇒"/>
+					</strokegr>
+					<strokegr position="right">
+						<stroke type="㇟"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

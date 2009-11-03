@@ -1,0 +1,32 @@
+<kanji midashi="捲" id="6372Jinmei">
+<strokegr element="捲">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="卷" variant="true" original="巻" position="right">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<strokegr element="二">
+				<strokegr position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="己" position="bottom">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

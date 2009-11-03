@@ -1,0 +1,28 @@
+<kanji midashi="葆" id="8446">
+<strokegr element="葆">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="保" position="bottom">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="呆" position="right">
+			<strokegr element="口" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="木" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

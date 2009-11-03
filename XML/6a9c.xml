@@ -1,0 +1,31 @@
+<kanji midashi="檜" id="6a9c">
+<strokegr element="檜">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="會" position="right">
+		<strokegr position="top">
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

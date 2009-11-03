@@ -1,0 +1,39 @@
+<kanji midashi="酬" id="916c">
+<strokegr element="酬">
+	<strokegr element="酉" position="left" radical="general">
+		<strokegr element="西" part="1" original="襾">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇒"/>
+			<stroke type="㇟a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="西" part="2" original="襾">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="州" position="right" phon="州">
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="川" part="1" variant="true" original="巛">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="川" part="2" variant="true" original="巛">
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="川" variant="true" original="巛">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

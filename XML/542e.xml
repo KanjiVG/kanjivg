@@ -1,0 +1,25 @@
+<kanji midashi="吮" id="542e">
+<strokegr element="吮">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="允" position="right">
+		<strokegr element="厶" position="top">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="儿" position="bottom">
+			<strokegr element="八" variant="true">
+				<strokegr element="丿" position="left">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

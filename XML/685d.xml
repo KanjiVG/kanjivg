@@ -1,0 +1,23 @@
+<kanji midashi="桝" id="685d">
+<strokegr element="桝">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="舛" position="right">
+		<strokegr element="夕" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

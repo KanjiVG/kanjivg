@@ -1,0 +1,25 @@
+<kanji midashi="笈" id="7b08Jinmei">
+<strokegr element="笈">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="及" position="bottom">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="又" variant="true">
+			<stroke type="㇋"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

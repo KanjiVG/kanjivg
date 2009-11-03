@@ -1,0 +1,27 @@
+<kanji midashi="患" id="60a3">
+<strokegr element="患">
+	<strokegr element="串" position="top" phon="串">
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

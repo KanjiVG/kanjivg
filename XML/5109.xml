@@ -1,0 +1,37 @@
+<kanji midashi="儉" id="5109">
+<strokegr element="儉">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="僉" position="right" phon="僉">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

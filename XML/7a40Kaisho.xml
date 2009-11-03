@@ -1,0 +1,40 @@
+<kanji midashi="穀" id="7a40Kaisho">
+<strokegr element="穀">
+	<strokegr position="left">
+		<strokegr position="bottom">
+			<strokegr element="士">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禾" position="top" radical="tradit">
+			<strokegr element="丿" position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="木" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="殳" position="right" radical="nelson">
+		<strokegr element="几" position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇈b"/>
+		</strokegr>
+		<strokegr element="又" position="bottom">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

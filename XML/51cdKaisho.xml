@@ -1,0 +1,28 @@
+<kanji midashi="凍" id="51cdKaisho">
+<strokegr element="凍">
+	<strokegr element="冫" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇀"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="東" position="right">
+		<strokegr element="木" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="日">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="木" part="2">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

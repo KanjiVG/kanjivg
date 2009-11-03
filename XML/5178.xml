@@ -1,0 +1,30 @@
+<kanji midashi="典" id="5178">
+<strokegr element="典">
+	<strokegr element="曲" variant="true" position="top">
+		<strokegr element="日" part="1">
+			<stroke type="㇑a"/>
+			<stroke type="㇕b"/>
+		</strokegr>
+		<strokegr element="廾">
+			<strokegr element="丿" variant="true">
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="十">
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="日" part="2">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="八" position="bottom" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

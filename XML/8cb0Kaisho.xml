@@ -1,0 +1,30 @@
+<kanji midashi="貰" id="8cb0Kaisho">
+<strokegr element="貰">
+	<strokegr element="世" position="top">
+		<strokegr element="廿">
+			<strokegr element="十">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇗"/>
+	</strokegr>
+	<strokegr element="貝" position="bottom" radical="general">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

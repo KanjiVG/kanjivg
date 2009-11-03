@@ -1,0 +1,22 @@
+<kanji midashi="書" id="66f8">
+<strokegr element="書">
+	<strokegr element="聿" position="top" radical="nelson">
+		<strokegr element="⺕" variant="true" original="彑">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="丨">
+			<stroke type="㇑a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="日" position="bottom" radical="tradit" phon="者T">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

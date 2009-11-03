@@ -1,0 +1,21 @@
+<kanji midashi="冊" id="518a">
+<strokegr element="冊">
+	<strokegr element="冂" radical="tradit">
+		<strokegr element="丨" radical="nelson">
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇆a"/>
+	</strokegr>
+	<strokegr element="廾" variant="true">
+		<strokegr element="丿" variant="true">
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="十" part="1" variant="true">
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="十" part="2" variant="true">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

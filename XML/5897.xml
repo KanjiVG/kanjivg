@@ -1,0 +1,28 @@
+<kanji midashi="増" id="5897">
+<strokegr element="増">
+	<strokegr element="土" variant="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="曽" position="right" phon="曽">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<strokegr element="田">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

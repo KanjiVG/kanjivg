@@ -1,0 +1,29 @@
+<kanji midashi="霜" id="971cKaisho">
+<strokegr element="霜">
+	<strokegr element="雨" variant="true" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇔/㇑"/>
+		<stroke type="㇖b/㇆"/>
+		<stroke type="㇑"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="相" position="bottom">
+		<strokegr element="木" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="目" position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

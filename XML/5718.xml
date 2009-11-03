@@ -1,0 +1,32 @@
+<kanji midashi="團" id="5718">
+<strokegr element="團">
+	<strokegr element="囗" part="1" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+	</strokegr>
+	<strokegr element="專">
+		<strokegr position="top">
+			<strokegr element="十" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="十" part="2">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇐"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="寸" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="囗" part="2" radical="general">
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

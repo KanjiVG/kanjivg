@@ -1,0 +1,28 @@
+<kanji midashi="堡" id="5821">
+<strokegr element="堡">
+	<strokegr element="保" position="top">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="呆" position="right">
+			<strokegr element="口" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="木" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

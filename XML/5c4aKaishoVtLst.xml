@@ -1,0 +1,22 @@
+<kanji midashi="届" id="5c4aKaishoVtLst">
+<strokegr element="届">
+	<strokegr element="尸" position="tare" radical="general">
+		<stroke type="㇕c"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="由" variant="true">
+		<strokegr element="田" part="1" partial="true">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+		</strokegr>
+		<strokegr element="田" part="2" partial="true">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

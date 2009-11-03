@@ -1,0 +1,24 @@
+<kanji midashi="秣" id="79e3">
+<strokegr element="秣">
+	<strokegr element="禾" position="left" radical="general">
+		<strokegr element="丿" position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="木" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="末" position="right">
+		<stroke type="㇐"/>
+		<strokegr element="木">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

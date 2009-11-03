@@ -1,0 +1,31 @@
+<kanji midashi="舞" id="821eKaishoHzLst">
+<strokegr element="舞">
+	<strokegr position="top">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="舛" variant="true" position="bottom" radical="general">
+		<strokegr element="夕" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,40 @@
+<kanji midashi="彰" id="5f70">
+<strokegr element="彰">
+	<strokegr element="章" position="left" phon="章">
+		<strokegr element="立" position="top">
+			<strokegr element="亠" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="早" position="bottom">
+			<strokegr element="日">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="彡" position="right" radical="general">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

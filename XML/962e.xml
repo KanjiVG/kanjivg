@@ -1,0 +1,21 @@
+<kanji midashi="阮" id="962e">
+<strokegr element="阮">
+	<strokegr element="⻖" variant="true" original="阜" position="left" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="元" position="right">
+		<strokegr element="二" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="儿" original="八" position="bottom">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

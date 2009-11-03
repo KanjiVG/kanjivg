@@ -1,0 +1,23 @@
+<kanji midashi="玳" id="73b3">
+<strokegr element="玳">
+	<strokegr element="王" original="玉" partial="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="代" position="right">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="弋" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇂"/>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

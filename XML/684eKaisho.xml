@@ -1,0 +1,22 @@
+<kanji midashi="桎" id="684eKaisho">
+<strokegr element="桎">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="至" position="right">
+		<stroke type="㇐"/>
+		<strokegr element="厶">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="土">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

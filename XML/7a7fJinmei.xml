@@ -1,0 +1,27 @@
+<kanji midashi="穿" id="7a7fJinmei">
+<strokegr element="穿">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟a/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="牙" variant="true" position="bottom">
+		<stroke type="㇐"/>
+		<stroke type="㇗"/>
+		<strokegr element="亅">
+			<stroke type="㇚"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

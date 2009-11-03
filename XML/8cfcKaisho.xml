@@ -1,0 +1,49 @@
+<kanji midashi="購" id="8cfcKaisho">
+<strokegr element="購">
+	<strokegr element="貝" position="left" radical="general">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="冓" position="right">
+		<strokegr element="三" part="1" position="top">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<strokegr element="三" part="2">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="再" part="1">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="再" part="2" position="bottom">
+			<strokegr element="冉">
+				<strokegr element="冂">
+					<stroke type="㇑"/>
+					<stroke type="㇆a"/>
+				</strokegr>
+				<strokegr element="土" variant="true">
+					<stroke type="㇑a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

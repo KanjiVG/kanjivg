@@ -1,0 +1,28 @@
+<kanji midashi="暦" id="66a6">
+<strokegr element="暦">
+	<strokegr element="厂" position="tare" radical="nelson" phon="厤V1">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="林" position="top" phon="厤V2">
+		<strokegr element="木" variant="true" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="木" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="日" position="bottom" radical="tradit">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

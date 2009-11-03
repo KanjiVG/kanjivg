@@ -1,0 +1,25 @@
+<kanji midashi="塢" id="5862">
+<strokegr element="塢">
+	<strokegr element="土" variant="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="烏" position="right">
+		<strokegr element="鳥" variant="true">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇆"/>
+			<strokegr element="灬" variant="true" original="火">
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

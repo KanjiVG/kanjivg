@@ -1,0 +1,21 @@
+<kanji midashi="枯" id="67afKaisho">
+<strokegr element="枯">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="古" position="right">
+		<strokegr element="十" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

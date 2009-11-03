@@ -1,0 +1,23 @@
+<kanji midashi="粒" id="7c92Kaisho">
+<strokegr element="粒">
+	<strokegr element="米" variant="true" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="立" position="right">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

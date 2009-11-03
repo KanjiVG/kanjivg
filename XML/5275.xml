@@ -1,0 +1,26 @@
+<kanji midashi="創" id="5275">
+<strokegr element="創">
+	<strokegr element="倉" position="left" phon="倉">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇒"/>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

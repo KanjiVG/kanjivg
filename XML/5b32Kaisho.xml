@@ -1,0 +1,37 @@
+<kanji midashi="嬲" id="5b32Kaisho">
+<strokegr element="嬲">
+	<strokegr element="男" position="right">
+		<strokegr element="田" position="top" radical="nelson">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="力" position="bottom">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="娚" position="left">
+		<strokegr element="女" variant="true" position="left" radical="tradit">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+		<strokegr element="男" position="right">
+			<strokegr element="田" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="力" position="bottom">
+				<stroke type="㇆"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

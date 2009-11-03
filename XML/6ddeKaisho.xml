@@ -1,0 +1,27 @@
+<kanji midashi="淞" id="6ddeKaisho">
+<strokegr element="淞">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="松" position="right">
+		<strokegr element="木" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="公" position="right">
+			<strokegr element="八" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="厶" position="bottom">
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

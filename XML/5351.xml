@@ -1,0 +1,25 @@
+<kanji midashi="卑" id="5351">
+<strokegr element="卑">
+	<strokegr position="top">
+		<strokegr element="丿" radical="nelson">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="田">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="十" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

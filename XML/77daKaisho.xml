@@ -1,0 +1,58 @@
+<kanji midashi="矚" id="77daKaisho">
+<strokegr element="矚">
+	<strokegr element="目" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="屬" position="right">
+		<strokegr element="尸" position="tare">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇑"/>
+		<strokegr element="二">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="二">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="蜀">
+			<strokegr element="罒" variant="true" original="网" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="勹">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇆"/>
+				</strokegr>
+				<strokegr element="虫">
+					<strokegr element="中">
+						<strokegr element="口">
+							<stroke type="㇑"/>
+							<stroke type="㇕b"/>
+							<stroke type="㇐b"/>
+						</strokegr>
+						<strokegr element="丨">
+							<stroke type="㇑a"/>
+						</strokegr>
+					</strokegr>
+					<stroke type="㇀"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

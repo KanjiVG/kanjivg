@@ -1,0 +1,38 @@
+<kanji midashi="桟" id="685fKaisho">
+<strokegr element="桟">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="戔" variant="true" position="right">
+		<strokegr element="三" part="1">
+			<strokegr element="一" position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="一" position="bottom">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="戈">
+				<strokegr element="弋" part="1">
+					<strokegr element="三" part="2">
+						<strokegr element="一">
+							<stroke type="㇐"/>
+						</strokegr>
+					</strokegr>
+					<stroke type="㇂"/>
+				</strokegr>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="弋" part="2">
+					<strokegr element="丶">
+						<stroke type="㇔"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

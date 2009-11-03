@@ -1,0 +1,31 @@
+<kanji midashi="密" id="5bc6Kaisho">
+<strokegr element="密">
+	<strokegr element="宀" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="必">
+			<strokegr element="心" part="1" variant="true">
+				<stroke type="㇔"/>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="心" part="2" variant="true">
+					<stroke type="㇟b"/>
+					<stroke type="㇔"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="山">
+			<stroke type="㇑a"/>
+			<stroke type="㇄a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

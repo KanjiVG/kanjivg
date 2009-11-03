@@ -1,0 +1,30 @@
+<kanji midashi="滷" id="6ef7">
+<strokegr element="滷">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="鹵" position="right">
+		<strokegr element="卜" original="ト" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="囗" part="1">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<strokegr element="囗" part="2">
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

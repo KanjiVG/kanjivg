@@ -1,0 +1,28 @@
+<kanji midashi="朝" id="671d">
+<strokegr element="朝">
+	<strokegr position="left">
+		<strokegr element="十">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="早">
+			<strokegr element="日">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="月" variant="true" original="肉" position="right" radical="general" phon="舟V">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

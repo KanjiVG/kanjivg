@@ -1,0 +1,33 @@
+<kanji midashi="禽" id="79bdKaisho">
+<strokegr element="禽">
+	<strokegr element="人" position="top" radical="nelson">
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="亠">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="凶">
+			<strokegr element="乂">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+			<strokegr element="凵" position="kamae">
+				<stroke type="㇄a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禸" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇆"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,27 @@
+<kanji midashi="茫" id="832b">
+<strokegr element="茫">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="氵" variant="true" original="水" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="亡" position="right">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<strokegr element="匸" part="1" variant="true" original="匚">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="匸" part="2" variant="true" original="匚">
+				<stroke type="㇄a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,47 @@
+<kanji midashi="麟" id="9e9fKaisho">
+<strokegr element="麟">
+	<strokegr element="鹿" position="left" radical="general">
+		<strokegr element="广">
+			<stroke type="㇔/㇑a"/>
+			<strokegr element="厂">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇕"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<strokegr element="比">
+			<stroke type="㇐"/>
+			<stroke type="㇙"/>
+			<strokegr element="匕">
+				<stroke type="㇐"/>
+				<stroke type="㇄"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="米" position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="舛" position="bottom">
+			<strokegr element="夕" position="left">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇐"/>
+				<stroke type="㇄"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

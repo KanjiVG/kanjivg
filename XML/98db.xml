@@ -1,0 +1,27 @@
+<kanji midashi="飛" id="98db">
+<strokegr element="飛" radical="general">
+	<stroke type="㇈a"/>
+	<stroke type="㇒"/>
+	<stroke type="㇔"/>
+	<strokegr element="升" part="1">
+		<strokegr element="十" part="1">
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<strokegr element="廾" part="1">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="升" part="2">
+		<strokegr element="廾">
+			<strokegr element="十">
+				<stroke type="㇈a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<stroke type="㇒"/>
+	<stroke type="㇔"/>
+</strokegr>
+</kanji>

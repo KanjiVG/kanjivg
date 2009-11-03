@@ -1,0 +1,28 @@
+<kanji midashi="擂" id="64c2">
+<strokegr element="擂">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="雷" position="right">
+		<strokegr element="雨" variant="true" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇔/㇑"/>
+			<stroke type="㇖b/㇆"/>
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="田" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

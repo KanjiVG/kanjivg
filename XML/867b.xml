@@ -1,0 +1,29 @@
+<kanji midashi="虻" id="867b">
+<strokegr element="虻">
+	<strokegr element="虫" position="left" radical="general">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="亡" position="right">
+		<strokegr element="亠">
+			<stroke type="㇑a"/>
+			<strokegr element="匸" part="1" variant="true" original="匚">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匸" part="2" variant="true" original="匚">
+			<stroke type="㇄a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

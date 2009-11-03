@@ -1,0 +1,51 @@
+<kanji midashi="蠍" id="880dKaisho">
+<strokegr element="蠍">
+	<strokegr element="虫" position="left" radical="general">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="歇" position="right">
+		<strokegr element="曷" position="left">
+			<strokegr element="日" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="勹">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇆"/>
+				</strokegr>
+				<strokegr element="人">
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+				<stroke type="㇄"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="欠" position="right">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇖a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

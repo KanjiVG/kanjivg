@@ -1,0 +1,23 @@
+<kanji midashi="舶" id="8236">
+<strokegr element="舶">
+	<strokegr element="舟" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="白" position="right" phon="白">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

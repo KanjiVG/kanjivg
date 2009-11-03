@@ -1,0 +1,36 @@
+<kanji midashi="衞" id="885e">
+<strokegr element="衞">
+	<strokegr element="行" part="1" position="kamae" radical="tradit">
+		<strokegr element="彳" position="left" radical="nelson">
+			<stroke type="㇒"/>
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr phon="韋">
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="巾">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="行" part="2" position="kamae" radical="tradit">
+		<strokegr position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

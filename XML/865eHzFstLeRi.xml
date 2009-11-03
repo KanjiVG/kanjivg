@@ -1,0 +1,37 @@
+<kanji midashi="虞" id="865eHzFstLeRi">
+<strokegr element="虞">
+	<strokegr element="虍" position="tare" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇖"/>
+		<strokegr element="七">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇟a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="呉">
+		<strokegr position="top">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇅"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇐"/>
+			<strokegr element="八">
+				<strokegr position="left">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,28 @@
+<kanji midashi="鴦" id="9d26Kaisho">
+<strokegr element="鴦">
+	<strokegr element="央" position="top">
+		<stroke type="㇑a"/>
+		<stroke type="㇕b"/>
+		<strokegr element="大">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="鳥" position="bottom" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,40 @@
+<kanji midashi="蜷" id="8737">
+<strokegr element="蜷">
+	<strokegr element="虫" position="left" radical="general">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="卷" position="right">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+			<strokegr element="二">
+				<strokegr position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="卩" position="bottom">
+			<stroke type="㇆"/>
+			<stroke type="㇟/㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

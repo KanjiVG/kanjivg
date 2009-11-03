@@ -1,0 +1,30 @@
+<kanji midashi="続" id="7d9aKaisho">
+<strokegr element="続">
+	<strokegr element="糸" variant="true" position="left" radical="general">
+		<stroke type="㇜"/>
+		<stroke type="㇜"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="売" position="right">
+		<strokegr element="士" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+			<strokegr element="儿" original="八">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

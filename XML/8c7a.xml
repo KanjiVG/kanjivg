@@ -1,0 +1,22 @@
+<kanji midashi="豺" id="8c7a">
+<strokegr element="豺">
+	<strokegr element="豸" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇕v"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="才" position="right">
+		<strokegr element="扌" variant="true" original="手">
+			<stroke type="㇐"/>
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

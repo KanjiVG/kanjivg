@@ -1,0 +1,28 @@
+<kanji midashi="傅" id="5085Kaisho">
+<strokegr element="傅">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="甫" position="top">
+			<stroke type="㇐"/>
+			<strokegr element="用" variant="true">
+				<stroke type="㇑"/>
+				<stroke type="㇆"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="寸" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

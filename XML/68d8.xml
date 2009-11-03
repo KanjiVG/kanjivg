@@ -1,0 +1,34 @@
+<kanji midashi="棘" id="68d8">
+<strokegr element="棘">
+	<strokegr element="朿" variant="true" position="left">
+		<strokegr element="木" part="1" radical="tradit">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="木" part="2" radical="tradit">
+			<stroke type="㇑"/>
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="朿" position="right">
+		<strokegr element="木" part="1" radical="tradit">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="木" part="2" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

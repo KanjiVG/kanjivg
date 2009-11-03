@@ -1,0 +1,23 @@
+<kanji midashi="視" id="8996Kaisho">
+<strokegr element="視">
+	<strokegr element="礻" variant="true" original="示" position="left" radical="nelson">
+		<stroke type="㇔"/>
+		<stroke type="㇇"/>
+		<stroke type="㇑"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="見" position="right" radical="tradit">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

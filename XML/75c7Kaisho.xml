@@ -1,0 +1,22 @@
+<kanji midashi="症" id="75c7Kaisho">
+<strokegr element="症">
+	<strokegr element="疒" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="正">
+		<stroke type="㇐"/>
+		<strokegr element="止">
+			<strokegr element="卜" original="ト">
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

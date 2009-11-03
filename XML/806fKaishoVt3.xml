@@ -1,0 +1,41 @@
+<kanji midashi="聯" id="806fKaishoVt3">
+<strokegr element="聯">
+	<strokegr element="耳" variant="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr position="top">
+			<strokegr element="幺" position="left">
+				<stroke type="㇜"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="幺" position="right">
+				<stroke type="㇜"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丱" position="bottom">
+			<strokegr position="left">
+				<stroke type="㇄"/>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr position="right">
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

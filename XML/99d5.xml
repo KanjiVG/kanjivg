@@ -1,0 +1,29 @@
+<kanji midashi="駕" id="99d5">
+<strokegr element="駕">
+	<strokegr element="加" position="top">
+		<strokegr element="力" position="left">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="口" position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="馬" position="bottom" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,51 @@
+<kanji midashi="皺" id="76ba">
+<strokegr element="皺">
+	<strokegr element="芻" position="left">
+		<strokegr position="top">
+			<strokegr element="勹">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇆"/>
+			</strokegr>
+			<strokegr element="艸" part="1">
+				<strokegr element="屮">
+					<strokegr element="凵">
+						<stroke type="㇗a"/>
+						<stroke type="㇑"/>
+					</strokegr>
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="勹">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇆"/>
+			</strokegr>
+			<strokegr element="艸" part="2">
+				<strokegr element="屮">
+					<strokegr element="凵">
+						<stroke type="㇗a"/>
+						<stroke type="㇑"/>
+					</strokegr>
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="皮" position="right" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇖b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇇"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

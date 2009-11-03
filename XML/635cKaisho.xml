@@ -1,0 +1,26 @@
+<kanji midashi="捜" id="635cKaisho">
+<strokegr element="捜">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="叟" partial="true" position="right">
+		<strokegr element="申" position="top">
+			<strokegr element="田" original="臼" partial="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="又" position="bottom">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,27 @@
+<kanji midashi="羚" id="7f9a">
+<strokegr element="羚">
+	<strokegr element="羊" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="令" position="right">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="卩" original="マ">
+				<stroke type="㇆"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

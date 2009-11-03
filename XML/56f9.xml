@@ -1,0 +1,26 @@
+<kanji midashi="囹" id="56f9">
+<strokegr element="囹">
+	<strokegr element="囗" part="1" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+	</strokegr>
+	<strokegr element="令">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="卩" original="マ">
+				<stroke type="㇆"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="囗" part="2" radical="general">
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

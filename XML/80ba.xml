@@ -1,0 +1,21 @@
+<kanji midashi="肺" id="80ba">
+<strokegr element="肺">
+	<strokegr element="月" variant="true" original="肉" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="市" position="right" phon="朮V/市">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="巾" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

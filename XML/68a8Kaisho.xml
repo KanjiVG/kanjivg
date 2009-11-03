@@ -1,0 +1,27 @@
+<kanji midashi="梨" id="68a8Kaisho">
+<strokegr element="梨">
+	<strokegr element="利" position="top">
+		<strokegr element="禾" position="left">
+			<strokegr element="丿" position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="木" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="刂" variant="true" original="刀" position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="木" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

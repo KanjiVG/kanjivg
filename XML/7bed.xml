@@ -1,0 +1,38 @@
+<kanji midashi="篭" id="7bed">
+<strokegr element="篭">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="竜" position="bottom">
+		<strokegr element="龍" variant="true">
+			<strokegr element="立" position="top">
+				<strokegr element="亠" position="top">
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇔"/>
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

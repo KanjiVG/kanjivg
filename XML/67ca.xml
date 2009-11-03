@@ -1,0 +1,25 @@
+<kanji midashi="柊" id="67ca">
+<strokegr element="柊">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="冬" position="right">
+		<strokegr element="夂" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="冫" position="bottom">
+			<strokegr position="top">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇀"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

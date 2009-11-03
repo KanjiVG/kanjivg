@@ -1,0 +1,49 @@
+<kanji midashi="羸" id="7fb8Kaisho">
+<strokegr element="羸">
+	<strokegr position="top">
+		<strokegr element="亡" position="top">
+			<strokegr element="亠" radical="nelson">
+				<stroke type="㇑a"/>
+				<strokegr element="匸" part="1" variant="true" original="匚">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="匸" part="2" variant="true" original="匚">
+				<stroke type="㇄"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="月">
+			<stroke type="㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="羊" radical="tradit">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="凡" variant="true">
+			<strokegr element="几">
+				<strokegr element="丿" variant="true">
+					<stroke type="㇐/㇒"/>
+				</strokegr>
+				<stroke type="㇈"/>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

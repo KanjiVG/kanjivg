@@ -1,0 +1,22 @@
+<kanji midashi="国" id="56fd">
+<strokegr element="国">
+	<strokegr element="囗" part="1" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+	</strokegr>
+	<strokegr element="玉" phon="或V">
+		<strokegr element="王" original="玉" partial="true">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="囗" part="2" radical="general">
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

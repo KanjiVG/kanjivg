@@ -1,0 +1,36 @@
+<kanji midashi="滸" id="6ef8">
+<strokegr element="滸">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="許" position="right">
+		<strokegr element="言" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="午" position="right">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<strokegr element="干" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="干" part="2" position="bottom">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

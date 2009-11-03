@@ -1,0 +1,18 @@
+<kanji midashi="卞" id="535e">
+<strokegr element="卞">
+	<strokegr element="亠" position="top">
+		<stroke type="㇑a"/>
+		<strokegr element="下" part="1">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="下" part="2" position="bottom">
+		<strokegr element="卜" variant="true" original="ト" radical="general">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

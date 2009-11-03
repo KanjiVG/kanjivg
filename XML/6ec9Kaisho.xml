@@ -1,0 +1,35 @@
+<kanji midashi="滉" id="6ec9Kaisho">
+<strokegr element="滉">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="晃" position="right">
+		<strokegr element="日" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="光" position="bottom">
+			<strokegr element="⺌" variant="true" original="小" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="兀" position="bottom">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="儿" original="八">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,24 @@
+<kanji midashi="拒" id="62d2">
+<strokegr element="拒">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="巨" position="right" phon="巨">
+		<strokegr element="匚" part="1" variant="true">
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="二" part="1">
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+		<strokegr element="二" part="2">
+			<strokegr element="匚" part="2" variant="true">
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

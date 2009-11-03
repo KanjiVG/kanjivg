@@ -1,0 +1,48 @@
+<kanji midashi="歌" id="6b4c">
+<strokegr element="歌">
+	<strokegr position="left">
+		<strokegr element="哥" position="top" phon="哥">
+			<strokegr element="可">
+				<strokegr element="丁" part="1">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丁" part="2" position="bottom">
+				<strokegr element="亅" variant="true">
+					<stroke type="㇑/㇚"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="可">
+				<strokegr element="丁" part="1">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<strokegr element="丁" part="2">
+					<strokegr element="亅">
+						<stroke type="㇚"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="欠" position="right" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇖"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,26 @@
+<kanji midashi="嗹" id="55f9Kaisho">
+<strokegr element="嗹">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="連" variant="true" position="right">
+		<strokegr element="車">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="辶" position="nyo">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇋"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

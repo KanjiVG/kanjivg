@@ -1,0 +1,26 @@
+<kanji midashi="雄" id="96c4">
+<strokegr element="雄">
+	<strokegr element="厷" position="left" phon="厷">
+		<stroke type="㇐"/>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="厶">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="隹" position="right" radical="general">
+		<strokegr element="亻" variant="true" original="人">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+</strokegr>
+</kanji>

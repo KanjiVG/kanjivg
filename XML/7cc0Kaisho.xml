@@ -1,0 +1,29 @@
+<kanji midashi="糀" id="7cc0Kaisho">
+<strokegr element="糀">
+	<strokegr element="米" variant="true" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="花" position="right">
+		<strokegr element="艹" variant="true" original="艸" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="化" position="bottom">
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="匕">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

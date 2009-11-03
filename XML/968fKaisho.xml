@@ -1,0 +1,30 @@
+<kanji midashi="随" id="968fKaisho">
+<strokegr element="随">
+	<strokegr element="陏" part="1" position="left">
+		<strokegr element="⻖" variant="true" original="阜" radical="general">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="陏" part="2">
+			<strokegr element="有">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+				<strokegr element="月">
+					<stroke type="㇒"/>
+					<stroke type="㇆a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="⻌" original="辶">
+			<stroke type="㇔"/>
+			<stroke type="㇋"/>
+			<stroke type="㇏a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

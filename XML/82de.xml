@@ -1,0 +1,24 @@
+<kanji midashi="苞" id="82de">
+<strokegr element="苞">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="包" position="bottom">
+		<strokegr element="勹">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇆"/>
+		</strokegr>
+		<strokegr element="巳">
+			<strokegr element="己" variant="true">
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

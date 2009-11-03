@@ -1,0 +1,47 @@
+<kanji midashi="攜" id="651c">
+<strokegr element="攜">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="崔" position="top">
+			<strokegr element="山" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇄a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="隹" position="bottom">
+				<strokegr element="亻" variant="true" original="人">
+					<stroke type="㇒"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇒"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="冏" position="bottom">
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<strokegr element="儿" variant="true" original="八">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇟"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

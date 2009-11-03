@@ -1,0 +1,25 @@
+<kanji midashi="痰" id="75f0">
+<strokegr element="痰">
+	<strokegr element="疒" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="炎">
+		<strokegr element="火" position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="火" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

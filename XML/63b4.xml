@@ -1,0 +1,29 @@
+<kanji midashi="掴" id="63b4">
+<strokegr element="掴">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="国" position="right">
+		<strokegr element="囗" part="1">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+		</strokegr>
+		<strokegr element="玉">
+			<strokegr element="王" original="玉" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="囗" part="2">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

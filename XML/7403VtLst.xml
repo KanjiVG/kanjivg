@@ -1,0 +1,23 @@
+<kanji midashi="球" id="7403VtLst">
+<strokegr element="球">
+	<strokegr element="王" original="玉" partial="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="求" position="right">
+		<stroke type="㇐"/>
+		<strokegr element="氺" variant="true" original="水">
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

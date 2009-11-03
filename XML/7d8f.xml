@@ -1,0 +1,25 @@
+<kanji midashi="綏" id="7d8f">
+<strokegr element="綏">
+	<strokegr element="糸" position="left" radical="general">
+		<stroke type="㇜"/>
+		<stroke type="㇜"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="妥" variant="true" position="right">
+		<strokegr element="⺤" original="爪" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="女" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

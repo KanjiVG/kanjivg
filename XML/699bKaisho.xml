@@ -1,0 +1,46 @@
+<kanji midashi="榛" id="699bKaisho">
+<strokegr element="榛">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="秦" position="right">
+		<strokegr position="top">
+			<strokegr element="三">
+				<strokegr element="一" position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr element="大" part="1">
+						<strokegr element="一">
+							<stroke type="㇐"/>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+			<strokegr element="大" part="2">
+				<strokegr element="人">
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禾" position="bottom">
+			<strokegr element="丿" position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="木" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,30 @@
+<kanji midashi="蚋" id="868b">
+<strokegr element="蚋">
+	<strokegr element="虫" position="left" radical="general">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="内" variant="true" position="right">
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="人" variant="true">
+			<strokegr element="入">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

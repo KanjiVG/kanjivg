@@ -1,0 +1,25 @@
+<kanji midashi="屍" id="5c4d">
+<strokegr element="屍">
+	<strokegr element="尸" position="tare" radical="general">
+		<stroke type="㇕c"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="死">
+		<strokegr element="歹">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="夕">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匕">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

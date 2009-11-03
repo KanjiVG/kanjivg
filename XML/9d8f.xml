@@ -1,0 +1,35 @@
+<kanji midashi="鶏" id="9d8f">
+<strokegr element="鶏">
+	<strokegr element="奚" variant="true" position="left" phon="奚V">
+		<strokegr element="⺤" variant="true" original="爪">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="夫">
+			<stroke type="㇐"/>
+			<strokegr element="大">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="鳥" position="right" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

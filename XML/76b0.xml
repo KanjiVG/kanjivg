@@ -1,0 +1,26 @@
+<kanji midashi="皰" id="76b0">
+<strokegr element="皰">
+	<strokegr element="皮" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇖"/>
+		<stroke type="㇑"/>
+		<stroke type="㇇"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="包" position="right">
+		<strokegr element="勹">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇆"/>
+		</strokegr>
+		<strokegr element="巳">
+			<strokegr element="己" variant="true">
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,24 @@
+<kanji midashi="酎" id="914e">
+<strokegr element="酎">
+	<strokegr element="酉" position="left" radical="general">
+		<strokegr element="西" part="1" original="襾">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇒"/>
+			<stroke type="㇟a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="西" part="2" original="襾">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="寸" position="right">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

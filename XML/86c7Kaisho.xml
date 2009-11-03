@@ -1,0 +1,31 @@
+<kanji midashi="蛇" id="86c7Kaisho">
+<strokegr element="蛇">
+	<strokegr element="虫" position="left" radical="general">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="它" position="right" phon="也/它">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匕" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

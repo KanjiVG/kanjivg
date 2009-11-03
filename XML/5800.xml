@@ -1,0 +1,27 @@
+<kanji midashi="堀" id="5800">
+<strokegr element="堀">
+	<strokegr element="土" variant="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="屈" position="right" phon="屈">
+		<strokegr element="尸" position="tare">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="出">
+			<strokegr element="山">
+				<stroke type="㇑a"/>
+				<stroke type="㇄a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="凵">
+				<stroke type="㇄a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

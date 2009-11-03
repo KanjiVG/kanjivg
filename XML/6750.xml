@@ -1,0 +1,19 @@
+<kanji midashi="材" id="6750">
+<strokegr element="材">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="才" position="right" phon="才">
+		<strokegr element="扌" variant="true" original="手">
+			<stroke type="㇐"/>
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

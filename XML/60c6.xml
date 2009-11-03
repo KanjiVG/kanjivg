@@ -1,0 +1,27 @@
+<kanji midashi="惆" id="60c6">
+<strokegr element="惆">
+	<strokegr element="忄" variant="true" original="心" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="周" variant="true" position="right">
+		<strokegr element="冂" variant="true">
+			<stroke type="㇒/㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="吉" variant="true">
+			<strokegr element="士" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

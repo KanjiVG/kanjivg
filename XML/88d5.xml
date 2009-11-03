@@ -1,0 +1,26 @@
+<kanji midashi="裕" id="88d5">
+<strokegr element="裕">
+	<strokegr element="衤" variant="true" original="衣" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇇"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="谷" position="right" phon="谷">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

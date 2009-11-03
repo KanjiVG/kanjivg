@@ -1,0 +1,49 @@
+<kanji midashi="蟄" id="87c4">
+<strokegr element="蟄">
+	<strokegr element="執" position="top">
+		<strokegr element="幸" position="left">
+			<strokegr position="top">
+				<strokegr element="土">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="干" position="bottom">
+				<stroke type="㇐"/>
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丸" position="right">
+			<strokegr element="九">
+				<stroke type="㇒"/>
+				<strokegr element="乙">
+					<stroke type="㇈"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="虫" position="bottom" radical="general">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

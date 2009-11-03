@@ -1,0 +1,20 @@
+<kanji midashi="泥" id="6ce5">
+<strokegr element="泥">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="尼" position="right" phon="尼">
+		<strokegr element="尸" position="tare">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="匕">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

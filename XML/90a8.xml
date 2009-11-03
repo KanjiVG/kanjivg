@@ -1,0 +1,23 @@
+<kanji midashi="邨" id="90a8">
+<strokegr element="邨">
+	<strokegr element="屯" position="left">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="屮" variant="true">
+			<strokegr element="凵">
+				<stroke type="㇗a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="丿" variant="true">
+				<stroke type="㇙"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻏" variant="true" original="邑" position="right" radical="tradit">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

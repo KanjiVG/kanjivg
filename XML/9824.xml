@@ -1,0 +1,35 @@
+<kanji midashi="頤" id="9824">
+<strokegr element="頤">
+	<strokegr position="left">
+		<strokegr element="匚" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇉"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<strokegr element="匚" part="2">
+			<stroke type="㇗"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="頁" position="right" radical="general">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="貝" position="bottom">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,33 @@
+<kanji midashi="嵩" id="5d69Kaisho">
+<strokegr element="嵩">
+	<strokegr element="山" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="高" position="bottom">
+		<strokegr position="top">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

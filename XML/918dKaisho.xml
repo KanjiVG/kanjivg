@@ -1,0 +1,38 @@
+<kanji midashi="醍" id="918dKaisho">
+<strokegr element="醍">
+	<strokegr element="酉" position="left" radical="general">
+		<strokegr element="西" part="1" original="襾">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇒"/>
+			<stroke type="㇟a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="西" part="2" original="襾">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="是" position="right">
+		<strokegr element="日" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="疋" variant="true" position="bottom">
+			<stroke type="㇐"/>
+			<strokegr element="卜" original="ト">
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

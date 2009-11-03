@@ -1,0 +1,26 @@
+<kanji midashi="壺" id="58fa">
+<strokegr element="壺">
+	<strokegr element="士" variant="true" original="土" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="亞" variant="true" position="bottom">
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<strokegr element="二" part="1" variant="true">
+				<stroke type="㇖"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<stroke type="㇅"/>
+		<stroke type="㇅"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<strokegr element="二" part="2" variant="true">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

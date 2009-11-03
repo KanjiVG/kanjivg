@@ -1,0 +1,31 @@
+<kanji midashi="嗅" id="55c5Kaisho">
+<strokegr element="嗅">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="臭" variant="true" position="right">
+		<strokegr element="自" position="top">
+			<stroke type="㇒"/>
+			<strokegr element="目">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="犬" position="bottom">
+			<strokegr element="大">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

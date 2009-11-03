@@ -1,0 +1,27 @@
+<kanji midashi="胚" id="80daKaisho">
+<strokegr element="胚">
+	<strokegr element="月" variant="true" original="肉" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="丕" position="right">
+		<strokegr element="不" position="top">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="一" position="bottom">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

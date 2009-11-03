@@ -1,0 +1,39 @@
+<kanji midashi="竈" id="7ac8">
+<strokegr element="竈">
+	<strokegr position="top">
+		<strokegr element="穴" variant="true" radical="general">
+			<strokegr element="宀" position="top">
+				<stroke type="㇑a"/>
+				<strokegr element="冖">
+					<stroke type="㇔"/>
+					<stroke type="㇖b"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="八" variant="true" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇟/㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="土">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="黽" position="bottom">
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇟"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

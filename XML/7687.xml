@@ -1,0 +1,21 @@
+<kanji midashi="皇" id="7687">
+<strokegr element="皇">
+	<strokegr element="白" position="top" radical="general">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="王" original="玉" partial="true" position="bottom" phon="王">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

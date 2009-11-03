@@ -1,0 +1,34 @@
+<kanji midashi="隧" id="96a7">
+<strokegr element="隧">
+	<strokegr element="⻖" variant="true" original="阜" position="left" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="遂" variant="true" position="right">
+		<strokegr element="八">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="豕">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇕v"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="辶" position="nyo">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇋"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

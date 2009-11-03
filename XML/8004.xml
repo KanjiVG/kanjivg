@@ -1,0 +1,24 @@
+<kanji midashi="耄" id="8004">
+<strokegr element="耄">
+	<strokegr element="老" position="top" radical="general">
+		<strokegr element="耂" original="老" partial="true">
+			<strokegr element="土">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="匕">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="毛" position="bottom">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇟"/>
+	</strokegr>
+</strokegr>
+</kanji>

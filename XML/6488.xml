@@ -1,0 +1,33 @@
+<kanji midashi="撈" id="6488">
+<strokegr element="撈">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="勞" position="right">
+		<strokegr position="top">
+			<strokegr element="火">
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="火">
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="力" position="bottom">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

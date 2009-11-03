@@ -1,0 +1,40 @@
+<kanji midashi="醤" id="91a4Jinmei">
+<strokegr element="醤">
+	<strokegr element="將" position="top">
+		<strokegr element="爿" position="left">
+			<stroke type="㇄"/>
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="月" variant="true" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="寸" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇚"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="酉" position="bottom" radical="general">
+		<strokegr element="西" part="1" original="襾">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇒"/>
+			<stroke type="㇟a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="西" part="2" original="襾">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

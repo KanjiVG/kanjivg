@@ -1,0 +1,30 @@
+<kanji midashi="筐" id="7b50">
+<strokegr element="筐">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="匡" position="bottom">
+		<strokegr element="匚" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="王" original="玉" partial="true">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="匚" part="2">
+			<stroke type="㇗"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

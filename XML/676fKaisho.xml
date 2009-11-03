@@ -1,0 +1,22 @@
+<kanji midashi="杯" id="676fKaisho">
+<strokegr element="杯">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="不" position="right">
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丨">
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

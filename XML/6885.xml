@@ -1,0 +1,24 @@
+<kanji midashi="梅" id="6885">
+<strokegr element="梅">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="毎" position="right" phon="毎">
+		<strokegr position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="毋" original="母" partial="true" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇆"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

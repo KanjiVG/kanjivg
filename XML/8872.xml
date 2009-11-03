@@ -1,0 +1,23 @@
+<kanji midashi="衲" id="8872">
+<strokegr element="衲">
+	<strokegr element="衤" variant="true" original="衣" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇇"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="内" variant="true" position="right">
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="人" variant="true">
+			<strokegr element="入">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

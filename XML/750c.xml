@@ -1,0 +1,40 @@
+<kanji midashi="甌" id="750c">
+<strokegr element="甌">
+	<strokegr element="區" position="left">
+		<strokegr element="匚" part="1" position="kamae">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="品">
+			<strokegr element="口" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="口" position="left">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<strokegr element="口" position="right">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匚" part="2" position="kamae">
+			<stroke type="㇗"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="瓦" position="right" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇀"/>
+		<stroke type="㇈"/>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,23 @@
+<kanji midashi="埜" id="57dc">
+<strokegr element="埜">
+	<strokegr element="林" position="top">
+		<strokegr element="木" variant="true" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="木" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

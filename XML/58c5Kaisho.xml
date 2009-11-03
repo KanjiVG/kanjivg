@@ -1,0 +1,34 @@
+<kanji midashi="壅" id="58c5Kaisho">
+<strokegr element="壅">
+	<strokegr element="雍" position="top">
+		<strokegr element="亠" position="top" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="幺" position="left">
+				<stroke type="㇜"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="隹" position="right">
+				<strokegr element="亻" variant="true" original="人">
+					<stroke type="㇒"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇒"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

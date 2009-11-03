@@ -1,0 +1,50 @@
+<kanji midashi="龕" id="9f95Kaisho">
+<strokegr element="龕">
+	<strokegr element="合" position="top">
+		<strokegr position="top">
+			<strokegr element="人" radical="nelson">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="龍" position="bottom" radical="tradit">
+		<strokegr position="left">
+			<strokegr element="立" position="top">
+				<strokegr element="亠" position="top">
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇔"/>
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="月" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇅"/>
+			<stroke type="㇐"/>
+			<stroke type="㇟"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

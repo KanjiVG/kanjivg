@@ -1,0 +1,23 @@
+<kanji midashi="現" id="73fe">
+<strokegr element="現">
+	<strokegr element="王" original="玉" partial="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="見" position="right" phon="見">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

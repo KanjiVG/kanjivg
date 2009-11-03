@@ -1,0 +1,43 @@
+<kanji midashi="廠" id="5ee0">
+<strokegr element="廠">
+	<strokegr element="广" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="敞">
+		<strokegr element="尚" variant="true" position="left">
+			<strokegr element="⺌" variant="true" original="小" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="冂">
+					<stroke type="㇑"/>
+					<stroke type="㇆a"/>
+				</strokegr>
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="攵" variant="true" original="攴" position="right">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="乂" position="bottom">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

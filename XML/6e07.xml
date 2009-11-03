@@ -1,0 +1,31 @@
+<kanji midashi="渇" id="6e07">
+<strokegr element="渇">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="曷" variant="true" position="right" phon="曷">
+		<strokegr element="日" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="匂" position="bottom">
+			<strokegr element="勹">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇆"/>
+			</strokegr>
+			<strokegr element="人">
+				<strokegr element="匕">
+					<stroke type="㇒"/>
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

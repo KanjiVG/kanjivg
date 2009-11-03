@@ -1,0 +1,49 @@
+<kanji midashi="髏" id="9acfKaishoHzFst">
+<strokegr element="髏">
+	<strokegr element="骨" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇖"/>
+		</strokegr>
+		<strokegr element="月" position="bottom">
+			<stroke type="㇑/㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="婁" position="right">
+		<strokegr position="top">
+			<strokegr element="串" part="1">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇐"/>
+			<strokegr element="串" part="2">
+				<stroke type="㇐"/>
+				<strokegr element="中">
+					<strokegr element="口">
+						<stroke type="㇑"/>
+						<stroke type="㇕b"/>
+						<stroke type="㇐b"/>
+					</strokegr>
+					<strokegr element="丨">
+						<stroke type="㇑"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="女" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

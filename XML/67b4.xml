@@ -1,0 +1,21 @@
+<kanji midashi="枴" id="67b4">
+<strokegr element="枴">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="口" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="刀" position="bottom">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

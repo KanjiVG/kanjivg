@@ -1,0 +1,23 @@
+<kanji midashi="婪" id="5a6a">
+<strokegr element="婪">
+	<strokegr element="林" position="top">
+		<strokegr element="木" variant="true" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="木" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="女" position="bottom" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,37 @@
+<kanji midashi="廟" id="5edfKaisho">
+<strokegr element="廟">
+	<strokegr element="广" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="朝">
+		<strokegr position="left">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="早">
+				<strokegr element="日">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="月" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,29 @@
+<kanji midashi="型" id="578b">
+<strokegr element="型">
+	<strokegr element="刑" position="top" phon="刑">
+		<strokegr element="幵" partial="true">
+			<strokegr element="干">
+				<stroke type="㇐"/>
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇒/㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="干" partial="true">
+				<strokegr element="十" partial="true">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="刂" variant="true" original="刀">
+			<stroke type="㇑"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

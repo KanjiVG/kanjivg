@@ -1,0 +1,21 @@
+<kanji midashi="炭" id="70ad">
+<strokegr element="炭">
+	<strokegr element="山" position="top" radical="nelson">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="灰" position="bottom">
+		<strokegr element="厂" position="tare">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="火" radical="tradit">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

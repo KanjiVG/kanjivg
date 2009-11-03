@@ -1,0 +1,44 @@
+<kanji midashi="癜" id="765cKaisho">
+<strokegr element="癜">
+	<strokegr element="疒" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="殿">
+		<strokegr position="left">
+			<strokegr element="尸" position="tare">
+				<stroke type="㇕c"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="共">
+				<strokegr position="top">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="八" position="bottom">
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="殳" position="right">
+			<strokegr element="几" position="top">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇈b"/>
+			</strokegr>
+			<strokegr element="又" position="bottom">
+				<stroke type="㇇"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

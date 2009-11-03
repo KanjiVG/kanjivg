@@ -1,0 +1,22 @@
+<kanji midashi="特" id="7279">
+<strokegr element="特">
+	<strokegr element="牛" variant="true" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="寺" position="right" phon="寺">
+		<strokegr element="土" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="寸" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

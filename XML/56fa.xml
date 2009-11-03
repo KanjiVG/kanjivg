@@ -1,0 +1,22 @@
+<kanji midashi="固" id="56fa">
+<strokegr element="固">
+	<strokegr element="囗" part="1" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+	</strokegr>
+	<strokegr element="古" phon="古">
+		<strokegr element="十" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="囗" part="2" radical="general">
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

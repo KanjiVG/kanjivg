@@ -1,0 +1,28 @@
+<kanji midashi="蚕" id="8695">
+<strokegr element="蚕">
+	<strokegr element="天" position="top" phon="天">
+		<strokegr element="一" radical="nelson">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="大">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="虫" position="bottom" radical="tradit">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

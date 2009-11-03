@@ -1,0 +1,35 @@
+<kanji midashi="舖" id="8216">
+<strokegr element="舖">
+	<strokegr element="舍" position="left">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="舌" variant="true" position="bottom" radical="general">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="甫" position="right" phon="甫">
+		<stroke type="㇐"/>
+		<strokegr element="用" variant="true">
+			<stroke type="㇑"/>
+			<stroke type="㇆"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

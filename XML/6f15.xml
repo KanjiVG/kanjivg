@@ -1,0 +1,40 @@
+<kanji midashi="漕" id="6f15">
+<strokegr element="漕">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="曹" position="right">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<strokegr element="曲">
+				<strokegr element="日" part="1">
+					<stroke type="㇑"/>
+					<stroke type="㇕"/>
+				</strokegr>
+				<strokegr element="廾" variant="true">
+					<strokegr element="丿" variant="true">
+						<strokegr element="十" part="1">
+							<stroke type="㇑"/>
+						</strokegr>
+					</strokegr>
+					<stroke type="㇑"/>
+					<strokegr element="日" part="2">
+						<strokegr element="十" part="2">
+							<stroke type="㇐"/>
+						</strokegr>
+					</strokegr>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

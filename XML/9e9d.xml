@@ -1,0 +1,41 @@
+<kanji midashi="麝" id="9e9d">
+<strokegr element="麝">
+	<strokegr element="鹿" position="top" radical="general">
+		<strokegr element="广">
+			<stroke type="㇑a"/>
+			<strokegr element="厂">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇕"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<strokegr element="比">
+			<stroke type="㇐"/>
+			<stroke type="㇙"/>
+			<strokegr element="匕">
+				<stroke type="㇐"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="射" position="bottom">
+		<strokegr element="身" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇀"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="寸" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

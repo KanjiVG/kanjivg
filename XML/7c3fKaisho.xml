@@ -1,0 +1,43 @@
+<kanji midashi="簿" id="7c3fKaisho">
+<strokegr element="簿">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="溥" position="bottom">
+		<strokegr element="氵" variant="true" original="水" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="甫" position="top">
+				<stroke type="㇐"/>
+				<strokegr element="用" variant="true">
+					<stroke type="㇑"/>
+					<stroke type="㇆"/>
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<strokegr element="丶">
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="寸" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇚"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

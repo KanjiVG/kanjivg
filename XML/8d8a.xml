@@ -1,0 +1,38 @@
+<kanji midashi="越" id="8d8a">
+<strokegr element="越">
+	<strokegr element="走" radical="general">
+		<strokegr element="土" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑a"/>
+			<stroke type="㇐c"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="戉" phon="戉">
+		<strokegr element="厂" part="1" variant="true">
+			<stroke type="㇙"/>
+		</strokegr>
+		<strokegr element="戈">
+			<strokegr element="弋" part="1">
+				<strokegr element="厂" part="2" variant="true">
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇂"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="弋" part="2">
+				<strokegr element="丶">
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

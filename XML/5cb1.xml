@@ -1,0 +1,22 @@
+<kanji midashi="岱" id="5cb1">
+<strokegr element="岱">
+	<strokegr element="代" position="top">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="弋" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇂"/>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="山" position="bottom" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

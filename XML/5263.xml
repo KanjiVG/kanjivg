@@ -1,0 +1,28 @@
+<kanji midashi="剣" id="5263">
+<strokegr element="剣">
+	<strokegr element="僉" partial="true" position="left" phon="僉V">
+		<strokegr element="人" variant="true" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

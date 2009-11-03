@@ -1,0 +1,36 @@
+<kanji midashi="豐" id="8c50">
+<strokegr element="豐">
+	<strokegr position="top">
+		<strokegr element="山" part="1">
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<strokegr element="山" part="2">
+			<stroke type="㇄"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="豆" position="bottom" radical="general">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,34 @@
+<kanji midashi="羂" id="7f82">
+<strokegr element="羂">
+	<strokegr element="罒" variant="true" original="网" position="top" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="絹" position="bottom">
+		<strokegr element="糸" position="left">
+			<stroke type="㇜"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="口" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="月" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

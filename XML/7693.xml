@@ -1,0 +1,28 @@
+<kanji midashi="皓" id="7693">
+<strokegr element="皓">
+	<strokegr position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="告" position="right">
+		<strokegr element="牛" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

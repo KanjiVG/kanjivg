@@ -1,0 +1,39 @@
+<kanji midashi="燬" id="71ecHzFst">
+<strokegr element="燬">
+	<strokegr element="火" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="毀" position="right">
+		<strokegr position="left">
+			<strokegr element="臼" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="土" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="殳" position="right">
+			<strokegr element="几" position="top">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇈b"/>
+			</strokegr>
+			<strokegr element="又" position="bottom">
+				<stroke type="㇇"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

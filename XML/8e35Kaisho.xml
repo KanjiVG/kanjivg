@@ -1,0 +1,38 @@
+<kanji midashi="踵" id="8e35Kaisho">
+<strokegr element="踵">
+	<strokegr element="足" position="left" radical="general">
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇏"/>
+	</strokegr>
+	<strokegr element="重" position="right">
+		<strokegr element="千" part="1">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="十" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="里">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<strokegr element="千" part="2">
+				<strokegr element="十" part="2">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

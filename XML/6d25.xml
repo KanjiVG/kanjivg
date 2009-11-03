@@ -1,0 +1,21 @@
+<kanji midashi="津" id="6d25">
+<strokegr element="津">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="聿" position="right" phon="聿">
+		<strokegr element="⺕" variant="true" original="彑">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="丨">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

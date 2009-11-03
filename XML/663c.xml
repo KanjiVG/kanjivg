@@ -1,0 +1,27 @@
+<kanji midashi="昼" id="663c">
+<strokegr element="昼">
+	<strokegr element="尺">
+		<strokegr element="尸">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<strokegr element="八" part="1">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" part="2">
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="旦">
+		<strokegr element="日" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="一" radical="nelson">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

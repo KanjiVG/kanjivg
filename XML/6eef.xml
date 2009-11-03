@@ -1,0 +1,34 @@
+<kanji midashi="滯" id="6eef">
+<strokegr element="滯">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="帶" position="right">
+		<strokegr position="top">
+			<strokegr element="廿">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇄"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+			<strokegr element="巾">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

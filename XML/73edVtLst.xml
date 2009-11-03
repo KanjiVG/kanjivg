@@ -1,0 +1,22 @@
+<kanji midashi="班" id="73edVtLst">
+<strokegr element="班">
+	<strokegr element="王" original="玉" partial="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="刂" variant="true" original="刀">
+			<stroke type="㇑"/>
+			<stroke type="㇚"/>
+		</strokegr>
+		<strokegr element="王" original="玉" partial="true" radical="general">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

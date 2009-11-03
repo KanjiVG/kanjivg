@@ -1,0 +1,22 @@
+<kanji midashi="亘" id="4e98Kaisho">
+<strokegr element="亘">
+	<strokegr element="二" part="1" position="top" radical="tradit">
+		<strokegr element="一" radical="nelson">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="旦" position="bottom">
+		<strokegr element="日" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="二" part="2" position="bottom" radical="tradit">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

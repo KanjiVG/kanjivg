@@ -1,0 +1,33 @@
+<kanji midashi="稷" id="7a37Kaisho">
+<strokegr element="稷">
+	<strokegr element="禾" position="left" radical="general">
+		<strokegr element="丿" position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="木" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr position="top">
+			<strokegr element="田">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇄"/>
+		</strokegr>
+		<strokegr element="夂" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

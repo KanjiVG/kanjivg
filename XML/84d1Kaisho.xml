@@ -1,0 +1,33 @@
+<kanji midashi="蓑" id="84d1Kaisho">
+<strokegr element="蓑">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="衰" position="bottom">
+		<strokegr element="衣" part="1" position="top">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="口" part="1">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+			</strokegr>
+			<stroke type="㇐"/>
+			<strokegr element="口" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="衣" part="2">
+				<stroke type="㇒"/>
+				<stroke type="㇙"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

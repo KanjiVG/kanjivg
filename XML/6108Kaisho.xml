@@ -1,0 +1,31 @@
+<kanji midashi="愈" id="6108Kaisho">
+<strokegr element="愈">
+	<strokegr element="兪" variant="true" position="top">
+		<strokegr element="入" original="人" position="top" radical="nelson">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="月">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="刂" variant="true" original="刀">
+				<stroke type="㇑"/>
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

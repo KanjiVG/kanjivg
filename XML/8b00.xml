@@ -1,0 +1,36 @@
+<kanji midashi="謀" id="8b00">
+<strokegr element="謀">
+	<strokegr element="言" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="某" position="right" phon="某">
+		<strokegr element="甘" position="top">
+			<strokegr element="廿" part="1">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇐a"/>
+			<strokegr element="廿" part="2">
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="木" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

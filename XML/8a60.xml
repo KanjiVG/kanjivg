@@ -1,0 +1,26 @@
+<kanji midashi="詠" id="8a60">
+<strokegr element="詠">
+	<strokegr element="言" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="永" position="right" phon="永">
+		<strokegr element="丶" position="top">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="水" variant="true" position="bottom">
+			<stroke type="㇆"/>
+			<stroke type="㇇"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

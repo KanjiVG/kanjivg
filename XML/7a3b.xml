@@ -1,0 +1,31 @@
+<kanji midashi="稻" id="7a3b">
+<strokegr element="稻">
+	<strokegr element="禾" position="left" radical="general">
+		<strokegr element="丿" position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="木" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="⺤" variant="true" original="爪" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="臼" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

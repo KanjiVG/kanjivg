@@ -1,0 +1,27 @@
+<kanji midashi="碆" id="7886">
+<strokegr element="碆">
+	<strokegr element="波" position="top">
+		<strokegr element="氵" variant="true" original="水" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="皮" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇖b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="石" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

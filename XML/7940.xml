@@ -1,0 +1,22 @@
+<kanji midashi="祀" id="7940">
+<strokegr element="祀">
+	<strokegr element="示" variant="true" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑/㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="巳" position="right">
+		<strokegr element="己" variant="true">
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

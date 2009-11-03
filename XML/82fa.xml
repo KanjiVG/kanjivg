@@ -1,0 +1,20 @@
+<kanji midashi="苺" id="82fa">
+<strokegr element="苺">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="母" position="bottom">
+		<strokegr element="毋" part="1" variant="true">
+			<stroke type="㇛"/>
+			<stroke type="㇆"/>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<strokegr element="毋" part="2" variant="true">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

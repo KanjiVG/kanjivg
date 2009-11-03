@@ -1,0 +1,21 @@
+<kanji midashi="判" id="5224Kaisho">
+<strokegr element="判">
+	<strokegr element="半" position="left">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="二" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="十">
+			<strokegr element="二" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇒/㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

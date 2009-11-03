@@ -1,0 +1,35 @@
+<kanji midashi="寝" id="5bdd">
+<strokegr element="寝">
+	<strokegr element="宀" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom" phon="しょうへん+けいがしら+冖+又">
+		<strokegr element="⺦" variant="true" original="爿" position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="⺕" variant="true" original="彑" position="top">
+				<stroke type="㇕"/>
+				<stroke type="㇐c"/>
+				<stroke type="㇐c"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="冖">
+					<stroke type="㇔"/>
+					<stroke type="㇖b"/>
+				</strokegr>
+				<strokegr element="又">
+					<stroke type="㇇"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

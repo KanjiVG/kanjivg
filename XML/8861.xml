@@ -1,0 +1,36 @@
+<kanji midashi="衡" id="8861">
+<strokegr element="衡">
+	<strokegr element="行" part="1" radical="tradit" phon="行1">
+		<strokegr element="彳" position="left" radical="nelson">
+			<stroke type="㇒"/>
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="魚" partial="true">
+		<strokegr element="𠂊" variant="true" original="勹" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇇a"/>
+		</strokegr>
+		<strokegr element="田" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="大" variant="true">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="行" part="2" position="right" radical="tradit" phon="行2">
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

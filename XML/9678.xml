@@ -1,0 +1,29 @@
+<kanji midashi="陸" id="9678">
+<strokegr element="陸">
+	<strokegr element="⻖" variant="true" original="阜" position="left" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="坴" position="right" phon="坴">
+		<strokegr element="土">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="儿" variant="true" original="八">
+			<strokegr element="丿" position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="土">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

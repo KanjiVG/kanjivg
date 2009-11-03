@@ -1,0 +1,25 @@
+<kanji midashi="兌" id="514c">
+<strokegr element="兌">
+	<strokegr element="八" position="top" radical="nelson">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="兄" position="bottom">
+		<strokegr element="口" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="儿" original="八" position="bottom" radical="general">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,29 @@
+<kanji midashi="瓷" id="74f7">
+<strokegr element="瓷">
+	<strokegr element="次" variant="true" position="top">
+		<strokegr element="冫" variant="true" position="left">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇀"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="欠" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇖"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="瓦" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇀"/>
+		<stroke type="㇈"/>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

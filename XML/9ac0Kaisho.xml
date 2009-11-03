@@ -1,0 +1,40 @@
+<kanji midashi="髀" id="9ac0Kaisho">
+<strokegr element="髀">
+	<strokegr element="骨" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+		<strokegr element="月" position="bottom">
+			<stroke type="㇑/㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="卑" variant="true" position="right">
+		<strokegr position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="田" variant="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丿" position="bottom">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="十">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

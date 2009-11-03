@@ -1,0 +1,30 @@
+<kanji midashi="俵" id="4ff5HzLst">
+<strokegr element="俵">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="表" position="right">
+		<strokegr position="top">
+			<strokegr element="二" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="二" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="衣" partial="true" position="bottom">
+			<strokegr element="亠" partial="true" position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇙"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

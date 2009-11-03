@@ -1,0 +1,28 @@
+<kanji midashi="卿" id="537fJinmeiKaisho">
+<strokegr element="卿">
+	<strokegr position="left">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇕"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="即" variant="true" position="right">
+		<strokegr element="艮" variant="true" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="卩" position="right" radical="general">
+			<strokegr element="厶" variant="true" original="厶">
+				<stroke type="㇆"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,32 @@
+<kanji midashi="渤" id="6e24">
+<strokegr element="渤">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="勃" position="right">
+		<strokegr element="孛" position="left">
+			<strokegr position="top">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<strokegr element="冖">
+					<stroke type="㇔"/>
+					<stroke type="㇖b"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="子" variant="true" position="bottom">
+				<stroke type="㇖"/>
+				<stroke type="㇕v"/>
+				<stroke type="㇀/㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="力" position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

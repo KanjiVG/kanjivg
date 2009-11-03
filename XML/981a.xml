@@ -1,0 +1,34 @@
+<kanji midashi="頚" id="981a">
+<strokegr element="頚">
+	<strokegr position="left">
+		<strokegr element="又" position="top">
+			<stroke type="㇇"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="土" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="頁" position="right" radical="general">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="貝" position="bottom">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

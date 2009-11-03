@@ -1,0 +1,37 @@
+<kanji midashi="闊" id="95caKaisho">
+<strokegr element="闊">
+	<strokegr element="門" position="kamae" radical="general">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="活">
+		<strokegr element="氵" variant="true" original="水" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="舌" position="right">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

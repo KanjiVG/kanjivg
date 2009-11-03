@@ -1,0 +1,31 @@
+<kanji midashi="遷" id="9077">
+<strokegr element="遷">
+	<strokegr phon="西+大+己">
+		<strokegr element="西" variant="true" original="襾" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a/㇒"/>
+			<stroke type="㇑a/㇟"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="大">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="己">
+				<stroke type="㇕c"/>
+				<stroke type="㇐"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻌" original="辶" position="nyo" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏a"/>
+	</strokegr>
+</strokegr>
+</kanji>

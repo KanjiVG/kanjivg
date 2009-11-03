@@ -1,0 +1,33 @@
+<kanji midashi="猿" id="733f">
+<strokegr element="猿">
+	<strokegr element="⺨" variant="true" original="犬" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="袁" position="right" phon="袁">
+		<strokegr element="土" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<strokegr element="衣" part="1" variant="true" partial="true">
+				<strokegr element="亠" partial="true">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="衣" part="2" variant="true" partial="true">
+				<stroke type="㇒"/>
+				<stroke type="㇙"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

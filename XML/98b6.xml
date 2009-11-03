@@ -1,0 +1,43 @@
+<kanji midashi="颶" id="98b6">
+<strokegr element="颶">
+	<strokegr element="風" position="nyo" radical="general">
+		<strokegr element="几">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇈a"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<strokegr element="虫">
+			<strokegr element="中">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑a"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇀"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="具">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇐"/>
+			<strokegr element="八">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

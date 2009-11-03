@@ -1,0 +1,29 @@
+<kanji midashi="爺" id="723aKaishoVt3">
+<strokegr element="爺">
+	<strokegr element="父" position="top" radical="general">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="耶" position="bottom">
+		<strokegr element="耳" variant="true" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="⻏" variant="true" original="邑" position="right">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

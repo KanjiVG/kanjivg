@@ -1,0 +1,30 @@
+<kanji midashi="歴" id="6b74Kaisho">
+<strokegr element="歴">
+	<strokegr element="厂" position="tare" radical="nelson">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="林">
+		<strokegr element="木" variant="true" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="木" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="止" radical="tradit">
+		<strokegr element="卜" original="ト">
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

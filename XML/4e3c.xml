@@ -1,0 +1,25 @@
+<kanji midashi="丼" id="4e3c">
+<strokegr element="丼">
+	<strokegr element="井">
+		<strokegr element="二" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="廾">
+			<strokegr element="二" part="2">
+				<strokegr element="十" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="十" part="2">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="丶" radical="tradit">
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

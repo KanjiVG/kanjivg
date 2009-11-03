@@ -1,0 +1,39 @@
+<kanji midashi="餽" id="993dKaisho">
+<strokegr element="餽">
+	<strokegr element="飠" variant="true" original="食" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐c"/>
+		<stroke type="㇐c"/>
+	</strokegr>
+	<strokegr element="鬼" position="right">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="田">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="儿" variant="true" original="八">
+			<strokegr element="丿" position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="厶">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,26 @@
+<kanji midashi="侫" id="4fab">
+<strokegr element="侫">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="妄" position="right">
+		<strokegr element="亡" position="top">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<strokegr element="匸" part="1" variant="true" original="匚">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="匸" part="2" variant="true" original="匚">
+				<stroke type="㇄a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="女" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

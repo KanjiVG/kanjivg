@@ -1,0 +1,26 @@
+<kanji midashi="畝" id="755dKaisho">
+<strokegr element="畝">
+	<strokegr position="left">
+		<strokegr element="亠" position="top" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="田" position="bottom" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="久" position="right">
+		<strokegr element="𠂊" variant="true" original="勹">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇇"/>
+		</strokegr>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

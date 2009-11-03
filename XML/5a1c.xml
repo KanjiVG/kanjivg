@@ -1,0 +1,28 @@
+<kanji midashi="娜" id="5a1c">
+<strokegr element="娜">
+	<strokegr element="女" variant="true" position="left" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="那" position="right">
+		<strokegr position="left">
+			<stroke type="㇆"/>
+			<strokegr element="二">
+				<strokegr position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="⻏" variant="true" original="邑" position="right">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

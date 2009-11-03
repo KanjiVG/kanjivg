@@ -1,0 +1,41 @@
+<kanji midashi="薹" id="85b9">
+<strokegr element="薹">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="臺" position="bottom">
+		<strokegr element="吉" position="top">
+			<strokegr position="top">
+				<strokegr element="士">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="冖">
+					<stroke type="㇔"/>
+					<stroke type="㇆"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="至" position="bottom">
+			<stroke type="㇐"/>
+			<strokegr element="厶">
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="土">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

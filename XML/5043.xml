@@ -1,0 +1,27 @@
+<kanji midashi="偃" id="5043">
+<strokegr element="偃">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="匚" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="日" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="女" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="匚" part="2">
+			<stroke type="㇗"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

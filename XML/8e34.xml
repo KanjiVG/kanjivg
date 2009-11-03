@@ -1,0 +1,34 @@
+<kanji midashi="踴" id="8e34">
+<strokegr element="踴">
+	<strokegr element="足" position="left" radical="general">
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇏"/>
+	</strokegr>
+	<strokegr element="勇" position="right">
+		<strokegr element="マ" position="top">
+			<stroke type="㇇"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="男" position="bottom">
+			<strokegr element="田" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="力" position="bottom">
+				<stroke type="㇆"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

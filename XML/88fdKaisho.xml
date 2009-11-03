@@ -1,0 +1,36 @@
+<kanji midashi="製" id="88fdKaisho">
+<strokegr element="製">
+	<strokegr element="制" position="top">
+		<strokegr position="left">
+			<strokegr element="牛" part="1">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="巾">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+				<strokegr element="牛" part="2">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="刂" variant="true" original="刀" position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="衣" position="bottom" radical="general">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

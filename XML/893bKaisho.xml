@@ -1,0 +1,53 @@
+<kanji midashi="褻" id="893bKaisho">
+<strokegr element="褻">
+	<strokegr element="衣" part="1" position="top" radical="tradit">
+		<strokegr element="亠" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr position="top">
+			<strokegr position="left">
+				<strokegr element="土">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="儿" variant="true">
+					<strokegr element="八" variant="true">
+						<strokegr element="丿" position="left">
+							<stroke type="㇒"/>
+						</strokegr>
+						<strokegr position="right">
+							<stroke type="㇏"/>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+				<strokegr element="土">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丸" position="right">
+				<strokegr element="九">
+					<stroke type="㇒"/>
+					<strokegr element="乙">
+						<stroke type="㇈"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="丶">
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="衣" part="2" position="bottom" radical="tradit">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

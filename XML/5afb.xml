@@ -1,0 +1,31 @@
+<kanji midashi="嫻" id="5afb">
+<strokegr element="嫻">
+	<strokegr element="女" variant="true" position="left" radical="tradit">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="閑" position="right">
+		<strokegr element="門" position="kamae">
+			<strokegr position="left">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="木">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

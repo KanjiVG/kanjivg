@@ -1,0 +1,22 @@
+<kanji midashi="拡" id="62e1">
+<strokegr element="拡">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="広" position="right" phon="広">
+		<strokegr element="广" position="tare">
+			<stroke type="㇑a"/>
+			<strokegr element="厂">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="厶">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,32 @@
+<kanji midashi="弼" id="5f3cKaisho">
+<strokegr element="弼">
+	<strokegr element="弓" position="left" radical="general">
+		<stroke type="㇕c"/>
+		<stroke type="㇐"/>
+		<stroke type="㇉"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="百" position="left">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr position="top">
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr element="日" position="bottom">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="弓" position="right" radical="general">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇉"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

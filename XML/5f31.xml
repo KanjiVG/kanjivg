@@ -1,0 +1,32 @@
+<kanji midashi="弱" id="5f31">
+<strokegr element="弱">
+	<strokegr element="弓" position="left" radical="tradit">
+		<stroke type="㇕c"/>
+		<stroke type="㇐"/>
+		<stroke type="㇉"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="冫" radical="nelson">
+			<strokegr position="top">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇀"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="弓" radical="tradit">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇉"/>
+		</strokegr>
+		<strokegr element="冫">
+			<strokegr position="top">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇀"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

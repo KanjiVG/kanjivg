@@ -1,0 +1,33 @@
+<kanji midashi="礁" id="7901">
+<strokegr element="礁">
+	<strokegr element="石" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="焦" position="right" phon="焦">
+		<strokegr element="隹" position="top">
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="灬" variant="true" original="火" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

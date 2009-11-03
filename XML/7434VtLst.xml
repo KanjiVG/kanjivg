@@ -1,0 +1,30 @@
+<kanji midashi="琴" id="7434VtLst">
+<strokegr element="琴">
+	<strokegr position="top">
+		<strokegr element="王" original="玉" partial="true" position="left" radical="general">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+		<strokegr element="王" original="玉" partial="true" position="right" radical="general">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="今" position="bottom">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇖"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

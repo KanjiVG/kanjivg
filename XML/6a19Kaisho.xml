@@ -1,0 +1,33 @@
+<kanji midashi="標" id="6a19Kaisho">
+<strokegr element="標">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="票" position="right">
+		<strokegr element="襾" position="top">
+			<strokegr element="西" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇑"/>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="示" position="bottom">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

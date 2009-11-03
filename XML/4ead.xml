@@ -1,0 +1,31 @@
+<kanji midashi="亭" id="4ead">
+<strokegr element="亭">
+	<strokegr element="高" part="1" partial="true" position="top">
+		<strokegr element="亠" radical="general">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="高" part="1" partial="true">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+		<strokegr element="丁" phon="丁">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

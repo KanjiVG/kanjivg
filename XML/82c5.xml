@@ -1,0 +1,21 @@
+<kanji midashi="苅" id="82c5">
+<strokegr element="苅">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="刈" position="bottom">
+		<strokegr element="乂" position="left">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="刂" variant="true" original="刀" position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

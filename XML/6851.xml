@@ -1,0 +1,28 @@
+<kanji midashi="桑" id="6851">
+<strokegr element="桑">
+	<strokegr position="top">
+		<strokegr position="top">
+			<strokegr element="又" radical="nelson">
+				<stroke type="㇇"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="又" position="left">
+					<stroke type="㇇"/>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+				<strokegr element="又" position="right">
+					<stroke type="㇇"/>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="木" position="bottom" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

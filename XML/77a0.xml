@@ -1,0 +1,36 @@
+<kanji midashi="瞠" id="77a0">
+<strokegr element="瞠">
+	<strokegr element="目" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="堂" position="right">
+		<strokegr element="尚" variant="true" position="top">
+			<strokegr element="𡭔" variant="true" original="小" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="冂" variant="true">
+					<stroke type="㇔"/>
+					<stroke type="㇖"/>
+				</strokegr>
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="土" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

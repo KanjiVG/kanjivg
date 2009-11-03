@@ -1,0 +1,33 @@
+<kanji midashi="彬" id="5f6cKaisho">
+<strokegr element="彬">
+	<strokegr element="林" part="1" position="left">
+		<strokegr element="木" radical="nelson">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="杉" position="right">
+		<strokegr element="林" part="2" position="left">
+			<strokegr element="木" radical="nelson">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="彡" position="right" radical="tradit">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,32 @@
+<kanji midashi="党" id="515a">
+<strokegr element="党">
+	<strokegr element="尚" variant="true" position="top" phon="尚">
+		<strokegr element="𡭔" variant="true" original="小" position="top" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冂" variant="true">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+			<strokegr element="兄" part="1">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="兄" part="2" position="bottom">
+		<strokegr element="儿" original="八" radical="tradit">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

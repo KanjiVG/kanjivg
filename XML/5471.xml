@@ -1,0 +1,21 @@
+<kanji midashi="呱" id="5471">
+<strokegr element="呱">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="瓜" position="right">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<strokegr element="厶" variant="true" original="厶">
+			<stroke type="㇑"/>
+			<stroke type="㇀/㇐"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

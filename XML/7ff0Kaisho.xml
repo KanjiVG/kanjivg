@@ -1,0 +1,40 @@
+<kanji midashi="翰" id="7ff0Kaisho">
+<strokegr element="翰">
+	<strokegr position="left">
+		<strokegr element="十" radical="nelson">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="早">
+			<strokegr element="日" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="十" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="羽" position="bottom" radical="tradit">
+			<strokegr position="left">
+				<stroke type="㇆"/>
+				<stroke type="㇔"/>
+				<stroke type="㇀"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇆"/>
+				<stroke type="㇔"/>
+				<stroke type="㇀"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,42 @@
+<kanji midashi="釐" id="91d0">
+<strokegr element="釐">
+	<strokegr position="top">
+		<strokegr element="未" position="left">
+			<stroke type="㇐"/>
+			<strokegr element="木">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="攵" variant="true" original="攴" position="right" radical="nelson">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="乂" position="bottom">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="厂" position="tare">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="里" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

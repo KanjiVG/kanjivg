@@ -1,0 +1,28 @@
+<kanji midashi="敢" id="6562">
+<strokegr element="敢">
+	<strokegr position="left" phon="耳甘V">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<strokegr element="耳">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇀"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="攵" variant="true" original="攴" position="right" radical="general">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="乂" position="bottom">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

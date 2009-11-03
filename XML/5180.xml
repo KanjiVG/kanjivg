@@ -1,0 +1,36 @@
+<kanji midashi="冀" id="5180">
+<strokegr element="冀">
+	<strokegr element="北" position="top">
+		<strokegr position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="匕" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="異" position="bottom">
+		<strokegr element="田" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="共" position="bottom">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="八" position="bottom" radical="tradit">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

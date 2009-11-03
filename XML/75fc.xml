@@ -1,0 +1,31 @@
+<kanji midashi="痼" id="75fc">
+<strokegr element="痼">
+	<strokegr element="疒" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="固">
+		<strokegr element="囗" part="1">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+		</strokegr>
+		<strokegr element="古">
+			<strokegr element="十" position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="囗" part="2">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

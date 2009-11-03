@@ -1,0 +1,23 @@
+<kanji midashi="咽" id="54bd">
+<strokegr element="咽">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="因" position="right">
+		<strokegr element="囗" part="1">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+		</strokegr>
+		<strokegr element="大">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="囗" part="2">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,41 @@
+<kanji midashi="闌" id="95cc">
+<strokegr element="闌">
+	<strokegr element="門" position="kamae" radical="general">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="柬">
+		<strokegr element="束" part="1">
+			<strokegr element="木" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口" part="1">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="束">
+			<strokegr element="口" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="木" part="2">
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

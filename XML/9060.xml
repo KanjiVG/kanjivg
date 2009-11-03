@@ -1,0 +1,33 @@
+<kanji midashi="遠" id="9060">
+<strokegr element="遠">
+	<strokegr element="袁" phon="袁">
+		<strokegr element="土" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<strokegr element="衣" part="1" variant="true" partial="true">
+				<strokegr element="亠" partial="true">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="衣" part="2" variant="true" partial="true">
+				<stroke type="㇒"/>
+				<stroke type="㇑/㇙"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻌" original="辶" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏a"/>
+	</strokegr>
+</strokegr>
+</kanji>

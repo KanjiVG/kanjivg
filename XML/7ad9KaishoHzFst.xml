@@ -1,0 +1,26 @@
+<kanji midashi="站" id="7ad9KaishoHzFst">
+<strokegr element="站">
+	<strokegr element="立" position="left" radical="general">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="占" position="right">
+		<strokegr element="卜" variant="true" original="ト" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

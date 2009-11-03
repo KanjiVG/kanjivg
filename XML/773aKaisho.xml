@@ -1,0 +1,33 @@
+<kanji midashi="眺" id="773aKaisho">
+<strokegr element="眺">
+	<strokegr element="目" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="兆" position="right">
+		<strokegr element="儿" part="1" original="八" position="left">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="冫">
+				<strokegr position="top">
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇀"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="儿" part="2" original="八">
+				<stroke type="㇟"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,31 @@
+<kanji midashi="萃" id="8403Kaisho">
+<strokegr element="萃">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="卒" position="bottom">
+		<strokegr position="top">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="从">
+				<strokegr element="人" position="left">
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+				<strokegr element="人" position="right">
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="十" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,32 @@
+<kanji midashi="霑" id="9711HzFst">
+<strokegr element="霑">
+	<strokegr element="雨" variant="true" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇔/㇑"/>
+		<stroke type="㇖b/㇆"/>
+		<stroke type="㇑"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="沾" position="bottom">
+		<strokegr element="氵" variant="true" original="水" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="占" position="right">
+			<strokegr element="卜" variant="true" original="ト" position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

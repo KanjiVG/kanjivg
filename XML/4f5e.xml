@@ -1,0 +1,25 @@
+<kanji midashi="佞" id="4f5e">
+<strokegr element="佞">
+	<strokegr element="仁" part="1" position="left">
+		<strokegr element="亻" variant="true" original="人">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="仁" part="2" position="right">
+		<strokegr element="二">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="女">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

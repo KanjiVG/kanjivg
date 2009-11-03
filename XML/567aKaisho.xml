@@ -1,0 +1,36 @@
+<kanji midashi="噺" id="567aKaisho">
+<strokegr element="噺">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇔/㇑a"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="新" position="right">
+		<strokegr position="left">
+			<strokegr element="立">
+				<strokegr element="亠" position="top">
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇔"/>
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="木">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="斤" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

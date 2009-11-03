@@ -1,0 +1,31 @@
+<kanji midashi="逢" id="9022Jinmei">
+<strokegr element="逢">
+	<strokegr element="夂">
+		<stroke type="㇒"/>
+		<stroke type="㇇"/>
+		<stroke type="㇏"/>
+	</strokegr>
+	<strokegr element="三">
+		<strokegr element="一" position="top">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="丨">
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="辶" position="nyo" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

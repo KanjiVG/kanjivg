@@ -1,0 +1,29 @@
+<kanji midashi="舸" id="8238">
+<strokegr element="舸">
+	<strokegr element="舟" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="可" position="right">
+		<strokegr element="丁" part="1">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="丁" part="2">
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

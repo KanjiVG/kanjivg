@@ -1,0 +1,47 @@
+<kanji midashi="囂" id="56c2">
+<strokegr element="囂">
+	<strokegr position="top">
+		<strokegr element="口" position="left" radical="general">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="口" position="right" radical="general">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="頁">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="貝" position="bottom">
+				<strokegr element="目" position="top">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口" position="left" radical="general">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="口" position="right" radical="general">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

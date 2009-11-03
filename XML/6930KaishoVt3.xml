@@ -1,0 +1,25 @@
+<kanji midashi="椰" id="6930KaishoVt3">
+<strokegr element="椰">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="耶" position="right">
+		<strokegr element="耳" variant="true" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="⻏" variant="true" original="邑" position="right">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

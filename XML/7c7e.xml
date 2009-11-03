@@ -1,0 +1,21 @@
+<kanji midashi="籾" id="7c7e">
+<strokegr element="籾">
+	<strokegr element="米" variant="true" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="刃" position="right">
+		<strokegr element="刀">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

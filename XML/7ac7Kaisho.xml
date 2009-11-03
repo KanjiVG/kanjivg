@@ -1,0 +1,46 @@
+<kanji midashi="竇" id="7ac7Kaisho">
+<strokegr element="竇">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="賣" position="bottom">
+		<strokegr position="top">
+			<strokegr element="士">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="罒" variant="true" original="网">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇒"/>
+				<stroke type="㇄"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="貝" position="bottom">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,29 @@
+<kanji midashi="匯" id="532f">
+<strokegr element="匯">
+	<strokegr element="匚" part="1" radical="general">
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="淮">
+		<strokegr element="氵" variant="true" original="水" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="隹" position="right">
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="匚" part="2" radical="general">
+		<stroke type="㇗"/>
+	</strokegr>
+</strokegr>
+</kanji>

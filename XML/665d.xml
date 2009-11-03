@@ -1,0 +1,27 @@
+<kanji midashi="晝" id="665d">
+<strokegr element="晝">
+	<strokegr element="聿" position="top">
+		<strokegr element="⺕" variant="true" original="彑">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="丨">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="旦" position="bottom">
+		<strokegr element="日" position="top" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="一" position="bottom">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

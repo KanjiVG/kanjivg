@@ -1,0 +1,36 @@
+<kanji midashi="滿" id="6eff">
+<strokegr element="滿">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="廿">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<strokegr element="兩" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="兩" part="2">
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<strokegr element="入">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="入">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

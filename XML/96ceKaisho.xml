@@ -1,0 +1,27 @@
+<kanji midashi="雎" id="96ceKaisho">
+<strokegr element="雎">
+	<strokegr element="且" position="left">
+		<strokegr element="月">
+			<stroke type="㇑a"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="隹" position="right" radical="general">
+		<strokegr element="亻" variant="true" original="人">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+</strokegr>
+</kanji>

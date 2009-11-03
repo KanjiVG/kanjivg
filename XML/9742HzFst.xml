@@ -1,0 +1,52 @@
+<kanji midashi="靂" id="9742HzFst">
+<strokegr element="靂">
+	<strokegr element="雨" variant="true" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇔/㇑"/>
+		<stroke type="㇖b/㇆"/>
+		<stroke type="㇑"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="歴" variant="true" position="bottom">
+		<strokegr element="厂" position="tare">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="林" variant="true">
+			<strokegr element="禾" position="left">
+				<strokegr element="丿" position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="木" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="禾" position="right">
+				<strokegr element="丿" position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="木" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="止">
+			<strokegr element="卜" original="ト">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

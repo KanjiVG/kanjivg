@@ -1,0 +1,26 @@
+<kanji midashi="祠" id="7960">
+<strokegr element="祠">
+	<strokegr element="示" variant="true" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑/㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="司" position="right">
+		<stroke type="㇆"/>
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

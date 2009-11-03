@@ -1,0 +1,22 @@
+<kanji midashi="兒" id="5152">
+<strokegr element="兒">
+	<strokegr element="臼" position="top" radical="nelson">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="儿" position="bottom" radical="tradit">
+		<strokegr element="八" variant="true">
+			<strokegr element="丿" position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,44 @@
+<kanji midashi="襲" id="8972">
+<strokegr element="襲">
+	<strokegr element="龍" position="top" radical="nelson" phon="龍">
+		<strokegr position="left">
+			<strokegr element="立">
+				<strokegr element="亠" position="top">
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇔"/>
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="月">
+				<stroke type="㇑/㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇐b"/>
+			<stroke type="㇅"/>
+			<stroke type="㇐"/>
+			<stroke type="㇟"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="衣" position="bottom" radical="tradit">
+		<strokegr element="亠">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<stroke type="㇙"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

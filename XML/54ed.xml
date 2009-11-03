@@ -1,0 +1,26 @@
+<kanji midashi="哭" id="54ed">
+<strokegr element="哭">
+	<strokegr position="top">
+		<strokegr element="口" position="left" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="口" position="right" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="犬" position="bottom" radical="nelson">
+		<strokegr element="大">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

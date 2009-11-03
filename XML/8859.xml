@@ -1,0 +1,37 @@
+<kanji midashi="衙" id="8859">
+<strokegr element="衙">
+	<strokegr element="行" part="1" position="kamae" radical="tradit">
+		<strokegr element="彳" position="left" radical="nelson">
+			<stroke type="㇒"/>
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="吾">
+		<strokegr element="五" position="top">
+			<strokegr element="二" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇕c"/>
+			<strokegr element="二" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="行" part="2" position="kamae" radical="tradit">
+		<strokegr position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,22 @@
+<kanji midashi="侮" id="4fae">
+<strokegr element="侮">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="毎" position="right" phon="毎">
+		<strokegr position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="毋" original="母" partial="true" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

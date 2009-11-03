@@ -1,0 +1,30 @@
+<kanji midashi="漉" id="6f09">
+<strokegr element="漉">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="鹿" position="right">
+		<strokegr element="广">
+			<stroke type="㇑a"/>
+			<strokegr element="厂">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇕"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<strokegr element="比">
+			<stroke type="㇐"/>
+			<stroke type="㇙"/>
+			<strokegr element="匕">
+				<stroke type="㇐"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

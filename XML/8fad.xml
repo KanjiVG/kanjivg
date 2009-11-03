@@ -1,0 +1,47 @@
+<kanji midashi="辭" id="8fad">
+<strokegr element="辭">
+	<strokegr position="left">
+		<strokegr position="top">
+			<strokegr element="⺤" variant="true" original="爪">
+				<stroke type="㇒"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="マ">
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="禸">
+				<stroke type="㇑"/>
+				<stroke type="㇆"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="又">
+				<stroke type="㇇"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="辛" position="right" radical="tradit">
+		<strokegr element="立" position="top">
+			<strokegr element="亠" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="十" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,26 @@
+<kanji midashi="猥" id="7325">
+<strokegr element="猥">
+	<strokegr element="⺨" variant="true" original="犬" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="畏" position="right">
+		<strokegr element="田" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇙"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

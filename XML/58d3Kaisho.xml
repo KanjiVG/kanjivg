@@ -1,0 +1,39 @@
+<kanji midashi="壓" id="58d3Kaisho">
+<strokegr element="壓">
+	<strokegr element="厭" position="top">
+		<strokegr element="厂" position="tare" radical="nelson">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="left">
+			<strokegr element="日" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="月" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="犬" position="right">
+			<strokegr element="大">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

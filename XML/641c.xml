@@ -1,0 +1,29 @@
+<kanji midashi="搜" id="641c">
+<strokegr element="搜">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="叟" position="right">
+		<strokegr position="top">
+			<strokegr element="臼" variant="true">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="又" position="bottom">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

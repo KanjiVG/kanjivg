@@ -1,0 +1,29 @@
+<kanji midashi="飩" id="98e9">
+<strokegr element="飩">
+	<strokegr element="飠" variant="true" original="食" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐c"/>
+		<stroke type="㇐c"/>
+	</strokegr>
+	<strokegr element="屯" position="right">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="屮" variant="true">
+			<strokegr element="凵">
+				<stroke type="㇗a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="丿" variant="true">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

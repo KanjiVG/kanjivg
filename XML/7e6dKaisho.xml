@@ -1,0 +1,37 @@
+<kanji midashi="繭" id="7e6dKaisho">
+<strokegr element="繭">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="nelson">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<stroke type="㇑"/>
+		<strokegr element="糸" variant="true" radical="tradit">
+			<stroke type="㇜"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="虫">
+			<strokegr element="中">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑a"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇀"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

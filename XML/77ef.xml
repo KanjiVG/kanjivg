@@ -1,0 +1,45 @@
+<kanji midashi="矯" id="77ef">
+<strokegr element="矯">
+	<strokegr element="矢" variant="true" position="left" radical="general">
+		<stroke type="㇒"/>
+		<strokegr element="天" variant="true">
+			<stroke type="㇐"/>
+			<strokegr element="大" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="喬" position="right" phon="喬">
+		<strokegr element="呑" position="top">
+			<strokegr element="夭">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="大">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,28 @@
+<kanji midashi="隅" id="9685Kaisho">
+<strokegr element="隅">
+	<strokegr element="⻖" variant="true" original="阜" position="left" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="禺" position="right">
+		<strokegr element="日">
+			<strokegr element="田" part="1" variant="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禸">
+			<stroke type="㇑"/>
+			<stroke type="㇆"/>
+			<strokegr element="田" part="2" variant="true">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="６"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

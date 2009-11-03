@@ -1,0 +1,36 @@
+<kanji midashi="鬨" id="9b28VtLst">
+<strokegr element="鬨">
+	<strokegr element="鬥" position="kamae" radical="general">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<strokegr element="王" original="玉" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="王" original="玉" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="共">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="八" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

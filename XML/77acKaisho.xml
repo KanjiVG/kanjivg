@@ -1,0 +1,38 @@
+<kanji midashi="瞬" id="77acKaisho">
+<strokegr element="瞬">
+	<strokegr element="目" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="舜" position="right">
+		<strokegr position="top">
+			<strokegr element="⺤" variant="true" original="爪">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="舛" variant="true" position="bottom">
+			<strokegr element="夕" position="left">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

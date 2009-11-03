@@ -1,0 +1,34 @@
+<kanji midashi="舒" id="8212">
+<strokegr element="舒">
+	<strokegr element="舍" position="left">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="舌" variant="true" position="bottom" radical="general">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="予" position="right">
+		<strokegr element="マ" position="top">
+			<stroke type="㇇"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="了" position="bottom">
+			<stroke type="㇇"/>
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,29 @@
+<kanji midashi="霊" id="970a">
+<strokegr element="霊">
+	<strokegr element="雨" variant="true" position="top" radical="general" phon="雨+2/1">
+		<stroke type="㇐"/>
+		<stroke type="㇔/㇑"/>
+		<stroke type="㇖b/㇆"/>
+		<stroke type="㇑"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="二">
+			<strokegr position="top" phon="雨+2/2">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,22 @@
+<kanji midashi="念" id="5ff5">
+<strokegr element="念">
+	<strokegr element="今" position="top" phon="今">
+		<strokegr element="人" position="top" radical="nelson">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇖"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

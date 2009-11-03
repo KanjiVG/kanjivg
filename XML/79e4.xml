@@ -1,0 +1,28 @@
+<kanji midashi="秤" id="79e4">
+<strokegr element="秤">
+	<strokegr element="禾" position="left" radical="general">
+		<strokegr element="丿" position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="木" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="平" position="right">
+		<strokegr element="干" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="干" part="2">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

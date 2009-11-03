@@ -1,0 +1,29 @@
+<kanji midashi="商" id="5546Kaisho">
+<strokegr element="商">
+	<strokegr element="立" partial="true" position="top">
+		<strokegr element="亠" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="冏" position="bottom">
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="儿" variant="true" original="八">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇟"/>
+		</strokegr>
+		<strokegr element="口" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,22 @@
+<kanji midashi="刷" id="5237">
+<strokegr element="刷">
+	<strokegr position="left">
+		<strokegr element="尸">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="巾">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="tradit">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,28 @@
+<kanji midashi="祕" id="7955">
+<strokegr element="祕">
+	<strokegr element="示" variant="true" position="left" radical="tradit">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑/㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="必" position="right">
+		<strokegr element="心" part="1" variant="true">
+			<stroke type="㇔"/>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="心" part="2" variant="true">
+				<stroke type="㇟b"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

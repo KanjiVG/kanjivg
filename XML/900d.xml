@@ -1,0 +1,25 @@
+<kanji midashi="逍" id="900d">
+<strokegr element="逍">
+	<strokegr element="肖" variant="true">
+		<strokegr element="小" position="top">
+			<strokegr element="𡭔" variant="true" original="小">
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="月" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="辶" position="nyo" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

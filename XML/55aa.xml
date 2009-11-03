@@ -1,0 +1,32 @@
+<kanji midashi="喪" id="55aa">
+<strokegr element="喪">
+	<strokegr position="top">
+		<strokegr element="十">
+			<stroke type="㇐"/>
+			<strokegr element="丨" radical="nelson">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="口" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="衣" partial="true" position="bottom">
+		<strokegr element="亠" partial="true" position="top">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇙"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

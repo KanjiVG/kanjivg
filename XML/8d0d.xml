@@ -1,0 +1,38 @@
+<kanji midashi="贍" id="8d0d">
+<strokegr element="贍">
+	<strokegr element="貝" position="left" radical="general">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="𠂊" variant="true" original="勹">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇟"/>
+		<strokegr element="言">
+			<stroke type="㇔"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

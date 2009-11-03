@@ -1,0 +1,23 @@
+<kanji midashi="姥" id="59e5">
+<strokegr element="姥">
+	<strokegr element="女" variant="true" position="left" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="老" position="right">
+		<strokegr element="耂" original="老" partial="true">
+			<strokegr element="土">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="匕">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

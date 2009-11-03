@@ -1,0 +1,29 @@
+<kanji midashi="甜" id="751cKaisho">
+<strokegr element="甜">
+	<strokegr element="舌" position="left" radical="nelson">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="甘" position="right" radical="tradit">
+		<strokegr element="廿" part="1">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="廿" part="2">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

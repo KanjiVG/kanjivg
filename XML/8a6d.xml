@@ -1,0 +1,31 @@
+<kanji midashi="詭" id="8a6d">
+<strokegr element="詭">
+	<strokegr element="言" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="危" position="right">
+		<strokegr element="𠂊" variant="true" original="勹" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+		</strokegr>
+		<strokegr element="厄" position="bottom">
+			<strokegr element="厂" position="tare">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="卩">
+				<stroke type="㇆"/>
+				<stroke type="㇟/㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

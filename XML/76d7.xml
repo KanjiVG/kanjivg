@@ -1,0 +1,27 @@
+<kanji midashi="盗" id="76d7">
+<strokegr element="盗">
+	<strokegr element="次" position="top">
+		<strokegr element="冫" position="left">
+			<strokegr position="top">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇀"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="欠" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇖a"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="皿" position="bottom" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

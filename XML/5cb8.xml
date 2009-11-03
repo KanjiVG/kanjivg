@@ -1,0 +1,22 @@
+<kanji midashi="岸" id="5cb8">
+<strokegr element="岸">
+	<strokegr element="山" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="bottom" phon="厂干">
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="干">
+			<stroke type="㇐"/>
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

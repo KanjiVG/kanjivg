@@ -1,0 +1,23 @@
+<kanji midashi="冶" id="51b6">
+<strokegr element="冶">
+	<strokegr element="冫" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇀"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="台" position="right">
+		<strokegr element="厶" position="top">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,33 @@
+<kanji midashi="瘢" id="7622Kaisho">
+<strokegr element="瘢">
+	<strokegr element="疒" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="般">
+		<strokegr element="舟" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="殳" position="right">
+			<strokegr element="几" position="top">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇈b"/>
+			</strokegr>
+			<strokegr element="又" position="bottom">
+				<stroke type="㇇"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

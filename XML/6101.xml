@@ -1,0 +1,29 @@
+<kanji midashi="愁" id="6101">
+<strokegr element="愁">
+	<strokegr element="秋" position="top" phon="秋">
+		<strokegr element="禾" position="left">
+			<strokegr element="丿" position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="木" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="火" position="right">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

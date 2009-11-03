@@ -1,0 +1,35 @@
+<kanji midashi="貔" id="8c94Kaisho">
+<strokegr element="貔">
+	<strokegr element="豸" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇕v"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr position="right">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<strokegr element="乂">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇏"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="比">
+			<strokegr position="left">
+				<stroke type="㇐b"/>
+				<stroke type="㇙"/>
+			</strokegr>
+			<strokegr element="匕" position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

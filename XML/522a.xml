@@ -1,0 +1,25 @@
+<kanji midashi="刪" id="522a">
+<strokegr element="刪">
+	<strokegr element="冊" position="left">
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="廾" variant="true">
+			<strokegr element="丿" variant="true">
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="十" part="1" variant="true">
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="十" part="2" variant="true">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

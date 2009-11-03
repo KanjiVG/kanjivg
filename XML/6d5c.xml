@@ -1,0 +1,30 @@
+<kanji midashi="浜" id="6d5c">
+<strokegr element="浜">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="兵" position="right" phon="賓V">
+		<strokegr element="丘" position="top">
+			<strokegr element="斤">
+				<stroke type="㇒"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" position="bottom">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,21 @@
+<kanji midashi="削" id="524aKaisho">
+<strokegr element="削">
+	<strokegr element="肖" position="left">
+		<strokegr element="⺌" variant="true" original="小" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="月" position="bottom">
+			<stroke type="㇑/㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

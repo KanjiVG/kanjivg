@@ -1,0 +1,40 @@
+<kanji midashi="癒" id="7652">
+<strokegr element="癒">
+	<strokegr element="疒" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="愈" phon="愈">
+		<strokegr element="兪" variant="true" position="top">
+			<strokegr element="入" original="人" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="月">
+					<stroke type="㇑/㇒"/>
+					<stroke type="㇆a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr element="刂" variant="true" original="刀">
+					<stroke type="㇑"/>
+					<stroke type="㇚"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="心" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇟b"/>
+			<stroke type="㇔a"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

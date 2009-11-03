@@ -1,0 +1,39 @@
+<kanji midashi="鼓" id="9f13">
+<strokegr element="鼓" radical="general">
+	<strokegr position="left">
+		<strokegr element="吉" part="1">
+			<strokegr element="士">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<strokegr element="豆" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="豆" part="2">
+				<strokegr element="吉" part="2">
+					<strokegr element="口">
+						<stroke type="㇑"/>
+						<stroke type="㇕b"/>
+						<stroke type="㇐b"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="豆" part="3">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="支" position="right">
+		<strokegr element="十">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="又">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,43 @@
+<kanji midashi="願" id="9858">
+<strokegr element="願">
+	<strokegr element="原" position="left" phon="原">
+		<strokegr element="厂" position="tare">
+			<stroke type="㇐"/>
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="小">
+			<stroke type="㇚"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="頁" position="right" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<strokegr element="貝">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,29 @@
+<kanji midashi="當" id="7576">
+<strokegr element="當">
+	<strokegr element="尚" variant="true" position="top">
+		<strokegr element="𡭔" variant="true" original="小" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冂" variant="true">
+				<stroke type="㇔"/>
+				<stroke type="㇖"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="田" position="bottom" radical="tradit">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

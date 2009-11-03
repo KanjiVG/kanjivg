@@ -1,0 +1,23 @@
+<kanji midashi="沌" id="6c8c">
+<strokegr element="沌">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="屯" position="right">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="屮" variant="true">
+			<strokegr element="凵">
+				<stroke type="㇗a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="丿" variant="true">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

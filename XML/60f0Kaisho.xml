@@ -1,0 +1,28 @@
+<kanji midashi="惰" id="60f0Kaisho">
+<strokegr element="惰">
+	<strokegr element="忄" variant="true" original="心" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="左" position="top">
+			<strokegr position="kamae">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="工">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="月" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,38 @@
+<kanji midashi="憩" id="61a9">
+<strokegr element="憩">
+	<strokegr position="top">
+		<strokegr element="舌" position="left" phon="舌">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="息" part="1" position="right">
+			<strokegr element="自">
+				<stroke type="㇒"/>
+				<strokegr element="目">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="息" part="2" position="bottom" radical="general">
+		<strokegr element="心">
+			<stroke type="㇔"/>
+			<stroke type="㇟b"/>
+			<stroke type="㇔a"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

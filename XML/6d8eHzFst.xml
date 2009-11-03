@@ -1,0 +1,28 @@
+<kanji midashi="涎" id="6d8eHzFst">
+<strokegr element="涎">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="延" variant="true" position="right">
+		<strokegr element="正" variant="true">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="止" variant="true">
+				<strokegr element="卜" original="ト">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇄"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="廴" position="nyo">
+			<stroke type="㇇"/>
+			<stroke type="㇇a"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

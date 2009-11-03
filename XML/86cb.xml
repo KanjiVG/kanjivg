@@ -1,0 +1,29 @@
+<kanji midashi="蛋" id="86cb">
+<strokegr element="蛋">
+	<strokegr element="疋" position="top" radical="nelson">
+		<stroke type="㇖"/>
+		<strokegr element="卜" original="ト">
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="人">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="虫" position="bottom" radical="tradit">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

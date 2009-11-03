@@ -1,0 +1,33 @@
+<kanji midashi="濟" id="6fdfKaisho">
+<strokegr element="濟">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="齊" position="right">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<strokegr element="刀">
+				<stroke type="㇆"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇏"/>
+			<stroke type="㇒"/>
+			<strokegr element="二">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

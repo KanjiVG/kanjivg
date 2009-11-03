@@ -1,0 +1,27 @@
+<kanji midashi="笛" id="7b1bKaisho">
+<strokegr element="笛">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="由" position="bottom">
+		<strokegr element="田">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

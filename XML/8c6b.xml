@@ -1,0 +1,36 @@
+<kanji midashi="豫" id="8c6b">
+<strokegr element="豫">
+	<strokegr element="予" position="left" phon="予">
+		<strokegr element="マ" position="top">
+			<stroke type="㇇"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="了" position="bottom">
+			<stroke type="㇇"/>
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="象" position="right">
+		<strokegr element="𠂊" variant="true" original="勹" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇑"/>
+			<strokegr element="豕" radical="tradit">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇕v"/>
+				<stroke type="㇒"/>
+				<stroke type="㇒"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

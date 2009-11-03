@@ -1,0 +1,31 @@
+<kanji midashi="爵" id="7235Kaisho">
+<strokegr element="爵">
+	<strokegr element="⺤" variant="true" original="爪" position="top" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="罒" variant="true" original="网">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="艮" partial="true">
+			<stroke type="㇕"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="寸">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

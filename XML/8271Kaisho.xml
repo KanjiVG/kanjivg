@@ -1,0 +1,39 @@
+<kanji midashi="艱" id="8271Kaisho">
+<strokegr element="艱">
+	<strokegr position="left">
+		<strokegr element="廿">
+			<strokegr element="艹" part="1" variant="true" original="艸">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="艹" part="2" variant="true" original="艸">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="夫">
+			<stroke type="㇐"/>
+			<strokegr element="大">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="艮" position="right" radical="general">
+		<stroke type="㇕"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇙"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

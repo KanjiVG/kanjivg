@@ -1,0 +1,27 @@
+<kanji midashi="衷" id="8877">
+<strokegr element="衷">
+	<strokegr position="top">
+		<strokegr element="衣" part="1" partial="true" radical="tradit">
+			<strokegr element="亠" partial="true">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr phon="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨" radical="nelson">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="衣" part="2" partial="true" position="bottom" radical="tradit">
+		<stroke type="㇒"/>
+		<stroke type="㇙"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

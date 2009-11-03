@@ -1,0 +1,22 @@
+<kanji midashi="珠" id="73e0Kaisho">
+<strokegr element="珠">
+	<strokegr element="王" original="玉" partial="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="朱" position="right">
+		<stroke type="㇒"/>
+		<strokegr element="未">
+			<stroke type="㇐"/>
+			<strokegr element="木">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

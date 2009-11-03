@@ -1,0 +1,21 @@
+<kanji midashi="荘" id="8358">
+<strokegr element="荘">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="壮" position="bottom" phon="壮">
+		<strokegr element="⺦" variant="true" original="爿" position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="士" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

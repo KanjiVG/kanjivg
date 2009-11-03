@@ -1,0 +1,35 @@
+<kanji midashi="誕" id="8a95">
+<strokegr element="誕">
+	<strokegr element="言" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="延" position="right" phon="延">
+		<strokegr element="正" variant="true">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="止">
+				<strokegr element="卜" original="ト">
+					<stroke type="㇑a"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="廴" position="nyo">
+			<stroke type="㇇"/>
+			<stroke type="㇇a"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

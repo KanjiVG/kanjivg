@@ -1,0 +1,50 @@
+<kanji midashi="灑" id="7051">
+<strokegr element="灑">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="麗" position="right">
+		<strokegr position="top">
+			<strokegr position="left">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="right">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="鹿" position="bottom">
+			<strokegr element="广">
+				<stroke type="㇑a"/>
+				<strokegr element="厂">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇕"/>
+			<stroke type="㇑"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<strokegr element="比">
+				<stroke type="㇐"/>
+				<stroke type="㇙"/>
+				<strokegr element="匕">
+					<stroke type="㇐"/>
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

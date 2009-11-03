@@ -1,0 +1,28 @@
+<kanji midashi="評" id="8a55">
+<strokegr element="評">
+	<strokegr element="言" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="平" position="right" phon="平">
+		<strokegr element="干" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="干" part="2">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

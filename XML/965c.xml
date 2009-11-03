@@ -1,0 +1,28 @@
+<kanji midashi="陜" id="965c">
+<strokegr element="陜">
+	<strokegr element="⻖" variant="true" original="阜" position="left" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="夾" position="right">
+		<strokegr element="大" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="从">
+			<strokegr element="人" position="left">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="人" position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="大" part="2">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

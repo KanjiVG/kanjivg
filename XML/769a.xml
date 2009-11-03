@@ -1,0 +1,37 @@
+<kanji midashi="皚" id="769a">
+<strokegr element="皚">
+	<strokegr position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="豈" position="right">
+		<strokegr element="山" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇄a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="豆" position="bottom">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

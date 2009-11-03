@@ -1,0 +1,37 @@
+<kanji midashi="嬰" id="5b30Kaisho">
+<strokegr element="嬰">
+	<strokegr position="top">
+		<strokegr element="貝" position="left">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="貝" position="right">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="女" position="bottom" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

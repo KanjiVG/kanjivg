@@ -1,0 +1,30 @@
+<kanji midashi="掣" id="63a3">
+<strokegr element="掣">
+	<strokegr element="制" position="top">
+		<strokegr position="left">
+			<strokegr element="牛" part="1">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="巾">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+				<strokegr element="牛" part="2">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="刂" variant="true" original="刀" position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="手" position="bottom" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇕v"/>
+	</strokegr>
+</strokegr>
+</kanji>

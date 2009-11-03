@@ -1,0 +1,33 @@
+<kanji midashi="彫" id="5f6b">
+<strokegr element="彫">
+	<strokegr element="周" position="left" phon="周">
+		<strokegr element="冂" variant="true">
+			<stroke type="㇒/㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="吉">
+			<strokegr element="士">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="彡" position="right" radical="tradit">
+		<strokegr element="丿" radical="nelson">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

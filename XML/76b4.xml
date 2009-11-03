@@ -1,0 +1,34 @@
+<kanji midashi="皴" id="76b4">
+<strokegr element="皴">
+	<strokegr position="left">
+		<strokegr element="允" position="top">
+			<strokegr element="厶" position="top">
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="儿" position="bottom">
+				<strokegr element="八" variant="true">
+					<strokegr element="丿" position="left">
+						<stroke type="㇒"/>
+					</strokegr>
+					<strokegr position="right">
+						<stroke type="㇟"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="夂" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="皮" position="right" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇖b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇇"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

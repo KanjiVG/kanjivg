@@ -1,0 +1,26 @@
+<kanji midashi="幄" id="5e44VtFst">
+<strokegr element="幄">
+	<strokegr element="巾" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="屋" position="right">
+		<strokegr element="尸" position="tare">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="至">
+			<stroke type="㇐"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<strokegr element="土" variant="true">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

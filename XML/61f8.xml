@@ -1,0 +1,42 @@
+<kanji midashi="懸" id="61f8">
+<strokegr element="懸">
+	<strokegr element="縣" position="top" phon="縣">
+		<strokegr element="県" position="left">
+			<strokegr position="top">
+				<strokegr element="目">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<stroke type="㇗"/>
+			</strokegr>
+			<strokegr element="小" position="bottom">
+				<stroke type="㇚"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="系" position="right">
+			<strokegr element="丿" position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="糸" position="bottom">
+				<stroke type="㇜"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

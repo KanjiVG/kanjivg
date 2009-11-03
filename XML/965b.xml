@@ -1,0 +1,26 @@
+<kanji midashi="陛" id="965b">
+<strokegr element="陛">
+	<strokegr element="⻖" variant="true" original="阜" position="left" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="right" phon="比土">
+		<strokegr element="比" position="top">
+			<strokegr position="left">
+				<stroke type="㇐b"/>
+				<stroke type="㇙"/>
+			</strokegr>
+			<strokegr element="匕" position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="土" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

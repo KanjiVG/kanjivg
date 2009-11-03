@@ -1,0 +1,37 @@
+<kanji midashi="艦" id="8266">
+<strokegr element="艦">
+	<strokegr element="舟" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="監" position="right" phon="監">
+		<strokegr position="top">
+			<strokegr element="臣" position="left">
+				<stroke type="㇑"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="皿" position="bottom">
+			<stroke type="㇑a"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

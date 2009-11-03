@@ -1,0 +1,26 @@
+<kanji midashi="徑" id="5f91">
+<strokegr element="徑">
+	<strokegr element="彳" position="left" radical="general">
+		<stroke type="㇒"/>
+		<strokegr element="亻" variant="true" original="人">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="巛">
+			<stroke type="㇛"/>
+			<stroke type="㇛"/>
+			<stroke type="㇛"/>
+		</strokegr>
+		<strokegr element="工">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

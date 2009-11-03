@@ -1,0 +1,53 @@
+<kanji midashi="黐" id="9ed0Kaisho">
+<strokegr element="黐">
+	<strokegr element="黍" position="left" radical="general">
+		<strokegr position="top">
+			<strokegr element="禾">
+				<strokegr element="丿" position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="木" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="氺" variant="true" original="水" position="bottom">
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="亠">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="凶">
+			<strokegr element="乂">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+			<strokegr element="凵" position="kamae">
+				<stroke type="㇄a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禸">
+			<stroke type="㇑"/>
+			<stroke type="㇆"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

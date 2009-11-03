@@ -1,0 +1,37 @@
+<kanji midashi="隸" id="96b8Kaisho">
+<strokegr element="隸">
+	<strokegr position="left">
+		<strokegr element="木" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="示" position="bottom">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="隶" position="right" radical="general">
+		<strokegr element="⺕" variant="true" original="彑">
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐c"/>
+		</strokegr>
+		<strokegr element="氺" variant="true" original="水">
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

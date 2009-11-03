@@ -1,0 +1,43 @@
+<kanji midashi="蕚" id="855a">
+<strokegr element="蕚">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="品" part="1">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="咢">
+			<strokegr element="品" part="2" position="top">
+				<strokegr element="口" position="left">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<strokegr element="口" position="right">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="二">
+					<strokegr position="top">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr position="bottom">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+				<stroke type="㇉"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,29 @@
+<kanji midashi="罕" id="7f55">
+<strokegr element="罕">
+	<strokegr element="罒" part="1" variant="true" original="网" position="top" radical="tradit">
+		<strokegr element="冖" radical="nelson">
+			<stroke type="㇔"/>
+			<stroke type="㇆"/>
+		</strokegr>
+		<strokegr element="儿">
+			<strokegr element="八" variant="true">
+				<strokegr element="丿" position="left">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="干" position="bottom">
+		<strokegr element="罒" part="2" variant="true" original="网" radical="tradit">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="十">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

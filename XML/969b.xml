@@ -1,0 +1,28 @@
+<kanji midashi="際" id="969b">
+<strokegr element="際">
+	<strokegr element="⻖" variant="true" original="阜" position="left" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="祭" position="right" phon="祭">
+		<strokegr position="top">
+			<strokegr element="月">
+				<stroke type="㇒"/>
+				<stroke type="㇇a"/>
+				<stroke type="㇔/㇐"/>
+				<stroke type="㇔/㇐"/>
+			</strokegr>
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="示" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

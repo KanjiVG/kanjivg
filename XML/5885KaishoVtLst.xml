@@ -1,0 +1,30 @@
+<kanji midashi="墅" id="5885KaishoVtLst">
+<strokegr element="墅">
+	<strokegr element="野" position="top">
+		<strokegr element="里" variant="true" position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+		<strokegr element="予" position="right">
+			<stroke type="㇇"/>
+			<stroke type="㇔"/>
+			<strokegr element="了">
+				<stroke type="㇇a"/>
+				<strokegr element="亅">
+					<stroke type="㇚"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

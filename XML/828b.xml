@@ -1,0 +1,22 @@
+<kanji midashi="芋" id="828b">
+<strokegr element="芋">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="于" position="bottom" phon="于">
+		<strokegr element="二">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="亅">
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

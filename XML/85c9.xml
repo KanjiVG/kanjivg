@@ -1,0 +1,47 @@
+<kanji midashi="藉" id="85c9">
+<strokegr element="藉">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="耒" position="left">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="未">
+				<stroke type="㇐"/>
+				<strokegr element="木">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="昔" position="right">
+			<strokegr position="top">
+				<strokegr element="廾" variant="true">
+					<strokegr element="十" part="1">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr element="丿" variant="true">
+						<stroke type="㇑"/>
+					</strokegr>
+					<strokegr element="十" part="2">
+						<stroke type="㇑"/>
+					</strokegr>
+				</strokegr>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="日" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

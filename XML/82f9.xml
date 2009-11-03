@@ -1,0 +1,22 @@
+<kanji midashi="苹" id="82f9">
+<strokegr element="苹">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="平" variant="true" position="bottom">
+		<strokegr element="干" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+		<strokegr element="干" part="2">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,21 @@
+<kanji midashi="弄" id="5f04">
+<strokegr element="弄">
+	<strokegr element="王" original="玉" partial="true" position="top" radical="nelson">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="廾" position="bottom" radical="tradit">
+		<strokegr element="十" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="十" part="2">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

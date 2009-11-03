@@ -1,0 +1,22 @@
+<kanji midashi="并" id="5e76">
+<strokegr element="并">
+	<strokegr element="八" variant="true" position="top" radical="nelson">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="干" part="1" radical="tradit">
+			<stroke type="㇐"/>
+			<strokegr element="十" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇒"/>
+		<strokegr element="干" part="2" radical="tradit">
+			<strokegr element="十" part="2">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

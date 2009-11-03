@@ -1,0 +1,33 @@
+<kanji midashi="圈" id="5708">
+<strokegr element="圈">
+	<strokegr element="囗" part="1" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+	</strokegr>
+	<strokegr element="卷">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+			<strokegr element="二">
+				<strokegr position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="卩" position="bottom">
+			<stroke type="㇆"/>
+			<stroke type="㇟/㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="囗" part="2" radical="general">
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

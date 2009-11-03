@@ -1,0 +1,20 @@
+<kanji midashi="刻" id="523b">
+<strokegr element="刻">
+	<strokegr element="亥" position="left" phon="亥">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇜"/>
+		<stroke type="㇒"/>
+		<strokegr element="人" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

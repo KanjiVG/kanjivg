@@ -1,0 +1,42 @@
+<kanji midashi="棒" id="68d2">
+<strokegr element="棒">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="奉" position="right" phon="奉">
+		<strokegr position="top">
+			<strokegr element="三">
+				<strokegr element="一" position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr element="大" part="1">
+						<strokegr element="一">
+							<stroke type="㇐"/>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+			<strokegr element="大" part="2">
+				<strokegr element="人">
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

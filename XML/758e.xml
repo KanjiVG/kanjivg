@@ -1,0 +1,30 @@
+<kanji midashi="疎" id="758e">
+<strokegr element="疎">
+	<strokegr element="疋" variant="true" position="left" radical="general" phon="疋">
+		<stroke type="㇖"/>
+		<strokegr element="卜" original="ト">
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="人" variant="true">
+			<stroke type="㇑a/㇒"/>
+			<stroke type="㇀/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="束" position="right">
+		<strokegr element="木" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="木" part="2">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

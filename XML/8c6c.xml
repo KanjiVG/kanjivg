@@ -1,0 +1,30 @@
+<kanji midashi="豬" id="8c6c">
+<strokegr element="豬">
+	<strokegr element="豕" position="left" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇕v"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+	<strokegr element="者" variant="true" position="right">
+		<strokegr element="耂" original="老" partial="true">
+			<strokegr element="土">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇔"/>
+		<strokegr element="日">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,37 @@
+<kanji midashi="絛" id="7d5bKaisho">
+<strokegr element="絛">
+	<strokegr element="攸" part="1" position="left">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="丨" position="right">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="攸" part="2" position="top">
+			<strokegr element="攴" variant="true" original="攵">
+				<strokegr position="top">
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="乂" position="bottom">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="糸" position="bottom" radical="general">
+			<stroke type="㇜"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<stroke type="㇚/㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

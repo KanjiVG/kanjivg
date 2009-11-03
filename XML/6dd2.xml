@@ -1,0 +1,25 @@
+<kanji midashi="淒" id="6dd2">
+<strokegr element="淒">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="妻" position="right">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<strokegr element="⺕" variant="true" original="彑">
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐c"/>
+			</strokegr>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="女" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

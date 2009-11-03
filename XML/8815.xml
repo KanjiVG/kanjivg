@@ -1,0 +1,44 @@
+<kanji midashi="蠕" id="8815">
+<strokegr element="蠕">
+	<strokegr element="虫" position="left" radical="general">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="需" position="right">
+		<strokegr element="雨" variant="true" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇔/㇑"/>
+			<stroke type="㇖b/㇆"/>
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="而" position="bottom">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="冂">
+					<stroke type="㇑"/>
+					<stroke type="㇆a"/>
+				</strokegr>
+				<stroke type="㇑"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

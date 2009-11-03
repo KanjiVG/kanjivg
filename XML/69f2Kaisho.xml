@@ -1,0 +1,35 @@
+<kanji midashi="槲" id="69f2Kaisho">
+<strokegr element="槲">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="斛" position="right">
+		<strokegr element="角" position="left">
+			<strokegr element="𠂊" variant="true" original="勹" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇇a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="斗" position="right">
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

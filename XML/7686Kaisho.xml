@@ -1,0 +1,25 @@
+<kanji midashi="皆" id="7686Kaisho">
+<strokegr element="皆">
+	<strokegr element="比" position="top" radical="nelson">
+		<strokegr position="left">
+			<stroke type="㇐b"/>
+			<stroke type="㇙"/>
+		</strokegr>
+		<strokegr element="匕" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom" radical="tradit">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

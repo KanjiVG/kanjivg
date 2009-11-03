@@ -1,0 +1,32 @@
+<kanji midashi="揀" id="63c0">
+<strokegr element="揀">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="柬" position="right">
+		<strokegr element="束" part="1">
+			<strokegr element="木" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口" part="1">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="束">
+			<strokegr element="口" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="木" part="2">
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

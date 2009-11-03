@@ -1,0 +1,42 @@
+<kanji midashi="樹" id="6a39">
+<strokegr element="樹">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr position="right" phon="土+豆+寸">
+		<strokegr position="left">
+			<strokegr element="吉" part="1">
+				<strokegr element="士">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<strokegr element="豆" part="1">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="豆" part="2">
+					<strokegr element="吉" part="2">
+						<strokegr element="口">
+							<stroke type="㇑"/>
+							<stroke type="㇕b"/>
+							<stroke type="㇐b"/>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+			<strokegr element="豆" part="3">
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<stroke type="㇀/㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="寸" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

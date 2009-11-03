@@ -1,0 +1,26 @@
+<kanji midashi="輔" id="8f14">
+<strokegr element="輔">
+	<strokegr element="車" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="甫" position="right">
+		<stroke type="㇐"/>
+		<strokegr element="用" variant="true">
+			<stroke type="㇑"/>
+			<stroke type="㇆"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

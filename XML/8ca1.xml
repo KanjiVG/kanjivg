@@ -1,0 +1,26 @@
+<kanji midashi="財" id="8ca1">
+<strokegr element="財">
+	<strokegr element="貝" position="left" radical="general">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="才" position="right" phon="才">
+		<strokegr element="扌" variant="true" original="手">
+			<stroke type="㇐"/>
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

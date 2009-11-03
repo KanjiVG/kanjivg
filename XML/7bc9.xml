@@ -1,0 +1,42 @@
+<kanji midashi="築" id="7bc9">
+<strokegr element="築">
+	<strokegr element="筑" position="top">
+		<strokegr element="竹" variant="true" position="top" radical="general" phon="竹">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇔/㇑"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇒/㇚"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="工" position="left">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇀/㇐"/>
+			</strokegr>
+			<strokegr element="凡" position="right">
+				<strokegr element="几">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇈b"/>
+				</strokegr>
+				<strokegr element="丶">
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="木" position="bottom">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,24 @@
+<kanji midashi="衆" id="8846">
+<strokegr element="衆">
+	<strokegr element="血" position="top" radical="general">
+		<stroke type="㇒"/>
+		<strokegr element="皿">
+			<stroke type="㇑a"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<strokegr element="亻" variant="true" original="人">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

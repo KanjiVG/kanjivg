@@ -1,0 +1,43 @@
+<kanji midashi="黎" id="9eceKaisho">
+<strokegr element="黎" position="top">
+	<strokegr position="left">
+		<strokegr element="黍" part="1" radical="tradit">
+			<strokegr element="禾" position="top">
+				<strokegr element="丿" position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="木" position="bottom">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+			<strokegr position="right">
+				<strokegr element="勹">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇆"/>
+				</strokegr>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="黍" part="2" radical="tradit">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="氺" variant="true" original="水" position="bottom" radical="nelson">
+				<stroke type="㇚"/>
+				<stroke type="㇔"/>
+				<stroke type="㇀"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

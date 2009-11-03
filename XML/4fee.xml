@@ -1,0 +1,40 @@
+<kanji midashi="修" id="4fee">
+<strokegr element="修">
+	<strokegr element="攸" part="1" position="left" phon="攸1">
+		<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="攸" part="2" position="right" phon="攸2">
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="攴" original="攵">
+				<strokegr position="top">
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="乂" position="bottom">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="彡">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

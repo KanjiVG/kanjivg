@@ -1,0 +1,24 @@
+<kanji midashi="塚" id="585a">
+<strokegr element="塚">
+	<strokegr element="土" variant="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="冢" partial="true" position="right" phon="冢V">
+		<strokegr element="冖" position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+		<strokegr element="豕" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇕v"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

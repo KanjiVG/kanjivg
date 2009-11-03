@@ -1,0 +1,31 @@
+<kanji midashi="膚" id="819aKaisho">
+<strokegr element="膚">
+	<strokegr element="虍" radical="nelson">
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+		<stroke type="㇖a"/>
+		<strokegr element="七">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇟a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="胃">
+		<strokegr element="田" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="月" position="bottom" radical="tradit">
+			<stroke type="㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

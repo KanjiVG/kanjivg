@@ -1,0 +1,26 @@
+<kanji midashi="悒" id="6092">
+<strokegr element="悒">
+	<strokegr element="忄" variant="true" original="心" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="邑" position="right">
+		<strokegr element="口" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="巴" position="bottom">
+			<strokegr element="己" part="1" original="巳">
+				<stroke type="㇕c"/>
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="己" part="2" original="巳">
+				<stroke type="㇐c"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

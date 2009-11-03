@@ -1,0 +1,45 @@
+<kanji midashi="凜" id="51dcKaisho">
+<strokegr element="凜">
+	<strokegr element="冫" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇀"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="稟" position="right">
+		<strokegr position="top">
+			<strokegr element="亠" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="回" position="bottom">
+				<strokegr element="囗" part="1">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+				</strokegr>
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<strokegr element="囗" part="2">
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禾" variant="true" position="bottom">
+			<strokegr element="丿" position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="木" variant="true" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇚/㇑"/>
+				<stroke type="㇔/㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

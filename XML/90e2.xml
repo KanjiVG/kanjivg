@@ -1,0 +1,28 @@
+<kanji midashi="郢" id="90e2">
+<strokegr element="郢">
+	<strokegr element="呈" variant="true" position="left">
+		<strokegr element="口" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="王" original="玉" partial="true" position="bottom">
+			<strokegr element="壬" variant="true">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="士" variant="true">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇀"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻏" variant="true" original="邑" position="right" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,25 @@
+<kanji midashi="猪" id="732a">
+<strokegr element="猪">
+	<strokegr element="⺨" variant="true" original="犬" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="者" position="right">
+		<strokegr element="耂" original="老" partial="true">
+			<strokegr element="土">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="日">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

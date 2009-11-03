@@ -1,0 +1,27 @@
+<kanji midashi="緊" id="7dca">
+<strokegr element="緊">
+	<strokegr position="top" phon="臤">
+		<strokegr element="臣" position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="又" position="right">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="糸" position="bottom" radical="general">
+		<stroke type="㇜"/>
+		<stroke type="㇜"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

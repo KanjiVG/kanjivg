@@ -1,0 +1,29 @@
+<kanji midashi="壷" id="58f7">
+<strokegr element="壷">
+	<strokegr element="士" variant="true" original="土" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="冖" position="bottom">
+		<stroke type="㇔"/>
+		<strokegr element="亜" part="1" variant="true">
+			<strokegr element="二" part="1" variant="true">
+				<stroke type="㇖"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="亜" part="2" variant="true">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<strokegr element="二" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

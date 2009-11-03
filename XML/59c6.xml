@@ -1,0 +1,20 @@
+<kanji midashi="姆" id="59c6">
+<strokegr element="姆">
+	<strokegr element="女" variant="true" position="left" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="母" position="right">
+		<strokegr element="毋" part="1" variant="true">
+			<stroke type="㇛"/>
+			<stroke type="㇆"/>
+		</strokegr>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<strokegr element="毋" part="2" variant="true">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

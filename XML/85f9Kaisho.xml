@@ -1,0 +1,45 @@
+<kanji midashi="藹" id="85f9Kaisho">
+<strokegr element="藹">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="謁" variant="true" position="bottom">
+		<strokegr element="言" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="曷" position="right">
+			<strokegr element="日" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="匂" variant="true" position="bottom">
+				<strokegr element="勹">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇆"/>
+				</strokegr>
+				<strokegr element="匕" variant="true">
+					<strokegr element="人">
+						<stroke type="㇒"/>
+						<stroke type="㇏"/>
+					</strokegr>
+					<stroke type="㇄"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

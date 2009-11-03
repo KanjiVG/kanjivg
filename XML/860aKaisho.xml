@@ -1,0 +1,40 @@
+<kanji midashi="蘊" id="860aKaisho">
+<strokegr element="蘊">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="糸" variant="true" position="left">
+			<stroke type="㇜"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="囚" position="top">
+				<strokegr element="囗" part="1">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+				</strokegr>
+				<strokegr element="人" variant="true">
+					<stroke type="㇒"/>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+				<strokegr element="囗" part="2">
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="皿" position="bottom">
+				<stroke type="㇑a"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,28 @@
+<kanji midashi="厨" id="53a8">
+<strokegr element="厨">
+	<strokegr element="厂" position="tare" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="豆" position="left">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="寸" position="right">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

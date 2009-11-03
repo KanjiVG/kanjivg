@@ -1,0 +1,30 @@
+<kanji midashi="揣" id="63e3">
+<strokegr element="揣">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="山" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇄a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="而" position="bottom">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="冂">
+					<stroke type="㇑"/>
+					<stroke type="㇆a"/>
+				</strokegr>
+				<stroke type="㇑"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

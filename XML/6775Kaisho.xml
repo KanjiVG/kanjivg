@@ -1,0 +1,24 @@
+<kanji midashi="杵" id="6775Kaisho">
+<strokegr element="杵">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="午" position="right">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<strokegr element="干" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="干" part="2" position="bottom">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

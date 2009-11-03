@@ -1,0 +1,36 @@
+<kanji midashi="孀" id="5b40Kaisho">
+<strokegr element="孀">
+	<strokegr element="女" variant="true" position="left" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="霜" position="right">
+		<strokegr element="雨" variant="true" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇔/㇑"/>
+			<stroke type="㇖b/㇆"/>
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="相" position="bottom">
+			<strokegr element="木" position="left">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="目" position="right">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

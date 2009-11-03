@@ -1,0 +1,41 @@
+<kanji midashi="廝" id="5eddKaisho">
+<strokegr element="廝">
+	<strokegr element="广" position="tare" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="斯">
+		<strokegr element="其" position="left">
+			<strokegr position="top">
+				<strokegr element="甘">
+					<strokegr element="廿" part="1">
+						<strokegr element="十">
+							<stroke type="㇐"/>
+							<stroke type="㇑a"/>
+						</strokegr>
+						<stroke type="㇑a"/>
+					</strokegr>
+					<stroke type="㇐a"/>
+					<strokegr element="廿" part="2">
+						<stroke type="㇐a"/>
+					</strokegr>
+				</strokegr>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="八" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="斤" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

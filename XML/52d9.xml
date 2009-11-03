@@ -1,0 +1,39 @@
+<kanji midashi="務" id="52d9">
+<strokegr element="務">
+	<strokegr element="矛" position="left" radical="nelson" phon="矛">
+		<strokegr element="予">
+			<strokegr element="マ" position="top">
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="了" position="bottom">
+				<stroke type="㇇a"/>
+				<strokegr element="亅">
+					<stroke type="㇕v"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="攴" variant="true" original="攵" position="top">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="乂" position="bottom">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="力" position="bottom" radical="tradit">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

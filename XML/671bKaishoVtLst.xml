@@ -1,0 +1,29 @@
+<kanji midashi="望" id="671bKaishoVtLst">
+<strokegr element="望">
+	<strokegr position="top">
+		<strokegr element="亡" position="left">
+			<strokegr element="亠">
+				<stroke type="㇔/㇑a"/>
+				<strokegr element="匸" part="1" variant="true" original="匚">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="匸" part="2" variant="true" original="匚">
+				<stroke type="㇙/㇄"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="月" variant="true" position="right" radical="tradit">
+			<stroke type="㇒"/>
+			<stroke type="㇇/㇆"/>
+			<stroke type="㇔/㇐"/>
+			<stroke type="㇔/㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="王" original="玉" partial="true" position="bottom" radical="nelson">
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

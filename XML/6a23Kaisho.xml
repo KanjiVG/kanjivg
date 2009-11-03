@@ -1,0 +1,31 @@
+<kanji midashi="樣" id="6a23Kaisho">
+<strokegr element="樣">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="羊" variant="true" position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="永" position="bottom">
+			<strokegr element="丶" position="top">
+				<stroke type="㇐/㇔"/>
+			</strokegr>
+			<strokegr element="水" variant="true" position="bottom">
+				<stroke type="㇆"/>
+				<stroke type="㇇"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

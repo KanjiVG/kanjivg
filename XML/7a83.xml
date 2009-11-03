@@ -1,0 +1,29 @@
+<kanji midashi="窃" id="7a83">
+<strokegr element="窃">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟a/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="切" position="bottom" phon="切">
+		<strokegr element="七" position="left">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇟a"/>
+		</strokegr>
+		<strokegr element="刀" position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

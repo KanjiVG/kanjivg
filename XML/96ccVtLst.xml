@@ -1,0 +1,30 @@
+<kanji midashi="雌" id="96ccVtLst">
+<strokegr element="雌">
+	<strokegr element="此" position="left">
+		<strokegr element="止" position="left" radical="nelson">
+			<strokegr element="卜" original="ト">
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+		<strokegr element="匕" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="隹" position="right" radical="tradit">
+		<strokegr element="亻" variant="true" original="人">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

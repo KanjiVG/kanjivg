@@ -1,0 +1,36 @@
+<kanji midashi="塀" id="5840">
+<strokegr element="塀">
+	<strokegr element="土" variant="true" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="屏" position="right" phon="屏">
+		<strokegr element="尸" position="tare">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="并">
+			<strokegr position="top">
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="干" part="1">
+					<stroke type="㇐"/>
+					<strokegr element="十" part="1">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+				<stroke type="㇒"/>
+				<strokegr element="干" part="2">
+					<strokegr element="十" part="2">
+						<stroke type="㇑"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

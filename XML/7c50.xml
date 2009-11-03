@@ -1,0 +1,49 @@
+<kanji midashi="籐" id="7c50">
+<strokegr element="籐">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="滕" position="bottom">
+		<strokegr element="月" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+				<strokegr element="二">
+					<strokegr position="top">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr position="bottom">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="人">
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="氺" variant="true" original="水" position="bottom">
+				<stroke type="㇚"/>
+				<stroke type="㇔"/>
+				<stroke type="㇀"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

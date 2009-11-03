@@ -1,0 +1,26 @@
+<kanji midashi="候" id="5019">
+<strokegr element="候">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="right" phon="矦V">
+		<strokegr element="丨">
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇕c"/>
+		<stroke type="㇐"/>
+		<strokegr element="矢">
+			<stroke type="㇒"/>
+			<strokegr element="天">
+				<stroke type="㇐"/>
+				<strokegr element="大">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

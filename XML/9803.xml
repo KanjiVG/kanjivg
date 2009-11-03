@@ -1,0 +1,27 @@
+<kanji midashi="頃" id="9803">
+<strokegr element="頃">
+	<strokegr element="匕" variant="true" position="left" radical="nelson">
+		<stroke type="㇐/㇒"/>
+		<stroke type="㇟"/>
+	</strokegr>
+	<strokegr element="頁" position="right" radical="tradit">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="貝" position="bottom">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

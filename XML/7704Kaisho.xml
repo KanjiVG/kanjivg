@@ -1,0 +1,21 @@
+<kanji midashi="眄" id="7704Kaisho">
+<strokegr element="眄">
+	<strokegr element="目" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="正" position="right">
+		<stroke type="㇐"/>
+		<strokegr element="止">
+			<strokegr element="卜" original="ト">
+				<stroke type="㇑"/>
+				<stroke type="㇆"/>
+			</strokegr>
+			<stroke type="㇄"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

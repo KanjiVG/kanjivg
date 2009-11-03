@@ -1,0 +1,24 @@
+<kanji midashi="夏" id="590f">
+<strokegr element="夏">
+	<strokegr position="top">
+		<strokegr element="一" radical="nelson">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="自">
+			<stroke type="㇒"/>
+			<strokegr element="目">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="夂" position="bottom" radical="tradit">
+		<stroke type="㇒"/>
+		<stroke type="㇇"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

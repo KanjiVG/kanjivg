@@ -1,0 +1,34 @@
+<kanji midashi="嶼" id="5dbc">
+<strokegr element="嶼">
+	<strokegr element="山" position="left" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="與" position="right">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇇"/>
+			<stroke type="㇑"/>
+			<strokegr element="𦥑" variant="true" original="臼">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="八" position="bottom">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

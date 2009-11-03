@@ -1,0 +1,37 @@
+<kanji midashi="蘆" id="8606Kaisho">
+<strokegr element="蘆">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="盧" position="bottom">
+		<strokegr element="虍" position="tare">
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+			<stroke type="㇖a"/>
+			<strokegr element="七">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇟a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="田">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="皿">
+			<stroke type="㇑a"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

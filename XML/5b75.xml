@@ -1,0 +1,40 @@
+<kanji midashi="孵" id="5b75">
+<strokegr element="孵">
+	<strokegr element="卵" position="left">
+		<strokegr element="卯" part="1">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+				<stroke type="㇙"/>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="卯" part="2">
+				<strokegr element="丿" radical="nelson">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="卩" position="right">
+				<stroke type="㇆"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="孚" position="right">
+		<strokegr element="⺤" variant="true" original="爪" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="子" position="bottom" radical="tradit">
+			<stroke type="㇖"/>
+			<stroke type="㇕v"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,39 @@
+<kanji midashi="櫓" id="6ad3">
+<strokegr element="櫓">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="魯" position="right">
+		<strokegr element="魚" position="top">
+			<strokegr element="𠂊" variant="true" original="勹" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="田">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr element="灬" variant="true" original="火">
+					<stroke type="㇔"/>
+					<stroke type="㇔"/>
+					<stroke type="㇔"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

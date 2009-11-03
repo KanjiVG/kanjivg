@@ -1,0 +1,45 @@
+<kanji midashi="鹸" id="9e78">
+<strokegr element="鹸">
+	<strokegr element="鹵" position="left" radical="general">
+		<strokegr element="卜" original="ト" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="囗" part="1">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<strokegr element="囗" part="2">
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="僉" partial="true" position="right">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

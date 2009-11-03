@@ -1,0 +1,44 @@
+<kanji midashi="鬩" id="9b29HzFst">
+<strokegr element="鬩">
+	<strokegr element="鬥" position="kamae" radical="general">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<strokegr element="王" original="玉" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="王" original="玉" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="兒">
+		<strokegr element="臼" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="儿" position="bottom">
+			<strokegr element="八" variant="true">
+				<strokegr element="丿" position="left">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

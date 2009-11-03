@@ -1,0 +1,30 @@
+<kanji midashi="慵" id="6175">
+<strokegr element="慵">
+	<strokegr element="忄" variant="true" original="心" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="庸" position="right">
+		<strokegr element="广" position="tare">
+			<stroke type="㇑a"/>
+			<strokegr element="厂">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="⺕" variant="true" original="彑">
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐c"/>
+		</strokegr>
+		<strokegr element="用" variant="true">
+			<stroke type="㇒"/>
+			<stroke type="㇆"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

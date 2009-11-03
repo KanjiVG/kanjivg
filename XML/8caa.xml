@@ -1,0 +1,29 @@
+<kanji midashi="貪" id="8caa">
+<strokegr element="貪">
+	<strokegr element="今" position="top">
+		<strokegr element="人" position="top" radical="nelson">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇕"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="貝" position="bottom" radical="tradit">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

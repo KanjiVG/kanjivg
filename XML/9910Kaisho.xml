@@ -1,0 +1,32 @@
+<kanji midashi="餐" id="9910Kaisho">
+<strokegr element="餐">
+	<strokegr position="top">
+		<strokegr position="left">
+			<strokegr element="卜" original="ト" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="夕" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="又" position="right">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="食" position="bottom" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇙"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

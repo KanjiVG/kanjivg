@@ -1,0 +1,22 @@
+<kanji midashi="莱" id="83b1Kaisho">
+<strokegr element="莱">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="来" position="bottom">
+		<stroke type="㇐"/>
+		<strokegr element="米">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<strokegr element="木">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

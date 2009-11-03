@@ -1,0 +1,35 @@
+<kanji midashi="墮" id="58aeKaisho">
+<strokegr element="墮">
+	<strokegr element="隋" position="top">
+		<strokegr element="⻖" variant="true" original="阜" position="left">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="左" position="top">
+				<strokegr position="kamae">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="工">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="月" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

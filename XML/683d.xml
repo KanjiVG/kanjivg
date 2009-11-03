@@ -1,0 +1,34 @@
+<kanji midashi="栽" id="683d">
+<strokegr element="栽">
+	<strokegr element="土" phon="土戈1">
+		<strokegr element="十" radical="nelson">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="戈" part="1">
+			<strokegr element="弋" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="木" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="戈" part="2" phon="土戈2">
+		<strokegr element="弋" part="2">
+			<stroke type="㇂"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="弋" part="3">
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

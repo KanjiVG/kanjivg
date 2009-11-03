@@ -1,0 +1,22 @@
+<kanji midashi="荻" id="837b">
+<strokegr element="荻">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="狄" position="bottom">
+		<strokegr element="⺨" variant="true" original="犬" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="火" position="right">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,30 @@
+<kanji midashi="乘" id="4e58Kaisho">
+<strokegr element="乘">
+	<strokegr element="禾" part="1">
+		<strokegr element="丿" radical="general">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="木" part="1">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="北">
+		<strokegr position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="匕" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="禾" part="2">
+		<strokegr element="木" part="1">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

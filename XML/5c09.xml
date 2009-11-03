@@ -1,0 +1,29 @@
+<kanji midashi="尉" id="5c09">
+<strokegr element="尉">
+	<strokegr position="left">
+		<strokegr element="尸" position="tare">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="示">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="寸" position="right" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,30 @@
+<kanji midashi="腔" id="8154">
+<strokegr element="腔">
+	<strokegr element="月" variant="true" original="肉" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="空" position="right">
+		<strokegr element="穴" variant="true" position="top">
+			<strokegr element="宀">
+				<stroke type="㇑a"/>
+				<strokegr element="冖">
+					<stroke type="㇔"/>
+					<stroke type="㇖b"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="八" variant="true">
+				<stroke type="㇒"/>
+				<stroke type="㇟a/㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="工" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

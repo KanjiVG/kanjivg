@@ -1,0 +1,25 @@
+<kanji midashi="兵" id="5175">
+<strokegr element="兵">
+	<strokegr element="丘" position="top">
+		<strokegr element="斤">
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="八" position="bottom" radical="tradit">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

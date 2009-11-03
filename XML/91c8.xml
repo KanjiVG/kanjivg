@@ -1,0 +1,29 @@
+<kanji midashi="釈" id="91c8">
+<strokegr element="釈">
+	<strokegr element="釆" position="left" radical="general">
+		<strokegr element="丿" position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="米" variant="true" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="尺" position="right" phon="尺">
+		<strokegr element="尸">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<strokegr element="八" part="1">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" part="2">
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,42 @@
+<kanji midashi="焼" id="713c">
+<strokegr element="焼">
+	<strokegr element="火" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="尭" position="right">
+		<strokegr element="卉" position="top">
+			<strokegr element="十" position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="廾" position="bottom">
+				<strokegr element="十" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="丿">
+					<stroke type="㇑a/㇒"/>
+				</strokegr>
+				<strokegr element="十" part="2">
+					<stroke type="㇑a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="兀">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="儿" original="八">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

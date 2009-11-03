@@ -1,0 +1,27 @@
+<kanji midashi="榔" id="6994">
+<strokegr element="榔">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="郎" position="right">
+		<strokegr element="良" partial="true" position="left">
+			<stroke type="㇑a"/>
+			<strokegr element="艮" partial="true">
+				<stroke type="㇕"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇙"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="⻏" variant="true" original="邑" position="right">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

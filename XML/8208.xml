@@ -1,0 +1,38 @@
+<kanji midashi="興" id="8208">
+<strokegr element="興">
+	<strokegr position="top">
+		<strokegr element="𦥑" part="1" variant="true" original="臼" tradForm="true">
+			<stroke type="㇒"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇐b"/>
+		<strokegr element="同">
+			<strokegr element="冂">
+				<stroke type="㇑a"/>
+				<stroke type="㇕b/㇆"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="𦥑" part="2" variant="true" original="臼" tradForm="true">
+			<stroke type="㇕c"/>
+			<stroke type="㇐c"/>
+		</strokegr>
+		<stroke type="㇐c"/>
+		<strokegr element="𦥑" part="3" variant="true" original="臼" tradForm="true">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="八" variant="true" position="bottom" radical="nelson">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

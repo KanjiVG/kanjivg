@@ -1,0 +1,30 @@
+<kanji midashi="愉" id="6109Kaisho">
+<strokegr element="愉">
+	<strokegr element="忄" variant="true" original="心" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="兪" variant="true" position="right">
+		<strokegr element="入" original="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="月">
+				<stroke type="㇒"/>
+				<stroke type="㇆"/>
+				<stroke type="㇐/㇔"/>
+				<stroke type="㇐/㇔"/>
+			</strokegr>
+			<strokegr element="刂" variant="true" original="刀">
+				<stroke type="㇑"/>
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,28 @@
+<kanji midashi="誑" id="8a91">
+<strokegr element="誑">
+	<strokegr element="言" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="狂" position="right">
+		<strokegr element="⺨" variant="true" original="犬" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="王" original="玉" partial="true" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

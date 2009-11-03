@@ -1,0 +1,22 @@
+<kanji midashi="刑" id="5211">
+<strokegr element="刑">
+	<strokegr element="幵" partial="true" position="left" phon="井">
+		<strokegr element="干">
+			<stroke type="㇐"/>
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇒/㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="干" partial="true">
+			<strokegr element="十" partial="true">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

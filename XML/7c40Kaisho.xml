@@ -1,0 +1,45 @@
+<kanji midashi="籀" id="7c40Kaisho">
+<strokegr element="籀">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="扌" variant="true" original="手" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="留" position="right">
+			<strokegr element="卯" variant="true" position="top">
+				<strokegr position="left">
+					<stroke type="㇒"/>
+					<stroke type="㇙"/>
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr element="卩" original="刀" position="right">
+					<stroke type="㇆"/>
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+			<strokegr element="田" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

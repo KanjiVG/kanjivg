@@ -1,0 +1,27 @@
+<kanji midashi="閉" id="9589">
+<strokegr element="閉">
+	<strokegr element="門" position="kamae" radical="general">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="才">
+		<strokegr element="扌" variant="true" original="手">
+			<stroke type="㇐"/>
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

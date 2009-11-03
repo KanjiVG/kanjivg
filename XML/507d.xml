@@ -1,0 +1,29 @@
+<kanji midashi="偽" id="507d">
+<strokegr element="偽">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="為" position="right" phon="為/爲V">
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="勹" part="1">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇕c"/>
+		<stroke type="㇕b"/>
+		<strokegr element="勹" part="2">
+			<stroke type="㇆"/>
+		</strokegr>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

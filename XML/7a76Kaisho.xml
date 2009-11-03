@@ -1,0 +1,23 @@
+<kanji midashi="究" id="7a76Kaisho">
+<strokegr element="究">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true">
+			<stroke type="㇒"/>
+			<stroke type="㇟a/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="九" position="bottom">
+		<stroke type="㇒"/>
+		<strokegr element="乙">
+			<stroke type="㇈"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,38 @@
+<kanji midashi="剩" id="5269">
+<strokegr element="剩">
+	<strokegr position="left">
+		<strokegr element="乘">
+			<strokegr element="禾" part="1">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="木" part="1">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="北">
+			<strokegr position="left">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇀"/>
+			</strokegr>
+			<strokegr element="匕" position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禾" part="2">
+			<strokegr element="木" part="1">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="tradit">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

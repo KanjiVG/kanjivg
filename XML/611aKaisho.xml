@@ -1,0 +1,29 @@
+<kanji midashi="愚" id="611aKaisho">
+<strokegr element="愚">
+	<strokegr element="禺" position="top">
+		<strokegr element="日">
+			<strokegr element="田" part="1" variant="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="禸">
+			<stroke type="㇑"/>
+			<stroke type="㇆"/>
+			<strokegr element="田" part="2" variant="true">
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="６"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

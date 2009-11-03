@@ -1,0 +1,33 @@
+<kanji midashi="麾" id="9ebeKaisho">
+<strokegr element="麾">
+	<strokegr element="麻" variant="true" position="tare" radical="general">
+		<strokegr element="广" position="tare">
+			<stroke type="㇑a"/>
+			<strokegr element="厂">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="林" variant="true">
+			<strokegr element="木" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+			<strokegr element="木" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇟/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="毛">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇟"/>
+	</strokegr>
+</strokegr>
+</kanji>

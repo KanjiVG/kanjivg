@@ -1,0 +1,26 @@
+<kanji midashi="脅" id="8105">
+<strokegr element="脅">
+	<strokegr position="top" phon="劦">
+		<strokegr element="力" position="top">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="力">
+				<stroke type="㇆"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="力">
+				<stroke type="㇆"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="月" position="bottom" radical="tradit">
+		<stroke type="㇑/㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,24 @@
+<kanji midashi="唖" id="5516">
+<strokegr element="唖">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="亜" position="right">
+		<strokegr element="二" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+		<strokegr element="二" part="2">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

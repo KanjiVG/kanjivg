@@ -1,0 +1,24 @@
+<kanji midashi="粥" id="7ca5">
+<strokegr element="粥">
+	<strokegr element="弓" position="left" radical="nelson">
+		<stroke type="㇕c"/>
+		<stroke type="㇐"/>
+		<stroke type="㇉"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="米" variant="true" position="left" radical="tradit">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="弓" position="right">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇉"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,29 @@
+<kanji midashi="挽" id="633dJinmei">
+<strokegr element="挽">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="免" position="right">
+		<strokegr position="top">
+			<strokegr element="𠂊" variant="true" original="勹">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="儿" original="八" position="bottom">
+			<strokegr element="丿" position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

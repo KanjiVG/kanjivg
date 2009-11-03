@@ -1,0 +1,30 @@
+<kanji midashi="郡" id="90e1">
+<strokegr element="郡">
+	<strokegr element="君" position="left" phon="君">
+		<strokegr element="尹">
+			<strokegr element="⺕" variant="true" original="彑">
+				<strokegr element="尸" part="1">
+					<stroke type="㇕c"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="尸" part="2">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻏" variant="true" original="邑" position="right" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

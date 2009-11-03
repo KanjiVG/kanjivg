@@ -1,0 +1,35 @@
+<kanji midashi="鬧" id="9b27Kaisho">
+<strokegr element="鬧">
+	<strokegr element="鬥" position="kamae" radical="tradit">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<strokegr element="王" original="玉" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="王" original="玉" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="市">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="巾" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

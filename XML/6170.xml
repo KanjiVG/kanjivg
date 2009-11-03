@@ -1,0 +1,35 @@
+<kanji midashi="慰" id="6170">
+<strokegr element="慰">
+	<strokegr element="尉" position="top" phon="尉">
+		<strokegr position="left">
+			<strokegr element="尸" position="tare">
+				<stroke type="㇕c"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="示">
+				<strokegr position="top">
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="寸" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

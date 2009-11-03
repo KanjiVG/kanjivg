@@ -1,0 +1,30 @@
+<kanji midashi="頗" id="9817">
+<strokegr element="頗">
+	<strokegr element="皮" position="left" radical="nelson">
+		<stroke type="㇒"/>
+		<stroke type="㇖"/>
+		<stroke type="㇑"/>
+		<stroke type="㇇"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="頁" position="right" radical="tradit">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="貝" position="bottom">
+			<strokegr element="目" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

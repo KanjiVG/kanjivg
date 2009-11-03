@@ -1,0 +1,31 @@
+<kanji midashi="梔" id="6894">
+<strokegr element="梔">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="巵" position="right">
+		<strokegr position="tare">
+			<strokegr element="厂" variant="true">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="巴">
+			<strokegr element="己" part="1" original="巳">
+				<stroke type="㇕c"/>
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="己" part="2" original="巳">
+				<stroke type="㇐c"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

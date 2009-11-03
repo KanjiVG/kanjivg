@@ -1,0 +1,34 @@
+<kanji midashi="堯" id="582f">
+<strokegr element="堯">
+	<strokegr position="top">
+		<strokegr element="土" position="top" radical="general">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="土" position="left" radical="general">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇀/㇐"/>
+			</strokegr>
+			<strokegr element="土" position="right" radical="general">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="兀" position="bottom">
+		<strokegr element="一">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="儿" original="八">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

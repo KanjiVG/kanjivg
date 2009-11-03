@@ -1,0 +1,38 @@
+<kanji midashi="學" id="5b78">
+<strokegr element="學">
+	<strokegr position="top">
+		<strokegr element="爻">
+			<strokegr element="乂" position="top">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="乂" position="bottom">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="𦥑" variant="true" original="臼">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="子" position="bottom" radical="tradit">
+		<stroke type="㇖"/>
+		<stroke type="㇕v"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

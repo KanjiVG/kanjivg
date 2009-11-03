@@ -1,0 +1,37 @@
+<kanji midashi="輿" id="8f3f">
+<strokegr element="輿">
+	<strokegr position="top">
+		<strokegr element="臼" part="1">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="車" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="臼" part="2">
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="臼" part="3">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="八" position="bottom" radical="nelson">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

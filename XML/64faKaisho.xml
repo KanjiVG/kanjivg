@@ -1,0 +1,42 @@
+<kanji midashi="擺" id="64faKaisho">
+<strokegr element="擺">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="罷" position="right">
+		<strokegr element="罒" variant="true" original="网" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="能" position="bottom">
+			<strokegr position="left">
+				<strokegr element="厶" position="top">
+					<stroke type="㇜"/>
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr element="月" position="bottom">
+					<stroke type="㇒"/>
+					<stroke type="㇆a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+			<strokegr position="right">
+				<strokegr element="匕" position="top">
+					<stroke type="㇒"/>
+					<stroke type="㇟"/>
+				</strokegr>
+				<strokegr element="匕" position="bottom">
+					<stroke type="㇒"/>
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

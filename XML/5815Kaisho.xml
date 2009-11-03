@@ -1,0 +1,26 @@
+<kanji midashi="堕" id="5815Kaisho">
+<strokegr element="堕">
+	<strokegr element="陏" position="top">
+		<strokegr element="⻖" variant="true" original="阜" position="left">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="有" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<strokegr element="月">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

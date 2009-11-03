@@ -1,0 +1,20 @@
+<kanji midashi="卓" id="5353">
+<strokegr element="卓">
+	<strokegr element="卜" original="ト" position="top" radical="nelson">
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="早" position="bottom">
+		<strokegr element="日" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="十" position="bottom" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

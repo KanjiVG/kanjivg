@@ -1,0 +1,37 @@
+<kanji midashi="樔" id="6a14Kaisho">
+<strokegr element="樔">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="巣" variant="true" position="right">
+		<strokegr element="⺍" variant="true" original="つ" position="top">
+			<strokegr element="巛">
+				<stroke type="㇛"/>
+				<stroke type="㇛"/>
+				<stroke type="㇛"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="果" position="bottom">
+			<strokegr element="田" part="1">
+				<strokegr element="日">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="木">
+				<stroke type="㇐"/>
+				<strokegr element="田" part="2">
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

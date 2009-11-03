@@ -1,0 +1,40 @@
+<kanji midashi="諺" id="8afaKaisho">
+<strokegr element="諺">
+	<strokegr element="言" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="彦" position="right">
+		<strokegr element="立">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<strokegr element="厂" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="厂" part="2">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="彡">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

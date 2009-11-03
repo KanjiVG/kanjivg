@@ -1,0 +1,46 @@
+<kanji midashi="鷹" id="9df9Kaisho">
+<strokegr element="鷹">
+	<strokegr element="广" part="1" position="tare" radical="nelson">
+		<stroke type="㇑a"/>
+		<strokegr element="雁">
+			<strokegr element="厂">
+				<strokegr element="广" part="2" radical="nelson">
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="隹" position="right">
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="鳥" radical="tradit">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

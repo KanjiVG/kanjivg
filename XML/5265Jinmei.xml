@@ -1,0 +1,22 @@
+<kanji midashi="剥" id="5265Jinmei">
+<strokegr element="剥">
+	<strokegr position="left">
+		<strokegr element="彑">
+			<stroke type="㇗"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="氺" variant="true" original="水">
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

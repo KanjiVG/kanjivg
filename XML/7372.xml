@@ -1,0 +1,34 @@
+<kanji midashi="獲" id="7372">
+<strokegr element="獲">
+	<strokegr element="⺨" variant="true" original="犬" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr position="right" phon="蒦">
+		<strokegr element="艹" variant="true" original="艸" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="隻" position="bottom">
+			<strokegr element="隹" position="top">
+				<strokegr element="亻" variant="true" original="人">
+					<stroke type="㇒"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇒"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="又" position="bottom">
+				<stroke type="㇇"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

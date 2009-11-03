@@ -1,0 +1,23 @@
+<kanji midashi="段" id="6bb5">
+<strokegr element="段">
+	<strokegr position="left" phon="耑V">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="殳" position="right" radical="general">
+		<strokegr element="几" position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇈b"/>
+		</strokegr>
+		<strokegr element="又" position="bottom">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

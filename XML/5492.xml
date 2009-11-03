@@ -1,0 +1,22 @@
+<kanji midashi="咒" id="5492">
+<strokegr element="咒">
+	<strokegr position="top">
+		<strokegr element="口" position="left" radical="general">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="口" position="right" radical="general">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="几" position="bottom">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇈b"/>
+	</strokegr>
+</strokegr>
+</kanji>

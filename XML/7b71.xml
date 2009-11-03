@@ -1,0 +1,39 @@
+<kanji midashi="筱" id="7b71">
+<strokegr element="筱">
+	<strokegr element="竹" variant="true" position="top" radical="tradit">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="攸" position="bottom">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="攴" variant="true" original="攵">
+				<strokegr position="top">
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="乂" position="bottom">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

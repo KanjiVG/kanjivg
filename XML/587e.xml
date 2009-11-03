@@ -1,0 +1,40 @@
+<kanji midashi="塾" id="587e">
+<strokegr element="塾">
+	<strokegr element="孰" position="top">
+		<strokegr element="享" position="left">
+			<strokegr element="亠" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+				<strokegr element="子">
+					<stroke type="㇖"/>
+					<stroke type="㇕v"/>
+					<stroke type="㇀/㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丸" position="right">
+			<strokegr element="九">
+				<stroke type="㇒"/>
+				<strokegr element="乙">
+					<stroke type="㇈"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

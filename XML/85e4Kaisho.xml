@@ -1,0 +1,42 @@
+<kanji midashi="藤" id="85e4Kaisho">
+<strokegr element="藤">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="滕" variant="true" position="bottom">
+		<strokegr element="月" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="劵" variant="true" position="right">
+			<strokegr position="top">
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<strokegr element="二">
+					<strokegr position="top">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr position="bottom">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="人">
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="氺" variant="true" original="水" position="bottom">
+				<stroke type="㇚"/>
+				<stroke type="㇔"/>
+				<stroke type="㇀"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

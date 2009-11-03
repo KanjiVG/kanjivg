@@ -1,0 +1,34 @@
+<kanji midashi="薙" id="8599">
+<strokegr element="薙">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="雉" position="bottom">
+		<strokegr element="矢" variant="true" position="left">
+			<stroke type="㇒"/>
+			<strokegr element="天" variant="true">
+				<stroke type="㇐"/>
+				<strokegr element="大" variant="true">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="隹" position="right">
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

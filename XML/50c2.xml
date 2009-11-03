@@ -1,0 +1,37 @@
+<kanji midashi="僂" id="50c2">
+<strokegr element="僂">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="婁" position="right">
+		<strokegr position="top">
+			<strokegr element="串" part="1">
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇐"/>
+			<strokegr element="串" part="2">
+				<stroke type="㇐"/>
+				<strokegr element="中">
+					<strokegr element="口">
+						<stroke type="㇑"/>
+						<stroke type="㇕b"/>
+						<stroke type="㇐b"/>
+					</strokegr>
+					<strokegr element="丨">
+						<stroke type="㇑"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="女" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

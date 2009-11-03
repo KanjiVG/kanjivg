@@ -1,0 +1,30 @@
+<kanji midashi="罹" id="7f79">
+<strokegr element="罹">
+	<strokegr element="罒" variant="true" original="网" position="top" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="惟" position="bottom">
+		<strokegr element="忄" variant="true" original="心" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="隹" position="right">
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

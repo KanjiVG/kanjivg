@@ -1,0 +1,32 @@
+<kanji midashi="褶" id="8936Kaisho">
+<strokegr element="褶">
+	<strokegr element="衤" variant="true" original="衣" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇇"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="習" variant="true" position="right">
+		<strokegr element="羽" variant="true" position="top">
+			<stroke type="㇆"/>
+			<stroke type="㇒/㇔"/>
+			<stroke type="㇒/㇀"/>
+			<stroke type="㇆"/>
+			<stroke type="㇒/㇔"/>
+			<stroke type="㇒/㇀"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr position="top">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="日" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

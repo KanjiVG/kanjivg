@@ -1,0 +1,28 @@
+<kanji midashi="募" id="52df">
+<strokegr element="募">
+	<strokegr element="莫" position="top" phon="莫">
+		<strokegr element="艹" variant="true" original="艸" position="top" radical="nelson">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="日">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="大">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="力" position="bottom" radical="tradit">
+		<stroke type="㇆"/>
+		<stroke type="㇒"/>
+	</strokegr>
+</strokegr>
+</kanji>

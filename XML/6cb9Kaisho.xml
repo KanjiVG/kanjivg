@@ -1,0 +1,22 @@
+<kanji midashi="油" id="6cb9Kaisho">
+<strokegr element="油">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="由" position="right">
+		<strokegr element="田" part="1" partial="true">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+		</strokegr>
+		<strokegr element="丨">
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="田" part="2" partial="true">
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

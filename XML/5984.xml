@@ -1,0 +1,20 @@
+<kanji midashi="妄" id="5984">
+<strokegr element="妄">
+	<strokegr element="亡" position="top" phon="亡">
+		<strokegr element="亠" radical="nelson">
+			<stroke type="㇑a"/>
+			<strokegr element="匸" part="1" variant="true" original="匚">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匸" part="2" variant="true" original="匚">
+			<stroke type="㇄a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="女" position="bottom" radical="tradit">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

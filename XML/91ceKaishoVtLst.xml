@@ -1,0 +1,23 @@
+<kanji midashi="野" id="91ceKaishoVtLst">
+<strokegr element="野">
+	<strokegr element="里" variant="true" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="予" position="right">
+		<stroke type="㇇"/>
+		<stroke type="㇔"/>
+		<strokegr element="了">
+			<stroke type="㇇a"/>
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

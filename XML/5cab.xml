@@ -1,0 +1,22 @@
+<kanji midashi="岫" id="5cab">
+<strokegr element="岫">
+	<strokegr element="山" position="left" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="由" position="right">
+		<strokegr element="田" part="1" partial="true">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+		</strokegr>
+		<strokegr element="丨">
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="田" part="2" partial="true">
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

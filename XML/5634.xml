@@ -1,0 +1,38 @@
+<kanji midashi="嘴" id="5634">
+<strokegr element="嘴">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="觜" position="right">
+		<strokegr element="此" position="top">
+			<strokegr element="止" position="left">
+				<strokegr element="卜" original="ト">
+					<stroke type="㇑"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="匕" position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="角" position="bottom">
+			<strokegr element="𠂊" variant="true" original="勹" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇇a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

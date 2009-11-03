@@ -1,0 +1,31 @@
+<kanji midashi="檐" id="6a90">
+<strokegr element="檐">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="𠂊" variant="true" original="勹">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇟"/>
+		<strokegr element="言">
+			<stroke type="㇔"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

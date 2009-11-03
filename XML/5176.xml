@@ -1,0 +1,24 @@
+<kanji midashi="其" id="5176">
+<strokegr element="其">
+	<strokegr position="top">
+		<strokegr element="甘">
+			<strokegr element="廿" part="1">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇐"/>
+			<strokegr element="廿" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="八" position="bottom" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

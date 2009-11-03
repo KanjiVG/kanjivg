@@ -1,0 +1,29 @@
+<kanji midashi="屏" id="5c4f">
+<strokegr element="屏">
+	<strokegr element="尸" position="tare" radical="general">
+		<stroke type="㇕c"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="并">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="干" part="1">
+				<stroke type="㇐"/>
+				<strokegr element="十" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇒"/>
+			<strokegr element="干" part="2">
+				<strokegr element="十" part="2">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

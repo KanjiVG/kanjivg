@@ -1,0 +1,27 @@
+<kanji midashi="飽" id="98fd">
+<strokegr element="飽">
+	<strokegr element="飠" original="食" partial="true" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇙"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="包" position="right" phon="包">
+		<strokegr element="勹">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇆"/>
+		</strokegr>
+		<strokegr element="己">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

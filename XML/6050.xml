@@ -1,0 +1,28 @@
+<kanji midashi="恐" id="6050">
+<strokegr element="恐">
+	<strokegr position="top" phon="工凡">
+		<strokegr element="工" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+		<strokegr element="凡" position="right">
+			<strokegr element="几">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇈b"/>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

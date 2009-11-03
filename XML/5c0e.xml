@@ -1,0 +1,31 @@
+<kanji midashi="導" id="5c0e">
+<strokegr element="導">
+	<strokegr element="道" position="top" phon="道">
+		<strokegr element="首">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<strokegr element="自">
+				<stroke type="㇒"/>
+				<strokegr element="目">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="⻌" original="辶" position="nyo">
+			<stroke type="㇔"/>
+			<stroke type="㇋"/>
+			<stroke type="㇏a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="寸" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

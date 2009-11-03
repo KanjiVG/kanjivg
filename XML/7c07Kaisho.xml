@@ -1,0 +1,43 @@
+<kanji midashi="簇" id="7c07Kaisho">
+<strokegr element="簇">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="族" position="bottom">
+		<strokegr element="方" position="left">
+			<strokegr element="亠" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇆a"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<strokegr element="矢">
+				<stroke type="㇒"/>
+				<strokegr element="天">
+					<stroke type="㇐"/>
+					<strokegr element="大">
+						<stroke type="㇐"/>
+						<stroke type="㇒"/>
+						<stroke type="㇏"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

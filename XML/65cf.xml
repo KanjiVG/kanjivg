@@ -1,0 +1,29 @@
+<kanji midashi="族" id="65cf">
+<strokegr element="族">
+	<strokegr element="方" position="left" radical="general">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇆a"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<strokegr element="矢">
+			<stroke type="㇒"/>
+			<strokegr element="天">
+				<stroke type="㇐"/>
+				<strokegr element="大">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

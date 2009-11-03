@@ -1,0 +1,41 @@
+<kanji midashi="瀞" id="701eKaishoVtLst">
+<strokegr element="瀞">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="静" position="right">
+		<strokegr element="青" position="left">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="月" position="bottom">
+				<stroke type="㇑/㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="争" position="right">
+			<strokegr element="𠂊" variant="true" original="勹" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇇a"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="⺕" variant="true" original="彑">
+					<stroke type="㇕c"/>
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="亅">
+					<stroke type="㇚"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

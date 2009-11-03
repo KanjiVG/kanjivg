@@ -1,0 +1,35 @@
+<kanji midashi="窟" id="7a9fKaisho">
+<strokegr element="窟">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟a/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="屈" position="bottom">
+		<strokegr element="尸" position="tare">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="出">
+			<strokegr element="山">
+				<stroke type="㇑a"/>
+				<stroke type="㇄"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="凵">
+				<stroke type="㇄a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

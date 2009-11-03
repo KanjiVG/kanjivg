@@ -1,0 +1,25 @@
+<kanji midashi="卵" id="5375">
+<strokegr element="卵">
+	<strokegr element="卯" part="1">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="卯" part="2">
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="卩" position="right" radical="tradit">
+			<stroke type="㇆"/>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

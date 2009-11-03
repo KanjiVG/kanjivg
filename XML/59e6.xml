@@ -1,0 +1,21 @@
+<kanji midashi="姦" id="59e6">
+<strokegr element="姦">
+	<strokegr element="女" position="top" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="女" variant="true" position="left" radical="general">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+		<strokegr element="女" position="right" radical="general">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

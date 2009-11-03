@@ -1,0 +1,30 @@
+<kanji midashi="閻" id="95bbKaishoHzFst">
+<strokegr element="閻">
+	<strokegr element="門" position="kamae" radical="general">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="𠂊" variant="true" original="勹" position="top">
+		<stroke type="㇒"/>
+		<stroke type="㇇"/>
+	</strokegr>
+	<strokegr element="臼" position="bottom">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇐"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

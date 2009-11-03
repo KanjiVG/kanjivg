@@ -1,0 +1,21 @@
+<kanji midashi="肓" id="8093">
+<strokegr element="肓">
+	<strokegr element="亡" position="top">
+		<strokegr element="亠">
+			<stroke type="㇑a"/>
+			<strokegr element="匸" part="1" variant="true" original="匚">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匸" part="2" variant="true" original="匚">
+			<stroke type="㇄a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="月" variant="true" original="肉" position="bottom" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

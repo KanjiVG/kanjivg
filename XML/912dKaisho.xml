@@ -1,0 +1,41 @@
+<kanji midashi="鄭" id="912dKaisho">
+<strokegr element="鄭">
+	<strokegr element="奠" variant="true" position="left">
+		<strokegr element="酋" position="top">
+			<strokegr element="八" variant="true" position="top">
+				<strokegr position="left">
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="酉" position="bottom">
+				<strokegr element="西" part="1" original="襾">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇒"/>
+					<stroke type="㇟a"/>
+				</strokegr>
+				<strokegr element="一">
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr element="西" part="2" original="襾">
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="大" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻏" variant="true" original="邑" position="right" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

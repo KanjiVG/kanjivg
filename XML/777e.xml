@@ -1,0 +1,38 @@
+<kanji midashi="睾" id="777e">
+<strokegr element="睾">
+	<strokegr element="血" variant="true" position="top" radical="nelson">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="目" variant="true" radical="tradit">
+			<strokegr element="皿" variant="true">
+				<strokegr element="罒" variant="true" original="网">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="幸" position="bottom">
+		<strokegr position="top">
+			<strokegr element="土">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="干" position="bottom">
+			<stroke type="㇐"/>
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

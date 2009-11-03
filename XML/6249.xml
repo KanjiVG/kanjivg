@@ -1,0 +1,24 @@
+<kanji midashi="扉" id="6249">
+<strokegr element="扉">
+	<strokegr element="戸" position="tare" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇕c"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="非" phon="非">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐c"/>
+			<stroke type="㇐c"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

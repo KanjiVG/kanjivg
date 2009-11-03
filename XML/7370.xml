@@ -1,0 +1,43 @@
+<kanji midashi="獰" id="7370">
+<strokegr element="獰">
+	<strokegr element="⺨" variant="true" original="犬" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="寧" variant="true" position="right">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="心">
+				<stroke type="㇔"/>
+				<stroke type="㇟b"/>
+				<stroke type="㇔a"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="罒" variant="true" original="网">
+				<strokegr element="皿">
+					<stroke type="㇑a"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丁">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="亅">
+					<stroke type="㇚"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,22 @@
+<kanji midashi="栩" id="6829">
+<strokegr element="栩">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="羽" variant="true" position="right">
+		<strokegr position="left">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

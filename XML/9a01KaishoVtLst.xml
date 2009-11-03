@@ -1,0 +1,37 @@
+<kanji midashi="騁" id="9a01KaishoVtLst">
+<strokegr element="騁">
+	<strokegr element="馬" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="由" variant="true" position="top">
+			<strokegr element="田" part="1" partial="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+			</strokegr>
+			<strokegr element="田" part="2" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,35 @@
+<kanji midashi="褒" id="8912Kaisho">
+<strokegr element="褒" position="top">
+	<strokegr element="衣" part="1" radical="tradit">
+		<strokegr element="亠" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="保" variant="true">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="呆" variant="true" position="right">
+			<strokegr element="口" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="木" variant="true" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇚/㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="衣" part="2" position="bottom" radical="tradit">
+		<stroke type="㇒"/>
+		<stroke type="㇙"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

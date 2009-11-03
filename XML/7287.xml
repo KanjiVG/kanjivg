@@ -1,0 +1,24 @@
+<kanji midashi="犇" id="7287">
+<strokegr element="犇">
+	<strokegr element="牛" position="top" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="牛" variant="true" position="left" radical="general">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇀/㇑"/>
+		</strokegr>
+		<strokegr element="牛" position="right" radical="general">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

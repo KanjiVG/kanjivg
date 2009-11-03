@@ -1,0 +1,39 @@
+<kanji midashi="憂" id="6182">
+<strokegr element="憂">
+	<strokegr position="top">
+		<strokegr element="百">
+			<strokegr element="一" position="top" radical="nelson">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr position="top">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="日" position="bottom">
+					<stroke type="㇑a"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="心" radical="tradit">
+			<stroke type="㇔"/>
+			<stroke type="㇟b"/>
+			<stroke type="㇔a"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="夂">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

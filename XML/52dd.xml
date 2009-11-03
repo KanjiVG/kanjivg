@@ -1,0 +1,26 @@
+<kanji midashi="勝" id="52dd">
+<strokegr element="勝">
+	<strokegr element="月" variant="true" original="肉" position="left" radical="nelson">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="劵" variant="true" position="right">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="二">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="人">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="力" radical="tradit">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

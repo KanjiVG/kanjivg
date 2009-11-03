@@ -1,0 +1,37 @@
+<kanji midashi="轅" id="8f45Kaisho">
+<strokegr element="轅">
+	<strokegr element="車" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="袁" position="right">
+		<strokegr element="土" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<strokegr element="衣" part="1" variant="true" partial="true">
+				<strokegr element="亠" partial="true">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="衣" part="2" variant="true" partial="true">
+				<stroke type="㇒"/>
+				<stroke type="㇙"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

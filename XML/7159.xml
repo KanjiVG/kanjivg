@@ -1,0 +1,25 @@
+<kanji midashi="煙" id="7159">
+<strokegr element="煙">
+	<strokegr element="火" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr position="right" phon="煙right">
+		<strokegr element="西" variant="true" original="襾" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a/㇒"/>
+			<stroke type="㇑a/㇟"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="土" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

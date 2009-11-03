@@ -1,0 +1,38 @@
+<kanji midashi="駲" id="99f2Vt6">
+<strokegr element="駲">
+	<strokegr element="馬" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇑a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="州" position="right">
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="川" part="1" variant="true" original="巛">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="川" part="2" variant="true" original="巛">
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="川" variant="true" original="巛">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

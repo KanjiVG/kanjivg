@@ -1,0 +1,36 @@
+<kanji midashi="鼬" id="9f2cKaisho">
+<strokegr element="鼬">
+	<strokegr element="鼠" position="nyo" radical="general">
+		<strokegr element="臼" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇂"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="由">
+		<strokegr element="田" part="1" partial="true">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+		</strokegr>
+		<strokegr element="丨">
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="田" part="2" partial="true">
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

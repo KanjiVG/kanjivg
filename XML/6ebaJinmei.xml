@@ -1,0 +1,39 @@
+<kanji midashi="溺" id="6ebaJinmei">
+<strokegr element="溺">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="弱" variant="true" position="right">
+		<strokegr element="弓" position="left">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇉"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="冫" variant="true">
+				<strokegr position="top">
+					<stroke type="㇒/㇔"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇒/㇀"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="弓">
+				<stroke type="㇕c"/>
+				<stroke type="㇐"/>
+				<stroke type="㇉"/>
+			</strokegr>
+			<strokegr element="冫" variant="true">
+				<strokegr position="top">
+					<stroke type="㇒/㇔"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇒/㇀"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

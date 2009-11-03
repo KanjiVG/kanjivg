@@ -1,0 +1,24 @@
+<kanji midashi="曲" id="66f2">
+<strokegr element="曲">
+	<strokegr element="日" part="1" original="曰" tradForm="true">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+	</strokegr>
+	<strokegr element="廾">
+		<strokegr element="十" part="1">
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="丿" variant="true">
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="十" part="2">
+			<strokegr element="丨" radical="nelson">
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="日" part="2" original="曰" tradForm="true">
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

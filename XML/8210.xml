@@ -1,0 +1,22 @@
+<kanji midashi="舐" id="8210">
+<strokegr element="舐">
+	<strokegr element="舌" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="氏" position="right">
+		<stroke type="㇒"/>
+		<stroke type="㇙"/>
+		<stroke type="㇐"/>
+		<stroke type="㇂"/>
+	</strokegr>
+</strokegr>
+</kanji>

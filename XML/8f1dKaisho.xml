@@ -1,0 +1,37 @@
+<kanji midashi="輝" id="8f1dKaisho">
+<strokegr element="輝">
+	<strokegr element="光" position="left">
+		<strokegr element="⺌" variant="true" original="小" position="top" radical="nelson">
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="兀" variant="true" position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="儿" variant="true" original="八">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇙/㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="軍" position="right">
+		<strokegr element="冖" position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+		<strokegr element="車" position="bottom" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

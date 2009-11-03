@@ -1,0 +1,20 @@
+<kanji midashi="范" id="8303">
+<strokegr element="范">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="氾" position="bottom">
+		<strokegr element="氵" variant="true" original="水" position="left">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="卩" position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇟/㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

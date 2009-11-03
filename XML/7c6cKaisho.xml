@@ -1,0 +1,55 @@
+<kanji midashi="籬" id="7c6cKaisho">
+<strokegr element="籬">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="離" position="bottom">
+		<strokegr position="left">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="凶">
+				<strokegr element="乂">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+				<strokegr element="凵" position="kamae">
+					<stroke type="㇄a"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="禸">
+				<stroke type="㇑"/>
+				<stroke type="㇆"/>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="隹" position="right">
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

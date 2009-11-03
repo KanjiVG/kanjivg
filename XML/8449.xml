@@ -1,0 +1,30 @@
+<kanji midashi="葉" id="8449">
+<strokegr element="葉">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr position="bottom" phon="世+木">
+		<strokegr element="世" position="top">
+			<strokegr element="廿">
+				<strokegr element="十">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇗"/>
+		</strokegr>
+		<strokegr element="木" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

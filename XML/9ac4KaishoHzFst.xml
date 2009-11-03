@@ -1,0 +1,37 @@
+<kanji midashi="髄" id="9ac4KaishoHzFst">
+<strokegr element="髄">
+	<strokegr element="骨" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇔"/>
+			<stroke type="㇖"/>
+		</strokegr>
+		<strokegr element="月" position="bottom">
+			<stroke type="㇑/㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="有">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<strokegr element="月">
+				<stroke type="㇑/㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="⻌" original="辶">
+			<stroke type="㇔"/>
+			<stroke type="㇋"/>
+			<stroke type="㇏a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

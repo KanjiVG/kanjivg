@@ -1,0 +1,27 @@
+<kanji midashi="婦" id="5a66Kaisho">
+<strokegr element="婦">
+	<strokegr element="女" variant="true" position="left" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="帚" position="right">
+		<strokegr element="⺕" variant="true" original="彑" position="top">
+			<stroke type="㇕"/>
+			<stroke type="㇐c"/>
+			<stroke type="㇐c"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+			<strokegr element="巾">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

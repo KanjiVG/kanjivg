@@ -1,0 +1,27 @@
+<kanji midashi="扁" id="6241Kaisho">
+<strokegr element="扁">
+	<strokegr element="戸" position="tare" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇕c"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="冊">
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="廾" variant="true">
+			<strokegr element="十" part="1" variant="true">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="丿" variant="true">
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="十" part="2" variant="true">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

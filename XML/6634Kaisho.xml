@@ -1,0 +1,23 @@
+<kanji midashi="昴" id="6634Kaisho">
+<strokegr element="昴">
+	<strokegr element="日" position="top" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="卯" position="bottom">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="卩" position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

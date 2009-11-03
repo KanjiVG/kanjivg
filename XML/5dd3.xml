@@ -1,0 +1,54 @@
+<kanji midashi="巓" id="5dd3">
+<strokegr element="巓">
+	<strokegr element="山" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="顛" variant="true" position="bottom">
+		<strokegr element="真" variant="true" position="left">
+			<strokegr element="十" variant="true" position="top">
+				<strokegr element="匕" original="ヒ">
+					<stroke type="㇒"/>
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="具" position="bottom">
+				<strokegr element="目" position="top">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇐"/>
+					<strokegr element="八">
+						<stroke type="㇒"/>
+						<stroke type="㇏"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="頁" position="right">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="貝" position="bottom">
+				<strokegr element="目" position="top">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

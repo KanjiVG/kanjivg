@@ -1,0 +1,21 @@
+<kanji midashi="咲" id="54b2">
+<strokegr element="咲">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="关" position="right" phon="关">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="天">
+			<stroke type="㇐"/>
+			<strokegr element="大">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

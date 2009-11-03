@@ -1,0 +1,28 @@
+<kanji midashi="透" id="900fKaisho">
+<strokegr element="透">
+	<strokegr element="秀">
+		<strokegr element="禾" position="top">
+			<strokegr element="丿" position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="木" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="乃" position="bottom">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇌"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻌" original="辶" position="nyo" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏a"/>
+	</strokegr>
+</strokegr>
+</kanji>

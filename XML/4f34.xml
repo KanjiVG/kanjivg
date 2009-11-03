@@ -1,0 +1,21 @@
+<kanji midashi="伴" id="4f34">
+<strokegr element="伴">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="半" position="right" phon="半">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="二" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="十">
+			<strokegr element="二" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,49 @@
+<kanji midashi="廳" id="5ef3KaishoVtLst">
+<strokegr element="廳">
+	<strokegr element="广" position="tare" radical="tradit">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="聽">
+		<strokegr position="left">
+			<strokegr element="耳">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇀"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="王" original="玉" partial="true">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="十">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="罒" variant="true" original="网">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<stroke type="㇐"/>
+			<strokegr element="心">
+				<stroke type="㇔"/>
+				<stroke type="㇟b"/>
+				<stroke type="㇔a"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

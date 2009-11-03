@@ -1,0 +1,32 @@
+<kanji midashi="椒" id="6912Kaisho">
+<strokegr element="椒">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="叔" position="right">
+		<strokegr position="left">
+			<strokegr element="上" position="top">
+				<strokegr element="卜" original="ト">
+					<stroke type="㇑"/>
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="小" position="bottom">
+				<stroke type="㇚"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="又" position="right">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

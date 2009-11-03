@@ -1,0 +1,31 @@
+<kanji midashi="姚" id="59daMidFst">
+<strokegr element="姚">
+	<strokegr element="女" variant="true" position="left" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="兆" position="right">
+		<strokegr element="儿" part="1" position="left">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="冫">
+				<strokegr position="top">
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇀"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="儿" part="2">
+				<stroke type="㇟"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,31 @@
+<kanji midashi="基" id="57faKaisho">
+<strokegr element="基">
+	<strokegr element="其" position="top">
+		<strokegr position="top">
+			<strokegr element="甘">
+				<strokegr element="廿" part="1">
+					<strokegr element="十">
+						<stroke type="㇐"/>
+						<stroke type="㇑a"/>
+					</strokegr>
+					<stroke type="㇑a"/>
+				</strokegr>
+				<stroke type="㇐a"/>
+				<strokegr element="廿" part="2">
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="八" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

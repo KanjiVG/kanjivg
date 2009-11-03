@@ -1,0 +1,60 @@
+<kanji midashi="瀰" id="7030">
+<strokegr element="瀰">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="彌" position="right">
+		<strokegr element="弓" position="left">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇉"/>
+		</strokegr>
+		<strokegr element="爾" position="right">
+			<stroke type="㇐"/>
+			<strokegr element="八">
+				<strokegr position="left">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="冂">
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<strokegr element="爻">
+				<strokegr element="乂" position="top">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇏"/>
+				</strokegr>
+				<strokegr element="乂" position="bottom">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="爻">
+				<strokegr element="乂" position="top">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇏"/>
+				</strokegr>
+				<strokegr element="乂" position="bottom">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

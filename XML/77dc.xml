@@ -1,0 +1,33 @@
+<kanji midashi="矜" id="77dc">
+<strokegr element="矜">
+	<strokegr element="矛" position="left" radical="general">
+		<strokegr element="予">
+			<strokegr element="マ" position="top">
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="了" position="bottom">
+				<stroke type="㇇"/>
+				<strokegr element="亅">
+					<stroke type="㇚"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="今" position="right">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇖"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

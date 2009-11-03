@@ -1,0 +1,36 @@
+<kanji midashi="箝" id="7b9dKaisho">
+<strokegr element="箝">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="拑" position="bottom">
+		<strokegr element="扌" variant="true" original="手" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="甘" position="right">
+			<strokegr element="廿" part="1">
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇑"/>
+			</strokegr>
+			<stroke type="㇐"/>
+			<strokegr element="廿" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

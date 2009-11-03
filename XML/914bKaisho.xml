@@ -1,0 +1,27 @@
+<kanji midashi="酋" id="914bKaisho">
+<strokegr element="酋">
+	<strokegr element="八" variant="true" position="top" radical="nelson">
+		<strokegr position="left">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="酉" position="bottom" radical="tradit">
+		<strokegr element="西" part="1" original="襾">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇒"/>
+			<stroke type="㇟a"/>
+		</strokegr>
+		<strokegr element="一">
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="西" part="2" original="襾">
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

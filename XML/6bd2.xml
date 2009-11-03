@@ -1,0 +1,24 @@
+<kanji midashi="毒" id="6bd2">
+<strokegr element="毒">
+	<strokegr element="三" part="1" position="top">
+		<strokegr element="一" position="top">
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<strokegr element="三" part="2" position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="毋" original="母" partial="true" position="bottom" radical="general">
+		<stroke type="㇛"/>
+		<stroke type="㇆"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

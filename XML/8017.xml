@@ -1,0 +1,24 @@
+<kanji midashi="耗" id="8017">
+<strokegr element="耗">
+	<strokegr element="耒" variant="true" position="left" radical="general">
+		<strokegr element="丿">
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="未" variant="true">
+			<stroke type="㇐"/>
+			<strokegr element="木" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="毛" position="right" phon="毛">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇟"/>
+	</strokegr>
+</strokegr>
+</kanji>

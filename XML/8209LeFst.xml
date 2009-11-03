@@ -1,0 +1,42 @@
+<kanji midashi="舉" id="8209LeFst">
+<strokegr element="舉">
+	<strokegr element="與" position="top">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇇"/>
+			<stroke type="㇑"/>
+			<strokegr element="𦥑" variant="true" original="臼" radical="general">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="八" position="bottom">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="二">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丨">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

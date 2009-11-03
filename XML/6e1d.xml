@@ -1,0 +1,30 @@
+<kanji midashi="渝" id="6e1d">
+<strokegr element="渝">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="兪" position="right">
+		<strokegr element="入" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="月" variant="true">
+				<stroke type="㇒"/>
+				<stroke type="㇆"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="刂" variant="true" original="刀">
+				<stroke type="㇛"/>
+				<stroke type="㇛"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

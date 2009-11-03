@@ -1,0 +1,33 @@
+<kanji midashi="潭" id="6f6dKaisho">
+<strokegr element="潭">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="覃" variant="true" position="right">
+		<strokegr element="西" variant="true" position="top">
+			<strokegr element="襾">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇕"/>
+				<stroke type="㇑"/>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="早" position="bottom">
+			<strokegr element="日" position="top">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="十" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

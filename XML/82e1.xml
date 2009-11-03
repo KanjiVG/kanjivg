@@ -1,0 +1,22 @@
+<kanji midashi="苡" id="82e1">
+<strokegr element="苡">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="以" variant="true" position="bottom">
+		<strokegr position="left">
+			<stroke type="㇑"/>
+			<stroke type="㇀"/>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="人" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

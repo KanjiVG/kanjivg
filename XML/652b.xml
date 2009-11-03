@@ -1,0 +1,49 @@
+<kanji midashi="攫" id="652b">
+<strokegr element="攫">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="矍" position="right">
+		<strokegr element="瞿" position="top">
+			<strokegr position="top">
+				<strokegr element="目" position="left">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr element="目" position="right">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="隻" part="1" position="bottom">
+				<strokegr element="隹">
+					<strokegr element="亻" variant="true" original="人">
+						<stroke type="㇒"/>
+						<stroke type="㇑"/>
+					</strokegr>
+					<stroke type="㇒"/>
+					<stroke type="㇐b"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐b"/>
+					<stroke type="㇐b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="隻" part="2" position="bottom">
+			<strokegr element="又">
+				<stroke type="㇇"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

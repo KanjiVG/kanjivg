@@ -1,0 +1,32 @@
+<kanji midashi="喉" id="5589">
+<strokegr element="喉">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="侯" position="right">
+		<strokegr element="亻" variant="true" original="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr position="top">
+				<stroke type="㇕"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="矢" position="bottom">
+				<stroke type="㇒"/>
+				<strokegr element="天">
+					<stroke type="㇐"/>
+					<strokegr element="大">
+						<stroke type="㇐"/>
+						<stroke type="㇒"/>
+						<stroke type="㇏"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

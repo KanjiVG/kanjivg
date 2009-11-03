@@ -1,0 +1,30 @@
+<kanji midashi="釉" id="91c9KaishoVtLst">
+<strokegr element="釉">
+	<strokegr element="釆" position="left" radical="general">
+		<strokegr element="丿" position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="米" variant="true" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="由" variant="true" position="right">
+		<strokegr element="田" part="1" partial="true">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+		</strokegr>
+		<strokegr element="田" part="2" partial="true">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,31 @@
+<kanji midashi="瑟" id="745fTen3">
+<strokegr element="瑟">
+	<strokegr position="top">
+		<strokegr element="王" original="玉" partial="true" position="left" radical="general">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="王" original="玉" partial="true" position="right" radical="general">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="必" position="bottom">
+		<strokegr element="心" part="1" variant="true">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="心" part="2" variant="true">
+				<stroke type="㇟"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,25 @@
+<kanji midashi="拭" id="62ed">
+<strokegr element="拭">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="式" position="right">
+		<strokegr element="弋" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="工">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="弋" part="2">
+			<stroke type="㇂"/>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

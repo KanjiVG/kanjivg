@@ -1,0 +1,30 @@
+<kanji midashi="距" id="8dddHzFst">
+<strokegr element="距">
+	<strokegr element="足" position="left" radical="general">
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇏"/>
+	</strokegr>
+	<strokegr element="巨" variant="true" position="right">
+		<strokegr element="二" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="匚" part="1" variant="true">
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<strokegr element="二" part="2">
+			<strokegr element="匚" part="2" variant="true">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

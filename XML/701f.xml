@@ -1,0 +1,41 @@
+<kanji midashi="瀟" id="701f">
+<strokegr element="瀟">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="蕭" position="right">
+		<strokegr element="艹" variant="true" original="艸" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="肅" position="bottom">
+			<strokegr element="聿" part="1" variant="true">
+				<strokegr element="⺕" variant="true" original="彑">
+					<stroke type="㇕"/>
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇄"/>
+			<stroke type="㇑"/>
+			<strokegr element="聿" part="2" variant="true">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇕"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,26 @@
+<kanji midashi="表" id="8868">
+<strokegr element="表">
+	<strokegr position="top">
+		<strokegr element="二" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="丨" radical="nelson">
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="二" part="2">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="衣" partial="true" position="bottom" radical="tradit">
+		<strokegr element="亠" partial="true" position="top">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

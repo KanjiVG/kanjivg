@@ -1,0 +1,24 @@
+<kanji midashi="氓" id="6c13">
+<strokegr element="氓">
+	<strokegr element="亡" position="left">
+		<strokegr element="亠" radical="nelson">
+			<stroke type="㇑a"/>
+			<strokegr element="匸" part="1" variant="true" original="匚">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匸" part="2" variant="true" original="匚">
+			<stroke type="㇄"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="民" position="right">
+		<stroke type="㇕"/>
+		<strokegr element="氏" variant="true" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇙"/>
+			<stroke type="㇐"/>
+			<stroke type="㇂"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

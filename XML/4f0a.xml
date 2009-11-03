@@ -1,0 +1,22 @@
+<kanji midashi="伊" id="4f0a">
+<strokegr element="伊">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="尹" position="right">
+		<strokegr element="⺕" variant="true" original="彑">
+			<strokegr element="尸" part="1">
+				<stroke type="㇕c"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="尸" part="2">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

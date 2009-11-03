@@ -1,0 +1,26 @@
+<kanji midashi="奇" id="5947">
+<strokegr element="奇">
+	<strokegr element="大" variant="true" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="可" position="bottom" phon="可">
+		<strokegr element="丁" part="1">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="丁" part="2">
+			<strokegr element="亅">
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

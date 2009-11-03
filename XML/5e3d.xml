@@ -1,0 +1,24 @@
+<kanji midashi="帽" id="5e3d">
+<strokegr element="帽">
+	<strokegr element="巾" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="冒" position="right" phon="冒">
+		<strokegr element="日" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="目" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

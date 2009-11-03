@@ -1,0 +1,23 @@
+<kanji midashi="鉢" id="9262">
+<strokegr element="鉢">
+	<strokegr element="金" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="本" position="right" phon="朮V/本">
+		<strokegr element="木">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

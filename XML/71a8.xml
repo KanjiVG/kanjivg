@@ -1,0 +1,35 @@
+<kanji midashi="熨" id="71a8">
+<strokegr element="熨">
+	<strokegr element="尉" position="top">
+		<strokegr position="left">
+			<strokegr element="尸" position="tare">
+				<stroke type="㇕c"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="示" variant="true">
+				<strokegr position="top">
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇑"/>
+					<stroke type="㇒"/>
+					<stroke type="㇑/㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="寸" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="火" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

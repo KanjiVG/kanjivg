@@ -1,0 +1,35 @@
+<kanji midashi="蒸" id="84b8">
+<strokegr element="蒸">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="烝" position="bottom" phon="烝">
+		<strokegr position="top">
+			<strokegr element="丞" position="top">
+				<strokegr element="了">
+					<stroke type="㇇"/>
+					<strokegr element="亅">
+						<stroke type="㇕v"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="水" partial="true">
+					<stroke type="㇇"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="一" position="bottom">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="灬" variant="true" original="火" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

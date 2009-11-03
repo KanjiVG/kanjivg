@@ -1,0 +1,23 @@
+<kanji midashi="夾" id="593e">
+<strokegr element="夾">
+	<strokegr element="大" part="1" radical="tradit">
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="从">
+		<strokegr element="人" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="人" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="大" part="2" radical="tradit">
+		<strokegr element="丿" radical="nelson">
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

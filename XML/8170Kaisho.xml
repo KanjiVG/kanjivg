@@ -1,0 +1,25 @@
+<kanji midashi="腰" id="8170Kaisho">
+<strokegr element="腰">
+	<strokegr element="月" variant="true" original="肉" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="要" position="right">
+		<strokegr element="西" variant="true" original="襾" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="女" position="bottom">
+			<stroke type="㇛"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

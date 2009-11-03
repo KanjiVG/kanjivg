@@ -1,0 +1,24 @@
+<kanji midashi="翔" id="7fd4">
+<strokegr element="翔">
+	<strokegr element="羊" variant="true" position="left" radical="nelson">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="羽" position="right" radical="tradit">
+		<strokegr position="left">
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

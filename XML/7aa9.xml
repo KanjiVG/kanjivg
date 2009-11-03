@@ -1,0 +1,32 @@
+<kanji midashi="窩" id="7aa9">
+<strokegr element="窩">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="咼" position="bottom">
+		<stroke type="㇑a"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐a"/>
+		<strokegr element="冂">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

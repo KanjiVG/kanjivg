@@ -1,0 +1,20 @@
+<kanji midashi="訓" id="8a13">
+<strokegr element="訓">
+	<strokegr element="言" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="川" variant="true" original="巛" position="right" phon="川">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

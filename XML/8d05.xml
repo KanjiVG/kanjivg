@@ -1,0 +1,52 @@
+<kanji midashi="贅" id="8d05">
+<strokegr element="贅">
+	<strokegr element="敖" position="top">
+		<strokegr position="left">
+			<strokegr element="土" position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="放" part="1" position="bottom">
+				<strokegr element="方" position="left">
+					<strokegr element="亠" position="top">
+						<stroke type="㇑a"/>
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr position="bottom">
+						<stroke type="㇆a"/>
+						<stroke type="㇒"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="放" part="2" position="right">
+			<strokegr element="攴" variant="true" original="攵" position="right">
+				<strokegr position="top">
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="乂" position="bottom">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="貝" position="bottom" radical="general">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

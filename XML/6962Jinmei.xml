@@ -1,0 +1,35 @@
+<kanji midashi="楢" id="6962Jinmei">
+<strokegr element="楢">
+	<strokegr element="木" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="酋" position="right">
+		<strokegr element="八" variant="true" position="top">
+			<strokegr position="left">
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="酉" position="bottom">
+			<strokegr element="西" part="1" original="襾">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇒"/>
+				<stroke type="㇟a"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="西" part="2" original="襾">
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

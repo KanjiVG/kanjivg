@@ -1,0 +1,29 @@
+<kanji midashi="俤" id="4fe4">
+<strokegr element="俤">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="弟" position="right">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="弔">
+				<strokegr element="弓">
+					<stroke type="㇕c"/>
+					<stroke type="㇐"/>
+					<stroke type="㇉"/>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,33 @@
+<kanji midashi="郵" id="90f5">
+<strokegr element="郵">
+	<strokegr element="垂" position="left">
+		<strokegr element="千" part="1">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="十" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+		<strokegr element="土" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="土" part="2">
+			<strokegr element="千" part="2">
+				<strokegr element="十" part="2">
+					<stroke type="㇑a"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻏" variant="true" original="邑" position="right" radical="general">
+		<stroke type="㇇"/>
+		<stroke type="㇕va"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

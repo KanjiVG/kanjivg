@@ -1,0 +1,33 @@
+<kanji midashi="窮" id="7aaeKaisho">
+<strokegr element="窮">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="躬" position="bottom">
+		<strokegr element="身" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇀"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="弓" position="right">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇉"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

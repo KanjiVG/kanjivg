@@ -1,0 +1,41 @@
+<kanji midashi="噂" id="5642Kaisho">
+<strokegr element="噂">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="尊" position="right">
+		<strokegr element="酋" position="top">
+			<strokegr element="八" variant="true" position="top">
+				<strokegr position="left">
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="酉" position="bottom">
+				<strokegr element="西" part="1" original="襾">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇒"/>
+					<stroke type="㇟a"/>
+				</strokegr>
+				<strokegr element="一">
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr element="西" part="2" original="襾">
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="寸" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

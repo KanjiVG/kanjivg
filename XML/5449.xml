@@ -1,0 +1,23 @@
+<kanji midashi="呉" id="5449">
+<strokegr element="呉">
+	<strokegr position="top">
+		<strokegr element="口" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇅"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<stroke type="㇐"/>
+		<strokegr element="八" radical="nelson">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

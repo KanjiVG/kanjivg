@@ -1,0 +1,23 @@
+<kanji midashi="君" id="541b">
+<strokegr element="君">
+	<strokegr element="尹" phon="尹">
+		<strokegr element="⺕" variant="true" original="彑">
+			<strokegr element="尸" part="1">
+				<stroke type="㇕c"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="尸" part="2">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="口" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+</strokegr>
+</kanji>

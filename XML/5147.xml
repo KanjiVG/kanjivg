@@ -1,0 +1,26 @@
+<kanji midashi="兇" id="5147">
+<strokegr element="兇">
+	<strokegr element="凶" position="top">
+		<strokegr element="乂">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="凵" position="kamae">
+			<stroke type="㇄a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="儿" position="bottom" radical="general">
+		<strokegr element="八" variant="true">
+			<strokegr element="丿" position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

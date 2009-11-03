@@ -1,0 +1,58 @@
+<kanji midashi="穢" id="7a62Kaisho">
+<strokegr element="穢">
+	<strokegr element="禾" position="left" radical="general">
+		<strokegr element="丿" position="top">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="木" position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="歳" variant="true" position="right">
+		<strokegr element="止" position="top">
+			<strokegr element="卜" original="ト">
+				<stroke type="㇑a"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="戌" original="戍" position="bottom">
+			<strokegr element="厂" part="1">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="厂" part="2">
+				<strokegr element="戈" part="1">
+					<strokegr element="弋" part="1">
+						<stroke type="㇐"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="小" variant="true">
+				<stroke type="㇚"/>
+				<stroke type="㇒"/>
+				<stroke type="㇒/㇔"/>
+			</strokegr>
+			<strokegr element="戈" part="2">
+				<strokegr element="弋" part="2">
+					<stroke type="㇂"/>
+				</strokegr>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="弋" part="3">
+					<strokegr element="丶">
+						<stroke type="㇔"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

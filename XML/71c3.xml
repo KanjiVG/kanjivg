@@ -1,0 +1,36 @@
+<kanji midashi="燃" id="71c3">
+<strokegr element="燃">
+	<strokegr element="火" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="然" position="right" phon="然">
+		<strokegr position="top">
+			<strokegr element="月" position="left">
+				<stroke type="㇒"/>
+				<stroke type="㇇/㇆"/>
+				<stroke type="㇔/㇐"/>
+				<stroke type="㇔/㇐"/>
+			</strokegr>
+			<strokegr element="犬" position="right">
+				<strokegr element="大">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+				<strokegr element="丶">
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="灬" variant="true" original="火" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,43 @@
+<kanji midashi="熱" id="71b1">
+<strokegr element="熱">
+	<strokegr element="埶" position="top" phon="埶">
+		<strokegr position="left">
+			<strokegr element="土">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="儿" original="八">
+				<strokegr element="丿" position="left">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇟a/㇏"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="土">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇀/㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丸" position="right">
+			<strokegr element="九">
+				<stroke type="㇒"/>
+				<strokegr element="乙">
+					<stroke type="㇈"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="灬" variant="true" original="火" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,31 @@
+<kanji midashi="術" id="8853">
+<strokegr element="術">
+	<strokegr element="行" part="1" position="kamae1" radical="tradit">
+		<strokegr element="彳" position="left" radical="nelson">
+			<stroke type="㇒"/>
+			<strokegr element="亻" variant="true" original="人">
+				<stroke type="㇒"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="朮" phon="朮">
+		<strokegr element="木" variant="true">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="kamae2">
+		<strokegr element="行" part="2" position="right" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

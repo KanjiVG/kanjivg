@@ -1,0 +1,29 @@
+<kanji midashi="峠" id="5ce0HzFst">
+<strokegr element="峠">
+	<strokegr element="山" position="left" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="上" position="top">
+			<strokegr element="卜" original="ト">
+				<stroke type="㇐/㇔"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="下" position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="卜" variant="true" original="ト">
+				<stroke type="㇑"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

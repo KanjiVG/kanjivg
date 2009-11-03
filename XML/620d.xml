@@ -1,0 +1,34 @@
+<kanji midashi="戍" id="620d">
+<strokegr element="戍">
+	<strokegr element="戌" variant="true">
+		<strokegr element="厂" part="1">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="戈" part="1" radical="general">
+			<strokegr element="弋" part="1">
+				<strokegr element="厂" part="2">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="一" variant="true">
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="戈" part="2" radical="general">
+			<strokegr element="弋" part="2">
+				<stroke type="㇂"/>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="弋" part="3">
+				<strokegr element="丶">
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

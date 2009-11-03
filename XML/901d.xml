@@ -1,0 +1,22 @@
+<kanji midashi="逝" id="901d">
+<strokegr element="逝">
+	<strokegr element="折" phon="折">
+		<strokegr element="扌" variant="true" original="手" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇚"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="斤" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻌" original="辶" position="nyo" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏a"/>
+	</strokegr>
+</strokegr>
+</kanji>

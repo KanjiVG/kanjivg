@@ -1,0 +1,26 @@
+<kanji midashi="冥" id="51a5Kaisho">
+<strokegr element="冥">
+	<strokegr element="冖" position="top" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇖b"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="日">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="六">
+			<strokegr element="亠" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="八" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

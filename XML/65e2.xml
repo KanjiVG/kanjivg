@@ -1,0 +1,26 @@
+<kanji midashi="既" id="65e2">
+<strokegr element="既">
+	<strokegr element="艮" variant="true" position="left" radical="nelson">
+		<stroke type="㇕"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇙"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="旡" variant="true" original="无" position="right" phon="旡">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<strokegr element="儿">
+			<strokegr element="八" variant="true">
+				<strokegr element="丿" position="left">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇟"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

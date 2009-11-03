@@ -1,0 +1,39 @@
+<kanji midashi="戯" id="622fHzFstLeRi">
+<strokegr element="戯">
+	<strokegr element="虚" position="left">
+		<strokegr element="虍" position="tare">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇖"/>
+			<strokegr element="七">
+				<strokegr element="一">
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇟a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="一" variant="true">
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="戈" position="right" radical="tradit">
+		<strokegr element="弋" part="1">
+			<stroke type="㇐"/>
+			<stroke type="㇂"/>
+		</strokegr>
+		<strokegr element="丿" radical="nelson">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="弋" part="2">
+			<strokegr element="丶">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

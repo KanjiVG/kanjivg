@@ -1,0 +1,39 @@
+<kanji midashi="窕" id="7a95Kaisho">
+<strokegr element="窕">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="兆" position="bottom">
+		<strokegr element="儿" part="1" position="left">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="冫">
+				<strokegr position="top">
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇀"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="儿" part="2">
+				<stroke type="㇟"/>
+			</strokegr>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

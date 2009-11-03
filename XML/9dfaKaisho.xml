@@ -1,0 +1,44 @@
+<kanji midashi="鷺" id="9dfaKaisho">
+<strokegr element="鷺">
+	<strokegr element="路" position="top">
+		<strokegr element="足" position="left">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+			<stroke type="㇀/㇏"/>
+		</strokegr>
+		<strokegr element="各" position="right">
+			<strokegr element="夂" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="鳥" position="bottom" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇆a"/>
+		<strokegr element="灬" variant="true" original="火">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

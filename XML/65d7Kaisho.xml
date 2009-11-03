@@ -1,0 +1,40 @@
+<kanji midashi="旗" id="65d7Kaisho">
+<strokegr element="旗">
+	<strokegr element="方" position="left" radical="general">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇆a"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<strokegr element="其">
+			<strokegr position="top">
+				<strokegr element="甘">
+					<strokegr element="廿" part="1">
+						<strokegr element="十">
+							<stroke type="㇐"/>
+							<stroke type="㇑a"/>
+						</strokegr>
+						<stroke type="㇑a"/>
+					</strokegr>
+					<stroke type="㇐a"/>
+					<strokegr element="廿" part="2">
+						<stroke type="㇐a"/>
+					</strokegr>
+				</strokegr>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="八" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

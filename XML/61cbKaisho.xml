@@ -1,0 +1,43 @@
+<kanji midashi="懋" id="61cbKaisho">
+<strokegr element="懋">
+	<strokegr element="楙" position="top">
+		<strokegr element="木" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="矛">
+				<strokegr element="予">
+					<strokegr element="マ" position="top">
+						<stroke type="㇇"/>
+						<stroke type="㇔"/>
+					</strokegr>
+					<strokegr element="了" position="bottom">
+						<stroke type="㇇"/>
+						<strokegr element="亅">
+							<stroke type="㇚"/>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="木">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

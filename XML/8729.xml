@@ -1,0 +1,36 @@
+<kanji midashi="蜩" id="8729">
+<strokegr element="蜩">
+	<strokegr element="虫" position="left" radical="general">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="周" variant="true" position="right">
+		<strokegr element="冂" variant="true">
+			<stroke type="㇒/㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="吉" variant="true">
+			<strokegr element="士" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

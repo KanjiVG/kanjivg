@@ -1,0 +1,28 @@
+<kanji midashi="尋" id="5c0bKaisho">
+<strokegr element="尋">
+	<strokegr position="top">
+		<strokegr element="⺕" variant="true" original="彑" position="top" radical="nelson">
+			<stroke type="㇕"/>
+			<stroke type="㇐c"/>
+			<stroke type="㇐c"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="工" position="left">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口" position="right">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="寸" position="bottom" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

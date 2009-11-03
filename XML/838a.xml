@@ -1,0 +1,22 @@
+<kanji midashi="莊" id="838a">
+<strokegr element="莊">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="壯" position="bottom">
+		<strokegr element="爿" position="left">
+			<stroke type="㇄"/>
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="士" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

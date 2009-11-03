@@ -1,0 +1,51 @@
+<kanji midashi="簾" id="7c3e">
+<strokegr element="簾">
+	<strokegr element="竹" variant="true" position="top" radical="general">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇔/㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒/㇚"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="廉" position="bottom">
+		<strokegr element="广" position="tare">
+			<stroke type="㇑a"/>
+			<strokegr element="厂">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="兼">
+			<strokegr element="八" variant="true" position="top">
+				<strokegr position="left">
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr position="right">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇐"/>
+				<strokegr element="⺕" variant="true" original="彑">
+					<stroke type="㇕"/>
+					<stroke type="㇐"/>
+					<stroke type="㇐c"/>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

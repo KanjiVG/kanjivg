@@ -1,0 +1,28 @@
+<kanji midashi="揃" id="63c3Jinmei">
+<strokegr element="揃">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="前" variant="true" position="right">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="月">
+				<stroke type="㇒"/>
+				<stroke type="㇆"/>
+				<stroke type="㇔/㇐"/>
+				<stroke type="㇔/㇐"/>
+			</strokegr>
+			<strokegr element="刂" variant="true" original="刀">
+				<stroke type="㇑"/>
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

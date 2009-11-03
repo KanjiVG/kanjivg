@@ -1,0 +1,24 @@
+<kanji midashi="途" id="9014">
+<strokegr element="途">
+	<strokegr element="余" phon="余">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<strokegr element="小">
+				<stroke type="㇚"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻌" original="辶" position="nyo" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏a"/>
+	</strokegr>
+</strokegr>
+</kanji>

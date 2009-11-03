@@ -1,0 +1,28 @@
+<kanji midashi="圄" id="5704">
+<strokegr element="圄">
+	<strokegr element="囗" part="1" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+	</strokegr>
+	<strokegr element="吾">
+		<strokegr element="五" position="top">
+			<strokegr element="二" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇕c"/>
+			<strokegr element="二" part="2">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="囗" part="2" radical="general">
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

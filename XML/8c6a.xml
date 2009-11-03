@@ -1,0 +1,28 @@
+<kanji midashi="豪" id="8c6a">
+<strokegr element="豪">
+	<strokegr position="top" phon="高V">
+		<strokegr element="亠" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="豕" position="bottom" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇕v"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

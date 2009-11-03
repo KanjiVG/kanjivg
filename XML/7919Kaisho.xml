@@ -1,0 +1,49 @@
+<kanji midashi="礙" id="7919Kaisho">
+<strokegr element="礙">
+	<strokegr element="石" position="left" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="疑" position="right">
+		<strokegr position="left">
+			<strokegr element="匕">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+			<strokegr element="矢" variant="true">
+				<stroke type="㇒"/>
+				<strokegr element="天" variant="true">
+					<stroke type="㇐"/>
+					<strokegr element="大" variant="true">
+						<stroke type="㇐"/>
+						<stroke type="㇒"/>
+						<stroke type="㇔/㇏"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="マ">
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="疋">
+				<stroke type="㇖"/>
+				<strokegr element="卜" original="ト">
+					<stroke type="㇑"/>
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr element="人">
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

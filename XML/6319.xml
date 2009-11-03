@@ -1,0 +1,26 @@
+<kanji midashi="挙" id="6319">
+<strokegr element="挙">
+	<strokegr position="top" phon="與V">
+		<strokegr element="⺍" original="つ">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<strokegr element="八">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="手" position="bottom" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇕v"/>
+	</strokegr>
+</strokegr>
+</kanji>

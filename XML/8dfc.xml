@@ -1,0 +1,36 @@
+<kanji midashi="跼" id="8dfc">
+<strokegr element="跼">
+	<strokegr element="足" position="left" radical="general">
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇒"/>
+		<stroke type="㇀/㇏"/>
+	</strokegr>
+	<strokegr element="局" position="right">
+		<strokegr element="尸" part="1">
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="句">
+			<strokegr element="勹">
+				<strokegr element="尸" part="2">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+				</strokegr>
+				<stroke type="㇆"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

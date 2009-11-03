@@ -1,0 +1,23 @@
+<kanji midashi="励" id="52b1">
+<strokegr element="励">
+	<strokegr position="left" phon="厂+万">
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<strokegr element="丿" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="万">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇆a"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="力" position="right" radical="tradit">
+		<stroke type="㇆"/>
+		<stroke type="㇒"/>
+	</strokegr>
+</strokegr>
+</kanji>

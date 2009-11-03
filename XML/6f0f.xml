@@ -1,0 +1,28 @@
+<kanji midashi="漏" id="6f0f">
+<strokegr element="漏">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr position="tare" phon="尸+雨">
+			<strokegr element="尸">
+				<stroke type="㇕c"/>
+				<stroke type="㇐b"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="雨">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇑"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,27 @@
+<kanji midashi="巻" id="5dfb">
+<strokegr element="巻">
+	<strokegr element="𠔉" variant="true" position="top" phon="𠔉V">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="二">
+			<strokegr position="top">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="大" part="1" position="bottom">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="大" part="2">
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="己" position="bottom" radical="general">
+		<stroke type="㇕c"/>
+		<stroke type="㇐"/>
+		<stroke type="㇟"/>
+	</strokegr>
+</strokegr>
+</kanji>

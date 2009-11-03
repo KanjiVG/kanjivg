@@ -1,0 +1,28 @@
+<kanji midashi="鬼" id="9b3c">
+<strokegr element="鬼" radical="general">
+	<strokegr element="丿">
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="田">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="儿">
+		<strokegr element="八" variant="true">
+			<strokegr element="丿" position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="厶">
+		<stroke type="㇜"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

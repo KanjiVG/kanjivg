@@ -1,0 +1,36 @@
+<kanji midashi="竄" id="7ac4Kaisho">
+<strokegr element="竄">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="鼠" position="bottom">
+		<strokegr element="臼" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇂"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

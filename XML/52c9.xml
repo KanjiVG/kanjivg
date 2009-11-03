@@ -1,0 +1,28 @@
+<kanji midashi="勉" id="52c9">
+<strokegr element="勉">
+	<strokegr element="免" position="nyo" phon="免">
+		<strokegr position="top">
+			<strokegr element="𠂊" variant="true" original="勹">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="儿" original="八" position="bottom">
+			<strokegr element="丿" position="left" radical="nelson">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="力" radical="tradit">
+		<stroke type="㇆"/>
+		<stroke type="㇒"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,36 @@
+<kanji midashi="倫" id="502bKaisho">
+<strokegr element="倫">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="侖" position="right">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="冊">
+				<strokegr element="冂">
+					<stroke type="㇑"/>
+					<stroke type="㇆a"/>
+				</strokegr>
+				<strokegr element="廾" variant="true">
+					<strokegr element="十" part="1" variant="true">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr element="丿" variant="true">
+						<stroke type="㇑"/>
+					</strokegr>
+					<strokegr element="十" part="2" variant="true">
+						<stroke type="㇑"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

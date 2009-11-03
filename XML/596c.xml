@@ -1,0 +1,30 @@
+<kanji midashi="奬" id="596c">
+<strokegr element="奬">
+	<strokegr element="將" position="top">
+		<strokegr element="爿" position="left">
+			<stroke type="㇄"/>
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="月" variant="true" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="寸" position="bottom">
+				<stroke type="㇐"/>
+				<stroke type="㇚"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="大" position="bottom" radical="tradit">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

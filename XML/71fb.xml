@@ -1,0 +1,42 @@
+<kanji midashi="燻" id="71fb">
+<strokegr element="燻">
+	<strokegr element="火" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+	</strokegr>
+	<strokegr element="熏" position="right">
+		<strokegr position="top">
+			<strokegr element="千" part="1">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="十">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="黑" variant="true" original="黒">
+				<strokegr element="里" variant="true">
+					<stroke type="㇑"/>
+					<stroke type="㇕"/>
+					<stroke type="㇔"/>
+					<stroke type="㇒"/>
+					<stroke type="㇐"/>
+					<strokegr element="千" part="2">
+						<stroke type="㇑"/>
+					</strokegr>
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="灬" variant="true" original="火" position="bottom">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,45 @@
+<kanji midashi="衝" id="885dKaisho">
+<strokegr element="衝">
+	<strokegr element="囗" part="1">
+		<strokegr element="行" part="1" radical="tradit">
+			<strokegr element="彳" position="left" radical="nelson">
+				<stroke type="㇒"/>
+				<strokegr element="亻" variant="true" original="人">
+					<stroke type="㇒"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="重">
+			<strokegr element="千" part="1">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="十" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="里">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<strokegr element="千" part="2">
+					<strokegr element="十" part="2">
+						<stroke type="㇑"/>
+					</strokegr>
+				</strokegr>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="囗" part="2">
+			<strokegr element="行" part="2" position="right" radical="tradit">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇚"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

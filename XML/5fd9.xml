@@ -1,0 +1,20 @@
+<kanji midashi="忙" id="5fd9">
+<strokegr element="忙">
+	<strokegr element="忄" variant="true" original="心" position="left" radical="general" phon="亡">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="亡" position="right">
+		<strokegr element="亠">
+			<stroke type="㇑a"/>
+			<strokegr element="匸" part="1" variant="true" original="匚">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="匸" part="2" variant="true" original="匚">
+			<stroke type="㇄a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

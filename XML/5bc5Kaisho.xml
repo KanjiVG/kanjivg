@@ -1,0 +1,35 @@
+<kanji midashi="寅" id="5bc5Kaisho">
+<strokegr element="寅">
+	<strokegr element="宀" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇖b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<stroke type="㇐"/>
+		<strokegr element="由">
+			<strokegr element="田" part="1" partial="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+			<strokegr element="田" part="2" partial="true">
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true">
+			<strokegr position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

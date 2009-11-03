@@ -1,0 +1,34 @@
+<kanji midashi="熊" id="718aKaisho">
+<strokegr element="熊">
+	<strokegr element="能" position="top">
+		<strokegr position="left">
+			<strokegr element="厶" position="top">
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="月" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="匕" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+			<strokegr element="匕" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="灬" variant="true" original="火" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

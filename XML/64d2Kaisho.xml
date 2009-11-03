@@ -1,0 +1,40 @@
+<kanji midashi="擒" id="64d2Kaisho">
+<strokegr element="擒">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="禽" position="right">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="亠">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="凶">
+				<strokegr element="乂">
+					<strokegr element="丿">
+						<stroke type="㇒"/>
+					</strokegr>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+				<strokegr element="凵" position="kamae">
+					<stroke type="㇄a"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="禸">
+				<stroke type="㇑"/>
+				<stroke type="㇆"/>
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

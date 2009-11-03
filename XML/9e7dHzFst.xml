@@ -1,0 +1,49 @@
+<kanji midashi="鹽" id="9e7dHzFst">
+<strokegr element="鹽">
+	<strokegr position="top">
+		<strokegr element="臣" variant="true" position="left" phon="監1">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr phon="監2">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="鹵" radical="tradit">
+				<strokegr element="卜" original="ト" position="top">
+					<stroke type="㇑"/>
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<strokegr element="囗" part="1">
+						<stroke type="㇑"/>
+						<stroke type="㇕a"/>
+					</strokegr>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+					<stroke type="㇔"/>
+					<stroke type="㇔"/>
+					<stroke type="㇔"/>
+					<stroke type="㇔"/>
+					<strokegr element="囗" part="2">
+						<stroke type="㇐a"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="皿" position="bottom" radical="nelson" phon="監3">
+		<stroke type="㇑a"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,25 @@
+<kanji midashi="聖" id="8056">
+<strokegr element="聖">
+	<strokegr position="top">
+		<strokegr element="耳" position="left" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇀"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="口" position="right" phon="呈1">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="王" original="玉" partial="true" position="bottom" radical="nelson" phon="呈2">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

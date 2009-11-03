@@ -1,0 +1,27 @@
+<kanji midashi="匙" id="5319Kaisho">
+<strokegr element="匙">
+	<strokegr element="是" position="nyo">
+		<strokegr element="日" position="top" radical="nelson">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="疋" variant="true" position="bottom">
+			<stroke type="㇐"/>
+			<strokegr element="卜" original="ト">
+				<stroke type="㇑"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="人">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="匕" radical="tradit">
+		<stroke type="㇒"/>
+		<stroke type="㇟"/>
+	</strokegr>
+</strokegr>
+</kanji>

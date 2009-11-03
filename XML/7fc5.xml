@@ -1,0 +1,26 @@
+<kanji midashi="翅" id="7fc5">
+<strokegr element="翅">
+	<strokegr element="支" position="nyo" radical="nelson">
+		<strokegr element="十" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="又" position="bottom">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="羽" variant="true" radical="tradit">
+		<strokegr position="left">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

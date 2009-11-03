@@ -1,0 +1,29 @@
+<kanji midashi="剃" id="5243Kaisho">
+<strokegr element="剃">
+	<strokegr element="弟" position="left">
+		<strokegr position="top">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="弔">
+				<strokegr element="弓">
+					<stroke type="㇕c"/>
+					<stroke type="㇐"/>
+					<stroke type="㇉"/>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="刂" variant="true" original="刀" position="right" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇚"/>
+	</strokegr>
+</strokegr>
+</kanji>

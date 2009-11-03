@@ -1,0 +1,28 @@
+<kanji midashi="峽" id="5cfd">
+<strokegr element="峽">
+	<strokegr element="山" position="left" radical="tradit">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="夾" position="right">
+		<strokegr element="大" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="从">
+			<strokegr element="人" position="left">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="人" position="right">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="大" part="2">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

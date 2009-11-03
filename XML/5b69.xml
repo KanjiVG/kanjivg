@@ -1,0 +1,21 @@
+<kanji midashi="孩" id="5b69">
+<strokegr element="孩">
+	<strokegr element="子" variant="true" position="left" radical="general">
+		<stroke type="㇖"/>
+		<stroke type="㇕v"/>
+		<stroke type="㇀/㇐"/>
+	</strokegr>
+	<strokegr element="亥" position="right">
+		<strokegr element="亠" position="top">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇜"/>
+		<stroke type="㇒"/>
+		<strokegr element="人" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

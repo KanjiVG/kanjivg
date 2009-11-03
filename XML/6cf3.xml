@@ -1,0 +1,20 @@
+<kanji midashi="泳" id="6cf3">
+<strokegr element="泳">
+	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="永" position="right" phon="永">
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="水" variant="true">
+			<stroke type="㇆"/>
+			<stroke type="㇇"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,28 @@
+<kanji midashi="琵" id="7435Kaisho">
+<strokegr element="琵">
+	<strokegr position="top">
+		<strokegr element="王" original="玉" partial="true" position="left" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="王" original="玉" partial="true" position="right" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="比" position="bottom" radical="nelson">
+		<strokegr position="left">
+			<stroke type="㇐b"/>
+			<stroke type="㇙"/>
+		</strokegr>
+		<strokegr element="匕" position="right">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

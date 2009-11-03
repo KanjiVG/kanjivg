@@ -1,0 +1,43 @@
+<kanji midashi="嶺" id="5dbaKaisho">
+<strokegr element="嶺">
+	<strokegr element="山" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="領" position="bottom">
+		<strokegr element="令" position="left">
+			<strokegr element="人" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇔/㇏"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<strokegr element="一">
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr element="卩" original="マ">
+					<stroke type="㇆"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="頁" position="right">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<strokegr element="貝">
+				<strokegr element="目" position="top">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<strokegr position="bottom">
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,22 @@
+<kanji midashi="空" id="7a7a">
+<strokegr element="空">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true">
+			<stroke type="㇒"/>
+			<stroke type="㇟a/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="工" position="bottom" phon="工">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+</strokegr>
+</kanji>

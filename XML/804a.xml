@@ -1,0 +1,25 @@
+<kanji midashi="聊" id="804a">
+<strokegr element="聊">
+	<strokegr element="耳" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇀"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="卯" position="right">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="卩" position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

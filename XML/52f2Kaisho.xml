@@ -1,0 +1,39 @@
+<kanji midashi="勲" id="52f2Kaisho">
+<strokegr element="勲">
+	<strokegr element="動" position="top">
+		<strokegr element="重" position="left">
+			<strokegr element="千" part="1">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="十" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="里" variant="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+				<strokegr element="千" part="2">
+					<strokegr element="十" part="2">
+						<stroke type="㇑a"/>
+					</strokegr>
+				</strokegr>
+				<stroke type="㇐"/>
+				<stroke type="㇀/㇐"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="力" position="right" radical="tradit">
+			<stroke type="㇆"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="灬" variant="true" original="火" position="bottom" radical="nelson">
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

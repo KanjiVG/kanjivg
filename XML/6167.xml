@@ -1,0 +1,55 @@
+<kanji midashi="慧" id="6167">
+<strokegr element="慧">
+	<strokegr element="彗" position="top">
+		<strokegr position="top">
+			<strokegr position="left">
+				<strokegr element="三">
+					<strokegr element="一" position="top">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr position="bottom">
+						<strokegr element="一">
+							<stroke type="㇐"/>
+						</strokegr>
+						<strokegr element="一">
+							<stroke type="㇐"/>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr position="right">
+				<strokegr element="三">
+					<strokegr element="一" position="top">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr position="bottom">
+						<strokegr element="一">
+							<stroke type="㇐"/>
+						</strokegr>
+						<strokegr element="一">
+							<stroke type="㇐"/>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="⺕" variant="true" original="彑" position="bottom">
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="心" position="bottom" radical="general">
+		<stroke type="㇔"/>
+		<stroke type="㇟b"/>
+		<stroke type="㇔a"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

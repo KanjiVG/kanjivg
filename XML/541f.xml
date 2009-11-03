@@ -1,0 +1,21 @@
+<kanji midashi="吟" id="541f">
+<strokegr element="吟">
+	<strokegr element="口" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="今" position="right" phon="今">
+		<strokegr element="人" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇖"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

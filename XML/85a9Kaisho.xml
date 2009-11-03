@@ -1,0 +1,43 @@
+<kanji midashi="薩" id="85a9Kaisho">
+<strokegr element="薩">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="⻖" variant="true" original="阜" position="left">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="産" position="right">
+			<strokegr position="tare">
+				<strokegr element="立">
+					<strokegr element="亠" position="top">
+						<stroke type="㇑a"/>
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr position="bottom">
+						<stroke type="㇔"/>
+						<stroke type="㇒"/>
+						<strokegr element="厂" part="1">
+							<stroke type="㇐"/>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+				<strokegr element="厂" part="2">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="生">
+				<stroke type="㇒"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,33 @@
+<kanji midashi="肄" id="8084">
+<strokegr element="肄">
+	<strokegr position="left">
+		<strokegr element="匕" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+		<strokegr element="矢" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<strokegr element="天" variant="true">
+				<stroke type="㇐"/>
+				<strokegr element="大" variant="true">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+					<stroke type="㇔/㇏"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="聿" position="right" radical="general">
+		<strokegr element="⺕" variant="true" original="彑">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<strokegr element="丨">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

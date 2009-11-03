@@ -1,0 +1,32 @@
+<kanji midashi="貿" id="8cbfKaisho">
+<strokegr element="貿">
+	<strokegr element="卯" variant="true" position="top">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="卩" variant="true" position="right">
+			<strokegr element="刀">
+				<stroke type="㇆"/>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="貝" position="bottom" radical="general">
+		<strokegr element="目" position="top">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

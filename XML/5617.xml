@@ -1,0 +1,34 @@
+<kanji midashi="嘗" id="5617">
+<strokegr element="嘗">
+	<strokegr element="尚" variant="true" position="top">
+		<strokegr element="⺌" variant="true" original="小" position="top" radical="nelson">
+			<stroke type="㇑a"/>
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="冂" variant="true">
+				<stroke type="㇔"/>
+				<stroke type="㇖a"/>
+			</strokegr>
+			<strokegr element="口" radical="tradit">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="旨" position="bottom">
+		<strokegr element="匕" position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇟"/>
+		</strokegr>
+		<strokegr element="日" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

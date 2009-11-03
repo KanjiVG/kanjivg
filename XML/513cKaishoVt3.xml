@@ -1,0 +1,54 @@
+<kanji midashi="儼" id="513cKaishoVt3">
+<strokegr element="儼">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="嚴" position="right">
+		<strokegr position="top">
+			<strokegr element="口" position="left">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="口" position="right">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="厂" position="tare">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="敢">
+				<strokegr position="left">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+					<strokegr element="耳" variant="true">
+						<stroke type="㇐"/>
+						<stroke type="㇑"/>
+						<stroke type="㇑"/>
+						<stroke type="㇐"/>
+						<stroke type="㇐"/>
+						<stroke type="㇀"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="攵" variant="true" original="攴" position="right">
+					<strokegr position="top">
+						<stroke type="㇒"/>
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr element="乂" position="bottom">
+						<strokegr element="丿">
+							<stroke type="㇒"/>
+						</strokegr>
+						<stroke type="㇏"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

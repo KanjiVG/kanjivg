@@ -1,0 +1,23 @@
+<kanji midashi="弟" id="5f1f">
+<strokegr element="弟">
+	<strokegr element="八" variant="true" position="top" radical="nelson">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="弔">
+			<strokegr element="弓" radical="tradit">
+				<stroke type="㇕c"/>
+				<stroke type="㇐"/>
+				<stroke type="㇉"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

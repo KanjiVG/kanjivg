@@ -1,0 +1,36 @@
+<kanji midashi="隨" id="96a8">
+<strokegr element="隨">
+	<strokegr element="隋" part="1">
+		<strokegr element="⻖" variant="true" original="阜" position="left" radical="general">
+			<stroke type="㇇"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="right">
+		<strokegr element="隋" part="2">
+			<strokegr element="左" position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇒"/>
+				<strokegr element="工">
+					<stroke type="㇐"/>
+					<stroke type="㇑a"/>
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="月" position="bottom">
+				<stroke type="㇒"/>
+				<stroke type="㇆a"/>
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="辶" position="nyo">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇋"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

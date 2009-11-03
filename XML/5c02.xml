@@ -1,0 +1,25 @@
+<kanji midashi="専" id="5c02">
+<strokegr element="専">
+	<strokegr position="top" phon="2+由">
+		<stroke type="㇐"/>
+		<strokegr element="由">
+			<strokegr element="田" part="1" partial="true">
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+			</strokegr>
+			<strokegr element="田" part="2" partial="true">
+				<stroke type="㇐a"/>
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="丨">
+			<stroke type="㇑a"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="寸" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

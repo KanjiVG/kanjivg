@@ -1,0 +1,24 @@
+<kanji midashi="席" id="5e2d">
+<strokegr element="席">
+	<strokegr element="广" position="tare" radical="general" phon="庶1T">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="廿" phon="庶2T">
+		<strokegr element="十">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="巾" radical="tradit">
+		<stroke type="㇑"/>
+		<stroke type="㇆a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,28 @@
+<kanji midashi="巽" id="5dfd">
+<strokegr element="巽">
+	<strokegr position="top">
+		<strokegr element="己" position="left" radical="tradit">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇟"/>
+		</strokegr>
+		<strokegr element="己" position="right" radical="tradit">
+			<stroke type="㇕c"/>
+			<stroke type="㇐"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="共" position="bottom">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="八" position="bottom" radical="nelson">
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,36 @@
+<kanji midashi="儘" id="5118VtLst">
+<strokegr element="儘">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="盡" position="right">
+		<strokegr position="top">
+			<strokegr element="聿" partial="true" position="top">
+				<strokegr element="⺕" variant="true" original="彑">
+					<stroke type="㇕"/>
+					<stroke type="㇐"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇐"/>
+				<strokegr element="丨">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="灬" variant="true" original="火" position="bottom">
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="皿" position="bottom">
+			<stroke type="㇑a"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

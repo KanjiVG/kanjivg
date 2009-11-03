@@ -1,0 +1,29 @@
+<kanji midashi="綢" id="7da2Kaisho">
+<strokegr element="綢">
+	<strokegr element="糸" variant="true" position="left" radical="general">
+		<stroke type="㇜"/>
+		<stroke type="㇜"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
+	</strokegr>
+	<strokegr element="周" position="right">
+		<strokegr element="冂" variant="true">
+			<stroke type="㇒/㇑"/>
+			<stroke type="㇆a"/>
+		</strokegr>
+		<strokegr element="吉" variant="true">
+			<strokegr element="士" variant="true">
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

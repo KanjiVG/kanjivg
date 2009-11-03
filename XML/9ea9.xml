@@ -1,0 +1,39 @@
+<kanji midashi="麩" id="9ea9">
+<strokegr element="麩">
+	<strokegr element="麥" position="nyo" radical="general">
+		<strokegr element="來" position="top">
+			<strokegr element="木" part="1">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="从">
+				<strokegr element="人">
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+				<strokegr element="人">
+					<stroke type="㇒"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="木" part="2">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="夂" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇇"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="夫">
+		<stroke type="㇐"/>
+		<strokegr element="大">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

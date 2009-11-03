@@ -1,0 +1,35 @@
+<kanji midashi="睡" id="7761">
+<strokegr element="睡">
+	<strokegr element="目" position="left" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="垂" position="right" phon="垂">
+		<strokegr element="千" part="1">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="十" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+		<strokegr element="土" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="土" part="2">
+			<strokegr element="千" part="2">
+				<strokegr element="十" part="2">
+					<stroke type="㇑a"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

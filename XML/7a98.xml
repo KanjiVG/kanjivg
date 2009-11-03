@@ -1,0 +1,38 @@
+<kanji midashi="窘" id="7a98">
+<strokegr element="窘">
+	<strokegr element="穴" variant="true" position="top" radical="general">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="八" variant="true" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇟/㇏"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="君" position="bottom">
+		<strokegr element="尹">
+			<strokegr element="⺕" variant="true" original="彑">
+				<strokegr element="尸" part="1">
+					<stroke type="㇕c"/>
+					<stroke type="㇐"/>
+				</strokegr>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="尸" part="2">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

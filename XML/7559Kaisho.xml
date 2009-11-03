@@ -1,0 +1,24 @@
+<kanji midashi="留" id="7559Kaisho">
+<strokegr element="留">
+	<strokegr element="卯" variant="true" position="top">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+		</strokegr>
+		<strokegr element="卩" original="刀" position="right">
+			<stroke type="㇆"/>
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="田" position="bottom" radical="general">
+		<stroke type="㇑"/>
+		<stroke type="㇕a"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+	</strokegr>
+</strokegr>
+</kanji>

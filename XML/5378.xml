@@ -1,0 +1,39 @@
+<kanji midashi="卸" id="5378">
+<strokegr element="卸">
+	<strokegr position="left">
+		<strokegr element="午" phon="午">
+			<strokegr position="top">
+				<stroke type="㇒"/>
+				<strokegr element="干" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="正" part="1" position="bottom">
+				<strokegr element="干" part="2">
+					<strokegr element="十">
+						<stroke type="㇐"/>
+						<strokegr element="止" part="1">
+							<strokegr element="卜" part="1" original="ト">
+								<stroke type="㇑a"/>
+							</strokegr>
+						</strokegr>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="正" part="2">
+			<strokegr element="止" part="2">
+				<strokegr element="卜" part="2" original="ト">
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇑a"/>
+			<stroke type="㇀/㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="卩" position="right" radical="general">
+		<stroke type="㇆"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

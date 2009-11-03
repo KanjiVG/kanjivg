@@ -1,0 +1,51 @@
+<kanji midashi="釁" id="91c1">
+<strokegr element="釁">
+	<strokegr position="top">
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐"/>
+		<strokegr element="𦥑" variant="true" original="臼">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="冖">
+			<stroke type="㇔"/>
+			<stroke type="㇆"/>
+		</strokegr>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="酉" radical="general">
+			<strokegr element="西" part="1" original="襾">
+				<stroke type="㇐"/>
+				<stroke type="㇑"/>
+				<stroke type="㇕a"/>
+				<stroke type="㇒"/>
+				<stroke type="㇟a"/>
+			</strokegr>
+			<strokegr element="一">
+				<stroke type="㇐a"/>
+			</strokegr>
+			<strokegr element="西" part="2" original="襾">
+				<stroke type="㇐a"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="分">
+			<strokegr element="八" position="top">
+				<stroke type="㇒"/>
+				<stroke type="㇏"/>
+			</strokegr>
+			<strokegr element="刀" position="bottom">
+				<stroke type="㇆"/>
+				<stroke type="㇒"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,26 @@
+<kanji midashi="倔" id="5014">
+<strokegr element="倔">
+	<strokegr element="亻" variant="true" original="人" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="屈" position="right">
+		<strokegr element="尸" position="tare">
+			<stroke type="㇕c"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="出">
+			<strokegr element="山">
+				<stroke type="㇑a"/>
+				<stroke type="㇄"/>
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="凵">
+				<stroke type="㇄a"/>
+				<stroke type="㇑"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

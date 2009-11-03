@@ -1,0 +1,35 @@
+<kanji midashi="磐" id="78d0">
+<strokegr element="磐">
+	<strokegr element="般" position="top">
+		<strokegr element="舟" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇒"/>
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="殳" position="right">
+			<strokegr element="几" position="top">
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<stroke type="㇈b"/>
+			</strokegr>
+			<strokegr element="又" position="bottom">
+				<stroke type="㇇"/>
+				<stroke type="㇏"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="石" position="bottom" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇒"/>
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

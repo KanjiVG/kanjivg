@@ -1,0 +1,40 @@
+<kanji midashi="蜜" id="871c">
+<strokegr element="蜜">
+	<strokegr position="top">
+		<strokegr element="宀" radical="nelson">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="必">
+			<strokegr element="心" part="1" variant="true">
+				<stroke type="㇔"/>
+				<strokegr element="丿">
+					<stroke type="㇒"/>
+				</strokegr>
+				<strokegr element="心" part="2" variant="true">
+					<stroke type="㇟b"/>
+					<stroke type="㇔"/>
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="虫" position="bottom" radical="tradit">
+		<strokegr element="中">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<strokegr element="丨">
+				<stroke type="㇑a"/>
+			</strokegr>
+		</strokegr>
+		<stroke type="㇀"/>
+		<stroke type="㇔"/>
+	</strokegr>
+</strokegr>
+</kanji>

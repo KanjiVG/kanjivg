@@ -1,0 +1,18 @@
+<kanji midashi="午" id="5348">
+<strokegr element="午">
+	<strokegr position="top">
+		<strokegr element="丿" radical="nelson">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="干" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="干" part="2" position="bottom">
+		<strokegr element="十" radical="tradit">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

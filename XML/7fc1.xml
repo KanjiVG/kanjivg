@@ -1,0 +1,26 @@
+<kanji midashi="翁" id="7fc1">
+<strokegr element="翁">
+	<strokegr element="公" position="top" phon="公">
+		<strokegr element="八" position="top" radical="nelson">
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="厶" position="bottom">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="羽" position="bottom" radical="tradit">
+		<strokegr position="left">
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇆"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

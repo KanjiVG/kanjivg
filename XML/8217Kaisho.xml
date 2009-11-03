@@ -1,0 +1,35 @@
+<kanji midashi="舗" id="8217Kaisho">
+<strokegr element="舗">
+	<strokegr position="left">
+		<strokegr element="人" position="top" radical="general">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+		<strokegr element="吉" position="bottom">
+			<strokegr element="士" position="top">
+				<stroke type="㇐"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr element="口" position="bottom">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="甫" position="right">
+		<stroke type="㇐"/>
+		<strokegr element="用" variant="true">
+			<stroke type="㇑"/>
+			<stroke type="㇆"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="丶">
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

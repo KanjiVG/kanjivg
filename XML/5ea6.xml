@@ -1,0 +1,23 @@
+<kanji midashi="度" id="5ea6">
+<strokegr element="度">
+	<strokegr element="广" position="tare" radical="general" phon="庶1T">
+		<stroke type="㇑a"/>
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="廿" phon="庶2T">
+		<strokegr element="十">
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇑a"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr element="又">
+		<stroke type="㇇"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

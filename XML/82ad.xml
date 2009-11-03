@@ -1,0 +1,19 @@
+<kanji midashi="芭" id="82ad">
+<strokegr element="芭">
+	<strokegr element="艹" variant="true" original="艸" position="top" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇑a"/>
+		<stroke type="㇑a"/>
+	</strokegr>
+	<strokegr element="巴" position="bottom">
+		<strokegr element="己" part="1" original="巳">
+			<stroke type="㇕c"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="己" part="2" original="巳">
+			<stroke type="㇐c"/>
+			<stroke type="㇟"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

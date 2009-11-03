@@ -1,0 +1,34 @@
+<kanji midashi="叢" id="53e2Kaisho">
+<strokegr element="叢">
+	<strokegr position="top">
+		<stroke type="㇑"/>
+		<stroke type="㇑"/>
+		<strokegr element="丶" radical="nelson">
+			<stroke type="㇔"/>
+		</strokegr>
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<strokegr element="羊" partial="true">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="取" position="bottom">
+		<strokegr element="耳" position="left">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇀"/>
+			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="又" position="right" radical="tradit">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

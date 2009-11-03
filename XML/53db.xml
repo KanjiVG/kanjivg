@@ -1,0 +1,29 @@
+<kanji midashi="叛" id="53db">
+<strokegr element="叛">
+	<strokegr element="半" variant="true" position="left">
+		<stroke type="㇔"/>
+		<stroke type="㇒"/>
+		<strokegr element="二" part="1">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="丿" radical="nelson">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="十">
+			<strokegr element="二" part="2">
+				<stroke type="㇀/㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="反" position="right">
+		<strokegr element="厂">
+			<stroke type="㇐"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="又" radical="tradit">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

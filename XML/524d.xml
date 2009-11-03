@@ -1,0 +1,23 @@
+<kanji midashi="前" id="524d">
+<strokegr element="前">
+	<strokegr position="top" phon="歬1V">
+		<strokegr element="八" variant="true" radical="nelson">
+			<stroke type="㇔"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="月" variant="true" phon="歬2V">
+			<stroke type="㇑/㇒"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="刂" variant="true" original="刀" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇚"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

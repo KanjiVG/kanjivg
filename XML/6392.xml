@@ -1,0 +1,23 @@
+<kanji midashi="排" id="6392">
+<strokegr element="排">
+	<strokegr element="扌" variant="true" original="手" position="left" radical="general">
+		<stroke type="㇐"/>
+		<stroke type="㇚"/>
+		<stroke type="㇀"/>
+	</strokegr>
+	<strokegr element="非" position="right" phon="非">
+		<strokegr position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇐c"/>
+			<stroke type="㇐c"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr position="right">
+			<stroke type="㇑"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

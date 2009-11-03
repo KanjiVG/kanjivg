@@ -1,0 +1,34 @@
+<kanji midashi="館" id="9928Kaisho">
+<strokegr element="館">
+	<strokegr element="飠" original="食" position="left">
+		<strokegr element="食" partial="true" radical="general">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇕"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇐a"/>
+			<stroke type="㇙"/>
+			<stroke type="㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="官" position="right">
+		<strokegr element="宀" position="top">
+			<stroke type="㇑a"/>
+			<strokegr element="冖">
+				<stroke type="㇔"/>
+				<stroke type="㇖b"/>
+			</strokegr>
+		</strokegr>
+		<strokegr position="bottom">
+			<strokegr element="口">
+				<stroke type="㇑"/>
+				<stroke type="㇕b"/>
+				<stroke type="㇐b"/>
+			</strokegr>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

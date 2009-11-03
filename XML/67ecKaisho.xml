@@ -1,0 +1,25 @@
+<kanji midashi="柬" id="67ecKaisho">
+<strokegr element="柬">
+	<strokegr element="束" part="1">
+		<strokegr element="木" part="1" radical="general">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="口" part="1">
+			<stroke type="㇑"/>
+			<stroke type="㇕"/>
+		</strokegr>
+	</strokegr>
+	<stroke type="㇔"/>
+	<stroke type="㇒"/>
+	<strokegr element="束">
+		<strokegr element="口" part="2">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="木" part="2" radical="general">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

@@ -1,0 +1,29 @@
+<kanji midashi="産" id="7523KaishoVtLst">
+<strokegr element="産">
+	<strokegr position="tare">
+		<strokegr element="立" radical="nelson">
+			<strokegr element="亠" position="top">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+			<strokegr position="bottom">
+				<stroke type="㇔"/>
+				<stroke type="㇒"/>
+				<strokegr element="厂" part="1">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+		<strokegr element="厂" part="2">
+			<stroke type="㇒"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="生" radical="tradit">
+		<stroke type="㇒"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+	</strokegr>
+</strokegr>
+</kanji>

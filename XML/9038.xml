@@ -1,0 +1,29 @@
+<kanji midashi="逸" id="9038">
+<strokegr element="逸">
+	<strokegr element="免">
+		<strokegr position="top">
+			<strokegr element="𠂊" variant="true" original="勹">
+				<stroke type="㇒"/>
+				<stroke type="㇇"/>
+			</strokegr>
+			<stroke type="㇑"/>
+			<stroke type="㇕a"/>
+			<stroke type="㇑a"/>
+			<stroke type="㇐a"/>
+		</strokegr>
+		<strokegr element="儿" original="八" position="bottom">
+			<strokegr element="丿" position="left">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr position="right">
+				<stroke type="㇟"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻌" original="辶" position="nyo" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏a"/>
+	</strokegr>
+</strokegr>
+</kanji>

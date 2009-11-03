@@ -1,0 +1,21 @@
+<kanji midashi="卉" id="5349">
+<strokegr element="卉">
+	<strokegr element="十" position="top" radical="tradit">
+		<stroke type="㇐"/>
+		<strokegr element="丨" radical="nelson">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="廾" position="bottom">
+		<strokegr element="十" part="1" radical="tradit">
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="十" part="2" radical="tradit">
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

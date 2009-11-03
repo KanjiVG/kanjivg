@@ -1,0 +1,32 @@
+<kanji midashi="渠" id="6e20">
+<strokegr element="渠">
+	<strokegr position="top">
+		<strokegr element="氵" variant="true" original="水" position="left" radical="tradit">
+			<stroke type="㇔"/>
+			<stroke type="㇔"/>
+			<stroke type="㇀"/>
+		</strokegr>
+		<strokegr element="巨" position="right">
+			<strokegr element="匚" part="1" variant="true">
+				<stroke type="㇑"/>
+			</strokegr>
+			<strokegr element="二" part="1">
+				<stroke type="㇐"/>
+			</strokegr>
+			<stroke type="㇕"/>
+			<stroke type="㇐"/>
+			<strokegr element="二" part="2">
+				<strokegr element="匚" part="2" variant="true">
+					<stroke type="㇐"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="木" position="bottom" radical="nelson">
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇒"/>
+		<stroke type="㇏"/>
+	</strokegr>
+</strokegr>
+</kanji>

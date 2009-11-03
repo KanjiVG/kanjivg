@@ -1,0 +1,24 @@
+<kanji midashi="師" id="5e2b">
+<strokegr element="師">
+	<strokegr position="left">
+		<strokegr element="丿">
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr element="丨" radical="nelson">
+			<stroke type="㇑"/>
+		</strokegr>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+		<stroke type="㇕b"/>
+		<stroke type="㇐b"/>
+	</strokegr>
+	<strokegr position="right">
+		<stroke type="㇐"/>
+		<strokegr element="巾" radical="tradit">
+			<stroke type="㇑"/>
+			<stroke type="㇆a"/>
+			<stroke type="㇑"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

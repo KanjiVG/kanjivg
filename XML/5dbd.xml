@@ -1,0 +1,39 @@
+<kanji midashi="嶽" id="5dbd">
+<strokegr element="嶽">
+	<strokegr element="山" position="top" radical="general">
+		<stroke type="㇑a"/>
+		<stroke type="㇄a"/>
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="獄" position="bottom">
+		<strokegr element="⺨" variant="true" original="犬" position="left">
+			<stroke type="㇒"/>
+			<stroke type="㇕va"/>
+			<stroke type="㇒"/>
+		</strokegr>
+		<strokegr position="right">
+			<strokegr element="言" position="left">
+				<stroke type="㇔"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<stroke type="㇐"/>
+				<strokegr element="口">
+					<stroke type="㇑"/>
+					<stroke type="㇕b"/>
+					<stroke type="㇐b"/>
+				</strokegr>
+			</strokegr>
+			<strokegr element="犬" position="right">
+				<strokegr element="大">
+					<stroke type="㇐"/>
+					<stroke type="㇒"/>
+					<stroke type="㇏"/>
+				</strokegr>
+				<strokegr element="丶">
+					<stroke type="㇔"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

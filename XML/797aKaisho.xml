@@ -1,0 +1,37 @@
+<kanji midashi="祺" id="797aKaisho">
+<strokegr element="祺">
+	<strokegr element="示" variant="true" position="left" radical="general">
+		<strokegr position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇑/㇔"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="其" position="right">
+		<strokegr position="top">
+			<strokegr element="甘">
+				<strokegr element="廿" part="1">
+					<strokegr element="十">
+						<stroke type="㇐"/>
+						<stroke type="㇑a"/>
+					</strokegr>
+					<stroke type="㇑a"/>
+				</strokegr>
+				<stroke type="㇐a"/>
+				<strokegr element="廿" part="2">
+					<stroke type="㇐a"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="八" position="bottom">
+			<stroke type="㇒"/>
+			<stroke type="㇔/㇏"/>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

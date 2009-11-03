@@ -1,0 +1,60 @@
+<kanji midashi="纛" id="7e9bKaishoVtLst">
+<strokegr element="纛">
+	<strokegr position="top">
+		<strokegr element="毒" position="top">
+			<strokegr element="三" part="1">
+				<strokegr element="一" position="top">
+					<stroke type="㇐"/>
+				</strokegr>
+				<strokegr element="三" part="2" position="bottom">
+					<strokegr element="一">
+						<stroke type="㇐"/>
+					</strokegr>
+					<strokegr element="一">
+						<stroke type="㇐"/>
+						<stroke type="㇑"/>
+					</strokegr>
+				</strokegr>
+			</strokegr>
+			<strokegr element="毋" original="母" partial="true" position="bottom">
+				<stroke type="㇛"/>
+				<stroke type="㇆"/>
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="縣" position="bottom">
+		<strokegr element="県" position="left">
+			<strokegr position="top">
+				<strokegr element="目">
+					<stroke type="㇑"/>
+					<stroke type="㇕a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+					<stroke type="㇐a"/>
+				</strokegr>
+				<stroke type="㇗"/>
+			</strokegr>
+			<strokegr element="小" position="bottom">
+				<stroke type="㇚"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+		<strokegr element="系" position="right">
+			<strokegr element="丿" position="top">
+				<stroke type="㇒"/>
+			</strokegr>
+			<strokegr element="糸" position="bottom" radical="general">
+				<stroke type="㇜"/>
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+				<stroke type="㇚/㇑"/>
+				<stroke type="㇒"/>
+				<stroke type="㇔"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

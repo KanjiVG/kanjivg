@@ -1,0 +1,35 @@
+<kanji midashi="餠" id="9920Kaisho">
+<strokegr element="餠">
+	<strokegr element="飠" variant="true" original="食" position="left" radical="general">
+		<stroke type="㇒"/>
+		<stroke type="㇔/㇏"/>
+		<stroke type="㇐"/>
+		<stroke type="㇑"/>
+		<stroke type="㇕"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐a"/>
+		<stroke type="㇐c"/>
+		<stroke type="㇐c"/>
+	</strokegr>
+	<strokegr element="并" variant="true" position="right">
+		<stroke type="㇒"/>
+		<strokegr element="幵" variant="true">
+			<strokegr element="干" variant="true">
+				<stroke type="㇐"/>
+				<strokegr element="十" variant="true">
+					<stroke type="㇒"/>
+					<stroke type="㇀"/>
+				</strokegr>
+			</strokegr>
+			<stroke type="㇒"/>
+			<strokegr element="干">
+				<stroke type="㇐"/>
+				<strokegr element="十">
+					<stroke type="㇐"/>
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

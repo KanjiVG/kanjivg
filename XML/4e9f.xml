@@ -1,0 +1,26 @@
+<kanji midashi="亟" id="4e9f">
+<strokegr element="亟">
+	<strokegr position="top">
+		<strokegr element="二" part="1" position="top" radical="general">
+			<stroke type="㇐"/>
+		</strokegr>
+		<stroke type="㇉"/>
+	</strokegr>
+	<strokegr position="bottom">
+		<strokegr element="口">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+		<strokegr element="又">
+			<stroke type="㇇"/>
+			<stroke type="㇏"/>
+		</strokegr>
+		<strokegr element="二" part="2" position="bottom" radical="general">
+			<strokegr element="一">
+				<stroke type="㇐"/>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+</strokegr>
+</kanji>

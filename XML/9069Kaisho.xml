@@ -1,0 +1,30 @@
+<kanji midashi="適" id="9069Kaisho">
+<strokegr element="適">
+	<strokegr element="亠">
+		<stroke type="㇑a"/>
+		<stroke type="㇐"/>
+	</strokegr>
+	<stroke type="㇔"/>
+	<stroke type="㇒"/>
+	<strokegr element="冂">
+		<stroke type="㇑"/>
+		<stroke type="㇆a"/>
+	</strokegr>
+	<strokegr element="古">
+		<strokegr element="十" position="top">
+			<stroke type="㇐"/>
+			<stroke type="㇑a"/>
+		</strokegr>
+		<strokegr element="口" position="bottom">
+			<stroke type="㇑"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+		</strokegr>
+	</strokegr>
+	<strokegr element="⻌" original="辶" position="nyo" radical="tradit">
+		<stroke type="㇔"/>
+		<stroke type="㇋"/>
+		<stroke type="㇏a"/>
+	</strokegr>
+</strokegr>
+</kanji>
