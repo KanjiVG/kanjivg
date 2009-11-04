@@ -85,5 +85,5 @@ for f in os.listdir("SVG"):
 	document, groups = XMLID(open(os.path.join("SVG", f)).read())
 	tpp = TemplateParser(open("template.svg").read(), kanji, document, groups)
 	tpp.parse()
-	out = codecs.open(os.path.join("newSVG", f), "w", "utf-8")
+	out = codecs.open(os.path.join("SVG", f), "w", "utf-8")
 	out.write(tpp.content)
