@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 #
 #  Copyright (C) 2009  Alexandre Courbot
@@ -57,9 +58,11 @@ class TemplateParser(Parser):
 		elts = numbers.findall(".//{http://www.w3.org/2000/svg}text")
 		strs = []
 		for elt in elts:
-			transform = None
-			if elt.attrib.has_key("transform"): transform = elt.attrib["transform"]
-			strs.append('<text transform="%s">%s</text>' % (transform, findText(elt)))
+			attrs = []
+			if elt.attrib.has_key("transform"): attrs.append(' transform="%s"' % (elt.attrib["transform"],))
+			if elt.attrib.has_key("x"): attrs.append(' x="%s"' % (elt.attrib["x"],))
+			if elt.attrib.has_key("y"): attrs.append(' y="%s"' % (elt.attrib["y"],))
+			strs.append('<text%s>%s</text>' % (''.join(attrs), findText(elt)))
 		return "\n\t\t".join(strs)
 
 	def callback_strokepaths(self):
