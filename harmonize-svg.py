@@ -16,7 +16,7 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 from xml.etree.ElementTree import XMLID, tostring
-import re, codecs, os, string, kanjivg, os.path
+import re, codecs, os, string, kanjivg, os.path, sys
 
 def findText(elt):
 	if elt.text: return elt.text
@@ -79,14 +79,25 @@ class TemplateParser(Parser):
 			strs.append('<path d="%s"/>' % (d,))
 		return "\n\t\t".join(strs)
 
-for f in os.listdir("SVG"):
-	if not f.endswith(".svg"): continue
-	if f[4] in "0123456789abcdef":
-		kanji = kanjivg.realchr(int(f[:5], 16))
-	else: kanji = kanjivg.realchr(int(f[:4], 16))
+if __name__ == "__main__":
+	# Only process files given as argument...
+	if len(sys.argv) > 1:
+		filesToProceed = sys.argv[1:]
+	# Or do the whole SVG set if no argument is given
+	else:
+		filesToProceed = []
+		for f in os.listdir("SVG"):
+			if not f.endswith(".svg"): continue
+			filesToProceed.append(os.path.join("SVG", f))
 
-	document, groups = XMLID(open(os.path.join("SVG", f)).read())
-	tpp = TemplateParser(open("template.svg").read(), kanji, document, groups)
-	tpp.parse()
-	out = codecs.open(os.path.join("SVG", f), "w", "utf-8")
-	out.write(tpp.content)
+	for f in filesToProceed:
+		fname = f.split(os.path.sep)[-1]
+		if fname[4] in "0123456789abcdef":
+			kanji = kanjivg.realchr(int(fname[:5], 16))
+		else: kanji = kanjivg.realchr(int(fname[:4], 16))
+
+		document, groups = XMLID(open(f).read())
+		tpp = TemplateParser(open("template.svg").read(), kanji, document, groups)
+		tpp.parse()
+		out = codecs.open(f, "w", "utf-8")
+		out.write(tpp.content)
