@@ -34,6 +34,10 @@ Under the following conditions:
 
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details."""
 
+def isKanji(c):
+	v = realord(c)
+	return (v >= 0x4E00 and v <= 0x9FC3) or (v >= 0x3400 and v <= 0x4DBF) or (v >= 0xF900 and v <= 0xFAD9) or (v >= 0x2E80 and v <= 0x2EFF) or (v >= 0x20000 and v <= 0x2A6DF)
+
 # Returns the unicode of a character in a unicode string, taking surrogate pairs into account
 def realord(s, pos = 0):
 	if s == None: return None
