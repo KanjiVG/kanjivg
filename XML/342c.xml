@@ -14,29 +14,22 @@ Under the following conditions:
   one.
 
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
-<kanji midashi="流" id="6d41">
-<strokegr element="流">
-	<strokegr element="氵" variant="true" original="水" position="left" radical="general">
-		<stroke type="㇔"/>
-		<stroke type="㇔"/>
-		<stroke type="㇀"/>
+<kanji midashi="㐬" id="342c">
+<strokegr element="㐬">
+	<strokegr position="top">
+		<strokegr element="亠">
+			<stroke type="㇑a"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="厶">
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+		</strokegr>
 	</strokegr>
-	<strokegr element="㐬" position="right">
-		<strokegr position="top">
-			<strokegr element="亠">
-				<stroke type="㇑a"/>
-				<stroke type="㇐"/>
-			</strokegr>
-			<strokegr element="厶">
-				<stroke type="㇜"/>
-				<stroke type="㇔"/>
-			</strokegr>
-		</strokegr>
-		<strokegr element="川" variant="true" original="巛" position="bottom">
-			<stroke type="㇒"/>
-			<stroke type="㇑"/>
-			<stroke type="㇟"/>
-		</strokegr>
+	<strokegr element="川" variant="true" original="巛" position="bottom">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
+		<stroke type="㇟"/>
 	</strokegr>
 </strokegr>
 </kanji>
