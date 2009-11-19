@@ -14,27 +14,15 @@ Under the following conditions:
   one.
 
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
-<kanji midashi="卅" id="5345">
-<strokegr element="卅">
-	<strokegr element="廾">
-		<strokegr element="十" part="1" radical="tradit">
-			<stroke type="㇐"/>
-		</strokegr>
-		<strokegr element="川" part="1" variant="true" original="巛">
-			<strokegr element="丿">
-				<stroke type="㇒"/>
-			</strokegr>
-		</strokegr>
-		<strokegr element="川" part="2" variant="true" original="巛">
-			<strokegr element="十" part="2" radical="tradit">
-				<stroke type="㇑"/>
-			</strokegr>
-		</strokegr>
+<kanji midashi="𠂤" id="200a4">
+<strokegr element="𠂤">
+	<strokegr element="丿">
+		<stroke type="㇒"/>
 	</strokegr>
-	<strokegr element="川" part="3" variant="true" original="巛">
-		<strokegr element="丨" radical="nelson">
-			<stroke type="㇑"/>
-		</strokegr>
-	</strokegr>
+	<stroke type="㇑"/>
+	<stroke type="㇕b"/>
+	<stroke type="㇐b"/>
+	<stroke type="㇕b"/>
+	<stroke type="㇐b"/>
 </strokegr>
 </kanji>

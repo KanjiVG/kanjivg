@@ -34,8 +34,7 @@ Under the following conditions:
 
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details."""
 
-def isKanji(c):
-	v = realord(c)
+def isKanji(v):
 	return (v >= 0x4E00 and v <= 0x9FC3) or (v >= 0x3400 and v <= 0x4DBF) or (v >= 0xF900 and v <= 0xFAD9) or (v >= 0x2E80 and v <= 0x2EFF) or (v >= 0x20000 and v <= 0x2A6DF)
 
 # Returns the unicode of a character in a unicode string, taking surrogate pairs into account
@@ -252,6 +251,17 @@ class StructuredKanji:
 		stk = []
 		self.__buildStructure(kanji.root, stk, None)
 
+	def __mostCommonAncestor(self, np, npp):
+		# Update the parent to the most common parent of all parts
+		npSave = np
+		if np != None:
+			while np != npp:
+				np = np.parent
+				if np == None:
+					npp = npp.parent
+					np = npSave
+		return np
+
 	def __buildStructure(self, group, stk, parent):
 		# Find the component if it exists already, or create it as needed
 		# Number exists and part is > 1, we must find a component which number matches.
@@ -260,6 +270,7 @@ class StructuredKanji:
 			for component in self.components:
 				if component.element == group.element and component.number == group.number:
 					newParent = component
+					component.parent = self.__mostCommonAncestor(component.parent, parent)
 					break
 			# Should never happen
 			if not newParent: raise Exception("Unable to find component!")
@@ -268,6 +279,7 @@ class StructuredKanji:
 			for component in self.components:
 				if component.element == group.element:
 					newParent = component
+					component.parent = self.__mostCommonAncestor(component.parent, parent)
 					break
 			if not newParent: raise Exception("Unable to find component!")
 		# Either a single part component or a first part - we need to create the component

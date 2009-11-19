@@ -16,44 +16,46 @@ Under the following conditions:
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 <kanji midashi="棄" id="68c4">
 <strokegr element="棄">
-	<strokegr position="top">
-		<strokegr element="亠" radical="nelson">
-			<stroke type="㇑a"/>
-			<stroke type="㇐"/>
-		</strokegr>
-		<strokegr element="厶">
-			<stroke type="㇜"/>
-			<stroke type="㇔"/>
-		</strokegr>
-		<strokegr element="丗">
-			<strokegr element="卅">
-				<strokegr element="廾">
-					<strokegr element="廿" part="1" variant="true">
-						<strokegr element="十" part="1">
-							<stroke type="㇐"/>
-						</strokegr>
-					</strokegr>
-					<strokegr element="川" part="1" variant="true" original="巛">
-						<strokegr element="丿" variant="true">
-							<strokegr element="廿" part="2" variant="true">
-								<stroke type="㇑"/>
-							</strokegr>
-						</strokegr>
-					</strokegr>
-					<strokegr element="川" part="2" variant="true" original="巛">
-						<strokegr element="十" part="2">
-							<strokegr element="廿" part="3" variant="true">
-								<stroke type="㇑a"/>
-							</strokegr>
-						</strokegr>
-					</strokegr>
-				</strokegr>
-				<strokegr element="川" part="1" variant="true" original="巛">
-					<stroke type="㇑a"/>
-				</strokegr>
+	<strokegr element="㐬" position="top" variant="true">
+		<strokegr position="top">
+			<strokegr element="亠" radical="nelson">
+				<stroke type="㇑a"/>
+				<stroke type="㇐"/>
 			</strokegr>
-			<strokegr element="廿" part="4" variant="true">
-				<stroke type="㇐b"/>
+			<strokegr element="厶">
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
+			<strokegr element="丗">
+				<strokegr element="卅">
+					<strokegr element="廾">
+						<strokegr element="廿" part="1" variant="true">
+							<strokegr element="十" part="1">
+								<stroke type="㇐"/>
+							</strokegr>
+						</strokegr>
+						<strokegr element="川" part="1" variant="true" original="巛">
+							<strokegr element="丿" variant="true">
+								<strokegr element="廿" part="2" variant="true">
+									<stroke type="㇑"/>
+								</strokegr>
+							</strokegr>
+						</strokegr>
+						<strokegr element="川" part="2" variant="true" original="巛">
+							<strokegr element="十" part="2">
+								<strokegr element="廿" part="3" variant="true">
+									<stroke type="㇑a"/>
+								</strokegr>
+							</strokegr>
+						</strokegr>
+					</strokegr>
+					<strokegr element="川" part="3" variant="true" original="巛">
+						<stroke type="㇑a"/>
+					</strokegr>
+				</strokegr>
+				<strokegr element="廿" part="4" variant="true">
+					<stroke type="㇐b"/>
+				</strokegr>
 			</strokegr>
 		</strokegr>
 	</strokegr>

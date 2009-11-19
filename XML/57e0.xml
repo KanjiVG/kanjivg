@@ -22,13 +22,15 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 		<stroke type="㇀/㇐"/>
 	</strokegr>
 	<strokegr element="阜" position="right">
-		<strokegr position="top">
-			<stroke type="㇒"/>
+		<strokegr element="𠂤" position="top">
+			<strokegr element="丿">
+				<stroke type="㇒"/>
+			</strokegr>
 			<stroke type="㇑"/>
-			<stroke type="㇕"/>
-			<stroke type="㇐"/>
-			<stroke type="㇕"/>
-			<stroke type="㇐"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
+			<stroke type="㇕b"/>
+			<stroke type="㇐b"/>
 		</strokegr>
 		<strokegr element="十" position="bottom">
 			<stroke type="㇐"/>
