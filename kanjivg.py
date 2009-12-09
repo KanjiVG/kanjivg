@@ -104,7 +104,7 @@ class StrokeGr:
 			if (self.element): elt = self.element
 			else: elt = self.original
 			gid = "c" + idRoot
-			if elt: gid += "-" + hex(ord(elt))[2:]
+			if elt: gid += "-" + hex(realord(elt))[2:]
 			else: gid += "-xxxx"
 			gid += "-" + str(idCpt[0])
 		idCpt[0] += 1
