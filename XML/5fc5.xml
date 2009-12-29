@@ -20,14 +20,14 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 		<strokegr element="丶" radical="nelson">
 			<stroke type="㇔"/>
 		</strokegr>
-		<strokegr element="丿">
-			<stroke type="㇒"/>
-		</strokegr>
-		<strokegr element="心" part="2" variant="true" radical="tradit">
-			<stroke type="㇟b"/>
-			<stroke type="㇔"/>
-			<stroke type="㇔"/>
-		</strokegr>
+	</strokegr>
+	<strokegr element="丿">
+		<stroke type="㇒"/>
+	</strokegr>
+	<strokegr element="心" part="2" variant="true" radical="tradit">
+		<stroke type="㇟b"/>
+		<stroke type="㇔"/>
+		<stroke type="㇔"/>
 	</strokegr>
 </strokegr>
 </kanji>
