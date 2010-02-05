@@ -17,14 +17,6 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 <kanji midashi="轡" id="8f61">
 <strokegr element="轡">
 	<strokegr position="top">
-		<strokegr element="糸">
-			<stroke type="㇜"/>
-			<stroke type="㇜"/>
-			<stroke type="㇔"/>
-			<stroke type="㇑"/>
-			<stroke type="㇒"/>
-			<stroke type="㇔"/>
-		</strokegr>
 		<strokegr element="車" radical="tradit">
 			<stroke type="㇐"/>
 			<stroke type="㇑"/>
@@ -33,6 +25,14 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 			<stroke type="㇐a"/>
 			<stroke type="㇐"/>
 			<stroke type="㇑"/>
+		</strokegr>
+		<strokegr element="糸">
+			<stroke type="㇜"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
 		</strokegr>
 		<strokegr element="糸">
 			<stroke type="㇜"/>
