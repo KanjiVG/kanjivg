@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Copyright (C) 2009 Ulrich Apel.
 This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
@@ -14,48 +14,199 @@ Under the following conditions:
   one.
 
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-	<g id="HelperGrid" style="opacity:0.75;">
-		<rect x="0.5" y="0.5" style="fill:none;stroke:#404040;" width="108" height="108"/> 
-		<line style="fill:none;stroke:#404040;" x1="0.5" y1="72.51" x2="108.5" y2="72.51"/>
-		<line style="fill:none;stroke:#404040;" x1="0.5" y1="36.49" x2="108.5" y2="36.49"/>
-		<line style="fill:none;stroke:#404040;" x1="72.5" y1="0.5" x2="72.5" y2="108.5"/>
-		<line style="fill:none;stroke:#404040;" x1="36.5" y1="0.5" x2="36.5" y2="108.5"/>
-	</g>
-	<g id="Kanji">
-		<text transform="matrix(1 0 0 1 0.5 93.3799)" style="font-size:108;">慣</text>
-	</g>
-	<g id="StrokeNumbers" style="font-size:8;fill:#808080">
-		<text transform="matrix(1 0 0 1 8.5 39.1299)">1</text>
-		<text transform="matrix(1 0 0 1 29.25 32.5)">2</text>
-		<text transform="matrix(1 0 0 1 14 15.5)">3</text>
-		<text transform="matrix(1 0 0 1 44.5 20.5)">4</text>
-		<text transform="matrix(1 0 0 1 55.5 14.5)">5</text>
-		<text transform="matrix(1 0 0 1 59.5 23.5)">6</text>
-		<text transform="matrix(1 0 0 1 36.75 25.6299)">7</text>
-		<text transform="matrix(1 0 0 1 45.75 55.6299)">8</text>
-		<text transform="matrix(1 0 0 1 56.5 46.0303)">9</text>
-		<text transform="matrix(1 0 0 1 56.1826 56.4551)">10</text>
-		<text transform="matrix(1 0 0 1 56.4434 67.5)">11</text>
-		<text transform="matrix(1 0 0 1 56.2559 79.5)">12</text>
-		<text transform="matrix(1 0 0 1 41.25 90.1299)">13</text>
-		<text transform="matrix(1 0 0 1 66.5 89.5)">14</text>
-	</g>
-	<g id="StrokePaths" style="fill:none;stroke:#404040;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-		<path d="M16.18,38c0,5.88-3.06,14.57-3.86,16.25"/>
-		<path d="M29.02,35.08c2.84,1.79,7.33,7.35,8.04,10.13"/>
-		<path d="M22.87,14.5c1.06,1.06,1.46,2.75,1.46,4.25c0,0.87,0.02,51.42,0.03,71.25c0,3.57,0,6.15,0,7.25"/>
-		<path d="M82.19,36.22c-2.38,0.1-4.59,0.2-6.68,0.33C66.11,37.11,59.2,38,51.09,39.7c-1.38,0.29-2.07-0.77-1.57-2.46c1.35-4.61,2.36-11.36,3.1-18.7c0.12-1.18-0.19-2.47-1.02-3.3"/>
-		<path d="M54.17,17.48c0.8-0.08,24.87-3.59,28.85-3.52c1.55,0.03,2.96,1.15,2.65,3c-0.96,5.81-1.64,11.08-2.84,17.67C82.58,36.03,82.3,37.47,82,39"/>
-		<path d="M66.52,16.02c0.73,0.73,0.98,2.1,0.88,3.07c-0.62,5.83-1.02,10.28-1.86,17.1"/>
-		<path d="M36.88,28.59c2.37,0.41,5.19,0.2,7.63-0.02c11.28-1.02,28.03-2.96,44.5-4.11c2.99-0.21,6.24-0.33,8.61,0.28"/>
-		<path d="M51.63,46.75c0.93,0.93,1.25,2.44,1.25,3.52c0,0.87,0.06,21.68,0.09,29.85c0.01,1.92,0.01,3.14,0.01,3.25"/>
-		<path d="M54.04,48.63c3.71-0.51,24.23-2.64,26.85-2.73c2.19-0.07,3.79,1.1,3.79,3.34c0,3.79-0.08,17.4-0.09,28.89c0,1.5,0,2.97,0,4.38"/>
-		<path d="M54.18,59.75c8.57-0.75,20.19-2.12,29.05-2.33"/>
-		<path d="M54.23,70.38c7.69-0.79,19.98-2.16,29.17-2.52"/>
-		<path d="M54.1,81.54c9.57-0.64,17.65-1.41,28.98-1.78"/>
-		<path d="M55.63,86.36c0.46,1.07-0.15,2.35-1.05,3.1c-2.73,2.26-10.11,6.8-15.58,9.42"/>
-		<path d="M77.56,85.57c6.34,3.29,13.84,9.16,15.57,11.96"/>
-	</g>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="109"
+   height="109"
+   viewBox="0 0 109 109"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="6163.svg">
+  <metadata
+     id="metadata80">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs78">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 54.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="109 : 54.5 : 1"
+       inkscape:persp3d-origin="54.5 : 36.333333 : 1"
+       id="perspective82" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1262"
+     inkscape:window-height="849"
+     id="namedview76"
+     showgrid="false"
+     inkscape:zoom="2.1651376"
+     inkscape:cx="54.5"
+     inkscape:cy="54.5"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="StrokePaths" />
+  <g
+     id="HelperGrid"
+     style="opacity:0.75;">
+    <rect
+       x="0.5"
+       y="0.5"
+       style="fill:none;stroke:#404040;"
+       width="108"
+       height="108"
+       id="rect5" />
+    <line
+       style="fill:none;stroke:#404040;"
+       x1="0.5"
+       y1="72.51"
+       x2="108.5"
+       y2="72.51"
+       id="line7" />
+    <line
+       style="fill:none;stroke:#404040;"
+       x1="0.5"
+       y1="36.49"
+       x2="108.5"
+       y2="36.49"
+       id="line9" />
+    <line
+       style="fill:none;stroke:#404040;"
+       x1="72.5"
+       y1="0.5"
+       x2="72.5"
+       y2="108.5"
+       id="line11" />
+    <line
+       style="fill:none;stroke:#404040;"
+       x1="36.5"
+       y1="0.5"
+       x2="36.5"
+       y2="108.5"
+       id="line13" />
+  </g>
+  <g
+     id="Kanji">
+    <text
+       transform="matrix(1 0 0 1 0.5 93.3799)"
+       style="font-size:108;"
+       id="text16">慣</text>
+  </g>
+  <g
+     id="StrokeNumbers"
+     style="font-size:8;fill:#808080">
+    <text
+       transform="matrix(1 0 0 1 8.5 39.1299)"
+       id="text19">1</text>
+    <text
+       transform="matrix(1 0 0 1 29.25 32.5)"
+       id="text21">2</text>
+    <text
+       transform="matrix(1 0 0 1 14 15.5)"
+       id="text23">3</text>
+    <text
+       transform="matrix(1 0 0 1 44.5 20.5)"
+       id="text25">4</text>
+    <text
+       transform="matrix(1 0 0 1 55.5 14.5)"
+       id="text27">5</text>
+    <text
+       transform="matrix(1 0 0 1 59.5 23.5)"
+       id="text29">6</text>
+    <text
+       transform="matrix(1 0 0 1 36.75 25.6299)"
+       id="text31">7</text>
+    <text
+       transform="matrix(1 0 0 1 45.75 55.6299)"
+       id="text33">8</text>
+    <text
+       transform="matrix(1 0 0 1 56.5 46.0303)"
+       id="text35">9</text>
+    <text
+       transform="matrix(1 0 0 1 56.1826 56.4551)"
+       id="text37">10</text>
+    <text
+       transform="matrix(1 0 0 1 56.4434 67.5)"
+       id="text39">11</text>
+    <text
+       transform="matrix(1 0 0 1 56.2559 79.5)"
+       id="text41">12</text>
+    <text
+       transform="matrix(1 0 0 1 41.25 90.1299)"
+       id="text43">13</text>
+    <text
+       transform="matrix(1 0 0 1 66.5 89.5)"
+       id="text45">14</text>
+  </g>
+  <g
+     id="StrokePaths"
+     style="fill:none;stroke:#404040;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+    <path
+       d="M16.18,38c0,5.88-3.06,14.57-3.86,16.25"
+       id="path48" />
+    <path
+       d="M29.02,35.08c2.84,1.79,7.33,7.35,8.04,10.13"
+       id="path50" />
+    <path
+       d="M22.87,14.5c1.06,1.06,1.46,2.75,1.46,4.25c0,0.87,0.02,51.42,0.03,71.25c0,3.57,0,6.15,0,7.25"
+       id="path52" />
+    <path
+       d="m 51.6,15.24 c 0.83,0.83 1.14,2.12 1.02,3.3 -0.74,7.34 -1.75,14.09 -3.1,18.7 -0.5,1.69 0.19,2.75 1.57,2.46 8.11,-1.7 15.02,-2.59 24.42,-3.15 2.09,-0.13 4.3,-0.23 6.68,-0.33"
+       id="path54" />
+    <path
+       d="M54.17,17.48c0.8-0.08,24.87-3.59,28.85-3.52c1.55,0.03,2.96,1.15,2.65,3c-0.96,5.81-1.64,11.08-2.84,17.67C82.58,36.03,82.3,37.47,82,39"
+       id="path56" />
+    <path
+       d="M66.52,16.02c0.73,0.73,0.98,2.1,0.88,3.07c-0.62,5.83-1.02,10.28-1.86,17.1"
+       id="path58" />
+    <path
+       d="M36.88,28.59c2.37,0.41,5.19,0.2,7.63-0.02c11.28-1.02,28.03-2.96,44.5-4.11c2.99-0.21,6.24-0.33,8.61,0.28"
+       id="path60" />
+    <path
+       d="M51.63,46.75c0.93,0.93,1.25,2.44,1.25,3.52c0,0.87,0.06,21.68,0.09,29.85c0.01,1.92,0.01,3.14,0.01,3.25"
+       id="path62" />
+    <path
+       d="M54.04,48.63c3.71-0.51,24.23-2.64,26.85-2.73c2.19-0.07,3.79,1.1,3.79,3.34c0,3.79-0.08,17.4-0.09,28.89c0,1.5,0,2.97,0,4.38"
+       id="path64" />
+    <path
+       d="M54.18,59.75c8.57-0.75,20.19-2.12,29.05-2.33"
+       id="path66" />
+    <path
+       d="M54.23,70.38c7.69-0.79,19.98-2.16,29.17-2.52"
+       id="path68" />
+    <path
+       d="M54.1,81.54c9.57-0.64,17.65-1.41,28.98-1.78"
+       id="path70" />
+    <path
+       d="M55.63,86.36c0.46,1.07-0.15,2.35-1.05,3.1c-2.73,2.26-10.11,6.8-15.58,9.42"
+       id="path72" />
+    <path
+       d="M77.56,85.57c6.34,3.29,13.84,9.16,15.57,11.96"
+       id="path74" />
+  </g>
 </svg>
