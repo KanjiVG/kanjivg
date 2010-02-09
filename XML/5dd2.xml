@@ -17,14 +17,6 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 <kanji midashi="巒" id="5dd2">
 <strokegr element="巒">
 	<strokegr position="top">
-		<strokegr element="糸">
-			<stroke type="㇜"/>
-			<stroke type="㇜"/>
-			<stroke type="㇔"/>
-			<stroke type="㇑"/>
-			<stroke type="㇒"/>
-			<stroke type="㇔"/>
-		</strokegr>
 		<strokegr element="言">
 			<stroke type="㇔"/>
 			<stroke type="㇐"/>
@@ -35,6 +27,14 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 				<stroke type="㇕b"/>
 				<stroke type="㇐b"/>
 			</strokegr>
+		</strokegr>
+		<strokegr element="糸">
+			<stroke type="㇜"/>
+			<stroke type="㇜"/>
+			<stroke type="㇔"/>
+			<stroke type="㇑"/>
+			<stroke type="㇒"/>
+			<stroke type="㇔"/>
 		</strokegr>
 		<strokegr element="糸">
 			<stroke type="㇜"/>
