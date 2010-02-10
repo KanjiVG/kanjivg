@@ -47,6 +47,6 @@ if __name__ == "__main__":
 	kanjis = handler.kanjis.values()
 
 	for kanji in kanjis:
-		out = codecs.open("generated/SVG/" + str(kanji.id) + ".svg", "w", "utf-8")
+		out = codecs.open("currentdata/SVG/" + str(kanji.id) + ".svg", "w", "utf-8")
 		createSVG(out, kanji)
 
