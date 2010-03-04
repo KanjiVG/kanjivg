@@ -16,27 +16,23 @@ Under the following conditions:
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 <kanji midashi="攸" id="6538">
 <strokegr element="攸">
-	<strokegr element="攸" part="1" position="left">
-		<strokegr element="亻" variant="true" original="人" position="left">
-			<stroke type="㇒"/>
-			<stroke type="㇑"/>
-		</strokegr>
-		<strokegr element="丨" position="right">
-			<stroke type="㇑"/>
-		</strokegr>
+	<strokegr element="亻" variant="true" original="人" position="left">
+		<stroke type="㇒"/>
+		<stroke type="㇑"/>
 	</strokegr>
-	<strokegr element="攸" part="2" position="right">
-		<strokegr element="攴" variant="true" original="攵" radical="general">
-			<strokegr position="top">
+	<strokegr element="丨" position="right">
+		<stroke type="㇑"/>
+	</strokegr>
+	<strokegr element="攴" variant="true" original="攵" radical="general">
+		<strokegr position="top">
+			<stroke type="㇒"/>
+			<stroke type="㇐"/>
+		</strokegr>
+		<strokegr element="乂" position="bottom">
+			<strokegr element="丿">
 				<stroke type="㇒"/>
-				<stroke type="㇐"/>
 			</strokegr>
-			<strokegr element="乂" position="bottom">
-				<strokegr element="丿">
-					<stroke type="㇒"/>
-				</strokegr>
-				<stroke type="㇏"/>
-			</strokegr>
+			<stroke type="㇏"/>
 		</strokegr>
 	</strokegr>
 </strokegr>
