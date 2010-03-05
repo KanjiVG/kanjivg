@@ -32,7 +32,6 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 			<strokegr element="大">
 				<stroke type="㇐"/>
 				<stroke type="㇒"/>
-				<stroke type="㇏"/>
 			</strokegr>
 		</strokegr>
 		<strokegr element="丿">
@@ -40,6 +39,7 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 		</strokegr>
 		<strokegr element="犬" part="2">
 			<strokegr element="丶">
+				<stroke type="㇏"/>
 				<stroke type="㇔"/>
 			</strokegr>
 		</strokegr>
