@@ -42,8 +42,8 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 			</strokegr>
 		</strokegr>
 	</strokegr>
-	<strokegr element="息" part="2" position="bottom" radical="general">
-		<strokegr element="心">
+	<strokegr element="息" part="2" position="bottom">
+		<strokegr element="心" radical="general">
 			<stroke type="㇔"/>
 			<stroke type="㇟b"/>
 			<stroke type="㇔a"/>
