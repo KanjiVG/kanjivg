@@ -41,6 +41,7 @@ if __name__ == "__main__":
 	kanjis = []
 	mismatch = []
 	handled = set()
+	metComponents = set()
 	for f in files:
 		# Let's skip the variations out of the process for now...
 		if len(f) > 10: continue
@@ -48,7 +49,7 @@ if __name__ == "__main__":
 		if not f.endswith(".xml"): continue
 		descHandler = KanjisHandler()
 		xml.sax.parse(os.path.join("XML", f), descHandler)
-		handled.add(f[:-4])
+		handled.add(realchr(int(f[:-4], 16)))
 
 		parser = xml.sax.make_parser()
 		svgHandler = KanjiStrokeHandler()
@@ -58,6 +59,8 @@ if __name__ == "__main__":
 		svgFile = os.path.join("SVG", f[:-3] + "svg")
 		if os.path.exists(svgFile):
 			parser.parse(svgFile)
+
+		metComponents = metComponents.union(descHandler.metComponents)
 
 		kanji = descHandler.kanjis.values()[0]
 		desc = kanji.getStrokes()
@@ -80,7 +83,7 @@ if __name__ == "__main__":
 		if len(f) > 10: continue
 
 		if not f.endswith(".svg"): continue
-		if f[:-4] in handled: continue
+		if realchr(int(f[:-4], 16)) in handled: continue
 		parser = xml.sax.make_parser()
 		svgHandler = KanjiStrokeHandler()
 		parser.setContentHandler(svgHandler)
@@ -97,20 +100,31 @@ if __name__ == "__main__":
 			kanji.root.childs.append(stroke)
 		kanjis.append(kanji)
 
+	# Stroke count mismatch kanji
 	mismatch.sort()
 	misout = codecs.open("Main.StrokeCountMismatch", "w", "utf-8")
 	misout.write('version=pmwiki-2.1.0 urlencoded=1\ntext=')
-	misout.write("'''This page is generated - please do not edit it!'''%0a%0aThe following kanjis have a stroke order mismatch between their XML and SVG descriptions:%0a")
+	misout.write("'''This page is generated - please do not edit it!'''%0a%0aThe following kanji have a stroke order mismatch between their XML and SVG descriptions:%0a")
 	for i in range(len(mismatch)):
 		misout.write("* %s: XML %d, SVG %d" % (mismatch[i][0], mismatch[i][1], mismatch[i][2]))
 		misout.write("%0a")
-	kanjis.sort(lambda x,y: cmp(x.id, y.id))
 
-	out = codecs.open("kanjivg.xml", "w", "utf-8")
+	# Missing components
+	misout = codecs.open("Main.MissingKanji", "w", "utf-8")
+	misout.write('version=pmwiki-2.1.0 urlencoded=1\ntext=')
+	misout.write("'''This page is generated - please do not edit it!'''%0a%0aThe following kanji are referenced as components but no data is available for them:%0a")
+	for k in metComponents.difference(handled):
+		misout.write("* %s" % (k,))
+		misout.write("%0a")
+
+	# Finally write the output file
+	curDate = str(datetime.date.today())
+	kanjis.sort(lambda x,y: cmp(x.id, y.id))
+	out = codecs.open("kanjivg-%s.xml" % (curDate.replace("-", ""),), "w", "utf-8")
 	out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 	out.write("<!-- ")
 	out.write(licenseString)
-	out.write("\nThis file has been generated on %s, using the latest KanjiVG data to this date." % (datetime.date.today()))
+	out.write("\nThis file has been generated on %s, using the latest KanjiVG data to this date." % (curDate))
 	out.write("\n-->\n\n")
 	out.write("<kanjis>\n");
 	for kanji in kanjis:

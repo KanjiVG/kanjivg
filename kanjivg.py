@@ -327,6 +327,7 @@ class KanjisHandler(BasicHandler):
 		self.kanjis = {}
 		self.currentKanji = None
 		self.groups = []
+		self.metComponents = set()
 
 	def handle_start_kanji(self, attrs):
 		id = str(attrs["id"])
@@ -365,6 +366,9 @@ class KanjisHandler(BasicHandler):
 		if attrs.has_key("phon"): group.phon = unicode(attrs["phon"])
 
 		self.groups.append(group)
+
+		if group.element: self.metComponents.add(group.element)
+		if group.original: self.metComponents.add(group.original)
 
 		if group.number:
 			if not group.part: print "%s: Number specified, but part missing" % (self.currentKanji.id)

@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import os, codecs, xml.sax, datetime
+import os, codecs, xml.sax, datetime, sys
 from kanjivg import *
 
 def createSVG(out, kanji):
@@ -43,7 +43,7 @@ kanjivg:type CDATA #IMPLIED >
 
 if __name__ == "__main__":
 	handler = KanjisHandler()
-	xml.sax.parse("kanjivg.xml", handler)
+	xml.sax.parse(sys.argv[1], handler)
 	kanjis = handler.kanjis.values()
 
 	for kanji in kanjis:
