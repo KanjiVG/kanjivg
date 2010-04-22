@@ -23,7 +23,6 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 	</strokegr>
 	<strokegr element="木" part="1">
 		<stroke type="㇐"/>
-		<stroke type="㇑"/>
 	</strokegr>
 	<strokegr element="北">
 		<strokegr position="left">
@@ -38,6 +37,7 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 	</strokegr>
 	<strokegr element="禾" part="2">
 		<strokegr element="木" part="1">
+			<stroke type="㇑"/>
 			<stroke type="㇒"/>
 			<stroke type="㇏"/>
 		</strokegr>
