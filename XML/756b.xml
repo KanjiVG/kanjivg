@@ -29,9 +29,6 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 				<stroke type="㇑"/>
 			</strokegr>
 		</strokegr>
-		<strokegr element="一">
-			<stroke type="㇐"/>
-		</strokegr>
 	</strokegr>
 	<strokegr element="田" position="bottom" radical="tradit">
 		<stroke type="㇑"/>
@@ -39,6 +36,9 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 		<stroke type="㇑a"/>
 		<stroke type="㇐a"/>
 		<stroke type="㇐a"/>
+	</strokegr>
+	<strokegr element="一">
+		<stroke type="㇐"/>
 	</strokegr>
 </strokegr>
 </kanji>
