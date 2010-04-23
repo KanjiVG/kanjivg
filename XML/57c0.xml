@@ -16,22 +16,19 @@ Under the following conditions:
 See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 <kanji midashi="埀" id="57c0">
 <strokegr element="埀">
-	<strokegr element="乖">
-		<strokegr element="千">
+	<strokegr element="乖" part="1">
+		<strokegr element="千" part="1">
 			<strokegr element="丿" position="top">
 				<stroke type="㇒"/>
 			</strokegr>
-			<strokegr element="十" position="bottom">
+			<strokegr element="十" position="bottom" part="1">
 				<stroke type="㇐"/>
-				<stroke type="㇑"/>
 			</strokegr>
 		</strokegr>
 		<strokegr element="北">
 			<strokegr position="left">
 				<stroke type="㇐"/>
-				<strokegr element="土" part="1" radical="tradit">
-					<stroke type="㇑"/>
-				</strokegr>
+				<stroke type="㇑"/>
 				<stroke type="㇀"/>
 			</strokegr>
 			<strokegr element="匕" position="right">
@@ -40,8 +37,19 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 			</strokegr>
 		</strokegr>
 	</strokegr>
-	<strokegr element="土" part="2" radical="tradit">
+	<strokegr element="土" part="1" radical="tradit">
 		<stroke type="㇐"/>
+	</strokegr>
+	<strokegr element="乖" part="2">
+		<strokegr element="土" part="2" radical="tradit">
+			<strokegr element="千" part="2">
+				<strokegr element="十" position="bottom" part="2">
+					<stroke type="㇑"/>
+				</strokegr>
+			</strokegr>
+		</strokegr>
+	</strokegr>
+	<strokegr element="土" part="3" radical="tradit">
 		<stroke type="㇐"/>
 	</strokegr>
 </strokegr>
