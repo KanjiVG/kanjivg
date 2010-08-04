@@ -20,7 +20,6 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 		<strokegr element="來" position="top">
 			<strokegr element="木" part="1">
 				<stroke type="㇐"/>
-				<stroke type="㇑"/>
 			</strokegr>
 			<strokegr element="从">
 				<strokegr element="人">
@@ -33,6 +32,7 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 				</strokegr>
 			</strokegr>
 			<strokegr element="木" part="2">
+				<stroke type="㇑"/>
 				<stroke type="㇒"/>
 				<stroke type="㇏"/>
 			</strokegr>
