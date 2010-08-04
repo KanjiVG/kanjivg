@@ -17,16 +17,18 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 <kanji midashi="釁" id="91c1">
 <strokegr element="釁">
 	<strokegr position="top">
+		<strokegr element="𦥑" variant="true" original="臼" part="1">
+			<stroke type="㇒"/>
+			<stroke type="㇑"/>
+			<stroke type="㇐"/>
+			<stroke type="㇐"/>
+		</strokegr>
 		<stroke type="㇑"/>
 		<stroke type="㇕"/>
 		<stroke type="㇐"/>
 		<stroke type="㇕"/>
 		<stroke type="㇐"/>
-		<strokegr element="𦥑" variant="true" original="臼">
-			<stroke type="㇒"/>
-			<stroke type="㇑"/>
-			<stroke type="㇐"/>
-			<stroke type="㇐"/>
+		<strokegr element="𦥑" variant="true" original="臼" part="2">
 			<stroke type="㇕"/>
 			<stroke type="㇐"/>
 			<stroke type="㇐"/>
