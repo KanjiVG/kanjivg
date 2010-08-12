@@ -31,7 +31,7 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 		<text transform="matrix(1 0 0 1 20.75 54.5)">2</text>
 	</g>
 	<g id="StrokePaths" style="fill:none;stroke:#404040;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-		<path d="M29.33,54.18c0.62,1.17,0.8,2.53,0.45,4.13c-3.16,14.45-7.75,24.91-15.58,35.57"/>
 		<path d="M5.78,42.54c1.91,1.22,3.16,1.13,6.74,0.59c9.03-1.37,29.93-5.05,38.25-6.06c4.14-0.5,6.33,2.36,2.08,5.47c-5.35,3.91-10.4,7.43-18.42,12.52"/>
+		<path d="M29.33,54.18c0.62,1.17,0.8,2.53,0.45,4.13c-3.16,14.45-7.75,24.91-15.58,35.57"/>
 	</g>
 </svg>
