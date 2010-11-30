@@ -44,15 +44,105 @@ def loadKanji(code):
 	for stroke, path in zip(desc, svg):
 		stroke.svg = path
 
-	return StructuredKanji(kanji)
+	return kanji
+
+from PyQt4.QtCore import QPointF
+
+def svg2Path(svg):
+	retPath = QtGui.QPainterPath()
+	#retPath.setFillRule(QtGui.WindingFill)
+
+	# Add spaces between unseparated tokens
+	t = svg
+	t = re.sub(r"[a-zA-Z]\d|\d[a-zA-Z]", lambda(m): m.group(0)[0] + " " + m.group(0)[1], t)
+	t = re.sub(r"[a-zA-Z]\d|\d[a-zA-Z]", lambda(m): m.group(0)[0] + " " + m.group(0)[1], t)
+	t = re.sub(r"\-\d", lambda(m): " " + m.group(0), t)
+	tokens = re.split(" +|,", t)
+
+	# Convert to Qt path
+	i = 0
+	curAction = ''
+	while i < len(tokens):
+		if tokens[i] in ( "M", "m", "L", "l", "C", "c", "S", "s", "z", "Z" ):
+			curAction = tokens[i]
+			i += 1
+
+		if curAction in ( "M", "m" ):
+			dest = QPointF(float(tokens[i]), float(tokens[i + 1]))
+			if curAction == "m": dest += retPath.currentPosition()
+			retPath.moveTo(dest)
+			i += 2
+			lastControl = retPath.currentPosition()
+		elif curAction in ( "L", "l" ):
+			dest = QPointF(float(tokens[i]), float(tokens[i + 1]))
+			if curAction == "l": dest += retPath.currentPosition()
+			retPath.lineTo(dest)
+			i += 2
+			lastControl = retPath.currentPosition()
+		elif curAction in ( "C", "c" ):
+			p1 = QPointF(float(tokens[i]), float(tokens[i + 1]))
+			p2 = QPointF(float(tokens[i + 2]), float(tokens[i + 3]))
+			dest = QPointF(float(tokens[i + 4]), float(tokens[i + 5]))
+			if curAction == "c":
+				p1 += retPath.currentPosition()
+				p2 += retPath.currentPosition()
+				dest += retPath.currentPosition()
+			retPath.cubicTo(p1, p2, dest)
+			i += 6
+			lastControl = p2
+		elif curAction in ( "S", "s" ):
+			p1 = retPath.currentPosition() * 2 - lastControl
+			p2 = QPointF(float(tokens[i]), float(tokens[i + 1]))
+			dest = QPointF(float(tokens[i + 2]), float(tokens[i + 3]))
+			if curAction == "s":
+				p2 += retPath.currentPosition()
+				dest += retPath.currentPosition()
+			retPath.cubicTo(p1, p2, dest)
+			i += 4
+			lastControl = p2
+		elif curAction in ( "Z", "z" ):
+			retPath.closeSubPath()
+			lastControl = retPath.currentPosition()
+		else:
+			print "Unknown command %s while computing kanji path!" % ( tokens[i], )
+			i += 1
+
+	return retPath;
+
+	#while r.search(svg, pos):
+		#pos = r.lastindex
+
+
+class StrokesWidget(QtGui.QWidget):
+	def __init__(self, parent = None):
+		QtGui.QWidget.__init__(self, parent)
+		self.setSizePolicy(QtGui.QSizePolicy.MinimumExpanding, QtGui.QSizePolicy.MinimumExpanding);
+
+	def setKanji(self, kanji):
+		self.kanji = kanji
+		for stroke in self.kanji.getStrokes():
+			stroke.qPath = svg2Path(stroke.svg)
+
+	def paintEvent(self, event):
+		if not self.kanji: return
+		painter = QtGui.QPainter(self)
+		painter.setRenderHint(QtGui.QPainter.Antialiasing)
+		pen = QtGui.QPen(painter.pen())
+		pen.setWidth(5)
+		painter.setPen(pen)
+		size = self.size()
+		painter.scale(size.width() / 109.0, size.height() / 109.0)
+
+		for stroke in self.kanji.getStrokes():
+			painter.drawPath(stroke.qPath)
 
 class MainWindow(QtGui.QWidget):
-	def __init__(self, kanji, parent=None):
+	def __init__(self, parent=None):
 		QtGui.QWidget.__init__(self, parent)
 
 		self.setWindowTitle('KanjiVG viewer')
 
-		self.canvas = QtGui.QWidget(self)
+		self.canvas = StrokesWidget(self)
 		self.structure = QtGui.QTreeWidget(self)
 		self.structure.setColumnCount(2)
 		self.structure.setHeaderLabels([ 'Element', 'Original' ])
@@ -63,17 +153,21 @@ class MainWindow(QtGui.QWidget):
 
 		self.setLayout(hLayout)
 
-		self.buildStructureTree(None, kanji.components[0])
+	def setKanji(self, kanji):
+		self.canvas.setKanji(kanji)
+		self.__buildStructureTree(None, kanji.root)
 
-	def buildStructureTree(self, parent, group):
+	def __buildStructureTree(self, parent, group):
 		for child in group.childs:
-			original = ''
-			if child.original != None:
-				original = child.original
-			item = QtGui.QTreeWidgetItem([ child.element, original ])
-			if parent: parent.addChild(item)
-			else: self.structure.addTopLevelItem(item)
-			self.buildStructureTree(item, child)
+			if isinstance(child, StrokeGr):
+				element = '<none>'
+				original = ''
+				if child.element != None: element = child.element
+				if child.original != None: original = child.original
+				item = QtGui.QTreeWidgetItem([ element, original ])
+				if parent: parent.addChild(item)
+				else: self.structure.addTopLevelItem(item)
+				self.__buildStructureTree(item, child)
 
 if __name__ == "__main__":
 	if len(sys.argv) != 2:
@@ -82,8 +176,9 @@ if __name__ == "__main__":
 	kanji = loadKanji(sys.argv[1])
 
 	app = QtGui.QApplication(sys.argv)
-	mw = MainWindow(kanji)
+	mw = MainWindow()
 	mw.resize(500, 400)
+	mw.setKanji(kanji)
 
 	mw.show()
 	sys.exit(app.exec_())
