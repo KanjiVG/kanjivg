@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import sys, os, xml.sax, re
 from PyQt4 import QtGui, QtCore
 from kanjivg import *
@@ -49,8 +51,8 @@ def loadKanji(code):
 from PyQt4.QtCore import QPointF
 
 def svg2Path(svg):
+	'''Converts a SVG textual path into a QPainterPath'''
 	retPath = QtGui.QPainterPath()
-	#retPath.setFillRule(QtGui.WindingFill)
 
 	# Add spaces between unseparated tokens
 	t = svg
@@ -109,32 +111,74 @@ def svg2Path(svg):
 
 	return retPath;
 
-	#while r.search(svg, pos):
-		#pos = r.lastindex
-
-
 class StrokesWidget(QtGui.QWidget):
 	def __init__(self, parent = None):
 		QtGui.QWidget.__init__(self, parent)
 		self.setSizePolicy(QtGui.QSizePolicy.MinimumExpanding, QtGui.QSizePolicy.MinimumExpanding);
+	
+		self.strokesPen = QtGui.QPen()
+		self.strokesPen.setWidth(2)
+		self.selectedStrokesPen = QtGui.QPen(self.strokesPen)
+		self.selectedStrokesPen.setColor(QtCore.Qt.red)
+
+		self.boundingPen = QtGui.QPen()
+		self.boundingPen.setStyle(QtCore.Qt.DotLine)
 
 	def setKanji(self, kanji):
 		self.kanji = kanji
-		for stroke in self.kanji.getStrokes():
-			stroke.qPath = svg2Path(stroke.svg)
+		self.__loadGroup(self.kanji.root)
+
+	def __loadGroup(self, group):
+		rect = QtCore.QRectF()
+		pwidth = self.strokesPen.width() / 2.0
+		for child in group.childs:
+			if isinstance(child, StrokeGr):
+				self.__loadGroup(child)
+			else:
+				child.qPath = svg2Path(child.svg)
+				child.boundingRect = child.qPath.controlPointRect().adjusted(-pwidth, -pwidth, pwidth, pwidth)
+			rect |= child.boundingRect
+		group.boundingRect = rect
+
 
 	def paintEvent(self, event):
 		if not self.kanji: return
 		painter = QtGui.QPainter(self)
 		painter.setRenderHint(QtGui.QPainter.Antialiasing)
-		pen = QtGui.QPen(painter.pen())
-		pen.setWidth(5)
-		painter.setPen(pen)
 		size = self.size()
 		painter.scale(size.width() / 109.0, size.height() / 109.0)
 
-		for stroke in self.kanji.getStrokes():
-			painter.drawPath(stroke.qPath)
+		drawLater = []
+		self.__renderGroup(self.kanji.root, painter, drawLater)
+
+		painter.setPen(self.selectedStrokesPen)
+		for child in drawLater:
+			painter.drawPath(child.qPath)
+			# Also draw a tip to indicate the direction
+			lastPoint = child.qPath.pointAtPercent(1)
+			lastAngle = child.qPath.angleAtPercent(0.95)
+			line = QtCore.QLineF(0, 0, 4, 4)
+			line.translate(lastPoint)
+			line.setAngle(lastAngle + 150)
+			painter.drawLine(line)
+			line.setAngle(lastAngle - 150)
+			painter.drawLine(line)
+			
+
+	def __renderGroup(self, group, painter, drawLater):
+		for child in group.childs:
+			if isinstance(child, StrokeGr):
+				self.__renderGroup(child, painter, drawLater)
+				if child in self.selection:
+					painter.setPen(self.boundingPen)
+					painter.drawRect(child.boundingRect)
+			else:
+				if child in self.selection: drawLater.append(child)
+				else:
+					painter.setPen(self.strokesPen)
+					painter.drawPath(child.qPath)
+
+
 
 class MainWindow(QtGui.QWidget):
 	def __init__(self, parent=None):
@@ -143,9 +187,11 @@ class MainWindow(QtGui.QWidget):
 		self.setWindowTitle('KanjiVG viewer')
 
 		self.canvas = StrokesWidget(self)
+		self.canvas.selection = []
+
 		self.structure = QtGui.QTreeWidget(self)
-		self.structure.setColumnCount(2)
-		self.structure.setHeaderLabels([ 'Element', 'Original' ])
+		self.structure.setColumnCount(5)
+		self.structure.setHeaderLabels([ 'Element', 'Original', 'Position', 'Phon', 'Part' ])
 
 		hLayout = QtGui.QHBoxLayout()
 		hLayout.addWidget(self.canvas)
@@ -153,20 +199,40 @@ class MainWindow(QtGui.QWidget):
 
 		self.setLayout(hLayout)
 
+		self.connect(self.structure, QtCore.SIGNAL('itemSelectionChanged()'), self.onSelectionChanged)
+
 	def setKanji(self, kanji):
 		self.canvas.setKanji(kanji)
 		self.__buildStructureTree(None, kanji.root)
 
+	def onSelectionChanged(self):
+		self.canvas.selection = []
+		for item in self.structure.selectedItems():
+			self.canvas.selection.append(item.stroke)
+		self.canvas.update()
+
 	def __buildStructureTree(self, parent, group):
 		for child in group.childs:
+			element = '<none>'
+			original = ''
+			position = ''
+			phon = ''
+			part = ''
 			if isinstance(child, StrokeGr):
-				element = '<none>'
-				original = ''
 				if child.element != None: element = child.element
 				if child.original != None: original = child.original
-				item = QtGui.QTreeWidgetItem([ element, original ])
-				if parent: parent.addChild(item)
-				else: self.structure.addTopLevelItem(item)
+				if child.position != None: position = child.position
+				if child.phon != None: position = child.phon
+				if child.part != None: part = child.part
+			else:
+				pass
+
+			item = QtGui.QTreeWidgetItem([ element, original, position, phon, part ])
+			child.treeItem = item
+			item.stroke = child
+			if parent: parent.addChild(item)
+			else: self.structure.addTopLevelItem(item)
+			if isinstance(child, StrokeGr):
 				self.__buildStructureTree(item, child)
 
 if __name__ == "__main__":
