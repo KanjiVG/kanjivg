@@ -195,6 +195,7 @@ class StrokesWidget(QtGui.QWidget):
 
 class KanjiStructModel(QtCore.QAbstractItemModel):
 	columns = [ 'Element', 'Original', 'Position', 'Phon', 'Part' ]
+	StrokeRole = QtCore.Qt.UserRole
 
 	def __init__(self, kanji = None, parent = None):
 		QtCore.QAbstractItemModel.__init__(self, parent)
@@ -216,6 +217,8 @@ class KanjiStructModel(QtCore.QAbstractItemModel):
 		if not self.kanji or not index.isValid(): return QtCore.QVariant()
 
 		item = index.internalPointer().childs[index.row()]
+		if role == KanjiStructModel.StrokeRole:
+			return item
 		column = index.column()
 		if isinstance(item, StrokeGr) and role in (QtCore.Qt.DisplayRole, QtCore.Qt.EditRole):
 			if column == 0: return item.element
@@ -322,8 +325,14 @@ class KanjiStructDelegate(QtGui.QStyledItemDelegate):
 
 
 class KanjiStructView(QtGui.QTreeView):
+	__pyqtSignals__ = ("selectionChanged()")
+
 	def __init__(self, parent=None):
 		QtGui.QTreeView.__init__(self, parent)
+
+	def selectionChanged(self, selected, deselected):
+		QtGui.QTreeView.selectionChanged(self, selected, deselected)
+		self.emit(QtCore.SIGNAL("selectionChanged()"))
 
 class MainWindow(QtGui.QWidget):
 	def __init__(self, parent=None):
@@ -345,7 +354,7 @@ class MainWindow(QtGui.QWidget):
 
 		self.setLayout(hLayout)
 
-		self.connect(self.structure, QtCore.SIGNAL('itemSelectionChanged()'), self.onSelectionChanged)
+		self.connect(self.structure, QtCore.SIGNAL('selectionChanged()'), self.onSelectionChanged)
 
 	def setKanji(self, kanji):
 		self.canvas.setKanji(kanji)
@@ -353,8 +362,8 @@ class MainWindow(QtGui.QWidget):
 
 	def onSelectionChanged(self):
 		self.canvas.selection = []
-		for item in self.structure.selectedItems():
-			self.canvas.selection.append(item.stroke)
+		for index in self.structure.selectedIndexes():
+			self.canvas.selection.append(index.model().data(index, KanjiStructModel.StrokeRole))
 		self.canvas.update()
 
 
