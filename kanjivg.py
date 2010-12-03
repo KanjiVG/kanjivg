@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-#  Copyright (C) 2009  Alexandre Courbot
+#  Copyright (C) 2009/2010  Alexandre Courbot
 #
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -18,7 +18,7 @@
 from xmlhandler import *
 
 # Sample licence header
-licenseString = """Copyright (C) 2009 Ulrich Apel.
+licenseString = """Copyright (C) 2009/2010 Ulrich Apel.
 This work is distributed under the conditions of the Creative Commons 
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
@@ -104,8 +104,8 @@ class StrokeGr:
 			if (self.element): elt = self.element
 			else: elt = self.original
 			gid = "c" + idRoot
-			if elt: gid += "-" + hex(realord(elt))[2:]
-			else: gid += "-xxxx"
+			#if elt: gid += "-" + hex(realord(elt))[2:]
+			#else: gid += "-xxxx"
 			gid += "-" + str(idCpt[0])
 		idCpt[0] += 1
 		idString = ' id="%s"' % (gid)
@@ -228,7 +228,7 @@ class StrokeGr:
 
 class Stroke:
 	"""A single stroke, containing its type and (optionally) its SVG data."""
-	def __init__(self):
+	def __init__(self, parent):
 		self.stype = None
 		self.svg = None
 
@@ -402,7 +402,9 @@ class KanjisHandler(BasicHandler):
 			self.currentKanji.root = group
 
 	def handle_start_stroke(self, attrs):
-		stroke = Stroke()
+		if len(self.groups) == 0: parent = None
+		else: parent = self.groups[-1]
+		stroke = Stroke(parent)
 		stroke.stype = unicode(attrs["type"])
 		if attrs.has_key("path"): stroke.svg = unicode(attrs["path"])
 		self.groups[-1].childs.append(stroke)
