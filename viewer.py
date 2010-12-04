@@ -20,7 +20,6 @@ import sys, os, xml.sax, re, codecs, datetime
 from PyQt4 import QtGui, QtCore
 from kanjivg import *
 
-
 class KanjiStrokeHandler(BasicHandler):
 	def __init__(self):
 		BasicHandler.__init__(self)
