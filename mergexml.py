@@ -43,10 +43,10 @@ if __name__ == "__main__":
 	handled = set()
 	metComponents = set()
 	for f in files:
-		# Let's skip the variations out of the process for now...
-		if len(f) > 10: continue
-
+		# Let's keep the variations out of the process for now...
+		if '-' in f: continue
 		if not f.endswith(".xml"): continue
+
 		descHandler = KanjisHandler()
 		xml.sax.parse(os.path.join("XML", f), descHandler)
 		handled.add(realchr(int(f[:-4], 16)))
@@ -79,10 +79,10 @@ if __name__ == "__main__":
 	# Now parse orphan SVGs (probably just kana and romaji)
 	files = os.listdir("SVG")
 	for f in files:
-		# Let's skip the variations out of the process for now...
-		if len(f) > 10: continue
-
+		# Let's keep the variations out of the process for now...
+		if '-' in f: continue
 		if not f.endswith(".svg"): continue
+
 		if realchr(int(f[:-4], 16)) in handled: continue
 		parser = xml.sax.make_parser()
 		svgHandler = KanjiStrokeHandler()

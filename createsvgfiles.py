@@ -18,6 +18,7 @@ kanjivg:variant CDATA #IMPLIED
 kanjivg:partial CDATA #IMPLIED
 kanjivg:original CDATA #IMPLIED
 kanjivg:part CDATA #IMPLIED
+kanjivg:number CDATA #IMPLIED
 kanjivg:tradForm CDATA #IMPLIED
 kanjivg:radicalForm CDATA #IMPLIED
 kanjivg:position CDATA #IMPLIED
@@ -28,16 +29,16 @@ xmlns:kanjivg CDATA #FIXED "http://kanjivg.tagaini.net"
 kanjivg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<defs>
-    <marker id="Triangle"
-      viewBox="0 0 10 10" refX="0" refY="5" 
-      markerUnits="strokeWidth"
-      markerWidth="4" markerHeight="3"
-      orient="auto" stroke="none" fill="#ff0000">
-      <path d="M 0 0 L 10 5 L 0 10 z" />
-    </marker>
-</defs>
 """)
+#<defs>
+    #<marker id="Triangle"
+      #viewBox="0 0 10 10" refX="0" refY="5" 
+      #markerUnits="strokeWidth"
+      #markerWidth="4" markerHeight="3"
+      #orient="auto" stroke="none" fill="#ff0000">
+      #<path d="M 0 0 L 10 5 L 0 10 z" />
+    #</marker>
+#</defs>
 	kanji.toSVG(out)
 	out.write("</svg>\n")
 
@@ -47,6 +48,6 @@ if __name__ == "__main__":
 	kanjis = handler.kanjis.values()
 
 	for kanji in kanjis:
-		out = codecs.open("currentdata/SVG/" + str(kanji.id) + ".svg", "w", "utf-8")
+		out = codecs.open("data/" + str(kanji.id) + ".svg", "w", "utf-8")
 		createSVG(out, kanji)
 

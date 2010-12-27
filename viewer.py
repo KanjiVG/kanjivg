@@ -20,47 +20,16 @@ import sys, os, xml.sax, re, codecs, datetime
 from PyQt4 import QtGui, QtCore
 from kanjivg import *
 
-class KanjiStrokeHandler(BasicHandler):
-	def __init__(self):
-		BasicHandler.__init__(self)
-		self.strokes = []
-		self.active = False
-
-	def handle_start_path(self, attrs):
-		strokeData = attrs["d"]
-		# Replace spaces between digits by the comma separator
-		strokeData = re.sub('(\d) (\d)', '\\1,\\2', strokeData)
-		strokeData = re.sub("[\n\t ]+", "", strokeData)
-
-		self.strokes.append(strokeData)
-
-	def handle_start_g(self, attrs):
-		if attrs.has_key("id") and attrs["id"] == "Vektorbild": self.active = True
-
 def loadKanji(code):
 	f = str(code)
-	descHandler = KanjisHandler()
-	xml.sax.parse(os.path.join("XML", f + ".xml"), descHandler)
-
+	svgHandler = SVGHandler()
 	parser = xml.sax.make_parser()
-	svgHandler = KanjiStrokeHandler()
 	parser.setContentHandler(svgHandler)
 	parser.setFeature(xml.sax.handler.feature_external_ges, False)
 	parser.setFeature(xml.sax.handler.feature_external_pes, False)
-	svgFile = os.path.join("SVG", f + ".svg")
-	if os.path.exists(svgFile):
-		parser.parse(svgFile)
+	parser.parse(os.path.join("data", f + ".svg"))
 
-	kanji = descHandler.kanjis.values()[0]
-	desc = kanji.getStrokes()
-	svg = svgHandler.strokes
-	if len(desc) != len(svg):
-		print("Stroke count mismatch!")
-		sys.exit(1)
-
-	for stroke, path in zip(desc, svg):
-		stroke.svg = path
-
+	kanji = svgHandler.kanjis.values()[0]
 	return kanji
 
 from PyQt4.QtCore import QPointF
@@ -366,33 +335,7 @@ class MainWindow(QtGui.QWidget):
 		self.canvas.update()
 
 
-def createSVG(out, kanji):
-	out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-	out.write("<!-- ")
-	out.write(licenseString)
-	out.write("\nThis file has been generated on %s, using the latest KanjiVG data to this date." % (datetime.date.today()))
-	out.write("\n-->\n\n")
-	out.write("""<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kanjivg CDATA #FIXED "http://kanjivg.tagaini.net"
-kanjivg:element CDATA #IMPLIED
-kanjivg:variant CDATA #IMPLIED
-kanjivg:partial CDATA #IMPLIED
-kanjivg:original CDATA #IMPLIED
-kanjivg:part CDATA #IMPLIED
-kanjivg:tradForm CDATA #IMPLIED
-kanjivg:radicalForm CDATA #IMPLIED
-kanjivg:position CDATA #IMPLIED
-kanjivg:radical CDATA #IMPLIED
-kanjivg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kanjivg CDATA #FIXED "http://kanjivg.tagaini.net"
-kanjivg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-""")
-	kanji.toSVG(out)
-	out.write("</svg>\n")
+from createsvgfiles import createSVG
 
 if __name__ == "__main__":
 	if len(sys.argv) != 2:
