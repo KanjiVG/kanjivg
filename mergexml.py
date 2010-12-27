@@ -70,13 +70,13 @@ if __name__ == "__main__":
 			desc[i].svg = svg[i]
 		# Add dummy strokes for SVG orphans
 		for i in range(len(desc), len(svg)):
-			s = Stroke()
+			s = Stroke(kanji.root)
 			s.stype = "Missing stroke"
 			s.svg = svg[i]
 			kanji.root.childs.append(s)
 		kanjis.append(kanji)
 
-	# Now parse orphan SVGs (probably just kanas and romanjis)
+	# Now parse orphan SVGs (probably just kana and romaji)
 	files = os.listdir("SVG")
 	for f in files:
 		# Let's skip the variations out of the process for now...
@@ -95,7 +95,7 @@ if __name__ == "__main__":
 		kanji.midashi = unichr(int(f[:-4], 16))
 		kanji.root = StrokeGr(None)
 		for s in svgHandler.strokes:
-			stroke = Stroke()
+			stroke = Stroke(kanji.root)
 			stroke.svg = s
 			kanji.root.childs.append(stroke)
 		kanjis.append(kanji)
