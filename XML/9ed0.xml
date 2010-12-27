@@ -60,9 +60,10 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 		<strokegr element="禸">
 			<stroke type="㇑"/>
 			<stroke type="㇆"/>
-			<stroke type="㇑"/>
-			<stroke type="㇐"/>
-			<stroke type="㇔"/>
+			<strokegr element="厶">
+				<stroke type="㇜"/>
+				<stroke type="㇔"/>
+			</strokegr>
 		</strokegr>
 	</strokegr>
 </strokegr>

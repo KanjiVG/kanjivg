@@ -40,10 +40,11 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details. -->
 		<strokegr element="攴" variant="true" original="攵" position="right">
 			<strokegr position="top">
 				<stroke type="㇒"/>
+				<stroke type="㇐"/>
 			</strokegr>
 			<strokegr element="乂" variant="true" position="bottom">
 				<strokegr element="丿" variant="true">
-					<stroke type="㇇"/>
+					<stroke type="㇒"/>
 				</strokegr>
 				<stroke type="㇏"/>
 			</strokegr>
