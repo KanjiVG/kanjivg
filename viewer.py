@@ -95,14 +95,52 @@ def svg2Path(svg):
 
 	return retPath;
 
+class SimpleStrokeRenderer:
+	def __init__(self):
+		self.strokesPen = QtGui.QPen()
+		self.strokesPen.setWidth(2)
+	
+	def renderStroke(self, painter, stroke):
+		painter.setPen(self.strokesPen)
+		painter.drawPath(stroke.qPath)
+
+class FancyStrokeRenderer:
+	basicWeight = 1
+	weightFactor = 1
+
+	weights = {
+		u'㇔' : (19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 7, 6, 6),
+		u'㇔a' : (17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 8, 10, 12, 14),
+		u'㇐' : (9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 12, 12, 13, 13, 14, 14, 15, 15, 16, 15, 15, 14, 13, 12, 11, 10, 10, 10, 10, 10, 9, 9, 9, 9, 9, 9, 8, 8, 8, 8, 8),
+	}
+
+	def __init__(self):
+		self.fallback = SimpleStrokeRenderer()
+		self.strokesPen = QtGui.QPen()
+		self.strokesPen.setWidth(2)
+	
+	def renderStroke(self, painter, stroke):
+		if stroke.stype in self.weights: layout = self.weights[stroke.stype]
+		elif stroke.stype[0] in self.weights: layout = self.weights[stroke.stype[0]]
+		else:
+			self.fallback.renderStroke(painter, stroke)
+			return
+		ppen = QtGui.QPen(self.strokesPen)
+		ppen.setCapStyle(QtCore.Qt.RoundCap)
+		for i in range(len(layout)):
+			ppen.setWidthF(self.basicWeight + (3.8 - 0.1 * layout[i]) * self.weightFactor)
+			painter.setPen(ppen)
+			painter.drawPoint(stroke.qPath.pointAtPercent(i * (1.0 / len(layout))))
+
 class StrokesWidget(QtGui.QWidget):
 	def __init__(self, parent = None):
 		QtGui.QWidget.__init__(self, parent)
+		self.strokesRenderer = FancyStrokeRenderer()
+
 		self.setSizePolicy(QtGui.QSizePolicy.MinimumExpanding, QtGui.QSizePolicy.MinimumExpanding);
 	
-		self.strokesPen = QtGui.QPen()
-		self.strokesPen.setWidth(2)
-		self.selectedStrokesPen = QtGui.QPen(self.strokesPen)
+		self.selectedStrokesPen = QtGui.QPen()
+		self.selectedStrokesPen.setWidth(2)
 		self.selectedStrokesPen.setColor(QtCore.Qt.red)
 
 		self.boundingPen = QtGui.QPen()
@@ -114,7 +152,7 @@ class StrokesWidget(QtGui.QWidget):
 
 	def __loadGroup(self, group):
 		rect = QtCore.QRectF()
-		pwidth = self.strokesPen.width() / 2.0
+		pwidth = 1.0
 		for child in group.childs:
 			if isinstance(child, StrokeGr):
 				self.__loadGroup(child)
@@ -158,8 +196,7 @@ class StrokesWidget(QtGui.QWidget):
 			else:
 				if child in self.selection: drawLater.append(child)
 				else:
-					painter.setPen(self.strokesPen)
-					painter.drawPath(child.qPath)
+					self.strokesRenderer.renderStroke(painter, child)
 
 class KanjiStructModel(QtCore.QAbstractItemModel):
 	columns = [ 'Element', 'Original', 'Position', 'Phon', 'Part' ]
