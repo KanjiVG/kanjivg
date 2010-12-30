@@ -43,7 +43,7 @@ def svg2Path(svg):
 	t = re.sub(r"[a-zA-Z]\d|\d[a-zA-Z]", lambda(m): m.group(0)[0] + " " + m.group(0)[1], t)
 	t = re.sub(r"[a-zA-Z]\d|\d[a-zA-Z]", lambda(m): m.group(0)[0] + " " + m.group(0)[1], t)
 	t = re.sub(r"\-\d", lambda(m): " " + m.group(0), t)
-	tokens = re.split(" +|,", t)
+	tokens = re.split("[ ,]+", t)
 
 	# Convert to Qt path
 	i = 0
