@@ -170,12 +170,24 @@ class FancyStrokeRenderer:
 		else:
 			self.fallback.renderStroke(painter, stroke)
 			return
+			
 		ppen = QtGui.QPen(self.strokesPen)
 		ppen.setCapStyle(QtCore.Qt.RoundCap)
+		segmentLength = stroke.qPath.length() / len(layout)
+		startPoint = 0.0
 		for i in range(len(layout)):
 			ppen.setWidthF(self.basicWeight + (3.8 - 0.1 * layout[i]) * self.weightFactor)
-			painter.setPen(ppen)
-			painter.drawPoint(stroke.qPath.pointAtPercent(i * (1.0 / len(layout))))
+			self.renderPartialStroke(painter, ppen, stroke.qPath, startPoint, segmentLength)
+			startPoint += segmentLength
+
+	def renderPartialStroke(self, painter, pen, stroke, startPoint, segmentLength):
+		painter.save()
+		ppen = QtGui.QPen(pen)
+		dashes = [ 0.0, startPoint / ppen.widthF(), segmentLength / ppen.widthF(), stroke.length() / ppen.widthF() ]
+		ppen.setDashPattern(dashes)
+		painter.setPen(ppen)
+		painter.drawPath(stroke)
+		painter.restore()
 
 class StrokesWidget(QtGui.QWidget):
 	def __init__(self, parent = None):
