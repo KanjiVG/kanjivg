@@ -75,53 +75,66 @@ class KanjiStrokeHandler(BasicHandler):
 		if attrs.has_key("id") and attrs["id"] == "Vektorbild": self.active = True
 
 if __name__ == "__main__":
+	os.mkdir("output")
+	os.mkdir("output/SVG")
+	os.mkdir("output/SVGMismatch")
 	files = os.listdir("XML")
-	kanjis = []
-	mismatch = []
 	handled = set()
 	metComponents = set()
 	for f in files:
-		# Let's keep the variations out of the process for now...
-		if '-' in f: continue
 		if not f.endswith(".xml"): continue
 
-		descHandler = KanjisHandler()
-		xml.sax.parse(os.path.join("XML", f), descHandler)
-		handled.add(realchr(int(f[:-4], 16)))
+		kId = f[:-4]
+		if "-" in kId: code, variant = kId.split("-")
+		else: code, variant = kId, None
 
+		# Parse XML
+		descHandler = KanjisHandler(int(code, 16), variant)
+		xml.sax.parse(os.path.join("XML", f), descHandler)
+		handled.add(kId)
+
+		# Parse SVG
 		parser = xml.sax.make_parser()
 		svgHandler = KanjiStrokeHandler()
 		parser.setContentHandler(svgHandler)
 		parser.setFeature(xml.sax.handler.feature_external_ges, False)
 		parser.setFeature(xml.sax.handler.feature_external_pes, False)
-		svgFile = os.path.join("SVG", f[:-3] + "svg")
+		svgFile = os.path.join("SVG", kId + ".svg")
 		if os.path.exists(svgFile):
 			parser.parse(svgFile)
 
 		metComponents = metComponents.union(descHandler.metComponents)
 
-		kanji = descHandler.kanjis.values()[0]
+		kanji = descHandler.kanji
 		desc = kanji.getStrokes()
 		svg = svgHandler.strokes
-		if len(desc) != len(svg): mismatch.append((descHandler.kanjis.values()[0].root.element, len(desc), len(svg)))
+		# Copy SVG into kanji desc
 		for i in range(min(len(desc), len(svg))):
 			desc[i].svg = svg[i]
+
 		# Add dummy strokes for SVG orphans
 		for i in range(len(desc), len(svg)):
 			s = Stroke(kanji.root)
 			s.stype = "Missing stroke"
 			s.svg = svg[i]
 			kanji.root.childs.append(s)
-		kanjis.append(kanji)
+
+		if len(desc) != len(svg): dst = "SVGMismatch"
+		else: dst = "SVG"
+		out = codecs.open("output/%s/%s.svg" % (dst, kanji.kId()), "w", "utf-8")
+		createSVG(out, kanji)
+
 
 	# Now parse orphan SVGs (probably just kana and romaji)
 	files = os.listdir("SVG")
 	for f in files:
-		# Let's keep the variations out of the process for now...
-		if '-' in f: continue
 		if not f.endswith(".svg"): continue
 
-		if realchr(int(f[:-4], 16)) in handled: continue
+		kId = f[:-4]
+		if "-" in kId: code, variant = kId.split("-")
+		else: code, variant = kId, None
+
+		if f[:-4] in handled: continue
 		parser = xml.sax.make_parser()
 		svgHandler = KanjiStrokeHandler()
 		parser.setContentHandler(svgHandler)
@@ -129,48 +142,10 @@ if __name__ == "__main__":
 		parser.setFeature(xml.sax.handler.feature_external_pes, False)
 		parser.parse(os.path.join("SVG", f))
 
-		kanji = Kanji(f[:-4])
-		kanji.midashi = unichr(int(f[:-4], 16))
+		kanji = Kanji(int(code, 16), variant)
 		kanji.root = StrokeGr(None)
 		for s in svgHandler.strokes:
 			stroke = Stroke(kanji.root)
 			stroke.svg = s
 			kanji.root.childs.append(stroke)
-		kanjis.append(kanji)
-
-	# Stroke count mismatch kanji
-	mismatch.sort()
-	misout = codecs.open("Main.StrokeCountMismatch", "w", "utf-8")
-	misout.write('version=pmwiki-2.1.0 urlencoded=1\ntext=')
-	misout.write("'''This page is generated - please do not edit it!'''%0a%0aThe following kanji have a stroke order mismatch between their XML and SVG descriptions:%0a")
-	for i in range(len(mismatch)):
-		misout.write("* %s: XML %d, SVG %d" % (mismatch[i][0], mismatch[i][1], mismatch[i][2]))
-		misout.write("%0a")
-
-	# Missing components
-	misout = codecs.open("Main.MissingKanji", "w", "utf-8")
-	misout.write('version=pmwiki-2.1.0 urlencoded=1\ntext=')
-	misout.write("'''This page is generated - please do not edit it!'''%0a%0aThe following kanji are referenced as components but no data is available for them:%0a")
-	for k in metComponents.difference(handled):
-		misout.write("* %s" % (k,))
-		misout.write("%0a")
-
-	# Finally write the output files
-	os.mkdir("data")
-	for kanji in kanjis:
-		out = codecs.open("data/" + str(kanji.id) + ".svg", "w", "utf-8")
-		createSVG(out, kanji)
-
-	# Finally write the output file
-	#curDate = str(datetime.date.today())
-	#kanjis.sort(lambda x,y: cmp(x.id, y.id))
-	#out = codecs.open("kanjivg-%s.xml" % (curDate.replace("-", ""),), "w", "utf-8")
-	#out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-	#out.write("<!-- ")
-	#out.write(licenseString)
-	#out.write("\nThis file has been generated on %s, using the latest KanjiVG data to this date." % (curDate))
-	#out.write("\n-->\n\n")
-	#out.write("<kanjis>\n");
-	#for kanji in kanjis:
-		#kanji.toXML(out)
-	#out.write("</kanjis>\n");
+		# TODO merge with upper part - kana and romaji should not be considered mismatched

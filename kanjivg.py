@@ -18,7 +18,7 @@
 from xmlhandler import *
 
 # Sample licence header
-licenseString = """Copyright (C) 2009/2010 Ulrich Apel.
+licenseString = """Copyright (C) 2009/2010/2011 Ulrich Apel.
 This work is distributed under the conditions of the Creative Commons 
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
@@ -56,32 +56,35 @@ def realchr(i):
 
 class Kanji:
 	"""Describes a kanji. The root stroke group is accessible from the root member."""
-	def __init__(self, id):
-		self.id = id
-		self.midashi = None
+	def __init__(self, code, variant):
+		# Unicode of char being represented (int)
+		self.code = code
+		# Variant of the character, if any
+		self.variant = variant
 		self.root = None
 
-	def toSVG(self, out, indent = 0):
-		self.root.toSVG(out, self.id, [0], [1])
+	# String identifier used to uniquely identify the kanji
+	def kId(self):
+		ret = "%05x" % (self.code,)
+		if self.variant: ret += "-%s" % (self.variant,)
+		return ret
 
-	def toXML(self, out, indent = 0):
-		out.write("\t" * indent + '<kanji midashi="%s" id="%s">\n' % (self.midashi, self.id))
-		self.root.toXML(out, 0)
-		out.write("\t" * indent + '</kanji>\n')
+	def toSVG(self, out, indent = 0):
+		self.root.toSVG(out, self.kId(), [0], [1])
 
 	def simplify(self):
 		self.root.simplify()
 
 	def getStrokes(self):
 		return self.root.getStrokes()
-		
+
 
 class StrokeGr:
 	"""Describes a stroke group belonging to a kanji as closely as possible to the XML format. Sub-stroke groups or strokes are available in the childs member. They can either be of class StrokeGr or Stroke so their type should be checked."""
 	def __init__(self, parent):
 		self.parent = parent
 		if parent: parent.childs.append(self)
-		# Element of strokegr, or midashi for kanji
+		# Element of strokegr
 		self.element = None
 		# A more common, safer element this one derives of
 		self.original = None
@@ -284,29 +287,19 @@ class StructuredStrokeGroup:
 
 class KanjisHandler(BasicHandler):
 	"""XML handler for parsing kanji files. It can handle single-kanji files or aggregation files. After parsing, the kanjis are accessible through the kanjis member, indexed by their svg file name."""
-	def __init__(self):
+	def __init__(self, code, variant):
 		BasicHandler.__init__(self)
-		self.kanjis = {}
-		self.currentKanji = None
+		self.kanji = Kanji(code, variant)
 		self.groups = []
+		self.compCpt = {}
 		self.metComponents = set()
 
 	def handle_start_kanji(self, attrs):
-		id = str(attrs["id"])
-		self.currentKanji = Kanji(id)
-		self.currentKanji.midashi = unicode(attrs["midashi"])
-		# Check that the ID matches the midashi
-		midashiNumber = "%04x" % (realord(self.currentKanji.midashi))
-		if midashiNumber != id[:len(midashiNumber)]:
-			print "Warning: id does not match midashi (%s(%s) %s)" % (self.currentKanji.midashi, midashiNumber, id)
-		self.kanjis[id] = self.currentKanji
-
-		self.compCpt = {}
+		pass
 
 	def handle_end_kanji(self):
 		if len(self.groups) != 0:
 			print "WARNING: stroke groups remaining after reading kanji!"
-		self.currentKanji = None
 		self.groups = []
 
 	def handle_start_strokegr(self, attrs):
@@ -333,17 +326,17 @@ class KanjisHandler(BasicHandler):
 		if group.original: self.metComponents.add(group.original)
 
 		if group.number:
-			if not group.part: print "%s: Number specified, but part missing" % (self.currentKanji.id)
+			if not group.part: print "%s: Number specified, but part missing" % (self.kanji.kId())
 			# The group must exist already
 			if group.part > 1:
 				if not self.compCpt.has_key(group.element + str(group.number)):
-					print "%s: Missing numbered group" % (self.currentKanji.id)
+					print "%s: Missing numbered group" % (self.kanji.kId())
 				elif self.compCpt[group.element + str(group.number)] != group.part - 1:
-					print "%s: Incorrectly numbered group" % (self.currentKanji.id)
+					print "%s: Incorrectly numbered group" % (self.kanji.kId())
 			# The group must not exist
 			else:
 				if self.compCpt.has_key(group.element + str(group.number)):
-					print "%s: Duplicate numbered group" % (self.currentKanji.id)
+					print "%s: Duplicate numbered group" % (self.kanji.kId())
 			self.compCpt[group.element + str(group.number)] = group.part
 		# No number, just a part - groups restart with part 1, otherwise must
 		# increase correctly
@@ -351,17 +344,17 @@ class KanjisHandler(BasicHandler):
 				# The group must exist already
 			if group.part > 1:
 				if not self.compCpt.has_key(group.element):
-					print "%s: Incorrectly started multi-part group" % (self.currentKanji.id)
+					print "%s: Incorrectly started multi-part group" % (self.kanji.kId())
 				elif self.compCpt[group.element] != group.part - 1:
-					print "%s: Incorrectly splitted multi-part group" % (self.currentKanji.id)
+					print "%s: Incorrectly splitted multi-part group" % (self.kanji.kId())
 			self.compCpt[group.element] = group.part
 
 	def handle_end_strokegr(self):
 		group = self.groups.pop()
 		if len(self.groups) == 0:
-			if self.currentKanji.root:
+			if self.kanji.root:
 				print "WARNING: overwriting root of kanji!"
-			self.currentKanji.root = group
+			self.kanji.root = group
 
 	def handle_start_stroke(self, attrs):
 		if len(self.groups) == 0: parent = None
@@ -410,17 +403,17 @@ class SVGHandler(BasicHandler):
 		if group.original: self.metComponents.add(group.original)
 
 		if group.number:
-			if not group.part: print "%s: Number specified, but part missing" % (self.currentKanji.id)
+			if not group.part: print "%s: Number specified, but part missing" % (self.currentKanji.kId())
 			# The group must exist already
 			if group.part > 1:
 				if not self.compCpt.has_key(group.element + str(group.number)):
-					print "%s: Missing numbered group" % (self.currentKanji.id)
+					print "%s: Missing numbered group" % (self.currentKanji.kId())
 				elif self.compCpt[group.element + str(group.number)] != group.part - 1:
-					print "%s: Incorrectly numbered group" % (self.currentKanji.id)
+					print "%s: Incorrectly numbered group" % (self.currentKanji.kId())
 			# The group must not exist
 			else:
 				if self.compCpt.has_key(group.element + str(group.number)):
-					print "%s: Duplicate numbered group" % (self.currentKanji.id)
+					print "%s: Duplicate numbered group" % (self.currentKanji.kId())
 			self.compCpt[group.element + str(group.number)] = group.part
 		# No number, just a part - groups restart with part 1, otherwise must
 		# increase correctly
@@ -428,9 +421,9 @@ class SVGHandler(BasicHandler):
 				# The group must exist already
 			if group.part > 1:
 				if not self.compCpt.has_key(group.element):
-					print "%s: Incorrectly started multi-part group" % (self.currentKanji.id)
+					print "%s: Incorrectly started multi-part group" % (self.currentKanji.kId())
 				elif self.compCpt[group.element] != group.part - 1:
-					print "%s: Incorrectly splitted multi-part group" % (self.currentKanji.id)
+					print "%s: Incorrectly splitted multi-part group" % (self.currentKanji.kId())
 			self.compCpt[group.element] = group.part
 
 	def handle_end_g(self):
