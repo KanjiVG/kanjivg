@@ -101,7 +101,8 @@ class StrokeGr:
 		self.childs = []
 
 	def toSVG(self, out, rootId, groupCpt = [0], strCpt = [1], indent = 0):
-		gid = rootId + "-g" + str(groupCpt[0])
+		gid = rootId
+		if groupCpt[0] != 0: gid += "-g" + str(groupCpt[0])
 		groupCpt[0] += 1
 
 		idString = ' id="%s"' % (gid)
