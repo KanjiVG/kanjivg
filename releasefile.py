@@ -22,7 +22,7 @@
 import os, datetime, re
 from kanjivg import licenseString
 
-__datadir = "output/SVG"
+__datadir = "kanjivg"
 
 if __name__ == "__main__":
 	allfiles = os.listdir(__datadir)

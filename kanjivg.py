@@ -55,13 +55,13 @@ def realchr(i):
 	else: return unichr(((i - 0x10000) >> 10) + 0xD800) + unichr(0xDC00 + (i & 0x3ff))
 
 class Kanji:
-	"""Describes a kanji. The root stroke group is accessible from the root member."""
+	"""Describes a kanji. The root stroke group is accessible from the strokes member."""
 	def __init__(self, code, variant):
 		# Unicode of char being represented (int)
 		self.code = code
 		# Variant of the character, if any
 		self.variant = variant
-		self.root = None
+		self.strokes = None
 
 	# String identifier used to uniquely identify the kanji
 	def kId(self):
@@ -69,14 +69,21 @@ class Kanji:
 		if self.variant: ret += "-%s" % (self.variant,)
 		return ret
 
-	def toSVG(self, out, indent = 0):
-		self.root.toSVG(out, self.kId(), [0], [1])
+	def outputStrokesNumbers(self, out, indent = 0):
+		strokes = self.getStrokes()
+		cpt = 1
+		for stroke in strokes:
+			stroke.numberToSVG(out, cpt, indent + 1)
+			cpt += 1
+
+	def outputStrokes(self, out, indent = 0):
+		self.strokes.toSVG(out, self.kId(), [0], [1])
 
 	def simplify(self):
-		self.root.simplify()
+		self.strokes.simplify()
 
 	def getStrokes(self):
-		return self.root.getStrokes()
+		return self.strokes.getStrokes()
 
 
 class StrokeGr:
@@ -200,91 +207,17 @@ class Stroke:
 	def __init__(self, parent):
 		self.stype = None
 		self.svg = None
+		self.numberPos = None
+	
+	def numberToSVG(self, out, number, indent = 0):
+		if self.numberPos:
+			out.write("\t" * indent + '<text transform="matrix(1 0 0 1 %.2f %.2f)">%d</text>\n' % (self.numberPos[0], self.numberPos[1], number)) 
 
 	def toSVG(self, out, rootId, groupCpt, strCpt, indent = 0):
 		pid = rootId + "-s" + str(strCpt[0])
 		strCpt[0] += 1
 		if not self.svg: out.write("\t" * indent + '<path id="%s" d="" kanjivg:type="%s"/>\n' % (pid, self.stype))
 		else: out.write("\t" * indent + '<path id="%s" kanjivg:type="%s" d="%s"/>\n' % (pid, self.stype, self.svg))
-
-
-class StructuredKanji:
-	"""A more structured format for the kanji, where all the parts of groups are grouped together."""
-	def __init__(self, kanji):
-		self.components = []
-		self.strokes = []
-
-		stk = []
-		self.__buildStructure(kanji.root, stk, None)
-
-	def __mostCommonAncestor(self, np, npp):
-		# Update the parent to the most common parent of all parts
-		npSave = np
-		if np != None:
-			while np != npp:
-				np = np.parent
-				if np == None:
-					npp = npp.parent
-					np = npSave
-		return np
-
-	def __buildStructure(self, group, stk, parent):
-		# Find the component if it exists already, or create it as needed
-		# Number exists and part is > 1, we must find a component which number matches.
-		newParent = None
-		if group.number > 0 and group.part > 1:
-			for component in self.components:
-				if component.element == group.element and component.number == group.number:
-					newParent = component
-					component.parent = self.__mostCommonAncestor(component.parent, parent)
-					break
-			# Should never happen
-			if not newParent: raise Exception("Unable to find component!")
-		# No number but a part, we need the latest component which element matches
-		elif group.part > 1:
-			for component in self.components:
-				if component.element == group.element:
-					newParent = component
-					component.parent = self.__mostCommonAncestor(component.parent, parent)
-					break
-			if not newParent: raise Exception("Unable to find component!")
-		# Either a single part component or a first part - we need to create the component
-		else: 
-			# Only do that if the current group has an element
-			if group.element:
-				newParent = StructuredStrokeGroup(parent, group.element, group.original, group.number)
-				self.components.append(newParent)
-			# Else keep the same parent
-			else: newParent = parent
-
-		if newParent != parent: stk.append(newParent)
-
-		# Add the found group as a child of its parent
-		if parent: parent.childs.append(newParent)
-
-		# Now parse the childs of the group
-		for child in group.childs:
-			# Another group - we need to call ourselves recursively to build it
-			if isinstance(child, StrokeGr):
-				self.__buildStructure(child, stk, newParent)
-			# A stroke - just add it to our list as well as
-			# to the list of all the parents on the stack
-			elif isinstance(child, Stroke):
-				self.strokes.append(child)
-				for pGroup in stk: pGroup.strokes.append(child)
-				# Set the direct parent of the child
-				child.parent = newParent
-
-		if newParent != parent: stk.pop()
-
-class StructuredStrokeGroup:
-	def __init__(self, parent, element, original, number):
-		self.parent = parent
-		self.element = element
-		self.original = original
-		self.number = number
-		self.childs = []
-		self.strokes = []
 
 class KanjisHandler(BasicHandler):
 	"""XML handler for parsing kanji files. It can handle single-kanji files or aggregation files. After parsing, the kanjis are accessible through the kanjis member, indexed by their svg file name."""
@@ -353,9 +286,9 @@ class KanjisHandler(BasicHandler):
 	def handle_end_strokegr(self):
 		group = self.groups.pop()
 		if len(self.groups) == 0:
-			if self.kanji.root:
+			if self.kanji.strokes:
 				print "WARNING: overwriting root of kanji!"
-			self.kanji.root = group
+			self.kanji.strokes = group
 
 	def handle_start_stroke(self, attrs):
 		if len(self.groups) == 0: parent = None
@@ -366,7 +299,7 @@ class KanjisHandler(BasicHandler):
 		self.groups[-1].childs.append(stroke)
 
 class SVGHandler(BasicHandler):
-	"""SVG handler for parsing final kanji files. It can handle single-kanji files or aggregation files. After parsing, the kanjis are accessible through the kanjis member, indexed by their svg file name."""
+	"""SVG handler for parsing final kanji files. It can handle single-kanji files or aggregation files. After parsing, the kanji are accessible through the kanjis member, indexed by their svg file name."""
 	def __init__(self):
 		BasicHandler.__init__(self)
 		self.kanjis = {}
@@ -431,7 +364,7 @@ class SVGHandler(BasicHandler):
 		group = self.groups.pop()
 		# End of kanji?
 		if len(self.groups) == 0:
-			self.currentKanji.root = group
+			self.currentKanji.strokes = group
 			self.currentKanji = None
 			self.groups = []
 
