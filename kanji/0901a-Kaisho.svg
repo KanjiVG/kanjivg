@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons 
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+This file has been generated on 2011-07-17, using the latest KanjiVG data
+to this date.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0901a-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0901a-Kaisho" kvg:element="通">
+	<g id="kvg:0901a-Kaisho-g1" kvg:element="甬">
+		<g id="kvg:0901a-Kaisho-g2" kvg:element="マ" kvg:position="top">
+			<path id="kvg:0901a-Kaisho-s1" kvg:type="㇇" d="M43.01,16.84c1.15,0.6,2.72,1.16,4.04,1.1c1.5-0.06,17.81-3.21,25.3-4.65c5.4-1.04,5.65,0.21,2.48,3.24c-1.27,1.22-10.89,9.19-12.62,10.4"/>
+			<path id="kvg:0901a-Kaisho-s2" kvg:type="㇔" d="M53.25,24.5c2.28,0.77,8.18,3.73,9.25,5.75"/>
+		</g>
+		<g id="kvg:0901a-Kaisho-g3" kvg:element="用" kvg:position="bottom">
+			<path id="kvg:0901a-Kaisho-s3" kvg:type="㇑/㇒" d="M42.91,34.72c0.52,0.6,0.86,1.19,1.03,1.79c0.17,0.6,0.17,39.33,0.17,40.67"/>
+			<path id="kvg:0901a-Kaisho-s4" kvg:type="㇆a" d="M44.98,35.89c5.8-0.25,32.09-4.36,33.63-4.53c2.76-0.3,3.79,1.94,3.44,2.83c-0.33,0.86-0.52,28.82-0.52,40.91c0,4.46-1.93,3.91-3.03,3.14c-1.41-0.99-2.35-1.85-3.44-2.37"/>
+			<path id="kvg:0901a-Kaisho-s5" kvg:type="㇐a" d="M44.98,49.3c7.99-1.23,16.01-2.32,24.04-3.26c0.81-0.09,1.61-0.19,2.38-0.27"/>
+			<path id="kvg:0901a-Kaisho-s6" kvg:type="㇐a" d="M44.73,61.89c7.94-1.13,15.95-1.89,23.94-2.66c0.86-0.08,1.7-0.16,2.52-0.24"/>
+			<path id="kvg:0901a-Kaisho-s7" kvg:type="㇑" d="M61.21,35.46c0.68,0.29,1.09,1.29,1.23,1.87c0.13,0.57,0,37.79-0.14,41.39"/>
+		</g>
+	</g>
+	<g id="kvg:0901a-Kaisho-g4" kvg:element="⻌" kvg:original="辶" kvg:position="nyo" kvg:radical="tradit">
+		<path id="kvg:0901a-Kaisho-s8" kvg:type="㇔" d="M15.71,18.25c3.63,1.41,9.38,5.8,10.29,8"/>
+		<path id="kvg:0901a-Kaisho-s9" kvg:type="㇋" d="M11,51.75c2.25,1,3.75,0.5,4.75,0.25s8-5.5,9.5-6S29,47.25,28,48.75s-4,7.25-4.75,8.5s-0.5,3.5,1,5.25s2.75,3.75,3.5,5.25s0.75,2.75-0.75,4S18,80,16.5,80.5"/>
+		<path id="kvg:0901a-Kaisho-s10" kvg:type="㇏a" d="M12.25,82c3-0.5,9-1.75,13.5-0.75s30.07,7.71,34.5,9c12,3.5,21.25,4.5,30.25,2.75"/>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0901a-Kaisho" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 35.50 17.50)">1</text>
+	<text transform="matrix(1 0 0 1 45.75 27.13)">2</text>
+	<text transform="matrix(1 0 0 1 36.50 40.63)">3</text>
+	<text transform="matrix(1 0 0 1 49.50 32.50)">4</text>
+	<text transform="matrix(1 0 0 1 47.50 45.13)">5</text>
+	<text transform="matrix(1 0 0 1 47.50 58.63)">6</text>
+	<text transform="matrix(1 0 0 1 65.50 41.50)">7</text>
+	<text transform="matrix(1 0 0 1 6.50 18.50)">8</text>
+	<text transform="matrix(1 0 0 1 3.75 52.50)">9</text>
+	<text transform="matrix(1 0 0 1 1.50 85.63)">10</text>
+</g>
+</svg>

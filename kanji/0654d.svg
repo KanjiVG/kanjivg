@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons 
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+This file has been generated on 2011-07-17, using the latest KanjiVG data
+to this date.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0654d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0654d" kvg:element="敍">
+	<g id="kvg:0654d-g1" kvg:element="余" kvg:position="left">
+		<g id="kvg:0654d-g2" kvg:element="人" kvg:variant="true" kvg:position="top">
+			<path id="kvg:0654d-s1" kvg:type="㇒" d="M35.8,12.25c0.08,0.8,0.31,2.11-0.17,3.2c-4.13,9.05-8.79,18.06-23.17,30.62"/>
+			<path id="kvg:0654d-s2" kvg:type="㇔/㇏" d="M36.5,19.75c6.12,4,13.53,10.4,16.75,16"/>
+		</g>
+		<g id="kvg:0654d-g3" kvg:position="bottom">
+			<path id="kvg:0654d-s3" kvg:type="㇐" d="M20,43.14c0.71,0.27,2.01,0.32,2.72,0.27c6.86-0.46,17.53-2.89,23.29-3.25c1.06-0.07,1.71,0.13,2.24,0.26"/>
+			<path id="kvg:0654d-s4" kvg:type="㇐" d="M11.98,57.98c1.07,0.49,3.05,0.63,4.13,0.53C28,58,38.25,56.25,49.44,54.66c2.02-0.29,3.26,0.17,4.28,0.33"/>
+			<g id="kvg:0654d-g4" kvg:element="小">
+				<path id="kvg:0654d-s5" kvg:type="㇚" d="M34.03,44.8c0.09,0.49,1.26,2.57,1.26,5.71c0,20.39-0.26,35.82-0.26,40.95c0,11.63-6.21,2.07-7.71,0.78"/>
+				<path id="kvg:0654d-s6" kvg:type="㇒" d="M24.73,69.25c0.04,0.47,0.16,1.26-0.07,1.87c-1.73,4.47-6.2,11.11-13.27,17.89"/>
+				<path id="kvg:0654d-s7" kvg:type="㇔" d="M45.12,68.49c3.03,2.73,7.84,11.22,8.59,15.46"/>
+			</g>
+		</g>
+	</g>
+	<g id="kvg:0654d-g5" kvg:element="攴" kvg:position="right" kvg:radical="tradit">
+		<g id="kvg:0654d-g6" kvg:element="卜" kvg:original="ト" kvg:position="top">
+			<path id="kvg:0654d-s8" kvg:type="㇑" d="M68.61,10.38c0.39,0.34,1.21,2.53,1.28,3.21c0.08,0.68-0.05,27.57-0.13,31.79"/>
+			<path id="kvg:0654d-s9" kvg:type="㇔" d="M70.43,27.25c2.02-0.25,17.83-3,18.93-3s2.59,0,3.49,0.25"/>
+		</g>
+		<g id="kvg:0654d-g7" kvg:element="又" kvg:position="bottom">
+			<path id="kvg:0654d-s10" kvg:type="㇇" d="M57.36,46.23c1.47,0.38,2.12,0.78,5.09,0.38c4.54-0.61,22-3.56,24.02-4.14s3.59,2.18,2.76,4.22C79.5,70.5,65.75,89.75,45.5,99"/>
+			<path id="kvg:0654d-s11" kvg:type="㇏" d="M59.6,54.7c3.42,1,20.09,27.64,31.98,38.56c1.85,1.7,3.2,2.83,4.92,3.4"/>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0654d" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 28.50 12.50)">1</text>
+	<text transform="matrix(1 0 0 1 41.50 19.50)">2</text>
+	<text transform="matrix(1 0 0 1 27.50 39.50)">3</text>
+	<text transform="matrix(1 0 0 1 5.50 58.50)">4</text>
+	<text transform="matrix(1 0 0 1 28.25 51.33)">5</text>
+	<text transform="matrix(1 0 0 1 16.50 69.50)">6</text>
+	<text transform="matrix(1 0 0 1 45.50 66.50)">7</text>
+	<text transform="matrix(1 0 0 1 59.50 10.50)">8</text>
+	<text transform="matrix(1 0 0 1 74.50 23.03)">9</text>
+	<text transform="matrix(1 0 0 1 55.50 43.50)">10</text>
+	<text transform="matrix(1 0 0 1 55.50 63.50)">11</text>
+</g>
+</svg>

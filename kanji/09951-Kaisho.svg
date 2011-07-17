@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons 
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+This file has been generated on 2011-07-17, using the latest KanjiVG data
+to this date.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_09951-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:09951-Kaisho" kvg:element="饑">
+	<g id="kvg:09951-Kaisho-g1" kvg:element="飠" kvg:variant="true" kvg:original="食" kvg:position="left" kvg:radical="general">
+		<path id="kvg:09951-Kaisho-s1" kvg:type="㇒" d="M28.26,10.64c0.05,0.65,0.26,1.74-0.11,2.61c-2.43,5.75-9.43,17-19.35,25.46"/>
+		<path id="kvg:09951-Kaisho-s2" kvg:type="㇔/㇏" d="M30.02,14.83c4.34,2.01,11.21,8.26,12.29,11.38"/>
+		<path id="kvg:09951-Kaisho-s3" kvg:type="㇐" d="M21.25,30.66c0.36,0.15,1.02,0.19,1.39,0.15c2.3-0.25,9.87-2.17,12.1-2c0.6,0.05,0.96,0.07,1.27,0.14"/>
+		<path id="kvg:09951-Kaisho-s4" kvg:type="㇑" d="M17.27,39.94c0.39,0.78,0.78,1.68,0.78,2.72c0,1.04-0.13,54.29,0,55.34"/>
+		<path id="kvg:09951-Kaisho-s5" kvg:type="㇕" d="M18.19,41.57c2.2-0.13,16.41-2.17,18.42-2.33c1.67-0.13,2.74,1.45,2.61,2.22c-0.26,1.57-1.47,18.54-2.02,22.01"/>
+		<path id="kvg:09951-Kaisho-s6" kvg:type="㇐a" d="M18.58,52.23c3.14,0,6.37-0.71,9.47-1.15c1-0.14,2.01-0.29,2.98-0.42"/>
+		<path id="kvg:09951-Kaisho-s7" kvg:type="㇐a" d="M18.44,64.06C24.5,63.5,29.25,62,36.79,61.52"/>
+		<path id="kvg:09951-Kaisho-s8" kvg:type="㇐c" d="M18.39,76.06c3.73-0.25,14.96-2.17,18.57-1.99c0.97,0.04,1.56,0.07,2.05,0.14"/>
+		<path id="kvg:09951-Kaisho-s9" kvg:type="㇐c" d="M18.39,90.31c3.73-0.25,14.96-2.17,18.57-1.99c0.97,0.04,1.56,0.07,2.05,0.14"/>
+	</g>
+	<g id="kvg:09951-Kaisho-g2" kvg:element="幾" kvg:position="right">
+		<g id="kvg:09951-Kaisho-g3" kvg:element="幺">
+			<path id="kvg:09951-Kaisho-s10" kvg:type="㇜" d="M55.07,15.25c0.24,0.97,0.45,1.8-0.12,2.76c-2.48,4.22-4.54,9.07-6.9,11.35c-0.48,0.46-0.47,2.25,0,2.44c1.36,0.53,4.63,1.24,7.33,3.51"/>
+			<path id="kvg:09951-Kaisho-s11" kvg:type="㇜" d="M62.22,25.31c0.29,0.52,0.38,2.24,0,2.79c-5.52,8.2-7.39,10.19-14.9,18.98c-1.55,1.81,0.43,2.7,1.57,2.35c4.75-1.46,7.6-2.18,13.7-3.58"/>
+			<path id="kvg:09951-Kaisho-s12" kvg:type="㇔" d="M59.63,40.05c1.69,1.8,4.37,7.4,4.8,10.2"/>
+		</g>
+		<g id="kvg:09951-Kaisho-g4" kvg:element="幺">
+			<path id="kvg:09951-Kaisho-s13" kvg:type="㇜" d="M82.71,14.25c0.22,1.11,0.42,2.05-0.11,3.14c-2.32,4.8-3.07,7.32-5.28,9.91c-0.45,0.53-0.48,2.69,0,2.77C80,30.5,83.5,32,86.17,33.55"/>
+			<path id="kvg:09951-Kaisho-s14" kvg:type="㇜" d="M92.8,20.56c0.2,0.5,0.27,2.15,0,2.68c-3.93,7.86-9.21,14.53-14.61,21.7c-1.24,1.64,0.31,2.59,1.12,2.25c3.38-1.4,8.97-3.53,13.31-4.87"/>
+			<path id="kvg:09951-Kaisho-s15" kvg:type="㇔" d="M90.52,37.8c1.37,1.93,3.85,7.44,4.19,10.45"/>
+		</g>
+		<g id="kvg:09951-Kaisho-g5" kvg:element="戍" kvg:variant="true" kvg:original="戌">
+			<g id="kvg:09951-Kaisho-g6" kvg:element="戈" kvg:part="1">
+				<g id="kvg:09951-Kaisho-g7" kvg:element="弋" kvg:part="1">
+					<g id="kvg:09951-Kaisho-g8" kvg:element="厂" kvg:part="1">
+						<path id="kvg:09951-Kaisho-s16" kvg:type="㇐" d="M44.29,61.56c1.08,0.27,3.08,0.39,4.15,0.27c4.38-0.52,35.15-3.46,45.77-4.06c1.8-0.1,2.89,0.13,3.79,0.26"/>
+					</g>
+				</g>
+			</g>
+			<g id="kvg:09951-Kaisho-g9" kvg:element="人" kvg:variant="true">
+				<g id="kvg:09951-Kaisho-g10" kvg:element="厂" kvg:part="2">
+					<path id="kvg:09951-Kaisho-s17" kvg:type="㇒" d="M52.99,65.43c0.03,0.71,0.51,1.34,0.38,2.34C52.01,77.84,50.5,88,41.31,96"/>
+				</g>
+				<g id="kvg:09951-Kaisho-g11" kvg:element="一" kvg:variant="true">
+					<path id="kvg:09951-Kaisho-s18" kvg:type="㇔" d="M56.13,75.03c2.37,0.99,6.67,4.79,8.82,8.75"/>
+				</g>
+			</g>
+			<g id="kvg:09951-Kaisho-g12" kvg:element="戈" kvg:part="2">
+				<g id="kvg:09951-Kaisho-g13" kvg:element="弋" kvg:part="2">
+					<path id="kvg:09951-Kaisho-s19" kvg:type="㇂" d="M66.4,11c1.13,1.88,1.65,2.39,1.84,6.44c1.45,31.69,10.88,66.5,26.11,78.27c4.69,3.63,4.41,1.49,3.84-6.83"/>
+				</g>
+				<g id="kvg:09951-Kaisho-g14" kvg:element="丿">
+					<path id="kvg:09951-Kaisho-s20" kvg:type="㇒" d="M89.36,65.68c0.08,0.65,0.17,1.69-0.16,2.63c-1.96,5.54-11.26,18.75-26.65,26.2"/>
+				</g>
+				<g id="kvg:09951-Kaisho-g15" kvg:element="弋" kvg:part="3">
+					<g id="kvg:09951-Kaisho-g16" kvg:element="丶">
+						<path id="kvg:09951-Kaisho-s21" kvg:type="㇔" d="M81.16,50.53c1.8,0.8,4.67,2.63,5.51,4"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_09951-Kaisho" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 20.50 11.50)">1</text>
+	<text transform="matrix(1 0 0 1 35.25 15.50)">2</text>
+	<text transform="matrix(1 0 0 1 26.25 27.50)">3</text>
+	<text transform="matrix(1 0 0 1 10.50 46.50)">4</text>
+	<text transform="matrix(1 0 0 1 20.50 38.50)">5</text>
+	<text transform="matrix(1 0 0 1 22.46 48.50)">6</text>
+	<text transform="matrix(1 0 0 1 22.50 60.50)">7</text>
+	<text transform="matrix(1 0 0 1 22.47 72.50)">8</text>
+	<text transform="matrix(1 0 0 1 22.46 86.50)">9</text>
+	<text transform="matrix(1 0 0 1 45.25 13.95)">10</text>
+	<text transform="matrix(1 0 0 1 58.50 21.88)">11</text>
+	<text transform="matrix(1 0 0 1 60.50 39.50)">12</text>
+	<text transform="matrix(1 0 0 1 73.50 12.50)">13</text>
+	<text transform="matrix(1 0 0 1 86.50 17.50)">14</text>
+	<text transform="matrix(1 0 0 1 91.50 37.50)">15</text>
+	<text transform="matrix(1 0 0 1 42.50 58.50)">16</text>
+	<text transform="matrix(1 0 0 1 42.50 71.50)">17</text>
+	<text transform="matrix(1 0 0 1 56.50 73.50)">18</text>
+	<text transform="matrix(1 0 0 1 57.50 7.50)">19</text>
+	<text transform="matrix(1 0 0 1 79.50 66.50)">20</text>
+	<text transform="matrix(1 0 0 1 77.50 56.50)">21</text>
+</g>
+</svg>

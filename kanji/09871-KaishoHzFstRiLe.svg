@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons 
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+This file has been generated on 2011-07-17, using the latest KanjiVG data
+to this date.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_09871-KaishoHzFstRiLe" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:09871-KaishoHzFstRiLe" kvg:element="顱">
+	<g id="kvg:09871-KaishoHzFstRiLe-g1" kvg:element="盧" kvg:position="left">
+		<g id="kvg:09871-KaishoHzFstRiLe-g2" kvg:element="虍" kvg:position="tare">
+			<path id="kvg:09871-KaishoHzFstRiLe-s1" kvg:type="㇑" d="M36.13,16.97c4.02-0.75,9.78-1.71,13.85-2.3c1.34-0.19,2.17,0.18,2.84,0.36"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s2" kvg:type="㇐" d="M33.94,9.58c0.65,0.88,1.15,1.92,1.15,4.85c0,5.7-0.01,6.46-0.01,11.25"/>
+			<g id="kvg:09871-KaishoHzFstRiLe-g3" kvg:element="丿" kvg:radical="nelson">
+				<path id="kvg:09871-KaishoHzFstRiLe-s3" kvg:type="㇒" d="M19.08,28.85c8.79-1.95,25.74-4.36,33.27-4.52c7.93-0.17,3.16,3.67-0.14,6.03"/>
+			</g>
+			<path id="kvg:09871-KaishoHzFstRiLe-s4" kvg:type="㇖" d="M17.91,26.97c0.59,1.03,1.47,3.61,1.48,5.62C19.5,57,19.75,74,8.7,93.42"/>
+			<g id="kvg:09871-KaishoHzFstRiLe-g4" kvg:element="七">
+				<g id="kvg:09871-KaishoHzFstRiLe-g5" kvg:element="一">
+					<path id="kvg:09871-KaishoHzFstRiLe-s5" kvg:type="㇐" d="M22.59,37.73c0.57,0.35,1.97,0.41,2.55,0.35c5.71-0.54,15.42-3,21.59-3.87c0.95-0.13,1.52,0.17,2,0.35"/>
+				</g>
+				<path id="kvg:09871-KaishoHzFstRiLe-s6" kvg:type="㇟a" d="M35.18,28.75c0.36,0.4,0.84,1.96,0.84,2.52c0,4.41-0.07,4.11-0.07,6.08c0,5.86,2.01,5.42,7.19,5.42c1.93,0,6.72-0.45,8.38-1.24"/>
+			</g>
+		</g>
+		<g id="kvg:09871-KaishoHzFstRiLe-g6" kvg:element="田">
+			<path id="kvg:09871-KaishoHzFstRiLe-s7" kvg:type="㇑" d="M26.23,50.53c0.18,0.36,0.51,1.57,0.6,2.01c0.78,3.64,1.48,9.3,1.95,16.01"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s8" kvg:type="㇕a" d="M27.38,51.57c7.52-1.07,19.48-2.9,24.13-2.79c1.13,0.03,1.82,1.24,1.82,2.38c0,3.61-1.47,8.94-2.68,15.63"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s9" kvg:type="㇑a" d="M38.41,51.02c0.85,0.73,1.16,1.27,1.16,1.91c-0.02,4.22,0.11,11.06,0.11,12.59"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s10" kvg:type="㇐a" d="M28.49,58.96c5.28-0.45,10.55-1.06,15.82-1.57c0.64-0.06,1.26-0.12,1.85-0.18"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s11" kvg:type="㇐a" d="M29.1,67.12c4.47,0,15.1-1.78,21.27-1.88"/>
+		</g>
+		<g id="kvg:09871-KaishoHzFstRiLe-g7" kvg:element="皿">
+			<path id="kvg:09871-KaishoHzFstRiLe-s12" kvg:type="㇑a" d="M25.23,75.12c0.34,0.76,0.79,1.58,0.87,2.23c0.58,5.13,0.33,10.18,0.86,16.97"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s13" kvg:type="㇕b" d="M26.37,76.73c6.18-1.06,23.14-4.13,25.38-3.99c0.97,0.06,1.54,0.19,1.41,2.21c-0.19,2.98-1.13,9.36-1.85,13.37"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s14" kvg:type="㇑a" d="M34.71,76.18c0.14,0.49,0.35,0.89,0.35,1.51c0,4.37,0.64,10.2,0.64,14.21"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s15" kvg:type="㇑a" d="M42.8,75.09c0.26,0.58,0.44,1.58,0.47,2.34c0.23,5.07-0.03,9-0.19,12.68"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s16" kvg:type="㇐" d="M17.77,94.97c0.85,1.23,2.41,1.43,3.26,1.23c8.85-2.06,20.97-5.95,36.34-9.4"/>
+		</g>
+	</g>
+	<g id="kvg:09871-KaishoHzFstRiLe-g8" kvg:element="頁" kvg:position="right" kvg:radical="tradit">
+		<g id="kvg:09871-KaishoHzFstRiLe-g9" kvg:position="top">
+			<path id="kvg:09871-KaishoHzFstRiLe-s17" kvg:type="㇐" d="M58.45,17.85c1,0.5,2.84,0.57,3.85,0.5c8.3-0.58,24.13-2.58,30.59-2.82c1.67-0.06,2.68,0.24,3.51,0.49"/>
+			<path id="kvg:09871-KaishoHzFstRiLe-s18" kvg:type="㇒" d="M74.73,20.68c0.01,0.26,0.02,0.66-0.01,1.03c-0.21,2.17-2.27,6.93-3.9,9.84"/>
+		</g>
+		<g id="kvg:09871-KaishoHzFstRiLe-g10" kvg:element="貝" kvg:position="bottom">
+			<g id="kvg:09871-KaishoHzFstRiLe-g11" kvg:element="目" kvg:position="top">
+				<path id="kvg:09871-KaishoHzFstRiLe-s19" kvg:type="㇑" d="M61.66,32.8c0.45,1.08,1.11,1.88,1.11,3.32c0,1.44-0.65,41.34-0.5,42.78"/>
+				<path id="kvg:09871-KaishoHzFstRiLe-s20" kvg:type="㇕a" d="M63.53,34.23c2.56-0.18,22.74-3.36,25.08-3.58c1.94-0.18,3.48,1.99,3.31,3.32c-0.21,1.69-0.9,41.25-0.9,42.33"/>
+				<path id="kvg:09871-KaishoHzFstRiLe-s21" kvg:type="㇐a" d="M63.49,47.32c4.28,0,8.65-0.77,12.89-1.26c1.41-0.16,2.83-0.33,4.22-0.49"/>
+				<path id="kvg:09871-KaishoHzFstRiLe-s22" kvg:type="㇐a" d="M63.69,60.44c4.6-0.24,9.19-0.62,13.78-1.02c1.12-0.1,2.22-0.19,3.3-0.29"/>
+				<path id="kvg:09871-KaishoHzFstRiLe-s23" kvg:type="㇐a" d="M62.86,76.29c5.9-1.07,20.51-2,27.96-2.54"/>
+			</g>
+			<g id="kvg:09871-KaishoHzFstRiLe-g12" kvg:position="bottom">
+				<path id="kvg:09871-KaishoHzFstRiLe-s24" kvg:type="㇒" d="M70.18,80.98c0.38,1.38,0.75,1.75,0,2.75c-2.29,3.02-10.39,10.45-14.96,14.02"/>
+				<path id="kvg:09871-KaishoHzFstRiLe-s25" kvg:type="㇔" d="M82.57,81.62C88.27,85.95,95,93.8,96.55,97.58"/>
+			</g>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_09871-KaishoHzFstRiLe" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 39.50 13.50)">1</text>
+	<text transform="matrix(1 0 0 1 26.50 9.63)">2</text>
+	<text transform="matrix(1 0 0 1 19.25 24.50)">3</text>
+	<text transform="matrix(1 0 0 1 12.50 34.50)">4</text>
+	<text transform="matrix(1 0 0 1 23.50 35.50)">5</text>
+	<text transform="matrix(1 0 0 1 38.50 31.25)">6</text>
+	<text transform="matrix(1 0 0 1 22.50 59.50)">7</text>
+	<text transform="matrix(1 0 0 1 29.50 48.00)">8</text>
+	<text transform="matrix(1 0 0 1 42.50 55.50)">9</text>
+	<text transform="matrix(1 0 0 1 30.25 57.50)">10</text>
+	<text transform="matrix(1 0 0 1 31.50 64.50)">11</text>
+	<text transform="matrix(1 0 0 1 17.50 81.80)">12</text>
+	<text transform="matrix(1 0 0 1 29.25 73.50)">13</text>
+	<text transform="matrix(1 0 0 1 27.25 83.65)">14</text>
+	<text transform="matrix(1 0 0 1 36.50 82.58)">15</text>
+	<text transform="matrix(1 0 0 1 15.50 91.50)">16</text>
+	<text transform="matrix(1 0 0 1 56.98 14.50)">17</text>
+	<text transform="matrix(1 0 0 1 64.50 25.50)">18</text>
+	<text transform="matrix(1 0 0 1 51.94 40.85)">19</text>
+	<text transform="matrix(1 0 0 1 61.50 30.50)">20</text>
+	<text transform="matrix(1 0 0 1 66.50 43.85)">21</text>
+	<text transform="matrix(1 0 0 1 66.50 56.50)">22</text>
+	<text transform="matrix(1 0 0 1 66.50 71.50)">23</text>
+	<text transform="matrix(1 0 0 1 58.50 85.50)">24</text>
+	<text transform="matrix(1 0 0 1 76.06 88.50)">25</text>
+</g>
+</svg>

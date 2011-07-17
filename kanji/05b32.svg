@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons 
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+This file has been generated on 2011-07-17, using the latest KanjiVG data
+to this date.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_05b32" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:05b32" kvg:element="嬲">
+	<g id="kvg:05b32-g1" kvg:element="男" kvg:position="right">
+		<g id="kvg:05b32-g2" kvg:element="田" kvg:position="top" kvg:radical="nelson">
+			<path id="kvg:05b32-s1" kvg:type="㇑" d="M13.81,17.77c0.33,0.88,0.97,1.97,1.05,2.85c0.45,5.08,2.43,14.07,2.9,23.53"/>
+			<path id="kvg:05b32-s2" kvg:type="㇕a" d="M14.71,19.04c6.16-0.91,18.83-2.63,23.04-2.77c1.74-0.06,2.62,1.3,2.52,2.68c-0.35,5.04-1.44,13.69-2.49,22.24"/>
+			<path id="kvg:05b32-s3" kvg:type="㇑a" d="M27.01,19.28c0.22,0.69,0.45,1.46,0.45,2.24c0.01,7.85,0.09,17.73,0.09,20"/>
+			<path id="kvg:05b32-s4" kvg:type="㇐a" d="M15.98,30.1c2.06-0.25,20.72-2.39,22.42-2.39"/>
+			<path id="kvg:05b32-s5" kvg:type="㇐a" d="M18.1,42.81c8.4-1.31,12.71-1.8,19.73-2.43"/>
+		</g>
+		<g id="kvg:05b32-g3" kvg:element="力" kvg:position="bottom">
+			<path id="kvg:05b32-s6" kvg:type="㇆" d="M12.2,58.28c0.82,0.44,2.85,0.84,3.57,0.74c5.49-0.77,13.74-2.52,21.18-4.38c2.06-0.52,2.69,1.32,2.57,3.37c-0.31,5.42-4.68,26.09-7.6,30.63c-3.92,6.11-6.17,3.58-7.46,0.65"/>
+			<path id="kvg:05b32-s7" kvg:type="㇒" d="M26.67,44.86c0.05,1.12,0.11,2.89-0.09,4.49c-1.52,11.85-6.21,30.79-16.19,42.99"/>
+		</g>
+	</g>
+	<g id="kvg:05b32-g4" kvg:element="娚" kvg:position="left">
+		<g id="kvg:05b32-g5" kvg:element="女" kvg:variant="true" kvg:position="left" kvg:radical="tradit">
+			<path id="kvg:05b32-s8" kvg:type="㇛" d="M55.09,14.87c0.31,1.06,0.86,2.8,0.7,4.34c-0.78,7.55-6.39,34.92-9.81,43.76c-0.7,1.81,0.32,2.52,0.7,2.69c7.42,3.29,13.75,9.33,17.9,17.13"/>
+			<path id="kvg:05b32-s9" kvg:type="㇒" d="M63.77,33.39c0.07,1.28,0.11,4.38-0.13,6.24C61.66,54.61,55.97,75.85,41.86,87"/>
+			<path id="kvg:05b32-s10" kvg:type="㇀/㇐" d="M43,41.34c0.53,0.7,1.24,1.2,2.67,1.03c1.53-0.18,15.18-3.22,21.51-4.99"/>
+		</g>
+		<g id="kvg:05b32-g6" kvg:element="男" kvg:position="right">
+			<g id="kvg:05b32-g7" kvg:element="田" kvg:position="top">
+				<path id="kvg:05b32-s11" kvg:type="㇑" d="M69.31,16.27c0.33,0.88,0.97,1.97,1.05,2.85c0.45,5.08,2.43,14.07,2.9,23.53"/>
+				<path id="kvg:05b32-s12" kvg:type="㇕a" d="M70.21,17.54c6.16-0.91,19.33-2.63,23.54-2.77c1.74-0.06,2.62,1.3,2.52,2.68c-0.35,5.04-1.94,15.19-2.99,23.74"/>
+				<path id="kvg:05b32-s13" kvg:type="㇑a" d="M82.51,17.78c0.22,0.69,0.45,1.46,0.45,2.24c0.01,7.85,0.09,17.73,0.09,20"/>
+				<path id="kvg:05b32-s14" kvg:type="㇐a" d="M71.48,28.6c2.06-0.25,20.72-2.39,22.42-2.39"/>
+				<path id="kvg:05b32-s15" kvg:type="㇐a" d="M73.6,41.31C82,40,86.3,39.51,93.33,38.88"/>
+			</g>
+			<g id="kvg:05b32-g8" kvg:element="力" kvg:position="bottom">
+				<path id="kvg:05b32-s16" kvg:type="㇆" d="M67.2,56.28c0.82,0.44,2.85,0.84,3.57,0.74c5.49-0.77,15.74-1.52,23.18-3.38c2.06-0.52,2.69,1.32,2.58,3.37c-0.31,5.42-4.27,25.99-7.6,33.13c-3.07,6.58-6.17,3.58-7.46,0.65"/>
+				<path id="kvg:05b32-s17" kvg:type="㇒" d="M82.16,44.86c0.05,1.12,0.12,2.91-0.1,4.52c-1.64,11.91-6.69,30.95-17.42,43.22"/>
+			</g>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_05b32" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 8.25 24.50)">1</text>
+	<text transform="matrix(1 0 0 1 16.50 15.50)">2</text>
+	<text transform="matrix(1 0 0 1 30.50 24.50)">3</text>
+	<text transform="matrix(1 0 0 1 19.50 27.50)">4</text>
+	<text transform="matrix(1 0 0 1 20.50 39.50)">5</text>
+	<text transform="matrix(1 0 0 1 4.50 58.50)">6</text>
+	<text transform="matrix(1 0 0 1 19.50 51.50)">7</text>
+	<text transform="matrix(1 0 0 1 46.50 15.50)">8</text>
+	<text transform="matrix(1 0 0 1 61.25 29.50)">9</text>
+	<text transform="matrix(1 0 0 1 41.50 38.50)">10</text>
+	<text transform="matrix(1 0 0 1 62.50 22.88)">11</text>
+	<text transform="matrix(1 0 0 1 70.25 14.50)">12</text>
+	<text transform="matrix(1 0 0 1 84.50 22.50)">13</text>
+	<text transform="matrix(1 0 0 1 73.50 26.50)">14</text>
+	<text transform="matrix(1 0 0 1 74.50 38.50)">15</text>
+	<text transform="matrix(1 0 0 1 64.50 53.50)">16</text>
+	<text transform="matrix(1 0 0 1 71.50 49.50)">17</text>
+</g>
+</svg>
