@@ -22,7 +22,8 @@
 import os, datetime, re
 from kanjivg import licenseString
 
-__datadir = "kanjivg"
+__datadir = "kanji"
+__idMatchString = "<g id=\"kvg:StrokePaths_"
 
 if __name__ == "__main__":
 	allfiles = os.listdir(__datadir)
@@ -42,9 +43,9 @@ if __name__ == "__main__":
 	for f in files:
 		data = open(os.path.join(__datadir, f)).read()
 		data = data[data.find("<svg "):]
-		kidpos = data.find("g id=\"") + 6
-		kid = data[kidpos:kidpos+5]
-		data = "<kanji id=\"%s\">" % (kid,) + data[data.find("\n"):-7] + "</kanji>\n"
+		data = data[data.find(__idMatchString) + len(__idMatchString):]
+		kidend = data.find("\"")
+		data = "<kanji id=\"kvg:kanji_%s\">" % (data[:kidend],) + data[data.find("\n"):data.find('<g id="kvg:StrokeNumbers_') - 5] + "</kanji>\n"
 		out.write(data)
 	out.write("</kanjivg>\n")
 	out.close()

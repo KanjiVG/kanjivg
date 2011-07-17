@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 #
 #  Copyright (C) 2009  Alexandre Courbot
@@ -27,21 +27,21 @@ def createSVG(out, kanji):
 	out.write("\n-->\n")
 	out.write("""<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
 <!ATTLIST g
-xmlns:kanjivg CDATA #FIXED "http://kanjivg.tagaini.net"
-kanjivg:element CDATA #IMPLIED
-kanjivg:variant CDATA #IMPLIED
-kanjivg:partial CDATA #IMPLIED
-kanjivg:original CDATA #IMPLIED
-kanjivg:part CDATA #IMPLIED
-kanjivg:number CDATA #IMPLIED
-kanjivg:tradForm CDATA #IMPLIED
-kanjivg:radicalForm CDATA #IMPLIED
-kanjivg:position CDATA #IMPLIED
-kanjivg:radical CDATA #IMPLIED
-kanjivg:phon CDATA #IMPLIED >
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
 <!ATTLIST path
-xmlns:kanjivg CDATA #FIXED "http://kanjivg.tagaini.net"
-kanjivg:type CDATA #IMPLIED >
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 """)
@@ -54,10 +54,10 @@ kanjivg:type CDATA #IMPLIED >
       #<path d="M 0 0 L 10 5 L 0 10 z" />
     #</marker>
 #</defs>
-	out.write("""<g id="StrokePaths" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">\n""")
+	out.write("""<g id="kvg:StrokePaths_%s" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">\n""" % (kanji.kId(),))
 	kanji.outputStrokes(out)
 	out.write("</g>\n");
-	out.write("""<g id="StrokeNumbers" style="font-size:8;fill:#808080">\n""")
+	out.write("""<g id="kvg:StrokeNumbers_%s" style="font-size:8;fill:#808080">\n""" % (kanji.kId(),))
 	kanji.outputStrokesNumbers(out)
 	out.write("</g>\n")
 	out.write("</svg>\n")
@@ -94,8 +94,8 @@ class KanjiStrokeHandler(BasicHandler):
 			elif attrs["id"] == "StrokePaths": self.step = 2
 
 if __name__ == "__main__":
-	os.mkdir("kanjivg")
-	os.mkdir("kanjivgMismatch")
+	os.mkdir("kanji")
+	os.mkdir("kanji_mismatch")
 	files = os.listdir("XML")
 	handled = set()
 	metComponents = set()
@@ -142,8 +142,8 @@ if __name__ == "__main__":
 			s.svg = svg[i]
 			kanji.strokes.childs.append(s)
 
-		if len(desc) != len(svg): dst = "kanjivgMismatch"
-		else: dst = "kanjivg"
+		if len(desc) != len(svg): dst = "kanji_mismatch"
+		else: dst = "kanji"
 		out = codecs.open("%s/%s.svg" % (dst, kanji.kId()), "w", "utf-8")
 		createSVG(out, kanji)
 
@@ -170,5 +170,5 @@ if __name__ == "__main__":
 			stroke = Stroke(kanji.strokes)
 			stroke.svg = s
 			kanji.strokes.childs.append(stroke)
-		out = codecs.open("kanjivg/%s.svg" % (kanji.kId(),), "w", "utf-8")
+		out = codecs.open("kanji/%s.svg" % (kanji.kId(),), "w", "utf-8")
 		createSVG(out, kanji)

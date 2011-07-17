@@ -112,29 +112,29 @@ class StrokeGr:
 		if groupCpt[0] != 0: gid += "-g" + str(groupCpt[0])
 		groupCpt[0] += 1
 
-		idString = ' id="%s"' % (gid)
+		idString = ' id="kvg:%s"' % (gid)
 		eltString = ""
-		if self.element: eltString = ' kanjivg:element="%s"' % (self.element)
+		if self.element: eltString = ' kvg:element="%s"' % (self.element)
 		variantString = ""
-		if self.variant: variantString = ' kanjivg:variant="true"'
+		if self.variant: variantString = ' kvg:variant="true"'
 		partialString = ""
-		if self.partial: partialString = ' kanjivg:partial="true"'
+		if self.partial: partialString = ' kvg:partial="true"'
 		origString = ""
-		if self.original: origString = ' kanjivg:original="%s"' % (self.original)
+		if self.original: origString = ' kvg:original="%s"' % (self.original)
 		partString = ""
-		if self.part: partString = ' kanjivg:part="%d"' % (self.part)
+		if self.part: partString = ' kvg:part="%d"' % (self.part)
 		numberString = ""
-		if self.number: numberString = ' kanjivg:number="%d"' % (self.number)
+		if self.number: numberString = ' kvg:number="%d"' % (self.number)
 		tradFormString = ""
-		if self.tradForm: tradFormString = ' kanjivg:tradForm="true"'
+		if self.tradForm: tradFormString = ' kvg:tradForm="true"'
 		radicalFormString = ""
-		if self.radicalForm: radicalFormString = ' kanjivg:radicalForm="true"'
+		if self.radicalForm: radicalFormString = ' kvg:radicalForm="true"'
 		posString = ""
-		if self.position: posString = ' kanjivg:position="%s"' % (self.position)
+		if self.position: posString = ' kvg:position="%s"' % (self.position)
 		radString = ""
-		if self.radical: radString = ' kanjivg:radical="%s"' % (self.radical)
+		if self.radical: radString = ' kvg:radical="%s"' % (self.radical)
 		phonString = ""
-		if self.phon: phonString = ' kanjivg:phon="%s"' % (self.phon)
+		if self.phon: phonString = ' kvg:phon="%s"' % (self.phon)
 		out.write("\t" * indent + '<g%s%s%s%s%s%s%s%s%s%s%s%s>\n' % (idString, eltString, partString, numberString, variantString, origString, partialString, tradFormString, radicalFormString, posString, radString, phonString))
 
 		for child in self.childs:
@@ -216,8 +216,11 @@ class Stroke:
 	def toSVG(self, out, rootId, groupCpt, strCpt, indent = 0):
 		pid = rootId + "-s" + str(strCpt[0])
 		strCpt[0] += 1
-		if not self.svg: out.write("\t" * indent + '<path id="%s" d="" kanjivg:type="%s"/>\n' % (pid, self.stype))
-		else: out.write("\t" * indent + '<path id="%s" kanjivg:type="%s" d="%s"/>\n' % (pid, self.stype, self.svg))
+		s = "\t" * indent + '<path id="kvg:%s"' % (pid,)
+		if self.stype: s += ' kvg:type="%s"' % (self.stype,)
+		if self.svg: s += ' d="%s"' % (self.svg)
+		s += '/>\n'
+		out.write(s)
 
 class KanjisHandler(BasicHandler):
 	"""XML handler for parsing kanji files. It can handle single-kanji files or aggregation files. After parsing, the kanjis are accessible through the kanjis member, indexed by their svg file name."""
@@ -310,7 +313,7 @@ class SVGHandler(BasicHandler):
 	def handle_start_g(self, attrs):
 		# Special case for handling the root
 		if len(self.groups) == 0:
-			id = hex(realord(attrs["kanjivg:element"]))[2:]
+			id = hex(realord(attrs["kvg:element"]))[2:]
 			self.currentKanji = Kanji(id)
 			self.kanjis[id] = self.currentKanji
 			self.compCpt = {}
@@ -319,17 +322,17 @@ class SVGHandler(BasicHandler):
 	
 		group = StrokeGr(parent)
 		# Now parse group attributes
-		if attrs.has_key("kanjivg:element"): group.element = unicode(attrs["kanjivg:element"])
-		if attrs.has_key("kanjivg:variant"): group.variant = str(attrs["kanjivg:variant"])
-		if attrs.has_key("kanjivg:partial"): group.partial = str(attrs["kanjivg:partial"])
-		if attrs.has_key("kanjivg:original"): group.original = unicode(attrs["kanjivg:original"])
-		if attrs.has_key("kanjivg:part"): group.part = int(attrs["kanjivg:part"])
-		if attrs.has_key("kanjivg:number"): group.number = int(attrs["kanjivg:number"])
-		if attrs.has_key("kanjivg:tradForm") and str(attrs["kanjivg:tradForm"]) == "true": group.tradForm = True
-		if attrs.has_key("kanjivg:radicalForm") and str(attrs["kanjivg:radicalForm"]) == "true": group.radicalForm = True
-		if attrs.has_key("kanjivg:position"): group.position = unicode(attrs["kanjivg:position"])
-		if attrs.has_key("kanjivg:radical"): group.radical = unicode(attrs["kanjivg:radical"])
-		if attrs.has_key("kanjivg:phon"): group.phon = unicode(attrs["kanjivg:phon"])
+		if attrs.has_key("kvg:element"): group.element = unicode(attrs["kvg:element"])
+		if attrs.has_key("kvg:variant"): group.variant = str(attrs["kvg:variant"])
+		if attrs.has_key("kvg:partial"): group.partial = str(attrs["kvg:partial"])
+		if attrs.has_key("kvg:original"): group.original = unicode(attrs["kvg:original"])
+		if attrs.has_key("kvg:part"): group.part = int(attrs["kvg:part"])
+		if attrs.has_key("kvg:number"): group.number = int(attrs["kvg:number"])
+		if attrs.has_key("kvg:tradForm") and str(attrs["kvg:tradForm"]) == "true": group.tradForm = True
+		if attrs.has_key("kvg:radicalForm") and str(attrs["kvg:radicalForm"]) == "true": group.radicalForm = True
+		if attrs.has_key("kvg:position"): group.position = unicode(attrs["kvg:position"])
+		if attrs.has_key("kvg:radical"): group.radical = unicode(attrs["kvg:radical"])
+		if attrs.has_key("kvg:phon"): group.phon = unicode(attrs["kvg:phon"])
 
 		self.groups.append(group)
 
@@ -373,6 +376,6 @@ class SVGHandler(BasicHandler):
 		if len(self.groups) == 0: parent = None
 		else: parent = self.groups[-1]
 		stroke = Stroke(parent)
-		stroke.stype = unicode(attrs["kanjivg:type"])
+		stroke.stype = unicode(attrs["kvg:type"])
 		if attrs.has_key("d"): stroke.svg = unicode(attrs["d"])
 		self.groups[-1].childs.append(stroke)
