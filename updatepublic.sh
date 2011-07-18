@@ -1,9 +1,9 @@
 #!/bin/sh
-rm -Rf kanjivg kanjivgMismatch
-./mergexml.py
-outFile="kanjivg-ng-`date +\"%Y%m%d\"`.zip"
-zip -r $outFile kanjivg
-scp $outFile gnurou@gnurou.org:/srv/http/kanjivg/upload/Main/
-#scp Main.StrokeCountMismatch Main.MissingKanji gnurou@gnurou.org:/srv/http/kanjivg/wiki.d
-#ssh gnurou@gnurou.org "cd /srv/http/kanjivg ; rm -Rf currentdata ; tar xfz /home/gnurou/currentdata.tar.gz ; rm /home/gnurou/currentdata.tar.gz ; cd upload/Main ; ln -sf $outFile.gz kanjivg-latest.xml.gz"
-
+d=`date +%Y%m%d`
+outFileOne="kanjivg-$d.xml.gz"
+outFileAll="kanjivg-$d-all.zip"
+zip -r $outFileAll kanji
+python createsinglerelease.py
+gzip -c kanjivg.xml >$outFileOne
+scp $outFileOne $outFileAll gnurou@gnurou.org:/srv/http/kanjivg/upload/Main/
+ssh gnurou@gnurou.org "ln -sf $outFileOne /srv/http/kanjivg/upload/Main/kanjivg-latest.xml.gz"

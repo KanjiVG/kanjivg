@@ -1,6 +1,5 @@
 *~
 kanjivg.xml
 *.pyc
-kanjivg-????????.xml.gz
-kanjivg
-kanjivgMismatch
+kanjivg-*xml.gz
+kanjivg-*.zip
