@@ -1,92 +1,3 @@
-{31C0} -0.543684763991467
-{31C0}/{31C0} -0.553218489469142
-{31C0}/{31CF} -0.421952964680962
-{31C0}/{31D0} -0.310046461886134
-{31C0}/{31D1} -0.421839316091489
-{31C2} 1.0501733344562
-{31C4} 0.744499306623121
-{31C4}a 0.427943685602156
-{31C5} 0.91230764600402
-{31C6} 0.994521544903239
-{31C6}/{31DA} 1.28619742088091
-{31C6}a 1.06794424080886
-{31C6}v 0.515319669988858
-{31C7} 1.51348825244851
-{31C7}/{31C6} 1.08149659106138
-{31C7}a 1.24309216509612
-{31C8} 0.587560106605309
-{31C8}a 0.678797621290546
-{31C8}b 0.516208983312828
-{31C9} 1.27806964398374
-{31CB} 1.39609216403168
-{31CC} 1.01641188530174
-{31CF} 0.700283997835479
-{31CF}/{31D4} 0.716179263926968
-{31CF}a 0.144734754627979
-{31D0} -0.0513914805394358
-{31D0}/{31D1}a -0.0721014955468482
-{31D0}/{31D2} 1.56122188659642
-{31D0}/{31D4} 0.0995258148474801
-{31D0}a -0.083235184374636
-{31D0}b -0.0839849415741447
-{31D0}b/{31D4} -0.118138044856639
-{31D0}c 0.0319297003440738
-{31D0}c/{31C0} -0.137489021337044
-{31D0}c/{31D4} -0.126750440716436
-{31D1} 1.46873197984936
-{31D1}/{31D0} 1.38531964353524
-{31D1}/{31D2} 1.54214768077213
-{31D1}/{31D4} 1.47719456301409
-{31D1}/{31D9} 1.51395770076874
-{31D1}/{31DA} 1.53577966508798
-{31D1}a 1.50269302921814
-{31D1}a/{31D2} 1.45649788830363
-{31D1}a/{31DF} 1.60083569885777
-{31D2} 2.12951958059952
-{31D2}/{31C0} 2.33468326491749
-{31D2}/{31D0} 2.6964691233509
-{31D2}/{31D1} 1.79703042808594
-{31D2}/{31D4} 2.16830725374933
-{31D2}/{31DA} 2.25708217226555
-{31D4} 1.02090953580263
-{31D4}/{31C0} 0.526844620585839
-{31D4}/{31CF} 0.810201163556929
-{31D4}/{31D0} 0.723975674196262
-{31D4}/{31D1} 1.24391611833285
-{31D4}/{31D2} 0.692446454388032
-{31D4}a 0.408573472028827
-{31D5} 0.594729727016955
-{31D5}/{31C6} 0.867205012154441
-{31D5}/{31D1} 0.320795444849439
-{31D5}a 0.714821049385724
-{31D5}a/{31C6} 0.55316723618845
-{31D5}b 0.563534447430368
-{31D5}b/{31C6} 0.802071052510811
-{31D5}c 0.441110549852872
-{31D5}v 1.64514884301636
-{31D5}va 1.52764352339708
-{31D6} 0.489801844552904
-{31D6}a 0.265327899067704
-{31D6}b 0.0884201510951113
-{31D6}b/{31C6} 0.0617316868327469
-{31D7} 0.729504033100866
-{31D7}a 0.569040272141953
-{31D9} 0.919585692956569
-{31D9}/{31CF} 0.703268735548215
-{31D9}/{31D1} 0.341968387429098
-{31D9}/{31DF} 0.934163741596808
-{31DA} 1.69559176421704
-{31DB} 1.2987634843431
-{31DC} 1.32120937971319
-{31DE} 0.90130843146796
-{31DF} 0.745356299813713
-{31DF}/{31C8} 1.09019808823453
-{31DF}/{31CF} 0.581433262473961
-{31DF}/{31D1} 0.762633698801517
-{31DF}a 0.925539532867733
-{31DF}a/{31CF} 0.594443304048129
-{31DF}b 0.35961294396525
-{FF16} -0.234818248843887
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/04fad.svg:64: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0622e.svg:47: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0622e.svg:52: more than 1 radian from average.
@@ -97,14 +8,10 @@
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/06ac2.svg:52: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/06ac2.svg:55: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/06e43.svg:52: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07274.svg:46: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07cf4.svg:60: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07cf4.svg:63: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07e66.svg:75: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07faf.svg:48: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/087bd.svg:53: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08831.svg:69: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08831.svg:83: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08fa3.svg:56: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08fae.svg:56: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08faf.svg:56: more than 1 radian from average.
@@ -119,7 +26,6 @@
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/081e7.svg:43: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0880d.svg:75: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0634c.svg:60: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/09ae2.svg:67: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07648.svg:72: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/03006.svg:43: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/05e11.svg:50: more than 1 radian from average.
@@ -177,7 +83,6 @@
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07063.svg:59: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07063.svg:60: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07063.svg:61: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07274.svg:44: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0737b.svg:50: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0737b.svg:58: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0737b.svg:77: more than 1 radian from average.
@@ -220,7 +125,6 @@
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08766.svg:59: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/087f6.svg:78: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/088c3.svg:64: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/088d8.svg:43: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0897e.svg:48: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08983.svg:49: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08988.svg:49: more than 1 radian from average.
@@ -295,18 +199,12 @@
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/079b3.svg:63: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07a6b.svg:68: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07a70.svg:63: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07e66.svg:69: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08831.svg:48: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08831.svg:63: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08831.svg:77: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08b93.svg:63: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08c3a.svg:53: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/091c0.svg:67: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/09266.svg:57: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/096bb.svg:50: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/09a64.svg:66: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/09ae2.svg:45: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/09ae2.svg:47: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/05b45.svg:67: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/061f4.svg:62: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/061fa.svg:67: more than 1 radian from average.
@@ -329,9 +227,7 @@
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/066e9.svg:56: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/06b43.svg:49: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/06b54.svg:66: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/09ae2.svg:68: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/076de.svg:76: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/02e97.svg:43: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/02ea4.svg:45: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/050d6.svg:60: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/05118.svg:60: more than 1 radian from average.
@@ -426,7 +322,6 @@
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/085ab.svg:72: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08602.svg:63: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/086fb.svg:59: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/088d8.svg:46: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08936.svg:60: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08988.svg:55: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/08c8a.svg:57: more than 1 radian from average.
@@ -462,8 +357,3 @@
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/0880d.svg:81: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/05bc7.svg:46: more than 1 radian from average.
 /usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/09d2a.svg:47: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/088d8.svg:62: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/05ae3.svg:61: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07109.svg:57: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/07bf6.svg:68: more than 1 radian from average.
-/usr/home/ben/projects/kanjivg-data/kanjivg/kanjivg/09ae2.svg:70: more than 1 radian from average.
