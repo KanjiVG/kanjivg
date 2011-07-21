@@ -21,7 +21,7 @@ my %angles;
 # List of errors which are known to come from bad information about
 # stroke types.
 
-my @known_bad_elements = qw/冬 羽/;
+my @known_bad_elements = qw/冬 羽 尽 辛 手 羊 冫 半/;
 
 my %known_bad_elements = map {$_ => 1} @known_bad_elements;
 
