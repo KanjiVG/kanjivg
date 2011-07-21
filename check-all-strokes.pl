@@ -4,6 +4,7 @@ use strict;
 use XML::Parser;
 use FindBin;
 use Image::SVG::Path 'extract_path_info';
+use utf8;
 my $dir = "$FindBin::Bin/kanjivg";
 
 # The grep only allows the "normal" files from the complete list of
@@ -17,6 +18,17 @@ my %global;
 
 my %angles;
 
+# List of errors which are known to come from bad information about
+# stroke types.
+
+my @known_bad_elements = qw/冬 羽 尽 辛 手 羊 冫 半/;
+
+my %known_bad_elements = map {$_ => 1} @known_bad_elements;
+
+#print keys %known_bad_elements;
+
+$global{known_bad_elements} = \%known_bad_elements;
+
 my $parser = XML::Parser->new (
     Handlers => {
         Start => sub { &{handle_start} (\%global, @_) },
@@ -27,7 +39,9 @@ my $parser = XML::Parser->new (
 #$global{parser} = $parser;
 
 for my $file (@files) {
+#for my $file (qw!kanjivg/087bd.svg!) {
     $global{file} = $file;
+    $global{bad_element} = undef;
     $parser->parsefile ($file);
 }
 
@@ -50,7 +64,12 @@ for my $t (sort keys %angles) {
         $n++;
     }
     $average{$t} = $total_angle / $n;
-    print "$t $average{$t}\n";
+
+# The following line prints out the "type" field and the average angle
+# in radians.
+
+#    print "$t $average{$t}\n";
+
 }
 
 my $limit = 1.0;
@@ -73,6 +92,10 @@ exit;
 sub handle_start
 {
     my ($global_ref, $parser, $element, %attr) = @_;
+    if ($global_ref->{bad_element}) {
+        return;
+    }
+
     # Use the expat parser so we can use current_line.
     $global_ref->{parser} = $parser;
     if ($element eq 'path') {
@@ -81,6 +104,14 @@ sub handle_start
     elsif ($element eq 'g') {
         if ($attr{id} =~ /^([0-9a-f]+)$/) {
             $global_ref->{kanji_id} = $attr{id};
+        }
+        my $el = $attr{"kanjivg:element"};
+#        print "element $el\n";
+        if (defined $el) {
+            if ($global_ref->{known_bad_elements}->{$el}) {
+#                print "Known bad element $el in $global_ref->{file}.\n";
+                $global_ref->{bad_element} = 1;
+            }
         }
     }
 }
