@@ -23,7 +23,6 @@ def createSVG(out, kanji):
 	out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 	out.write("<!--\n")
 	out.write(licenseString)
-	out.write("\nThis file has been generated on %s, using the latest KanjiVG data\nto this date." % (datetime.date.today()))
 	out.write("\n-->\n")
 	out.write("""<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
 <!ATTLIST g
