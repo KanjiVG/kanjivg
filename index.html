@@ -1,82 +1,190 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset='utf-8'>
-
-  <title>Akeru/kanjivg @ GitHub</title>
-
-  <style type="text/css">
-    body {
-      margin-top: 1.0em;
-      background-color: #0d218e;
-      font-family: Helvetica, Arial, FreeSans, san-serif;
-      color: #ffffff;
-    }
-    #container {
-      margin: 0 auto;
-      width: 700px;
-    }
-    h1 { font-size: 3.8em; color: #f2de71; margin-bottom: 3px; }
-    h1 .small { font-size: 0.4em; }
-    h1 a { text-decoration: none }
-    h2 { font-size: 1.5em; color: #f2de71; }
-    h3 { text-align: center; color: #f2de71; }
-    a { color: #f2de71; }
-    .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
-    .download { float: right; }
-    pre { background: #000; color: #fff; padding: 15px;}
-    hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
-    .footer { text-align:center; padding-top:30px; font-style: italic; }
-  </style>
+	<meta charset="UTF-8">
+	<title>KVG Viewer - A simple viewer for KanjiVG</title>
+	<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+	<!--[if lt IE 9]>
+	<script type="application/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="http://twitter.github.com/bootstrap/1.4.0/bootstrap-modal.js"></script>
+	<script type="text/javascript" src="http://github.com/DmitryBaranovskiy/raphael/raw/master/raphael-min.js"></script>
+	<script type="text/javascript" src="kanjiviewer.js"></script>
+	<link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
+	<style type="text/css">
+		#kanjiViewer {
+			border: 1px solid #dcdcdc;
+			height: 500px;
+		}
+	</style>
+	<script type="application/javascript">
+		jQuery(document).ready(function () {
+			KanjiViewer.initialize(
+					"kanjiViewer",
+					jQuery('#strokeWidth').val(),
+					jQuery('#fontSize').val(),
+					jQuery('#zoomFactor').val(),
+					jQuery('#displayOrders:checked').val(),
+					jQuery('#colorGroups:checked').val(),
+					jQuery('#kanji').val()
+			);
+			jQuery('#kanjiViewerParams').submit(function () {
+				KanjiViewer.setFontSize(jQuery('#fontSize').val());
+				KanjiViewer.setZoom(jQuery('#zoomFactor').val());
+				KanjiViewer.setStrokeWidth(jQuery('#strokeWidth').val());
+				KanjiViewer.setStrokeOrdersVisible(jQuery('#displayOrders:checked').val());
+				KanjiViewer.setColorGroups(jQuery('#colorGroups:checked').val());
+				KanjiViewer.setKanji(jQuery('#kanji').val());
+				KanjiViewer.draw();
+				return false;
+			});
+			jQuery('#kanjiViewerParams').click(function () {
+				jQuery('#wrong-kanji').val(jQuery('#kanji').val());
+			});
+			jQuery('#error-reporting').submit(function () {
+				jQuery.ajax({
+					url:'https://api.github.com/repos/akeru/kvg-viewer/issues',
+					type:'POST',
+					dataType:'json',
+					data:{
+						"title":jQuery('#wrong-kanji').val() + " is incorrect",
+						"body":jQuery('#description').val()
+					},
+					xhrFields:{
+						withCredentials:true
+					},
+					success:function (data) {
+						alert('ok')
+					}
+				});
+				return false;
+			});
+		});
+	</script>
 </head>
-
 <body>
-  <a href="https://github.com/Akeru/kanjivg"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+<div class="container">
+	<div class="content">
+		<div class="page-header">
+			<h1>KVG Viewer
+				<small>A simple viewer for KanjiVG files</small>
+			</h1>
+		</div>
+		<div class="row">
+			<div class="span16">
+				<form id="kanjiViewerParams" action="#">
+					<fieldset>
+						<legend>Display options</legend>
+						<div class="clearfix">
+							<label for="kanji">Kanji</label>
 
-  <div id="container">
+							<div class="input">
+								<input type="text" value="" id="kanji">
+							</div>
+						</div>
+						<div class="clearfix">
+							<label for="strokeWidth">Stroke width</label>
 
-    <div class="download">
-      <a href="https://github.com/Akeru/kanjivg/zipball/master">
-        <img border="0" width="90" src="https://github.com/images/modules/download/zip.png"></a>
-      <a href="https://github.com/Akeru/kanjivg/tarball/master">
-        <img border="0" width="90" src="https://github.com/images/modules/download/tar.png"></a>
-    </div>
+							<div class="input">
+								<input type="text" value="3" id="strokeWidth">
+							</div>
+						</div>
+						<div class="clearfix">
+							<label for="fontSize">Font size</label>
 
-    <h1><a href="https://github.com/Akeru/kanjivg">kanjivg</a>
-      <span class="small">by <a href="https://github.com/Akeru">Akeru</a></span></h1>
+							<div class="input">
+								<input type="text" value="5" id="fontSize">
+							</div>
+						</div>
+						<div class="clearfix">
+							<label for="zoomFactor">Zoom percentage</label>
 
-    <div class="description">
-      
-    </div>
+							<div class="input">
+								<input type="text" value="100" id="zoomFactor">
+							</div>
+						</div>
 
-    
+						<div class="clearfix">
+							<label id="optionsCheckboxes">Options</label>
 
-    
+							<div class="input">
+								<ul class="inputs-list">
+									<li>
+										<label>
+											<input type="checkbox" name="displayOrders" id="displayOrders">
+											<span>Display stroke order</span>
+										</label>
+									</li>
+									<li>
+										<label>
+											<input type="checkbox" name="colorGroups" id="colorGroups">
+											<span>Colour groups instead of individual stroke</span>
+										</label>
+									</li>
+								</ul>
+								  <span class="help-block">
+									<strong>Note:</strong> Please redraw after changing options.
+								  </span>
+							</div>
+						</div>
+						<div class="actions">
+							<input type="submit" class="btn primary" value="Redraw">&nbsp;
+							<button type="reset" class="btn">Reset</button>
+							<button id="reporter-btn" data-controls-modal="modal-from-dom" data-backdrop="true" data-keyboard="true" class="btn danger">Report mistakes</button>
+						</div>
+					</fieldset>
+				</form>
+				<div id="kanjiViewer"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="modal-from-dom" class="modal hide fade">
+	<div class="modal-header">
+		<a href="#" class="close">&times;</a>
 
-    
+		<h3>Incorrect Kanji</h3>
+	</div>
+	<div class="modal-body">
+		<p>
+			Please report any incorrect or doubtful kanji on this page. If you are familiar with Git, you can get your changes processed quickly and easily by cloning the Github repository and filling in a merge request.
+		</p>
 
-    
+		<form id="error-reporting" action="#">
+			<fieldset>
+				<div class="clearfix">
+					<label for="wrong-kanji">Kanji</label>
 
-    
+					<div class="input">
+						<input type="text" value="" id="wrong-kanji">
+					</div>
+				</div>
+				<div class="clearfix">
+					<label for="reporter">Reporter</label>
 
-    
+					<div class="input">
+						<input type="text" value="" id="reporter">
+					</div>
+				</div>
+				<div class="clearfix">
+					<label for="description">Description</label>
 
-    <h2>Download</h2>
-    <p>
-      You can download this project in either
-      <a href="https://github.com/Akeru/kanjivg/zipball/master">zip</a> or
-      <a href="https://github.com/Akeru/kanjivg/tarball/master">tar formats.
-    </p>
-    <p>You can also clone the project with <a href="http://git-scm.com">Git</a>
-      by running:
-      <pre>$ git clone git://github.com/Akeru/kanjivg</pre>
-    </p>
-
-    <div class="footer">
-      get the source code on GitHub : <a href="https://github.com/Akeru/kanjivg">Akeru/kanjivg</a>
-    </div>
-
-  </div>
-
+					<div class="input">
+						<textarea class="large" id="description" name="description" rows="3"></textarea>
+						<span class="help-block">
+							Please describe what's wrong with the Kanji.
+						</span>
+					</div>
+				</div>
+				<div class="actions">
+					<input type="submit" class="btn primary" value="Submit">&nbsp;
+					<button type="reset" class="btn">Reset</button>
+				</div>
+			</fieldset>
+		</form>
+	</div>
+</div>
 </body>
 </html>
+        
