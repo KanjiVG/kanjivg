@@ -2,3 +2,26 @@ markdown: rdiscount
 title: KanjiVG
 url: http://kvg.nebuleux.be
 author: Ulrich Apel
+project-links:
+- text: Home
+  url: /index.html
+- text: Download
+  url: /download.html
+- text: Format
+  url: /format.html
+- text: Conventions
+  url: /conventions.html
+- text: Internationalization
+  url: /internationalization.html
+- text: Incorrect kanji
+  url: /incorrect-kanji.html
+- text: Issues
+  url: https://github.com/Gnurou/kanjivg/issues
+community-links:
+- text: Mailing list
+  url: http://groups.google.com/group/kanjivg
+- text: Projects using KanjiVG
+  url: /projects.html
+tool-links:
+- text: Viewer
+  url: /viewer.html

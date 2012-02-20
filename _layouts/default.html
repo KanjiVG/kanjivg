@@ -13,7 +13,7 @@
     <!--[if lt IE 9]>
     <script type="application/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
     <style type="text/css">
         body {
             padding-top: 60px;
@@ -24,8 +24,8 @@
             padding: 9px 0;
         }
     </style>
-    <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
-    <link rel="stylesheet" href="css/application.css">
+    <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
+    <link rel="stylesheet" href="/css/application.css">
 </head>
 <body>
 <div class="navbar navbar-fixed-top">
@@ -36,7 +36,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </a>
-            <a class="brand" href="index.html">KanjiVG</a>
+            <a class="brand" href="/index.html">KanjiVG</a>
 
             <div class="nav-collapse">
                 <form class="navbar-search pull-right">
@@ -52,18 +52,38 @@
             <div class="well sidebar-nav">
                 <ul class="nav nav-list">
                     <li class="nav-header">Project</li>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="download.html">Download</a></li>
-                    <li><a href="format.html">Format</a></li>
-                    <li><a href="conventions.html">Conventions</a></li>
-                    <li><a href="internationalization.html">Internationalization</a></li>
-                    <li><a href="incorrect-kanji.html">Incorrect kanji</a></li>
-                    <li><a href="https://github.com/Gnurou/kanjivg/issues">Issues</a></li>
+                    {% for link in site.project-links %}
+                    {% assign active = nil %}
+                    {% if page.url == link.url or page.layout == link.layout %}
+                    {% assign active = 'active' %}
+                    {% endif %}
+                    <li class="{{ active }}">
+                        <a href="{{ link.url }}">{{ link.text }}</a>
+                    </li>
+                    {% endfor %}
+
                     <li class="nav-header">Community</li>
-                    <li><a href="http://groups.google.com/group/kanjivg">Mailing list</a></li>
-                    <li><a href="projects.html">Projects using KanjiVG</a></li>
+                    {% for link in site.community-links %}
+                    {% assign active = nil %}
+                    {% if page.url == link.url or page.layout == link.layout %}
+                    {% assign active = 'active' %}
+                    {% endif %}
+                    <li class="{{ active }}">
+                        <a href="{{ link.url }}">{{ link.text }}</a>
+                    </li>
+                    {% endfor %}
+
                     <li class="nav-header">Tools</li>
-                    <li><a href="viewer.html">Viewer</a></li>
+                    {% for link in site.tool-links %}
+                    {% assign active = nil %}
+                    {% if page.url == link.url or page.layout == link.layout %}
+                    {% assign active = 'active' %}
+                    {% endif %}
+                    <li class="{{ active }}">
+                        <a href="{{ link.url }}">{{ link.text }}</a>
+                    </li>
+                    {% endfor %}
+
                 </ul>
             </div>
         </div>
@@ -73,14 +93,14 @@
     </div>
     <hr>
     <footer>
-        <p>&copy; 2009 &mdash; 2012 {{ site.author }} &mdash; Please see <a href="index.html">licensing</a>.</p>
+        <p>&copy; 2009 &mdash; 2012 {{ site.author }} &mdash; <a href="index.html">Licensing</a></p>
     </footer>
 </div>
-<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
-<script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="js/raphael-min.js"></script>
-<script type="text/javascript" src="js/kanjiviewer.js"></script>
-<script type="text/javascript" src="js/application.js"></script>
+<script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/raphael-min.js"></script>
+<script type="text/javascript" src="/js/kanjiviewer.js"></script>
+<script type="text/javascript" src="/js/application.js"></script>
 </body>
 </html>
 
