@@ -1,29 +1,4 @@
-/**
- * Copyright (C) 2011 Axel Bodart.
- * This work is distributed under the conditions of the Creative Commons
- *
- * Attribution-NonCommercial-ShareAlike 3.0 Licence. This means you are free:
- *
- * to Share - to copy, distribute and transmit the work
- * to Remix - to adapt the work
- *
- * Under the following conditions:
- *
- * Attribution - You must attribute the work by stating your use of
- * KanjiVG Viewer in your own copyright header and linking to KanjiVG Viewer's
- * website (http://kvg.nebuleux.be)
- *
- * Noncommercial — You may not use this work for commercial purposes.
- *
- * Share Alike - If you alter, transform, or build upon this work, you may
- * distribute the resulting work only under the same or similar license to this
- * one.
- *
- * See http://creativecommons.org/licenses/by-nc-sa/3.0/ for more details.
- *
- */
-
-var KanjiViewer = {
+KanjiViewer = {
 	initialize:function (divName, strokeWidth, fontSize, zoomFactor, displayOrders, colorGroups, kanji) {
 		this.paper = new Raphael(divName, '100%', '100%');
 		this.strokeWidth = strokeWidth;

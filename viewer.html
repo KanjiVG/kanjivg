@@ -1,0 +1,65 @@
+---
+layout: default
+title: Viewer
+---
+
+<form id="kanjiViewerParams" action="#" class="form-horizontal">
+    <fieldset>
+        <legend>Display options</legend>
+        <div class="control-group">
+            <label class="control-label" for="kanji">Kanji</label>
+
+            <div class="controls docs-input-sizes">
+                <input class="span3" type="text" value="" id="kanji" placeholder="線">
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label" for="strokeWidth">Stroke width</label>
+
+            <div class="controls docs-input-sizes">
+                <input class="span3" type="text" value="3" id="strokeWidth" placeholder="">
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label" for="fontSize">Font size</label>
+
+            <div class="controls docs-input-sizes">
+                <input class="span3" type="text" value="5" id="fontSize" placeholder="">
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label" for="zoomFactor">Zoom percentage</label>
+
+            <div class="controls docs-input-sizes">
+                <input class="span3" type="text" value="100" id="zoomFactor" placeholder="">
+            </div>
+        </div>
+
+        <div class="control-group">
+            <label class="control-label" id="optionsCheckboxes">Options</label>
+
+            <div class="controls">
+                <label class="checkbox">
+                    <input type="checkbox" name="displayOrders" id="displayOrders" checked="on">
+                    Display stroke order
+                </label>
+                <label class="checkbox">
+                    <input type="checkbox" name="colorGroups" id="colorGroups">
+                    Colour groups instead of individual stroke
+                </label>
+
+                <p class="help-block">
+                    <strong>Note:</strong> Please redraw after changing options.
+                </p>
+            </div>
+        </div>
+        <div class="form-actions">
+            <input type="submit" class="btn btn-primary" value="Redraw">&nbsp;
+            <button type="reset" class="btn btn-info">Reset</button>
+        </div>
+    </fieldset>
+</form>
+<div id="kanjiViewer"></div>
