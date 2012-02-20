@@ -3,13 +3,27 @@
 <head>
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-    {% if site.author %}<meta name="author" content="{{ site.author }}"/>{% endif %}
-    {% if page.description %}<meta name="description" content="{{ page.description }}"/>{% endif %}
+    {% if site.author %}
+    <meta name="author" content="{{ site.author }}"/>
+    {% endif %}
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}"/>
+    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--[if lt IE 9]>
     <script type="application/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style type="text/css">
+        body {
+            padding-top: 60px;
+            padding-bottom: 40px;
+        }
+
+        .sidebar-nav {
+            padding: 9px 0;
+        }
+    </style>
     <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
     <link rel="stylesheet" href="css/application.css">
 </head>
@@ -17,7 +31,18 @@
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container-fluid">
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
             <a class="brand" href="index.html">KanjiVG</a>
+
+            <div class="nav-collapse">
+                <form class="navbar-search pull-right">
+                    <input type="text" class="search-query" placeholder="Search">
+                </form>
+            </div>
         </div>
     </div>
 </div>
