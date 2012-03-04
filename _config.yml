@@ -1,6 +1,6 @@
 markdown: rdiscount
 title: KanjiVG
-url: http://kvg.nebuleux.be
+url: http://kanjivg.tagaini.net
 author: Ulrich Apel
 project-links:
 - text: Home
@@ -13,8 +13,6 @@ project-links:
   url: /conventions.html
 - text: Internationalization
   url: /internationalization.html
-- text: Incorrect kanji
-  url: /incorrect-kanji.html
 - text: Listing
   url: /listing.html
 - text: Issues
