@@ -3,6 +3,28 @@ layout: default
 title: Download
 ---
 
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+
+        function populateFields(fieldType, download) {
+            dataDate = download.name.split('-');
+            dataDate = dataDate[1];
+            dataDate = dataDate.substring(0, 4) + '-' + dataDate.substring(4, 6) + '-' + dataDate.substring(6, 8);
+
+            $('#' + fieldType + '-size').html(Math.round(download.size / 1024 / 1024));
+            $('#' + fieldType + '-description').html(download.description);
+            $('#' + fieldType + '-download').html(download.download_count);
+            $('#' + fieldType + '-url').attr('href', download.html_url);
+            $('#' + fieldType + '-date').html(dataDate);
+        }
+
+        jQuery.getJSON("https://api.github.com/repos/gnurou/kanjivg/downloads?callback=?", function (downloads) {
+            populateFields('separate', downloads.data[0]);
+            populateFields('bundle', downloads.data[1]);
+        })
+    });
+</script>
+
 <div class="page-header">
     <h1>Download</h1>
 </div>
@@ -10,34 +32,41 @@ title: Download
 <p>
     Here is the latest version of KanjiVG. This file is generated every day, provided a change has been commited to the
     <a href="https://github.com/Gnurou/kanjivg">git repository</a>. Please be aware that it may still contains errors.
-    We would appreciate to <a href="incorrect-kanji.html">receive corrections</a> if you discover a mistake.
+    We would appreciate to <a href="https://github.com/Gnurou/kanjivg/issues">receive corrections</a> if you
+    discover a mistake.
 </p>
 
 <div class="row-fluid">
     <div class="span5">
         <h3>
-            Bundle (2011-02-19 release)
+            Bundle (<span id="bundle-date">1970-01-01</span> release)
         </h3>
 
+        <h6 id="bundle-description">
+        </h6>
+
         <p>
-            All characters into one single XML file
+            <span id="bundle-size">0</span> MB, downloaded <span id="bundle-download">0</span> times
         </p>
 
         <p>
-            <a class="btn btn-primary" href="http://kanjivg.tagaini.net/upload/Main/kanjivg-20120219.xml.gz">Download »</a>
+            <a id="bundle-url" class="btn btn-primary" href="#">Download »</a>
         </p>
     </div>
     <div class="span5">
         <h3>
-            Separate (2011-02-19 release)
+            Separate (<span id="separate-date">1970-01-01</span> release)
         </h3>
 
+        <h6 id="separate-description">
+        </h6>
+
         <p>
-            One SVG file per character
+            <span id="separate-size">0</span> MB, downloaded <span id="separate-download">0</span> times
         </p>
 
         <p>
-            <a class="btn btn-primary" href="http://kanjivg.tagaini.net/upload/Main/kanjivg-20120219-all.zip">Download »</a>
+            <a id="separate-url" class="btn btn-primary" href="#">Download »</a>
         </p>
     </div>
 </div>
