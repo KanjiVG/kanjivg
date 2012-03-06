@@ -3,6 +3,35 @@ layout: default
 title: Download
 ---
 
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+
+        function makePopover(fieldType, download) {
+            dataDate = download.name.split('-');
+            dataDate = dataDate[1];
+            dataDate = dataDate.substring(0, 4) + '-' + dataDate.substring(4, 6) + '-' + dataDate.substring(6, 8);
+
+            dataDescription = download.description;
+            dataFile = 'Name : ' + download.name;
+            dataRelease = 'Release : ' + dataDate;
+            dataSize = 'Size : ' + Math.round(download.size / 1024 / 1024) + ' MB';
+            dataDownloaded = 'Downloaded : ' + download.download_count + ' times';
+
+            jQuery('#' + fieldType + '-url').attr('href', download.html_url);
+
+            jQuery('#' + fieldType + '-url').popover({
+                title:dataDescription,
+                content:dataFile + '<br/>' + dataRelease + '<br/>' + dataDownloaded + '<br/>' + dataSize
+            });
+        }
+
+        jQuery.getJSON("https://api.github.com/repos/Gnurou/kanjivg/downloads?callback=?", function (downloads) {
+            makePopover('separate', downloads.data[0]);
+            makePopover('bundle', downloads.data[1]);
+        })
+    });
+</script>
+
 <div class="page-header">
     <h1>Download</h1>
 </div>
@@ -10,34 +39,23 @@ title: Download
 <p>
     Here is the latest version of KanjiVG. This file is generated every day, provided a change has been commited to the
     <a href="https://github.com/Gnurou/kanjivg">git repository</a>. Please be aware that it may still contains errors.
-    We would appreciate to <a href="incorrect-kanji.html">receive corrections</a> if you discover a mistake.
+    We would appreciate to <a href="https://github.com/Gnurou/kanjivg/issues">receive corrections</a> if you
+    discover a mistake.
 </p>
 
 <div class="row-fluid">
     <div class="span5">
-        <h3>
-            Bundle (2011-02-19 release)
-        </h3>
-
         <p>
-            All characters into one single XML file
-        </p>
-
-        <p>
-            <a class="btn btn-primary" href="https://github.com/downloads/Gnurou/kanjivg/kanjivg-20120219.xml.gz">Download »</a>
+            <a id="bundle-url" class="btn btn-primary" href="https://github.com/Gnurou/kanjivg/downloads" rel="popover">
+                Download bundle »
+            </a>
         </p>
     </div>
     <div class="span5">
-        <h3>
-            Separate (2011-02-19 release)
-        </h3>
-
         <p>
-            One SVG file per character
-        </p>
-
-        <p>
-            <a class="btn btn-primary" href="https://github.com/downloads/Gnurou/kanjivg/kanjivg-20120219-all.zip">Download »</a>
+            <a id="separate-url" class="btn btn-primary" href="https://github.com/Gnurou/kanjivg/downloads" rel="popover">
+                Download separate »
+            </a>
         </p>
     </div>
 </div>
