@@ -1,0 +1,33 @@
+---
+layout: default
+title: Incorrect kanjis
+---
+
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+
+        jQuery.getJSON("https://api.github.com/repos/Gnurou/kanjivg/issues?callback=?", function (results) {
+            var issues = results.data;
+            var entries = [];
+            var len = issues.length;
+            for (i = 0; i < len; i++) {
+                var issue = issues[i];
+                var user = issue.user.login;
+                var title = issue.title;
+                var url = issue.html_url;
+                entries.push('<li><a href="' + url + '">' + title + '</a> reported by ' + user+'</li>');
+            }
+            jQuery("#issue-listing").append(entries.join(''));
+        })
+    });
+</script>
+
+<div class="page-header">
+    <h1>Incorrect Kanjis</h1>
+</div>
+
+<div id="issue-listing">
+    <ul>
+
+    </ul>
+</div>
