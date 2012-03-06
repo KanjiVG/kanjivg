@@ -18,7 +18,7 @@ title: Listing
         jQuery("#load-kanji-listing").click(function () {
             var btn = $(this);
             btn.button('loading');
-            jQuery.getJSON("https://api.github.com/repos/gnurou/kanjivg/git/refs/heads/master?callback=?", function (refs) {
+            jQuery.getJSON("https://api.github.com/repos/Gnurou/kanjivg/git/refs/heads/master?callback=?", function (refs) {
                 var sha = refs.data.object.sha;
                 jQuery.getJSON("https://api.github.com/repos/Gnurou/kanjivg/git/trees/" + sha + "?callback=?", function (results) {
                     var trees = results.data.tree;
