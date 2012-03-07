@@ -58,33 +58,39 @@
                     <li class="nav-header">Project</li>
                     {% for link in site.project-links %}
                     {% assign active = nil %}
+                    {% assign white = nil %}
                     {% if page.url == link.url or page.layout == link.layout %}
                     {% assign active = 'active' %}
+                    {% assign white = 'icon-white' %}
                     {% endif %}
                     <li class="{{ active }}">
-                        <a href="{{ link.url }}">{{ link.text }}</a>
+                        <a href="{{ link.url }}"><i class="icon-{{ link.icon }} {{ white }}"></i>{{ link.text }}</a>
                     </li>
                     {% endfor %}
 
                     <li class="nav-header">Community</li>
                     {% for link in site.community-links %}
                     {% assign active = nil %}
+                    {% assign white = nil %}
                     {% if page.url == link.url or page.layout == link.layout %}
                     {% assign active = 'active' %}
+                    {% assign white = 'icon-white' %}
                     {% endif %}
                     <li class="{{ active }}">
-                        <a href="{{ link.url }}">{{ link.text }}</a>
+                        <a href="{{ link.url }}"><i class="icon-{{ link.icon }} {{ white }}"></i>{{ link.text }}</a>
                     </li>
                     {% endfor %}
 
                     <li class="nav-header">Tools</li>
                     {% for link in site.tool-links %}
                     {% assign active = nil %}
+                    {% assign white = nil %}
                     {% if page.url == link.url or page.layout == link.layout %}
                     {% assign active = 'active' %}
+                    {% assign white = 'icon-white' %}
                     {% endif %}
                     <li class="{{ active }}">
-                        <a href="{{ link.url }}">{{ link.text }}</a>
+                        <a href="{{ link.url }}"><i class="icon-{{ link.icon }} {{ white }}"></i>{{ link.text }}</a>
                     </li>
                     {% endfor %}
 

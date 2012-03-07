@@ -5,25 +5,37 @@ author: Ulrich Apel
 project-links:
 - text: Home
   url: /index.html
+  icon: home
 - text: Download
   url: /download.html
+  icon: download
 - text: Format
   url: /format.html
+  icon: info-sign
 - text: Conventions
   url: /conventions.html
+  icon: info-sign
 - text: Internationalization
   url: /internationalization.html
+  icon: flag
 - text: Incorrect kanjis
   url: /incorrect-kanjis.html
+  icon: exclamation-sign
 - text: Listing
   url: /listing.html
+  icon: list
 - text: Issues
   url: https://github.com/Gnurou/kanjivg/issues
+  icon: exclamation-sign
 community-links:
 - text: Mailing list
   url: http://groups.google.com/group/kanjivg
+  icon: list-alt
 - text: Projects using KanjiVG
   url: /projects.html
+  icon: asterisk
 tool-links:
 - text: Viewer
   url: /viewer.html
+  icon: picture
+
