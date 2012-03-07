@@ -43,7 +43,8 @@ title: Listing
                         }
                     });
                 });
-            })
+            });
+            return false;
         });
     });
 </script>
@@ -57,7 +58,7 @@ title: Listing
 </p>
 
 <p>
-    <button id="load-kanji-listing" class="btn btn-warning" data-loading-text="Fetching..." autocomplete="off">Fetch all kanjis</button>
+    <a id="load-kanji-listing" href="https://github.com/Gnurou/kanjivg/tree/master/kanji" class="btn btn-warning" data-loading-text="Fetching..." autocomplete="off">Display all kanjis</a>
 </p>
 
 <div id="kanji-listing">
