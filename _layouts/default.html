@@ -13,7 +13,7 @@
     <!--[if lt IE 9]>
     <script type="application/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <style type="text/css">
         body {
             padding-top: 60px;
@@ -24,12 +24,12 @@
             padding: 9px 0;
         }
     </style>
-    <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
-    <link rel="stylesheet" href="/css/application.css">
-    <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="/js/raphael-min.js"></script>
-    <script type="text/javascript" src="/js/kanjiviewer.js"></script>
+    <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
+    <link rel="stylesheet" href="css/application.css">
+    <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/raphael-min.js"></script>
+    <script type="text/javascript" src="js/kanjiviewer.js"></script>
 </head>
 <body>
 <div class="navbar navbar-fixed-top">
@@ -40,7 +40,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </a>
-            <a class="brand" href="/index.html">KanjiVG</a>
+            <a class="brand" href="index.html">KanjiVG</a>
 
             <div class="nav-collapse">
                 <form class="navbar-search pull-right" method="get" action="/viewer.html">
@@ -59,7 +59,7 @@
                     {% for link in site.project-links %}
                     {% assign active = nil %}
                     {% assign white = nil %}
-                    {% if page.url == link.url or page.layout == link.layout %}
+                    {% if page.name == link.url %}
                     {% assign active = 'active' %}
                     {% assign white = 'icon-white' %}
                     {% endif %}
@@ -72,7 +72,7 @@
                     {% for link in site.community-links %}
                     {% assign active = nil %}
                     {% assign white = nil %}
-                    {% if page.url == link.url or page.layout == link.layout %}
+                    {% if page.name == link.url %}
                     {% assign active = 'active' %}
                     {% assign white = 'icon-white' %}
                     {% endif %}
@@ -85,7 +85,7 @@
                     {% for link in site.tool-links %}
                     {% assign active = nil %}
                     {% assign white = nil %}
-                    {% if page.url == link.url or page.layout == link.layout %}
+                    {% if page.name == link.url %}
                     {% assign active = 'active' %}
                     {% assign white = 'icon-white' %}
                     {% endif %}
