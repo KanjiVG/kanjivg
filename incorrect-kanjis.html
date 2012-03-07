@@ -6,7 +6,34 @@ title: Incorrect kanjis
 <script type="text/javascript">
     jQuery(document).ready(function () {
 
-        jQuery.getJSON("https://api.github.com/repos/Gnurou/kanjivg/issues?callback=?", function (results) {
+        function base64encode(string) {
+            var characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
+            var result = '';
+            var i = 0;
+            do {
+                var a = string.charCodeAt(i++);
+                var b = string.charCodeAt(i++);
+                var c = string.charCodeAt(i++);
+                a = a ? a : 0;
+                b = b ? b : 0;
+                c = c ? c : 0;
+                var b1 = ( a >> 2 ) & 0x3F;
+                var b2 = ( ( a & 0x3 ) << 4 ) | ( ( b >> 4 ) & 0xF );
+                var b3 = ( ( b & 0xF ) << 2 ) | ( ( c >> 6 ) & 0x3 );
+                var b4 = c & 0x3F;
+                if (!b) {
+                    b3 = b4 = 64;
+                } else if (!c) {
+                    b4 = 64;
+                }
+                result += characters.charAt(b1) + characters.charAt(b2) + characters.charAt(b3) + characters.charAt(b4);
+            } while (i < string.length);
+            return result;
+        }
+
+        jQuery('#incorrect-kanji-reporter').attr('href', '#incorrect-kanji-modal');
+
+        jQuery.getJSON('https://api.github.com/repos/Gnurou/kanjivg/issues?callback=?', function (results) {
             var issues = results.data;
             var entries = [];
             var len = issues.length;
@@ -15,10 +42,59 @@ title: Incorrect kanjis
                 var user = issue.user.login;
                 var title = issue.title;
                 var url = issue.html_url;
-                entries.push('<li><a href="' + url + '">' + title + '</a> reported by ' + user+'</li>');
+                entries.push('<li><a href="' + url + '">' + title + '</a> reported by ' + user + '</li>');
             }
-            jQuery("#issue-listing").append(entries.join(''));
-        })
+            jQuery('#issue-listing').append(entries.join(''));
+        });
+
+        jQuery('#incorrect-kanji-form').submit(function () {
+            var username = jQuery('#username').val();
+            var password = jQuery('#password').val();
+            var title = jQuery('#title').val();
+            var body = jQuery('#body').val();
+            var isError = jQuery('#error:checked').val();
+            var isMissing = jQuery('#missing:checked').val();
+            var isCheck = jQuery('#check:checked').val();
+
+            var label = '';
+            if (undefined != isError) {
+                label = 'Error';
+            } else if (undefined != isMissing) {
+                label = 'Missing';
+            } else {
+                label = 'Please check';
+            }
+
+            var data = {
+                'title':title,
+                'body':body,
+                'labels':[
+                    label
+                ]
+            };
+
+            $.ajax({
+                type:'POST',
+                url:'https://api.github.com/repos/Gnurou/kanjivg/issues',
+                data:JSON.stringify(data),
+                dataType:'json',
+                contentType:'application/x-www-form-urlencoded',
+                success:function (results) {
+                    jQuery("#error-alert").hide();
+                    jQuery('#incorrect-kanji-modal').modal('hide')
+                },
+                error:function (request, status, error) {
+                    var response = jQuery.parseJSON(request.responseText);
+                    jQuery("#error-message").html(response.message);
+                    jQuery("#error-alert").show();
+                },
+                beforeSend:function (xhr) {
+                    xhr.setRequestHeader('Authorization', 'Basic ' + base64encode(username + ':' + password));
+                }
+            });
+
+            return false;
+        });
     });
 </script>
 
@@ -26,8 +102,91 @@ title: Incorrect kanjis
     <h1>Incorrect Kanjis</h1>
 </div>
 
+<p>
+    Here is a list of currently known kanji with errors or to be checked. Please see the
+    <a href="https://github.com/Gnurou/kanjivg/issues">Github issues</a> page for more details. Errors can be reported
+    from there or using the following form, which will require your Github credentials.
+</p>
+
+<p>
+    <a id="incorrect-kanji-reporter" class="btn btn-danger" data-toggle="modal" href="https://github.com/Gnurou/kanjivg/issues">Report incorrect kanjis</a>
+</p>
+
 <div id="issue-listing">
     <ul>
 
     </ul>
+</div>
+
+<div class="modal hide fade" id="incorrect-kanji-modal">
+    <div class="modal-header">
+        <a class="close" data-dismiss="modal">×</a>
+
+        <h3>Incorrect kanji reporting</h3>
+    </div>
+    <div class="modal-body">
+        <form id="incorrect-kanji-form" action="#" class="form-horizontal">
+
+            <div class="control-group">
+                <label class="control-label" for="username">Github username</label>
+
+                <div class="controls docs-input-sizes">
+                    <input class="span3" type="text" value="" id="username" placeholder="">
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label" for="password">Github password</label>
+
+                <div class="controls docs-input-sizes">
+                    <input class="span3" type="password" value="" id="password" placeholder="">
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label" for="title">Title</label>
+
+                <div class="controls docs-input-sizes">
+                    <input class="span3" type="text" value="" id="title" placeholder="e.g. 線 Strokes 7 and 8 are swapped.">
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label" for="body">Comments</label>
+
+                <div class="controls">
+                    <textarea class="span3" id="body" rows="3"></textarea>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">Issue type</label>
+
+                <div class="controls">
+                    <label class="radio">
+                        <input type="radio" name="labels" id="error" value="error" checked="">
+                        The kanji contains an error
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="labels" id="missing" value="missing">
+                        The kanji is missing
+                    </label>
+                    <label class="radio">
+                        <input type="radio" name="labels" id="check" value="check">
+                        The kanji should be reviewed
+                    </label>
+                </div>
+            </div>
+
+            <div id="error-alert" class="alert alert-error hide">
+                <strong>Error</strong> <span id="error-message"></span>
+            </div>
+
+            <div class="form-actions">
+                <input type="submit" class="btn btn-primary" value="Create issue" data-loading-text="Creating..." autocomplete="off">&nbsp;
+            </div>
+        </form>
+    </div>
+    <div class="modal-footer">
+    </div>
 </div>
