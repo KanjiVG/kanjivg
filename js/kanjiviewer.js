@@ -53,7 +53,7 @@ KanjiViewer = {
         if (this.fetchNeeded && this.kanji != "") {
             var parent = this;
             this.paper.clear();
-            loader = this.paper.text(0, 0, 'Loading ' + this.kanji);
+            var loader = this.paper.text(0, 0, 'Loading ' + this.kanji);
             loader.attr({
                 'x':50,
                 'y':50,
@@ -72,7 +72,7 @@ KanjiViewer = {
                 statusCode:{
                     404:function () {
                         parent.paper.clear();
-                        error = parent.paper.text(0, 0, parent.kanji + ' not found');
+                        var error = parent.paper.text(0, 0, parent.kanji + ' not found');
                         error.attr({
                             'x':50,
                             'y':50,
@@ -110,13 +110,11 @@ KanjiViewer = {
         );
     },
     createHovers:function (strokes) {
-        var onEnteredAnim;
-        var onLeftAnim;
         var parent = this;
+        var onEnteredAnim = Raphael.animation({stroke:'black'}, 300);
+        var onLeftAnim = Raphael.animation({stroke:strokes[0]['initialColor']}, 300);
         for (var i = 0; i < strokes.length; i++) {
             var stroke = strokes[i];
-            onEnteredAnim = Raphael.animation({stroke:'black'}, 300);
-            onLeftAnim = Raphael.animation({stroke:stroke['initialColor']}, 300);
             stroke.hover(
                     function () {
                         for (var j = 0; j < strokes.length; j++) {
@@ -144,11 +142,11 @@ KanjiViewer = {
         var parent = this;
         this.paper.clear();
         Raphael.getColor.reset();
-        groups = jQuery(this.xml).find('svg > g > g > g');
+        var groups = jQuery(this.xml).find('svg > g > g > g');
         if (!this.colorGroups || groups.length == 0) {
             jQuery(this.xml).find('path').each(function () {
-                color = Raphael.getColor();
-                stroke = parent.createStroke(this, color);
+                var color = Raphael.getColor();
+                var stroke = parent.createStroke(this, color);
                 parent.createHover(stroke);
             });
         } else {
@@ -156,7 +154,7 @@ KanjiViewer = {
                 var color = Raphael.getColor();
                 parent.paper.setStart();
                 jQuery(this).find('path').each(function () {
-                    stroke = parent.createStroke(this, color);
+                    parent.createStroke(this, color);
                 });
                 var set = parent.paper.setFinish();
                 var element = jQuery(this).attr('kvg:element');
