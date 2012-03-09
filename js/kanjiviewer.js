@@ -26,7 +26,7 @@ KanjiViewer = {
         this.kanji = kanji;
         this.fetchNeeded = true;
         this.setZoom(zoomFactor);
-        this.draw();
+        this.refreshKanji();
     },
     setZoom:function (zoomFactor) {
         this.paper.setViewBox(0, 0, 109, 109);
@@ -44,12 +44,12 @@ KanjiViewer = {
         this.colorGroups = colorGroups;
     },
     setKanji:function (kanji) {
-        if (kanji != this.kanji) {
+        if (kanji != this.kanji && kanji != '' && kanji != undefined) {
             this.kanji = kanji;
             this.fetchNeeded = true;
         }
     },
-    draw:function () {
+    refreshKanji:function () {
         if (this.fetchNeeded && this.kanji != "") {
             var parent = this;
             this.paper.clear();
@@ -98,6 +98,48 @@ KanjiViewer = {
         });
         return stroke;
     },
+    createHover:function (stroke) {
+        var onEnteredAnim = Raphael.animation({stroke:'black'}, 300);
+        var onLeftAnim = Raphael.animation({stroke:stroke['initialColor']}, 300);
+        stroke.hover(
+                function () {
+                    this.animate(onEnteredAnim);
+                }, function () {
+                    this.animate(onLeftAnim);
+                }
+        );
+    },
+    createHovers:function (strokes) {
+        var onEnteredAnim;
+        var onLeftAnim;
+        var parent = this;
+        for (var i = 0; i < strokes.length; i++) {
+            var stroke = strokes[i];
+            onEnteredAnim = Raphael.animation({stroke:'black'}, 300);
+            onLeftAnim = Raphael.animation({stroke:stroke['initialColor']}, 300);
+            stroke.hover(
+                    function () {
+                        for (var j = 0; j < strokes.length; j++) {
+                            stroke = strokes[j];
+                            stroke.attr({
+                                'cursor':'pointer'
+                            });
+                            stroke.animate(onEnteredAnim);
+                        }
+                    },
+                    function () {
+                        for (var j = 0; j < strokes.length; j++) {
+                            stroke = strokes[j];
+                            stroke.animate(onLeftAnim);
+                        }
+                    }
+            );
+            stroke.click(function () {
+                parent.setKanji(strokes['element']);
+                parent.refreshKanji();
+            });
+        }
+    },
     drawKanji:function () {
         var parent = this;
         this.paper.clear();
@@ -107,18 +149,7 @@ KanjiViewer = {
             jQuery(this.xml).find('path').each(function () {
                 color = Raphael.getColor();
                 stroke = parent.createStroke(this, color);
-                stroke.hover(
-                        function () {
-                            this.attr({
-                                'stroke':'black'
-                            });
-                        },
-                        function () {
-                            this.attr({
-                                'stroke':this['initialColor']
-                            });
-                        }
-                );
+                parent.createHover(stroke);
             });
         } else {
             groups.each(function () {
@@ -128,22 +159,24 @@ KanjiViewer = {
                     stroke = parent.createStroke(this, color);
                 });
                 var set = parent.paper.setFinish();
-                set.hover(
-                        function () {
-                            set.attr({
-                                'stroke':'black'
-                            });
-                        },
-                        function () {
-                            set.attr({
-                                'stroke':this['initialColor']
-                            });
+                var element = jQuery(this).attr('kvg:element');
+                if (element == undefined) {
+                    var inners = jQuery(this).find('g');
+                    for (var i = 0; i < inners.length; i++) {
+                        element = jQuery(inners[i]).attr('kvg:element');
+                        if (element !== undefined) {
+                            set['element'] = element;
+                            break;
                         }
-                );
+                    }
+                } else {
+                    set['element'] = element;
+                }
+                parent.createHovers(set);
             });
         }
         jQuery(this.xml).find('text').each(function () {
-            color = Raphael.color('black');
+            color = Raphael.color('#808080');
             text = jQuery(this).text();
             transform = jQuery(this).attr('transform');
             x = transform.split(' ')[4];
