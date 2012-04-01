@@ -5,5 +5,5 @@ outFileAll="kanjivg-$d-all.zip"
 zip -r $outFileAll kanji
 python kvg.py release
 gzip -c kanjivg.xml >$outFileOne
-scp $outFileOne $outFileAll gnurou@gnurou.org:/srv/http/kanjivg/upload/Main/
-ssh gnurou@gnurou.org "ln -sf $outFileOne /srv/http/kanjivg/upload/Main/kanjivg-latest.xml.gz"
+#scp $outFileOne $outFileAll gnurou@gnurou.org:/srv/http/kanjivg/upload/Main/
+#ssh gnurou@gnurou.org "ln -sf $outFileOne /srv/http/kanjivg/upload/Main/kanjivg-latest.xml.gz"
