@@ -3,18 +3,30 @@
 # create_db.py creates an sqlite database containing kanjivg data
 # Copyright 2012 Cayenne Boyer
 #
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
+# This program is dual licensed.  At your option, you may follow either
+# of the two license notices below.
 #
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
+# GPL license:
 #
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#    This program is free software: you can redistribute it and/or
+#    modify it under the terms of the GNU General Public License as
+#    published by the Free Software Foundation, either version 3 of the
+#    License, or (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful, but
+#    WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+#    General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see
+#    <http://www.gnu.org/licenses/>.
+#
+# Creative Commons license:
+#
+#    This work is made available under the terms of the Creative Commons
+#    Attribution-ShareAlike 3.0 license,
+#    http://creativecommons.org/licenses/by-sa/3.0/.
 
 import sqlite3
 import os
