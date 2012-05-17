@@ -47,7 +47,8 @@ parser.add_argument('--svg-dir',
                     help='location of directory containing svgs '
                     '(default: %(default)s)',
                     dest='src_dir',
-                    default='kanji')
+                    default=os.path.join(os.path.dirname(__file__),
+                                         'kanji'))
 parser.add_argument('--out', 
                     help='database file to write to; note that any '
                     'file in this location will be overwritten '
