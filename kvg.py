@@ -16,8 +16,7 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import os, os.path, sys, codecs, re, datetime
-from kanjivg import licenseString
+import os, sys, codecs, re, datetime
 
 pathre = re.compile(r'<path .*d="([^"]*)".*/>')
 
@@ -26,6 +25,24 @@ Recognized commands:
   split file1 [ file2 ... ]       extract path data into a -paths suffixed file
   merge file1 [ file2 ... ]       merge path data from -paths suffixed file
   release                         create single release file""" % (sys.argv[0],)
+
+
+licenseString = """Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons 
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details."""
+
 
 def createPathsSVG(f):
 	s = codecs.open(f, "r", "utf-8").read()
