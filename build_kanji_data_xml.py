@@ -47,33 +47,41 @@ kvgNs = "http://kanjivg.tagaini.net"
 
 
 
-def addKanjiToTree(tree, kanji):
+def addKanjiToTree(kanjiFn, tree):
     '''For each kanji where we have an SVG file, add a general element
 to the XML tree and call addKanjiVariant fore each svg file, at least
-once, more times when there are non-standard variants.'''
+oncce, more times when there are non-standard variants.'''
     
     pass
 
-def addKanjiVariantToKanjiElement(kanjiElement, kanjiVariant):
+def addKanjiVariantToKanjiElement(kanjiElement, kanjiFn):
     '''Add the svg element of the kanjiVariant, wraped in an
-identifying elemnt, to the kanjiElement. This is the function that
+identifying element, to the kanjiElement. This is the function that
 actually reads the svg files.'''
     pass
 
 def kanjiVgXmlTree(indir=u'kanji'):
     '''Create the outer structure of the Xml ElementTree, than add all
-the data through addKanjiToTree.'''
-    kanjiTree = ET.ElementTree()
-    # Stuff to set up general inforamtion
+the data through addKanjiToTree. Return that tree.'''
     
-    # Select only files with one unicode character before the '.svg'.
-    for kanji in kanjilist:
-        kanjiTree = addKanjiToTree(kanji, kanjiTree)
-    pass
+    # Stuff to set up general inforamtion
+    ET.register_namespace('svg', svgNs)
+    ET.register_namespace('kvg', kvgNs)
+    kanjiTree = ET.ElementTree()
 
+    for kanjiFName in os.listdir(indir):
+        # Only add a kanji entry when we have a ‘standard’ variant.
+        if 9 == len(kanjiFName) and kanjiFName.endswith('.svg'):
+            addKanjiToTree(kanjiFName, kanjiTree)
 
 def writeKanjiData(indir=u'kanji', outFile='kanji_data.xml'):
     kanjiXmlTree = kanjiVgXmlTree(indir)
     ET.writeXml(kanjiXmlTree, outFile)
 
 
+
+if __name__ == '__main__':
+    # No command line options at the moment. If you want to other
+    # input or output, call writeKajiData yourself, from another
+    # script or the python console.
+    writeKanjiData()
