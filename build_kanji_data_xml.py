@@ -50,7 +50,7 @@ kvgNs = "http://kanjivg.tagaini.net"
 def addKanjiToTree(kanjiFn, tree):
     '''For each kanji where we have an SVG file, add a general element
 to the XML tree and call addKanjiVariant fore each svg file, at least
-oncce, more times when there are non-standard variants.'''
+once, more times when there are non-standard variants.'''
     
     pass
 
