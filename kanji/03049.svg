@@ -1,47 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
-Attribution-Share Alike 3.0 Licence. This means you are free:
-* to Share - to copy, distribute and transmit the work
-* to Remix - to adapt the work
-
-Under the following conditions:
-* Attribution. You must attribute the work by stating your use of KanjiVG in
-  your own copyright header and linking to KanjiVG's website
-  (http://kanjivg.tagaini.net)
-* Share Alike. If you alter, transform, or build upon this work, you may
-  distribute the resulting work only under the same or similar license to this
-  one.
-
-See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
--->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-<!ATTLIST g
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:element CDATA #IMPLIED
-kvg:variant CDATA #IMPLIED
-kvg:partial CDATA #IMPLIED
-kvg:original CDATA #IMPLIED
-kvg:part CDATA #IMPLIED
-kvg:number CDATA #IMPLIED
-kvg:tradForm CDATA #IMPLIED
-kvg:radicalForm CDATA #IMPLIED
-kvg:position CDATA #IMPLIED
-kvg:radical CDATA #IMPLIED
-kvg:phon CDATA #IMPLIED >
-<!ATTLIST path
-xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
-kvg:type CDATA #IMPLIED >
-]>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_03049" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:03049">
-	<path id="kvg:03049-s1" d="M7.66,49.46c1.09,0.81,2.88,1.92,4.77,1.71c1.89-0.2,15.59-4.14,16.78-4.64c1.19-0.5,3.18-1.01,4.67-1.61"/>
-	<path id="kvg:03049-s2" d="M22.71,34.12c1.42,1.38,2.35,3.54,1.98,5.95c-1.99,13.01-2.43,36.74-1.54,47.11c0.6,6.96-0.51,8.43-5.66,5.75c-4.07-2.12-10.92-6.46-10.92-9.99c0-6.05,19.36-19.07,35.55-19.07c13.7,0,19.86,6.66,19.86,13.92c0,6.66-7.45,15.23-21.25,16.95"/>
-	<path id="kvg:03049-s3" d="M47.49,38.97c4.27,2.12,6.97,4.8,8.44,6.66c3.57,4.5,0.3,3.63-0.89,4.04"/>
-</g>
-</g>
-<g id="kvg:StrokeNumbers_03049" style="font-size:8;fill:#808080">
-</g>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:kvg="http://kanjivg.tagaini.net" viewBox="0 0 109 109" height="109" width="109" xmlns="http://www.w3.org/2000/svg">
+	<g style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;" id="kvg:StrokePaths_03049">
+		<g id="kvg:03049">
+			<path id="kvg:03049-s1" d="M7.66,49.46c1.09,0.81,2.88,1.92,4.77,1.71c1.89-0.2,15.59-4.14,16.78-4.64c1.19-0.5,3.18-1.01,4.67-1.61" />
+			<path id="kvg:03049-s2" d="M22.71,34.12c1.42,1.38,2.35,3.54,1.98,5.95c-1.99,13.01-2.43,36.74-1.54,47.11c0.6,6.96-0.51,8.43-5.66,5.75c-4.07-2.12-10.92-6.46-10.92-9.99c0-6.05,19.36-19.07,35.55-19.07c13.7,0,19.86,6.66,19.86,13.92c0,6.66-7.45,15.23-21.25,16.95" />
+			<path id="kvg:03049-s3" d="M47.49,38.97c4.27,2.12,6.97,4.8,8.44,6.66c3.57,4.5,0.3,3.63-0.89,4.04" />
+		</g>
+	</g>
+	<g style="font-size:8;fill:#808080" id="kvg:StrokeNumbers_03049">
+		<text transform="matrix(1 0 0 1 1.63 49.5)">1</text>
+		<text transform="matrix(1 0 0 1 14.75 33)">2</text>
+		<text transform="matrix(1 0 0 1 42.25 35.88)">3</text>
+	</g>
 </svg>
