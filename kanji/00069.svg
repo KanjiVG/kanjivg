@@ -3,10 +3,11 @@
 	<g style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;" id="kvg:StrokePaths_00069">
 		<g id="kvg:00069">
 			<path id="kvg:00069-s1" d="M54.5,34.93c0,5.35,0,50.54,0,57.91" />
+      <path id="kvg:00069-s2" d="M54.5,15 c -0.83,0 -1.5,0.67 -1.5,1.5 0,0.83 0.67,1.5 1.5,1.5 0.83,0 1.5,-0.67 1.5,-1.5 0,-0.83 -0.67,-1.5 -1.5,-1.5" />
 		</g>
 	</g>
 	<g style="font-size:8;fill:#808080" id="kvg:StrokeNumbers_00069">
-		<text transform="matrix(1 0 0 1 47.08 36.6)">1</text>
-		<text transform="matrix(1 0 0 1 44.68 15.55)">2</text>
+		<text transform="matrix(1 0 0 1 47 36.6)">1</text>
+		<text transform="matrix(1 0 0 1 45 15.55)">2</text>
 	</g>
 </svg>
