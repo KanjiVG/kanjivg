@@ -43,9 +43,9 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:0586b-JinmeiKaisho-s3" kvg:type="㇀/㇐" d="M13.5,75.94c0.74,1.06,2.23,1.63,4.45,0.23c6.18-3.9,13.61-8.52,19.8-12.42"/>
 	</g>
 	<g id="kvg:0586b-JinmeiKaisho-g2" kvg:element="眞" kvg:variant="true" kvg:original="真" kvg:position="right">
-		<g id="kvg:0586b-JinmeiKaisho-g3" kvg:element="十" kvg:position="top">
-			<path id="kvg:0586b-JinmeiKaisho-s4" kvg:type="㇐" d="M81.02,12.25c-0.31,0.7-0.61,1.06-1.25,1.36c-4.14,1.98-16.67,7.44-30.06,9.46"/>
-			<path id="kvg:0586b-JinmeiKaisho-s5" kvg:type="㇑" d="M48,13c0.83,0.62,0.88,1.04,1.16,1.87c0.27,0.83-0.19,6-0.19,8.6c0,6.69,11.05,6.07,20.47,6.07c13.66,0,18.83-1.1,18.83-8.14"/>
+		<g id="kvg:0586b-JinmeiKaisho-g3" kvg:element="匕" kvg:position="top">
+			<path id="kvg:0586b-JinmeiKaisho-s4" kvg:type="㇒" d="M81.02,12.25c-0.31,0.7-0.61,1.06-1.25,1.36c-4.14,1.98-16.67,7.44-30.06,9.46"/>
+			<path id="kvg:0586b-JinmeiKaisho-s5" kvg:type="㇟" d="M48,13c0.83,0.62,0.88,1.04,1.16,1.87c0.27,0.83-0.19,6-0.19,8.6c0,6.69,11.05,6.07,20.47,6.07c13.66,0,18.83-1.1,18.83-8.14"/>
 		</g>
 		<g id="kvg:0586b-JinmeiKaisho-g4" kvg:element="具" kvg:position="bottom">
 			<g id="kvg:0586b-JinmeiKaisho-g5" kvg:element="目" kvg:position="top">
@@ -56,7 +56,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:0586b-JinmeiKaisho-s10" kvg:type="㇐a" d="M55.91,68.91c4.3,0,18.02-1.55,23.59-1.55"/>
 			</g>
 			<g id="kvg:0586b-JinmeiKaisho-g6" kvg:position="bottom">
-				<path id="kvg:0586b-JinmeiKaisho-s11" kvg:type="㇐" d="M42.74,49c0.61,1,1.41,1.75,1.41,3.5S43.15,74,43.15,76.25s0.21,4.56,2.42,4.25c15.86-2.25,35.63-4,44.48-3.5c1.81,0.1,4.04,0.25,5.45,0.5"/>
+				<path id="kvg:0586b-JinmeiKaisho-s11" kvg:type="㇄" d="M42.74,49c0.61,1,1.41,1.75,1.41,3.5S43.15,74,43.15,76.25s0.21,4.56,2.42,4.25c15.86-2.25,35.63-4,44.48-3.5c1.81,0.1,4.04,0.25,5.45,0.5"/>
 				<g id="kvg:0586b-JinmeiKaisho-g7" kvg:element="八">
 					<path id="kvg:0586b-JinmeiKaisho-s12" kvg:type="㇒" d="M55.94,85.39c0.05,0.31,0.11,0.8-0.1,1.24c-1.25,2.61-8.44,8.33-18.28,11.84"/>
 					<path id="kvg:0586b-JinmeiKaisho-s13" kvg:type="㇏" d="M75.06,83.83c5.78,2.41,14.92,9.89,16.36,13.63"/>
@@ -70,14 +70,14 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 7.25 42.63)">1</text>
 	<text transform="matrix(1 0 0 1 19.25 19.05)">2</text>
 	<text transform="matrix(1 0 0 1 6.00 79.23)">3</text>
-	<text transform="matrix(1 0 0 1 41.50 21.50)">4</text>
-	<text transform="matrix(1 0 0 1 55.50 11.50)">5</text>
-	<text transform="matrix(1 0 0 1 43.50 44.50)">6</text>
-	<text transform="matrix(1 0 0 1 53.75 33.50)">7</text>
+	<text transform="matrix(1 0 0 1 78.50 11.50)">4</text>
+	<text transform="matrix(1 0 0 1 38.00 25.50)">5</text>
+	<text transform="matrix(1 0 0 1 45.50 44.50)">6</text>
+	<text transform="matrix(1 0 0 1 53.75 35.50)">7</text>
 	<text transform="matrix(1 0 0 1 55.75 44.85)">8</text>
 	<text transform="matrix(1 0 0 1 55.74 54.28)">9</text>
 	<text transform="matrix(1 0 0 1 54.09 66.70)">10</text>
-	<text transform="matrix(1 0 0 1 36.75 76.50)">11</text>
+	<text transform="matrix(1 0 0 1 30.75 56.50)">11</text>
 	<text transform="matrix(1 0 0 1 43.50 89.50)">12</text>
 	<text transform="matrix(1 0 0 1 66.50 91.50)">13</text>
 </g>
