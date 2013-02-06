@@ -56,5 +56,9 @@ kvg:type CDATA #IMPLIED >
 </g>
 </g>
 <g id="kvg:StrokeNumbers_05300" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 0 8)">1</text>
+	<text transform="matrix(1 0 0 1 0 16)">2</text>
+	<text transform="matrix(1 0 0 1 0 24)">3</text>
+	<text transform="matrix(1 0 0 1 0 32)">4</text>
 </g>
 </svg>

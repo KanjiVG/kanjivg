@@ -37,11 +37,14 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_030d6" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:030d6">
-	<path id="kvg:030d6-s1" d="M6,30c1.88,1.88,3.5,2.04,6.5,1.62c14.5-2,29-4.38,43.75-6.88c6.82-1.16,10.58,2.29,6.88,9.12C52.75,53,41.88,73.38,13.12,87.5"/>
-	<path id="kvg:030d6-s2" d="M67.5,15.63c2.61,1.93,5.7,5.93,7.36,9.37"/>
-	<path id="kvg:030d6-s3" d="M73.56,10.5c2.82,1.78,6.15,5.48,7.94,8.66"/>
+	<path id="kvg:030d6-s1" d="M24.5,30c1.88,1.88,3.5,2.04,6.5,1.62c14.5-2,29-4.38,43.75-6.88c6.82-1.16,10.58,2.29,6.88,9.12c-10.38,19.14-21.25,39.52-50.01,53.64"/>
+	<path id="kvg:030d6-s2" d="M86,15.63c2.61,1.93,5.7,5.93,7.36,9.37"/>
+	<path id="kvg:030d6-s3" d="M92.06,10.5c2.82,1.78,6.15,5.48,7.94,8.66"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_030d6" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 21.63 24.88)">1</text>
+	<text transform="matrix(1 0 0 1 78.13 14.75)">2</text>
+	<text transform="matrix(1 0 0 1 85.25 9.63)">3</text>
 </g>
 </svg>

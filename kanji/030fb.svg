@@ -35,10 +35,12 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_030fb" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:StrokePaths_030fb" style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:030fb">
+	<path id="kvg:030fb-s1" d="M54.5,47c-3.32,0 -6,2.68 -6,6 0,3.32 2.68,6 6,6 3.32,0 6,-2.68 6,-6 0,-3.32 -2.68,-6 -6,-6"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_030fb" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 44 49)">1</text>
 </g>
 </svg>

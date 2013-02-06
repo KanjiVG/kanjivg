@@ -37,9 +37,10 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_030fc" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:030fc">
-	<path id="kvg:030fc-s1" d="M14.25,53c5.75-0.75,11.62-0.95,14.5-1c21.62-0.38,40.75-1.62,45.38-1.62s16.75-0.62,20.12-0.62"/>
+	<path id="kvg:030fc-s1" d="M14.5,53c5.75-0.75,11.62-0.95,14.5-1c21.62-0.38,40.75-1.62,45.38-1.62c4.63,0,16.75-0.62,20.12-0.62"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_030fc" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 10.75 46.25)">1</text>
 </g>
 </svg>
