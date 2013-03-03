@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -59,10 +59,10 @@ kvg:type CDATA #IMPLIED >
 					<path id="kvg:06f15-KaishoVtLst-s8" kvg:type="㇑" d="M47.41,56.29c5.38-0.38,31.35-2.42,38.05-2.75"/>
 					<g id="kvg:06f15-KaishoVtLst-g9" kvg:element="日" kvg:part="2">
 						<g id="kvg:06f15-KaishoVtLst-g10" kvg:element="十" kvg:part="2">
-							<path id="kvg:06f15-KaishoVtLst-s9" kvg:type="㇐" d="M73.06,10.25c0.69,0.38,1.29,1.68,1.25,2.44c-1.33,22.76-1.47,25.6-2.42,41.4"/>
+							<path id="kvg:06f15-KaishoVtLst-s9" kvg:type="㇐" d="M54.8,13.15c0.69,0.38,1.2,1.68,1.25,2.45c1.08,16.99,2.54,32.47,3.01,39.43"/>
 						</g>
 					</g>
-					<path id="kvg:06f15-KaishoVtLst-s10" kvg:type="㇐" d="M54.8,13.15c0.69,0.38,1.2,1.68,1.25,2.45c1.08,16.99,2.54,32.47,3.01,39.43"/>
+					<path id="kvg:06f15-KaishoVtLst-s10" kvg:type="㇐" d="M73.06,10.25c0.69,0.38,1.29,1.68,1.25,2.44c-1.33,22.76-1.47,25.6-2.42,41.4"/>
 				</g>
 			</g>
 		</g>
@@ -82,11 +82,11 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 37.50 21.50)">4</text>
 	<text transform="matrix(1 0 0 1 33.50 41.50)">5</text>
 	<text transform="matrix(1 0 0 1 43.50 32.00)">6</text>
-	<text transform="matrix(1 0 0 1 48.50 53.70)">7</text>
-	<text transform="matrix(1 0 0 1 46.50 13.50)">8</text>
-	<text transform="matrix(1 0 0 1 40.50 72.50)">9</text>
+	<text transform="matrix(1 0 0 1 47.50 43.50)">7</text>
+	<text transform="matrix(1 0 0 1 48.50 53.70)">8</text>
+	<text transform="matrix(1 0 0 1 46.50 13.50)">9</text>
 	<text transform="matrix(1 0 0 1 61.75 11.50)">10</text>
-	<text transform="matrix(1 0 0 1 47.50 43.50)">11</text>
+	<text transform="matrix(1 0 0 1 40.50 72.50)">11</text>
 	<text transform="matrix(1 0 0 1 52.50 63.50)">12</text>
 	<text transform="matrix(1 0 0 1 55.50 76.50)">13</text>
 	<text transform="matrix(1 0 0 1 55.50 91.50)">14</text>
