@@ -53,9 +53,9 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08acf-KaishoVt3-s8" kvg:type="㇐" d="M37.8,25.88c1.05,0.35,2.99,0.4,4.04,0.35c12.28-0.63,34.81-4.39,46.23-4.54c1.76-0.02,2.81,0.17,3.69,0.34"/>
 			<path id="kvg:08acf-KaishoVt3-s9" kvg:type="㇑" d="M45.08,26.46c0.36,0.98,1.43,1.93,1.43,3.07s-0.17,40.5-0.17,44.63"/>
 			<path id="kvg:08acf-KaishoVt3-s10" kvg:type="㇑" d="M60.64,24.34c1.12,1.03,1.23,1.21,1.23,2.36c0,1.26,0.17,59.4,0.17,68.8"/>
-			<path id="kvg:08acf-KaishoVt3-s11" kvg:type="㇐" d="M39.02,75.83c1.64,1,2.85,1.13,3.75,0.66c3.62-1.89,13.09-6.66,18.64-9.68"/>
-			<path id="kvg:08acf-KaishoVt3-s12" kvg:type="㇐" d="M46.6,41.36c2.64-0.19,5.26-0.58,7.88-0.98c0.65-0.1,1.28-0.2,1.9-0.3"/>
-			<path id="kvg:08acf-KaishoVt3-s13" kvg:type="㇀" d="M46.75,55.52c2.11,0,5.26-0.42,7.34-0.73c0.69-0.1,1.4-0.21,2.13-0.32"/>
+			<path id="kvg:08acf-KaishoVt3-s11" kvg:type="㇐" d="M46.6,41.36c2.64-0.19,5.26-0.58,7.88-0.98c0.65-0.1,1.28-0.2,1.9-0.3"/>
+			<path id="kvg:08acf-KaishoVt3-s12" kvg:type="㇐" d="M46.75,55.52c2.11,0,5.26-0.42,7.34-0.73c0.69-0.1,1.4-0.21,2.13-0.32"/>
+			<path id="kvg:08acf-KaishoVt3-s13" kvg:type="㇀" d="M39.02,75.83c1.64,1,2.85,1.13,3.75,0.66c3.62-1.89,13.09-6.66,18.64-9.68"/>
 		</g>
 		<g id="kvg:08acf-KaishoVt3-g5" kvg:element="又" kvg:position="right">
 			<path id="kvg:08acf-KaishoVt3-s14" kvg:type="㇇" d="M69.54,39.99c1.01,0.24,1.11,0.41,3.16,0.24c3.78-0.33,12.18-2.77,13.57-3.12c1.39-0.36,2.68,0.84,2.33,2.2c-4.18,16.24-8.94,34.57-20.89,45.97"/>
@@ -74,9 +74,9 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 20.50 84.50)">7</text>
 	<text transform="matrix(1 0 0 1 35.50 22.50)">8</text>
 	<text transform="matrix(1 0 0 1 38.50 37.20)">9</text>
-	<text transform="matrix(1 0 0 1 50.00 51.50)">10</text>
+	<text transform="matrix(1 0 0 1 64.50 32.50)">10</text>
 	<text transform="matrix(1 0 0 1 49.75 38.50)">11</text>
-	<text transform="matrix(1 0 0 1 64.50 32.50)">12</text>
+	<text transform="matrix(1 0 0 1 50.00 51.50)">12</text>
 	<text transform="matrix(1 0 0 1 35.50 70.50)">13</text>
 	<text transform="matrix(1 0 0 1 70.50 37.58)">14</text>
 	<text transform="matrix(1 0 0 1 66.25 59.00)">15</text>

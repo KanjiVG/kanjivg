@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -53,9 +53,9 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:0696b-KaishoVt3-s8" kvg:type="㇐" d="M46.28,41.01c1.11,0.34,3.15,0.43,4.27,0.34c10.53-0.91,25.21-3.34,41.31-4.09c1.85-0.09,2.97,0.16,3.9,0.33"/>
 			<path id="kvg:0696b-KaishoVt3-s9" kvg:type="㇑" d="M55.03,41.87c0.65,0.63,1.45,2.85,1.45,3.95c0,1.1-0.18,31.5-0.18,35.46"/>
 			<path id="kvg:0696b-KaishoVt3-s10" kvg:type="㇑" d="M82.53,37.83c1.13,0.99,1.25,2.66,1.25,3.76c0,1.1,0.18,48.38,0.18,57.4"/>
-			<path id="kvg:0696b-KaishoVt3-s11" kvg:type="㇐" d="M46.5,82.87c0.35,0.77,1.92,1.86,3.13,1.54c4.87-1.28,32.68-10.26,40.15-12.31"/>
-			<path id="kvg:0696b-KaishoVt3-s12" kvg:type="㇐" d="M56.78,53.22c4.55-0.6,9.11-1.05,13.68-1.39c1.04-0.08,2.07-0.15,3.1-0.22"/>
-			<path id="kvg:0696b-KaishoVt3-s13" kvg:type="㇀" d="M56.43,65.8c4.31-0.48,9.12-0.96,13.44-1.37c1.11-0.11,2.24-0.21,3.39-0.31"/>
+			<path id="kvg:0696b-KaishoVt3-s11" kvg:type="㇐" d="M56.78,53.22c4.55-0.6,9.11-1.05,13.68-1.39c1.04-0.08,2.07-0.15,3.1-0.22"/>
+			<path id="kvg:0696b-KaishoVt3-s12" kvg:type="㇐" d="M56.43,65.8c4.31-0.48,9.12-0.96,13.44-1.37c1.11-0.11,2.24-0.21,3.39-0.31"/>
+			<path id="kvg:0696b-KaishoVt3-s13" kvg:type="㇀" d="M46.5,82.87c0.35,0.77,1.92,1.86,3.13,1.54c4.87-1.28,32.68-10.26,40.15-12.31"/>
 		</g>
 	</g>
 </g>
@@ -70,9 +70,9 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 59.50 25.50)">7</text>
 	<text transform="matrix(1 0 0 1 46.50 38.50)">8</text>
 	<text transform="matrix(1 0 0 1 49.50 51.50)">9</text>
-	<text transform="matrix(1 0 0 1 59.50 62.88)">10</text>
+	<text transform="matrix(1 0 0 1 74.50 46.50)">10</text>
 	<text transform="matrix(1 0 0 1 59.50 49.50)">11</text>
-	<text transform="matrix(1 0 0 1 74.50 46.50)">12</text>
+	<text transform="matrix(1 0 0 1 59.50 62.88)">12</text>
 	<text transform="matrix(1 0 0 1 42.50 78.50)">13</text>
 </g>
 </svg>
