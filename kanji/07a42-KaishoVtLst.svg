@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -56,20 +56,20 @@ kvg:type CDATA #IMPLIED >
 					<path id="kvg:07a42-KaishoVtLst-s7" kvg:type="㇑" d="M47.39,36.72c0.27,0.47,1.04,2.24,1.18,2.83c1.16,4.81,1.86,13.33,3.15,23.44"/>
 					<path id="kvg:07a42-KaishoVtLst-s8" kvg:type="㇕a" d="M49.46,38.38c9.86-0.97,28.64-3.56,36.04-3.93c1.73-0.09,3.65,0.72,3.26,3.06c-0.78,4.76-2.21,16.72-4.24,23.01"/>
 				</g>
-				<g id="kvg:07a42-KaishoVtLst-g8" kvg:element="丨">
-					<path id="kvg:07a42-KaishoVtLst-s9" kvg:type="㇑a" d="M51.24,49.68c8.07-0.96,16.19-1.6,24.29-2.35c0.98-0.09,1.92-0.18,2.83-0.26"/>
-				</g>
-				<g id="kvg:07a42-KaishoVtLst-g9" kvg:element="田" kvg:part="2" kvg:partial="true">
-					<path id="kvg:07a42-KaishoVtLst-s10" kvg:type="㇐a" d="M52.77,61.65c8.12-0.73,21.96-2.21,31.75-2.81"/>
-					<path id="kvg:07a42-KaishoVtLst-s11" kvg:type="㇐a" d="M65.79,12.07c0.97,1.18,1.54,2.88,1.54,4.43c0.03,15.3,0.18,39.45,0.18,43.44"/>
+				<g id="kvg:07a42-KaishoVtLst-g8" kvg:element="田" kvg:part="2" kvg:partial="true">
+					<path id="kvg:07a42-KaishoVtLst-s9" kvg:type="㇐" d="M51.24,49.68c8.07-0.96,16.19-1.6,24.29-2.35c0.98-0.09,1.92-0.18,2.83-0.26"/>
+					<path id="kvg:07a42-KaishoVtLst-s10" kvg:type="㇐" d="M52.77,61.65c8.12-0.73,21.96-2.21,31.75-2.81"/>
 				</g>
 			</g>
 		</g>
-		<g id="kvg:07a42-KaishoVtLst-g10" kvg:element="心" kvg:position="bottom">
-			<path id="kvg:07a42-KaishoVtLst-s12" kvg:type="㇔" d="M45.96,78.57c0.2,2.07-2.02,11.22-3.63,14.67"/>
-			<path id="kvg:07a42-KaishoVtLst-s13" kvg:type="㇟b" d="M53.41,72.75C60,86,69,96,85.67,96.68c6.48,0.27,6.4-2.81,2-7.7"/>
-			<path id="kvg:07a42-KaishoVtLst-s14" kvg:type="㇔a" d="M68.92,71.75c1.61,5.25,3.96,10.5,5.68,2.46"/>
-			<path id="kvg:07a42-KaishoVtLst-s15" kvg:type="㇔" d="M86.6,68.98c4.54,2.62,7.95,5.01,11.63,13.11"/>
+		<g id="kvg:07a42-KaishoVtLst-g9" kvg:element="心" kvg:position="bottom">
+			<path id="kvg:07a42-KaishoVtLst-s11" kvg:type="㇔" d="M45.96,78.57c0.2,2.07-2.02,11.22-3.63,14.67"/>
+			<path id="kvg:07a42-KaishoVtLst-s12" kvg:type="㇟b" d="M53.41,72.75C60,86,69,96,85.67,96.68c6.48,0.27,6.4-2.81,2-7.7"/>
+			<path id="kvg:07a42-KaishoVtLst-s13" kvg:type="㇔a" d="M68.92,71.75c1.61,5.25,3.96,10.5,5.68,2.46"/>
+			<path id="kvg:07a42-KaishoVtLst-s14" kvg:type="㇔" d="M86.6,68.98c4.54,2.62,7.95,5.01,11.63,13.11"/>
+		</g>
+		<g id="kvg:07a42-KaishoVtLst-g10"  kvg:element="丨">
+			<path id="kvg:07a42-KaishoVtLst-s15" kvg:type="㇑"  d="M65.79,12.07c0.97,1.18,1.54,2.88,1.54,4.43c0.03,15.3,0.18,39.45,0.18,43.44"/>
 		</g>
 	</g>
 </g>
