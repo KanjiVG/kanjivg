@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2009/2010/2011 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
@@ -89,13 +89,13 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 13.85 28.85)">1</text>
 	<text transform="matrix(1 0 0 1 28.66 11.85)">2</text>
 	<text transform="matrix(1 0 0 1 59.71 12.85)">3</text>
-	<text transform="matrix(1 0 0 1 20.75 43.90)">4</text>
-	<text transform="matrix(1 0 0 1 31.75 28.83)">5</text>
-	<text transform="matrix(1 0 0 1 50.75 37.75)">6</text>
-	<text transform="matrix(1 0 0 1 70.75 36.68)">7</text>
-	<text transform="matrix(1 0 0 1 34.75 40.60)">8</text>
+	<text transform="matrix(1 0 0 1 20.75 42)">4</text>
+	<text transform="matrix(1 0 0 1 29 32)">5</text>
+	<text transform="matrix(1 0 0 1 48 37.75)">6</text>
+	<text transform="matrix(1 0 0 1 65 36.68)">7</text>
+	<text transform="matrix(1 0 0 1 33 44)">8</text>
 	<text transform="matrix(1 0 0 1 18.75 66.53)">9</text>
-	<text transform="matrix(1 0 0 1 32.75 55.45)">10</text>
+	<text transform="matrix(1 0 0 1 25 57)">10</text>
 	<text transform="matrix(1 0 0 1 39.75 68.38)">11</text>
 	<text transform="matrix(1 0 0 1 48.75 57.30)">12</text>
 	<text transform="matrix(1 0 0 1 68.75 65.23)">13</text>
