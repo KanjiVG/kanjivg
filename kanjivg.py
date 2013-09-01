@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-#  Copyright (C) 2009/2010  Alexandre Courbot
+#  Copyright (C) 2009-2013 Alexandre Courbot
 #
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -18,7 +18,7 @@
 from xmlhandler import *
 
 # Sample licence header
-licenseString = """Copyright (C) 2009/2010/2011 Ulrich Apel.
+licenseString = """Copyright (C) 2009-2013 Ulrich Apel.
 This work is distributed under the conditions of the Creative Commons 
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
