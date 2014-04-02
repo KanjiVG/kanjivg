@@ -19,7 +19,7 @@ from xmlhandler import *
 
 # Sample licence header
 licenseString = """Copyright (C) 2009-2013 Ulrich Apel.
-This work is distributed under the conditions of the Creative Commons 
+This work is distributed under the conditions of the Creative Commons
 Attribution-Share Alike 3.0 Licence. This means you are free:
 * to Share - to copy, distribute and transmit the work
 * to Remix - to adapt the work
