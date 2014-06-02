@@ -35,38 +35,38 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_06a0b-Jinmei" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:06a0b-Jinmei" kvg:element="樋">
-	<g id="kvg:06a0b-Jinmei-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
-		<path id="kvg:06a0b-Jinmei-s1" kvg:type="㇐" d="M11.28,37.72c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,15.12-2.21,21.45-3.41c0.92-0.17,1.15-0.24,1.73,0"/>
-		<path id="kvg:06a0b-Jinmei-s2" kvg:type="㇑" d="M24.86,14.5c0.91,0.47,2.54,2,2.54,4.42c0,0.95-0.12,71.25-0.3,77.08"/>
-		<path id="kvg:06a0b-Jinmei-s3" kvg:type="㇒" d="M26.94,39.28c-4.86,15.69-7.56,22.32-15.08,36.06"/>
-		<path id="kvg:06a0b-Jinmei-s4" kvg:type="㇔/㇏" d="M29.97,45.15c2.53,1.84,6.03,5.83,8.16,9.39"/>
+<g id="kvg:StrokePaths_06a0b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:06a0b" kvg:element="樋">
+	<g id="kvg:06a0b-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
+		<path id="kvg:06a0b-s1" kvg:type="㇐" d="M11.28,37.72c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,15.12-2.21,21.45-3.41c0.92-0.17,1.15-0.24,1.73,0"/>
+		<path id="kvg:06a0b-s2" kvg:type="㇑" d="M24.86,14.5c0.91,0.47,2.54,2,2.54,4.42c0,0.95-0.12,71.25-0.3,77.08"/>
+		<path id="kvg:06a0b-s3" kvg:type="㇒" d="M26.94,39.28c-4.86,15.69-7.56,22.32-15.08,36.06"/>
+		<path id="kvg:06a0b-s4" kvg:type="㇔/㇏" d="M29.97,45.15c2.53,1.84,6.03,5.83,8.16,9.39"/>
 	</g>
-	<g id="kvg:06a0b-Jinmei-g2" kvg:element="通" kvg:variant="true" kvg:position="right">
-		<g id="kvg:06a0b-Jinmei-g3" kvg:element="甬">
-			<g id="kvg:06a0b-Jinmei-g4" kvg:element="マ" kvg:position="top">
-				<path id="kvg:06a0b-Jinmei-s5" kvg:type="㇇" d="M59.12,17.34c0.93,0.6,2.2,1.16,3.26,1.1c1.21-0.06,18.31-3.62,24.45-4.65C91.5,13,92,14.25,88.84,17.03c-1.2,1.05-10.59,8.22-14.2,10.4"/>
-				<path id="kvg:06a0b-Jinmei-s6" kvg:type="㇔" d="M68.65,24c2.4,0.97,8.6,4.71,9.73,7.25"/>
+	<g id="kvg:06a0b-g2" kvg:element="通" kvg:variant="true" kvg:position="right">
+		<g id="kvg:06a0b-g3" kvg:element="甬">
+			<g id="kvg:06a0b-g4" kvg:element="マ" kvg:position="top">
+				<path id="kvg:06a0b-s5" kvg:type="㇇" d="M59.12,17.34c0.93,0.6,2.2,1.16,3.26,1.1c1.21-0.06,18.31-3.62,24.45-4.65C91.5,13,92,14.25,88.84,17.03c-1.2,1.05-10.59,8.22-14.2,10.4"/>
+				<path id="kvg:06a0b-s6" kvg:type="㇔" d="M68.65,24c2.4,0.97,8.6,4.71,9.73,7.25"/>
 			</g>
-			<g id="kvg:06a0b-Jinmei-g5" kvg:element="用" kvg:position="bottom">
-				<path id="kvg:06a0b-Jinmei-s7" kvg:type="㇑/㇒" d="M61.54,36.38c0.43,0.58,0.72,1.16,0.86,1.74c0.14,0.58,0.14,40.79,0.14,42.1"/>
-				<path id="kvg:06a0b-Jinmei-s8" kvg:type="㇆a" d="M63.26,37.52c4.83-0.24,26.25-3.25,27.54-3.41c2.3-0.29,3.16,1.89,2.87,2.76c-0.28,0.84-0.43,28.56-0.43,40.34c0,7.54-4.49,1.25-5.4,0.75"/>
-				<path id="kvg:06a0b-Jinmei-s9" kvg:type="㇐a" d="M63.26,49.58c8.35-1.51,23.99-2.44,29.9-2.76"/>
-				<path id="kvg:06a0b-Jinmei-s10" kvg:type="㇐a" d="M63.06,61.83c6.69-1.11,24.72-2.25,30.03-2.54"/>
-				<path id="kvg:06a0b-Jinmei-s11" kvg:type="㇑" d="M76.3,37.6c0.57,0.28,0.91,1.26,1.02,1.82c0.11,0.56,0,36.79-0.11,40.29"/>
+			<g id="kvg:06a0b-g5" kvg:element="用" kvg:position="bottom">
+				<path id="kvg:06a0b-s7" kvg:type="㇑/㇒" d="M61.54,36.38c0.43,0.58,0.72,1.16,0.86,1.74c0.14,0.58,0.14,40.79,0.14,42.1"/>
+				<path id="kvg:06a0b-s8" kvg:type="㇆a" d="M63.26,37.52c4.83-0.24,26.25-3.25,27.54-3.41c2.3-0.29,3.16,1.89,2.87,2.76c-0.28,0.84-0.43,28.56-0.43,40.34c0,7.54-4.49,1.25-5.4,0.75"/>
+				<path id="kvg:06a0b-s9" kvg:type="㇐a" d="M63.26,49.58c8.35-1.51,23.99-2.44,29.9-2.76"/>
+				<path id="kvg:06a0b-s10" kvg:type="㇐a" d="M63.06,61.83c6.69-1.11,24.72-2.25,30.03-2.54"/>
+				<path id="kvg:06a0b-s11" kvg:type="㇑" d="M76.3,37.6c0.57,0.28,0.91,1.26,1.02,1.82c0.11,0.56,0,36.79-0.11,40.29"/>
 			</g>
 		</g>
-		<g id="kvg:06a0b-Jinmei-g6" kvg:element="辶" kvg:position="nyo">
-			<path id="kvg:06a0b-Jinmei-s12" kvg:type="㇔" d="M46.2,16.5c2.97,1.74,7.66,7.17,8.41,9.88"/>
-			<path id="kvg:06a0b-Jinmei-s13" kvg:type="㇔" d="M40.69,39c3.54,0.99,9.15,4.09,10.04,5.63"/>
-			<path id="kvg:06a0b-Jinmei-s14" kvg:type="㇋" d="M39.5,60.94c1.84,0.85,3.06,0.43,3.88,0.21c0.82-0.21,6.53-2.99,7.76-3.42c1.22-0.43,3.06,1.07,2.25,2.35c-0.82,1.28-3.27,6.19-3.88,7.26c-0.61,1.07-0.41,2.99,0.82,4.48s2.25,3.2,2.86,4.48c0.61,1.28,0.61,2.35-0.61,3.42c-1.22,1.07-7.35,7.04-8.57,7.47"/>
-			<path id="kvg:06a0b-Jinmei-s15" kvg:type="㇏" d="M40.35,88.07c2.02-0.24,6.06-0.85,9.08-0.37c3.03,0.49,20.23,3.76,23.21,4.39c8.07,1.71,14.3,2.19,20.35,1.34"/>
+		<g id="kvg:06a0b-g6" kvg:element="辶" kvg:position="nyo">
+			<path id="kvg:06a0b-s12" kvg:type="㇔" d="M46.2,16.5c2.97,1.74,7.66,7.17,8.41,9.88"/>
+			<path id="kvg:06a0b-s13" kvg:type="㇔" d="M40.69,39c3.54,0.99,9.15,4.09,10.04,5.63"/>
+			<path id="kvg:06a0b-s14" kvg:type="㇋" d="M39.5,60.94c1.84,0.85,3.06,0.43,3.88,0.21c0.82-0.21,6.53-2.99,7.76-3.42c1.22-0.43,3.06,1.07,2.25,2.35c-0.82,1.28-3.27,6.19-3.88,7.26c-0.61,1.07-0.41,2.99,0.82,4.48s2.25,3.2,2.86,4.48c0.61,1.28,0.61,2.35-0.61,3.42c-1.22,1.07-7.35,7.04-8.57,7.47"/>
+			<path id="kvg:06a0b-s15" kvg:type="㇏" d="M40.35,88.07c2.02-0.24,6.06-0.85,9.08-0.37c3.03,0.49,20.23,3.76,23.21,4.39c8.07,1.71,14.3,2.19,20.35,1.34"/>
 		</g>
 	</g>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_06a0b-Jinmei" style="font-size:8;fill:#808080">
+<g id="kvg:StrokeNumbers_06a0b" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 4.50 38.50)">1</text>
 	<text transform="matrix(1 0 0 1 16.50 14.50)">2</text>
 	<text transform="matrix(1 0 0 1 17.50 47.50)">3</text>
