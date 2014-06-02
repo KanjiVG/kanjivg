@@ -39,7 +39,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:05fbd" kvg:element="徽">
 	<g id="kvg:05fbd-g1" kvg:element="彳" kvg:position="left" kvg:radical="general">
 		<path id="kvg:05fbd-s1" kvg:type="㇒" d="M28.11,17.25c0.04,0.5,0.21,1.4-0.08,2.01C25.95,23.6,19.7,34.07,13.62,38.5"/>
-		<g id="kvg:05fbd-g2" kvg:element="亻" kvg:variant="true" kvg:original="人">
+		<g id="kvg:05fbd-g2" kvg:element="亻"kvg:original="人">
 			<path id="kvg:05fbd-s2" kvg:type="㇒" d="M30.36,35.25c0.06,0.68,0.29,1.89-0.12,2.72C27.4,43.85,19.93,54.06,9.5,64"/>
 			<path id="kvg:05fbd-s3" kvg:type="㇑" d="M23.22,53.5c0.36,0.25,0.57,1.15,0.65,1.66c0.07,0.51,0,35.15-0.07,38.34"/>
 		</g>

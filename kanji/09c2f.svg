@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_09c2f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09c2f" kvg:element="鰯">
 	<g id="kvg:09c2f-g1" kvg:element="魚" kvg:position="left" kvg:radical="general">
-		<g id="kvg:09c2f-g2" kvg:element="𠂊" kvg:variant="true" kvg:original="勹" kvg:position="top">
+		<g id="kvg:09c2f-g2" kvg:element="𠂊"kvg:original="勹" kvg:position="top">
 			<path id="kvg:09c2f-s1" kvg:type="㇒" d="M26.82,12.25c0.05,0.69,0.1,1.78-0.09,2.77c-1.13,5.83-7.61,18.63-16.5,26.47"/>
 			<path id="kvg:09c2f-s2" kvg:type="㇇" d="M23.83,24.21c1.42,0.29,2.47,0.35,3.77,0.13c4.35-0.75,10.98-2.91,12.59-3.12c1.79-0.23,2.2,1.98,1.45,3.1c-3.15,4.73-6.24,9.27-11.37,16.78"/>
 		</g>
@@ -50,7 +50,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:09c2f-s6" kvg:type="㇐a" d="M18.79,55.37c2.34-0.47,23.35-2.43,25.28-2.62"/>
 				<path id="kvg:09c2f-s7" kvg:type="㇐a" d="M19.21,68.23c5.16-0.51,16.43-1.66,23.56-2.5"/>
 			</g>
-			<g id="kvg:09c2f-g5" kvg:element="灬" kvg:variant="true" kvg:original="火">
+			<g id="kvg:09c2f-g5" kvg:element="灬"kvg:original="火">
 				<path id="kvg:09c2f-s8" kvg:type="㇔" d="M16.77,81.1c0,4.85-3.12,12.02-3.94,13.4"/>
 				<path id="kvg:09c2f-s9" kvg:type="㇔" d="M24.06,78.83c1.04,2.4,2.03,9,2.29,12.74"/>
 				<path id="kvg:09c2f-s10" kvg:type="㇔" d="M32.18,77.67c1.75,2.05,4.52,8.45,4.96,11.64"/>
@@ -58,7 +58,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 	</g>
-	<g id="kvg:09c2f-g6" kvg:element="弱" kvg:variant="true" kvg:position="right">
+	<g id="kvg:09c2f-g6" kvg:element="弱"kvg:position="right">
 		<g id="kvg:09c2f-g7" kvg:element="弓" kvg:position="left">
 			<path id="kvg:09c2f-s12" kvg:type="㇕c" d="M47.84,19.48c0.95,0.61,3.02,0.56,3.95,0.46c5.69-0.62,11.67-2.41,15.09-3.19c1.89-0.43,2.88-0.27,2.34,1.71c-0.55,1.98-2.04,10.82-3.37,15.1"/>
 			<path id="kvg:09c2f-s13" kvg:type="㇐" d="M57.25,35.75c1.75,0,6.5-1.5,7.75-1.5s2.5-0.5,3.5-0.5"/>

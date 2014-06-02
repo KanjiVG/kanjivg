@@ -37,12 +37,12 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05835" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05835" kvg:element="堵">
-	<g id="kvg:05835-g1" kvg:element="土" kvg:variant="true" kvg:position="left" kvg:radical="general">
+	<g id="kvg:05835-g1" kvg:element="土"kvg:position="left" kvg:radical="general">
 		<path id="kvg:05835-s1" kvg:type="㇐" d="M11.75,43.39c0.76,0.38,2.24,0.4,3,0.36c5.5-0.25,16.15-1.89,21.5-2.5c1.25-0.14,2.62-0.18,3.25,0.01"/>
 		<path id="kvg:05835-s2" kvg:type="㇑a" d="M25.37,14.75c1.09,0.5,1.74,2.25,1.96,3.25c0.22,1,0,48.75-0.22,55"/>
 		<path id="kvg:05835-s3" kvg:type="㇀/㇐" d="M13,79.68c0.82,1.32,2.47,2.03,4.93,0.29c6.85-4.85,13.97-9.36,20.82-14.21"/>
 	</g>
-	<g id="kvg:05835-g2" kvg:element="者" kvg:variant="true" kvg:position="right">
+	<g id="kvg:05835-g2" kvg:element="者"kvg:position="right">
 		<g id="kvg:05835-g3" kvg:element="耂" kvg:original="老" kvg:partial="true">
 			<g id="kvg:05835-g4" kvg:element="土">
 				<path id="kvg:05835-s4" kvg:type="㇐" d="M49.71,30.83c0.62,0.14,1.75,0.16,2.38,0.14c7.05-0.22,20.08-1.28,27.03-1.38c1.04-0.01,1.66,0.07,2.17,0.13"/>
