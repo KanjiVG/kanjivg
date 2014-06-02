@@ -35,32 +35,32 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_06897" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:06897" kvg:element="梗">
-	<g id="kvg:06897-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
-		<path id="kvg:06897-s1" kvg:type="㇐" d="M12.53,39.22c2.2,0.37,4.41,0.42,6.63,0.14c4.32-0.61,12.47-1.86,18.02-2.55c1.47-0.18,3.12-0.29,4.59-0.19"/>
-		<path id="kvg:06897-s2" kvg:type="㇑" d="M28.11,15.5c0.88,0.88,1.29,2.62,1.29,4.42c0,0.77-0.02,45.7-0.02,65.83c0,4.58,0,7.9,0,9.12"/>
-		<path id="kvg:06897-s3" kvg:type="㇒" d="M28.94,40.28c-0.31,2.34-1.46,5.52-2.14,7.11c-4.69,10.93-8.21,16.96-16.19,27.95"/>
-		<path id="kvg:06897-s4" kvg:type="㇔/㇏" d="M32.97,47.9c2.37,1.32,6.03,5.73,7.66,8.64"/>
+<g id="kvg:StrokePaths_06897-Jinmei" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:06897-Jinmei" kvg:element="梗">
+	<g id="kvg:06897-Jinmei-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
+		<path id="kvg:06897-Jinmei-s1" kvg:type="㇐" d="M13.28,39.72c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,15.12-2.21,21.45-3.41c0.92-0.17,1.15-0.24,1.73,0"/>
+		<path id="kvg:06897-Jinmei-s2" kvg:type="㇑" d="M27.36,15c0.91,0.47,2.04,2.75,2.04,4.92c0,0.95-0.12,68.75-0.3,74.58"/>
+		<path id="kvg:06897-Jinmei-s3" kvg:type="㇒" d="M28.94,42.28c-5.9,14.39-9.19,20.47-18.33,33.06"/>
+		<path id="kvg:06897-Jinmei-s4" kvg:type="㇔/㇏" d="M32.97,47.9c2.37,1.32,5.66,5.83,7.66,8.39"/>
 	</g>
-	<g id="kvg:06897-g2" kvg:element="更" kvg:position="right">
-		<path id="kvg:06897-s5" kvg:type="㇐" d="M47.09,21.35c3.35,0.58,6.6-0.05,10.03-0.44C65,20,74.64,18.32,81.86,17.65c3.01-0.28,6.14-0.4,8.7-0.05"/>
-		<g id="kvg:06897-g3" kvg:element="日">
-			<path id="kvg:06897-s6" kvg:type="㇑" d="M48.44,34.4c0.83,0.83,1.1,1.64,1.23,2.61c0.37,2.61,1.41,10.54,2.21,16.74c0.43,3.3,0.79,6.12,0.96,7.38"/>
-			<path id="kvg:06897-s7" kvg:type="㇕a" d="M50.5,35.58c4.49-0.59,25.35-3.12,33.75-4.11c4.79-0.56,7,1.41,6.3,5.79c-0.64,4-1.4,7.96-2.64,14.34c-0.42,2.15-0.89,4.57-1.43,7.37"/>
-			<path id="kvg:06897-s8" kvg:type="㇐a" d="M52.18,47.24c10.69-1.61,28.82-3.36,36.06-3.69"/>
-			<path id="kvg:06897-s9" kvg:type="㇐a" d="M54.42,58.88c9.6-1.09,18.71-1.88,31.8-2.69"/>
+	<g id="kvg:06897-Jinmei-g2" kvg:element="更" kvg:position="right">
+		<path id="kvg:06897-Jinmei-s5" kvg:type="㇐" d="M47.09,21.1c0.84,0.58,2.35,0.58,3.2,0.58c7.46,0.07,28.38-4.23,36.85-4.4c1.39-0.03,2.23,0.28,2.92,0.57"/>
+		<g id="kvg:06897-Jinmei-g3" kvg:element="日">
+			<path id="kvg:06897-Jinmei-s6" kvg:type="㇑" d="M48.69,34.4c0.49,0.73,0.98,1.63,0.98,2.61s3.01,23.64,3.17,24.62"/>
+			<path id="kvg:06897-Jinmei-s7" kvg:type="㇕a" d="M50.5,35.58c2.77-0.12,34.96-4.56,37.49-4.71c2.11-0.12,3.32,1.6,2.71,5.26c-0.95,5.76-1.37,10.09-4.21,22.84"/>
+			<path id="kvg:06897-Jinmei-s8" kvg:type="㇐a" d="M51.43,47.24c6.98-1.25,32.06-3.69,36.31-3.69"/>
+			<path id="kvg:06897-Jinmei-s9" kvg:type="㇐a" d="M54.42,58.88c10.8-1.49,20.78-1.79,32.3-2.94"/>
 		</g>
-		<g id="kvg:06897-g4" kvg:element="乂">
-			<g id="kvg:06897-g5" kvg:element="丿">
-				<path id="kvg:06897-s10" kvg:type="㇒" d="M68.97,21.75c1.08,1.08,1.17,2.59,1.14,4.63c-0.61,39.37-1.36,54.99-27.83,69.16"/>
+		<g id="kvg:06897-Jinmei-g4" kvg:element="乂">
+			<g id="kvg:06897-Jinmei-g5" kvg:element="丿">
+				<path id="kvg:06897-Jinmei-s10" kvg:type="㇒" d="M69.22,21.75c0.68,1.41,0.64,2.59,0.64,4.63c0,32.48-0.61,56.87-27.58,69.16"/>
 			</g>
-			<path id="kvg:06897-s11" kvg:type="㇏" d="M51.99,66.51c6.04,1.18,21.5,14.93,31.08,22.15c3.4,2.66,6.79,4.5,11.15,5.52"/>
+			<path id="kvg:06897-Jinmei-s11" kvg:type="㇏" d="M55.25,64.25C60,72,83.29,88.14,89.61,91.8c2.14,1.24,3.98,1.78,6.12,2.13"/>
 		</g>
 	</g>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_06897" style="font-size:8;fill:#808080">
+<g id="kvg:StrokeNumbers_06897-Jinmei" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 5.85 41.85)">1</text>
 	<text transform="matrix(1 0 0 1 18.50 15.50)">2</text>
 	<text transform="matrix(1 0 0 1 18.50 51.50)">3</text>

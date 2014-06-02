@@ -35,42 +35,42 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_06962" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:06962" kvg:element="楢">
-	<g id="kvg:06962-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
-		<path id="kvg:06962-s1" kvg:type="㇐" d="M13.28,40.22c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,16.12-1.71,22.45-2.91c0.92-0.17,1.15-0.24,1.73,0"/>
-		<path id="kvg:06962-s2" kvg:type="㇑" d="M28.86,15.5c0.91,0.47,2.54,2.25,2.54,4.42c0,0.95-0.12,71.75-0.3,77.58"/>
-		<path id="kvg:06962-s3" kvg:type="㇒" d="M30.94,41.28c-5.34,15.04-8.31,21.4-16.58,34.56"/>
-		<path id="kvg:06962-s4" kvg:type="㇔/㇏" d="M34.47,48.65c2.37,1.81,5.66,5.88,7.66,9.39"/>
+<g id="kvg:StrokePaths_06962-Jinmei" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:06962-Jinmei" kvg:element="楢">
+	<g id="kvg:06962-Jinmei-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
+		<path id="kvg:06962-Jinmei-s1" kvg:type="㇐" d="M13.28,40.22c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,16.12-1.71,22.45-2.91c0.92-0.17,1.15-0.24,1.73,0"/>
+		<path id="kvg:06962-Jinmei-s2" kvg:type="㇑" d="M28.86,15.5c0.91,0.47,2.54,2.25,2.54,4.42c0,0.95-0.12,71.75-0.3,77.58"/>
+		<path id="kvg:06962-Jinmei-s3" kvg:type="㇒" d="M30.94,41.28c-5.34,15.04-8.31,21.4-16.58,34.56"/>
+		<path id="kvg:06962-Jinmei-s4" kvg:type="㇔/㇏" d="M34.47,48.65c2.37,1.81,5.66,5.88,7.66,9.39"/>
 	</g>
-	<g id="kvg:06962-g2" kvg:element="酋" kvg:position="right">
-		<g id="kvg:06962-g3" kvg:element="八" kvg:variant="true" kvg:position="top">
-			<g id="kvg:06962-g4" kvg:position="left">
-				<path id="kvg:06962-s5" kvg:type="㇔" d="M52.51,17.06c3.02,2.41,7.79,9.9,8.55,13.65"/>
+	<g id="kvg:06962-Jinmei-g2" kvg:element="酋" kvg:position="right">
+		<g id="kvg:06962-Jinmei-g3" kvg:element="八" kvg:variant="true" kvg:position="top">
+			<g id="kvg:06962-Jinmei-g4" kvg:position="left">
+				<path id="kvg:06962-Jinmei-s5" kvg:type="㇔" d="M56.98,16.66c0.03,0.43,0.06,1.11-0.06,1.72c-0.73,3.63-4.93,11.61-10.67,16.49"/>
 			</g>
-			<g id="kvg:06962-g5" kvg:position="right">
-				<path id="kvg:06962-s6" kvg:type="㇒" d="M83.66,13.21c0.02,0.38,0.04,0.99-0.04,1.54c-0.49,3.25-3.28,10.37-7.11,14.73"/>
+			<g id="kvg:06962-Jinmei-g5" kvg:position="right">
+				<path id="kvg:06962-Jinmei-s6" kvg:type="㇒" d="M67.91,13.75c5.03,0.87,20.61,14.32,24.54,16.66c1.33,0.79,2.47,1.13,3.8,1.36"/>
 			</g>
 		</g>
-		<g id="kvg:06962-g6" kvg:element="酉" kvg:position="bottom">
-			<g id="kvg:06962-g7" kvg:element="西" kvg:part="1" kvg:original="襾">
-				<path id="kvg:06962-s7" kvg:type="㇐" d="M45.84,35.93c0.98,0.44,2.77,0.48,3.76,0.44c8.9-0.37,33.9-3.87,43.13-4.52c1.63-0.12,2.62,0.21,3.43,0.43"/>
-				<path id="kvg:06962-s8" kvg:type="㇑" d="M50.21,48.89c0.53,0.62,0.74,2.1,0.74,2.93c0,0.82-0.35,44.79-0.35,45.2"/>
-				<path id="kvg:06962-s9" kvg:type="㇕a" d="M51.34,50.05c3.02-0.1,33.19-3.28,35.95-3.4c2.3-0.1,3.93,0.99,3.93,3.32c0,1.3-0.32,37.59-0.31,46.63"/>
-				<path id="kvg:06962-s10" kvg:type="㇒" d="M63.42,36.24c0.92,0.96,0.62,2.28,0.62,3.61c0,16.91-0.61,25.72-9.34,31.42"/>
-				<path id="kvg:06962-s11" kvg:type="㇟a" d="M74.37,34.84c0.59,1.07,1.05,2.33,1.09,3.98c0.11,5.24-0.26,14.8-0.31,21.28c-0.04,5.62,1.65,6.32,7.22,6.32c3.54,0,7.06-0.7,7.46-1.33"/>
+		<g id="kvg:06962-Jinmei-g6" kvg:element="酉" kvg:position="bottom">
+			<g id="kvg:06962-Jinmei-g7" kvg:element="西" kvg:part="1" kvg:original="襾">
+				<path id="kvg:06962-Jinmei-s7" kvg:type="㇐" d="M53.47,34.31c1.03,0.46,2.91,0.56,3.95,0.46c9.15-0.93,18.26-2.69,23.93-2.94c1.71-0.08,2.75,0.22,3.61,0.45"/>
+				<path id="kvg:06962-Jinmei-s8" kvg:type="㇑" d="M49.92,47.57c0.84,1.09,1.16,3.7,1.16,5.15c0,1.45,0.05,44.94,0.05,45.37"/>
+				<path id="kvg:06962-Jinmei-s9" kvg:type="㇕a" d="M51.29,49.31c3.18-0.18,33.2-3.31,35.91-3.43c2.25-0.11,4,1.79,4,4.18c0,1.34-0.91,37.16-0.9,46.43"/>
+				<path id="kvg:06962-Jinmei-s10" kvg:type="㇒" d="M62.79,34.52c0.3,1.36,0.69,2.54,0.71,4.01c0.19,15.43-0.39,24.85-7.49,32.74"/>
+				<path id="kvg:06962-Jinmei-s11" kvg:type="㇟a" d="M73.43,35.38c0.56,1.05,1.01,2.28,1.04,3.89c0.11,5.12-0.25,14.56-0.3,20.88c-0.04,5.49,1.58,6.17,6.95,6.17c3.4,0,6.78-0.68,7.17-1.3"/>
 			</g>
-			<g id="kvg:06962-g8" kvg:element="一">
-				<path id="kvg:06962-s12" kvg:type="㇐a" d="M51.56,81.29c4.09,0,34.88-2.37,39.51-2.37"/>
+			<g id="kvg:06962-Jinmei-g8" kvg:element="一">
+				<path id="kvg:06962-Jinmei-s12" kvg:type="㇐a" d="M51.44,81.18c3.91,0,34.64-2.11,39.05-2.11"/>
 			</g>
-			<g id="kvg:06962-g9" kvg:element="西" kvg:part="2" kvg:original="襾">
-				<path id="kvg:06962-s13" kvg:type="㇐a" d="M51.28,94.34c8.34-0.47,28.49-1.75,38.87-2.15"/>
+			<g id="kvg:06962-Jinmei-g9" kvg:element="西" kvg:part="2" kvg:original="襾">
+				<path id="kvg:06962-Jinmei-s13" kvg:type="㇐a" d="M51.52,93.85c7.89-0.29,28.52-1.74,38.34-1.98"/>
 			</g>
 		</g>
 	</g>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_06962" style="font-size:8;fill:#808080">
+<g id="kvg:StrokeNumbers_06962-Jinmei" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 6.50 40.50)">1</text>
 	<text transform="matrix(1 0 0 1 20.50 15.50)">2</text>
 	<text transform="matrix(1 0 0 1 20.50 49.50)">3</text>
@@ -82,7 +82,7 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 51.75 47.50)">9</text>
 	<text transform="matrix(1 0 0 1 54.25 43.50)">10</text>
 	<text transform="matrix(1 0 0 1 66.50 42.50)">11</text>
-	<text transform="matrix(1 0 0 1 55.50 77.80)">12</text>
+	<text transform="matrix(1 0 0 1 55.50 78.50)">12</text>
 	<text transform="matrix(1 0 0 1 55.50 90.50)">13</text>
 </g>
 </svg>
