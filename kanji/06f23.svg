@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_06f23" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:06f23" kvg:element="漣">
-	<g id="kvg:06f23-g1" kvg:element="氵" kvg:variant="true" kvg:original="水" kvg:position="left" kvg:radical="general">
+	<g id="kvg:06f23-g1" kvg:element="氵" kvg:original="水" kvg:position="left" kvg:radical="general">
 		<path id="kvg:06f23-s1" kvg:type="㇔" d="M18.13,15c3.75,1.52,9.68,6.23,10.62,8.59"/>
 		<path id="kvg:06f23-s2" kvg:type="㇔" d="M12.5,39c4.24,1.32,10.94,5.44,12,7.5"/>
 		<path id="kvg:06f23-s3" kvg:type="㇀" d="M11.75,89.21c1.5,1.31,3.31,1.36,4.25-0.25c2.75-4.7,5.5-10.45,8-16.45"/>
@@ -52,10 +52,11 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:06f23-s9" kvg:type="㇐" d="M53.82,70.72c1,0.72,2.8,0.81,3.82,0.72c10.86-0.94,21.62-2.47,33.37-2.94c1.66-0.07,2.66,0.34,3.49,0.7"/>
 			<path id="kvg:06f23-s10" kvg:type="㇑" d="M71.8,10.63c0.51,0.56,2.2,1.87,2.2,4.79c0,1.12-0.07,63.99-0.17,70.96"/>
 		</g>
-		<g id="kvg:06f23-g4" kvg:element="⻌" kvg:original="辶" kvg:position="nyo">
-			<path id="kvg:06f23-s11" kvg:type="㇔" d="M37.12,24.25c3.4,1.39,8.77,5.72,9.62,7.88"/>
-			<path id="kvg:06f23-s12" kvg:type="㇋" d="M33.5,57.7c1.88,0.86,3.14,0.43,3.98,0.21s6.7-2.99,7.96-3.42c1.26-0.43,3.14,1.07,2.3,2.35c-0.84,1.28-5.85,8.2-6.48,9.27c-0.63,1.07-0.42,2.99,0.84,4.49c1.26,1.5,2.8,1.71,3.43,2.99c0.63,1.28,0.63,2.35-0.63,3.42s-8.04,7.06-9.29,7.49"/>
-			<path id="kvg:06f23-s13" kvg:type="㇏a" d="M32.55,85.28c2.37-0.4,7.11-1.41,10.66-0.61c3.55,0.81,23.75,6.22,27.24,7.26c9.48,2.83,16.78,3.63,23.88,2.22"/>
+		<g id="kvg:06f23-g4" kvg:element="辶" kvg:position="nyo">
+			<path id="kvg:06f23-s11" kvg:type="㇔" d="M39.53,16.5c2.89,1.74,7.47,7.17,8.19,9.88"/>
+			<path id="kvg:06f23-s12" kvg:type="㇔" d="M34.16,39c3.45,0.99,8.92,4.09,9.79,5.63"/>
+			<path id="kvg:06f23-s13" kvg:type="㇋" d="M33,60.94c1.79,0.85,2.99,0.43,3.78,0.21c0.8-0.21,6.37-2.99,7.56-3.42c1.19-0.43,2.99,1.07,2.19,2.35s-3.19,6.19-3.78,7.26c-0.6,1.07-0.4,2.99,0.8,4.48s2.19,3.2,2.79,4.48c0.6,1.28,0.6,2.35-0.6,3.42c-1.19,1.07-7.17,7.04-8.36,7.47"/>
+			<path id="kvg:06f23-s14" kvg:type="㇏" d="M34,88.07c2.36-0.24,7.07-0.85,10.61-0.37c3.54,0.49,23.64,3.76,27.12,4.39c9.43,1.71,16.7,2.19,23.78,1.34"/>
 		</g>
 	</g>
 </g>
@@ -71,8 +72,9 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 64.50 56.85)">8</text>
 	<text transform="matrix(1 0 0 1 52.50 68.50)">9</text>
 	<text transform="matrix(1 0 0 1 59.50 12.50)">10</text>
-	<text transform="matrix(1 0 0 1 32.50 21.50)">11</text>
-	<text transform="matrix(1 0 0 1 30.50 54.80)">12</text>
-	<text transform="matrix(1 0 0 1 25.50 82.50)">13</text>
+	<text transform="matrix(1 0 0 1 31.50 16.50)">11</text>
+	<text transform="matrix(1 0 0 1 25.50 39.50)">12</text>
+	<text transform="matrix(1 0 0 1 24.50 60.50)">13</text>
+	<text transform="matrix(1 0 0 1 23.50 87.50)">14</text>
 </g>
 </svg>

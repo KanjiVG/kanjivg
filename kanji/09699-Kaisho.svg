@@ -38,13 +38,13 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_09699-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09699-Kaisho" kvg:element="隙">
 	<g id="kvg:09699-Kaisho-g1" kvg:element="⻖" kvg:variant="true" kvg:original="阜" kvg:position="left" kvg:radical="general">
-		<path id="kvg:09699-Kaisho-s1" kvg:type="㇇" d="M14.5,15.75c1.5,0.5,3.01,0.52,4.84,0.29c6.16-0.79,10.92-1.5,13.14-2.34c2.97-1.12,5.93,1.12,4.61,3.74c-1.32,2.62-6.6,13.31-11.23,20.59"/>
+		<path id="kvg:09699-Kaisho-s1" kvg:type="㇇" d="M13.25,15.75c0.75,0.19,1.8,0.86,3.01,0.73c6.74-0.73,13.82-1.87,16.23-2.78c2.97-1.12,5.93,1.12,4.61,3.74c-1.32,2.62-6.6,13.31-11.23,20.59"/>
 		<path id="kvg:09699-Kaisho-s2" kvg:type="㇕va" d="M26.37,39.04c13.18,9.36,13.13,40.21,1.65,32.57"/>
-		<path id="kvg:09699-Kaisho-s3" kvg:type="㇑" d="M16.59,97.75c0.22-7.02,0.43-76.5,0.22-77.62c-0.22-1.12-0.56-2.38-0.94-3.65"/>
+		<path id="kvg:09699-Kaisho-s3" kvg:type="㇑" d="M15.87,16.98c0.83,0.83,0.72,2.53,0.94,3.65c0.21,1.12,0,70.1-0.22,77.12"/>
 	</g>
 	<g id="kvg:09699-Kaisho-g2" kvg:position="right">
-		<g id="kvg:09699-Kaisho-g3" kvg:element="小">
-			<path id="kvg:09699-Kaisho-s4" kvg:type="㇚" d="M66.86,10.37c0.06,0.2,0.77,1.03,0.82,2.29c0.26,6.04-0.17,20.18-0.17,22.23c0,8.61-4.72,0.62-5.71,0.1"/>
+		<g id="kvg:09699-Kaisho-g3" kvg:element="小" kvg:variant="true">
+			<path id="kvg:09699-Kaisho-s4" kvg:type="㇑/㇚" d="M65.58,10.12c0.09,0.32,1.25,1.68,1.34,3.72c0.43,9.82-0.27,24.7-0.27,28.05"/>
 			<path id="kvg:09699-Kaisho-s5" kvg:type="㇒" d="M54.95,18.82c0.04,0.41,0.09,1.06-0.09,1.66c-1.07,3.49-7.21,11.16-15.61,15.85"/>
 			<path id="kvg:09699-Kaisho-s6" kvg:type="㇔" d="M78.07,19.4c5.18,2.72,13.39,11.18,14.68,15.41"/>
 		</g>
@@ -64,7 +64,7 @@ kvg:type CDATA #IMPLIED >
 </g>
 <g id="kvg:StrokeNumbers_09699-Kaisho" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 19.50 13.50)">1</text>
-	<text transform="matrix(1 0 0 1 22.50 48.50)">2</text>
+	<text transform="matrix(1 0 0 1 22.50 46.50)">2</text>
 	<text transform="matrix(1 0 0 1 9.50 24.50)">3</text>
 	<text transform="matrix(1 0 0 1 58.50 10.50)">4</text>
 	<text transform="matrix(1 0 0 1 47.50 18.50)">5</text>

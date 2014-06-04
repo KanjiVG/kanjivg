@@ -53,7 +53,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:05132-Kaisho-s9" kvg:type="㇐b" d="M36.94,92.2c4.23-0.52,9.61-0.93,15.42-1.73"/>
 			</g>
 		</g>
-		<g id="kvg:05132-Kaisho-g5" kvg:element="者" kvg:position="right">
+		<g id="kvg:05132-Kaisho-g5" kvg:element="者" kvg:variant="true" kvg:position="right">
 			<g id="kvg:05132-Kaisho-g6" kvg:element="耂" kvg:original="老" kvg:partial="true">
 				<g id="kvg:05132-Kaisho-g7" kvg:element="土">
 					<path id="kvg:05132-Kaisho-s10" kvg:type="㇐" d="M61.45,30.23c0.44,0.31,1.25,0.35,1.7,0.31c6.8-0.54,12.78-2.89,17.74-3.11c0.74-0.03,1.18,0.15,1.55,0.3"/>
@@ -62,11 +62,12 @@ kvg:type CDATA #IMPLIED >
 				</g>
 				<path id="kvg:05132-Kaisho-s13" kvg:type="㇒" d="M91.53,21.27c0.1,0.98,0.03,2.78-0.69,3.94c-9.25,14.94-17.83,25.62-34.72,39.43"/>
 			</g>
+			<path id="kvg:05132-Kaisho-s14" kvg:type="㇔" d="M78,48.75c2.05,1.23,5.3,5.05,5.81,6.97"/>
 			<g id="kvg:05132-Kaisho-g8" kvg:element="日">
-				<path id="kvg:05132-Kaisho-s14" kvg:type="㇑" d="M67.55,58.92c0.29,0.82,0.59,1.23,0.59,2.33c0,1.09-0.1,32.66,0,33.75"/>
-				<path id="kvg:05132-Kaisho-s15" kvg:type="㇕a" d="M68.63,60.56c1.66-0.14,18.42-2.79,19.93-2.96c1.26-0.14,2.07,1.56,1.97,2.39c-0.2,1.69-0.39,32.61-0.39,33.46"/>
-				<path id="kvg:05132-Kaisho-s16" kvg:type="㇐a" d="M68.92,75.37c3.37,0,6.82-0.62,10.16-0.98c1.13-0.12,2.27-0.24,3.36-0.36"/>
-				<path id="kvg:05132-Kaisho-s17" kvg:type="㇐a" d="M68.82,91.93c4.57-0.59,14.94-1.18,20.63-1.7"/>
+				<path id="kvg:05132-Kaisho-s15" kvg:type="㇑" d="M67.55,58.92c0.29,0.82,0.59,1.23,0.59,2.33c0,1.09-0.1,32.66,0,33.75"/>
+				<path id="kvg:05132-Kaisho-s16" kvg:type="㇕a" d="M68.63,60.56c1.66-0.14,18.42-2.79,19.93-2.96c1.26-0.14,2.07,1.56,1.97,2.39c-0.2,1.69-0.39,32.61-0.39,33.46"/>
+				<path id="kvg:05132-Kaisho-s17" kvg:type="㇐a" d="M68.92,75.37c3.37,0,6.82-0.62,10.16-0.98c1.13-0.12,2.27-0.24,3.36-0.36"/>
+				<path id="kvg:05132-Kaisho-s18" kvg:type="㇐a" d="M68.82,91.93c4.57-0.59,14.94-1.18,20.63-1.7"/>
 			</g>
 		</g>
 	</g>
@@ -83,12 +84,13 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 36.50 72.50)">8</text>
 	<text transform="matrix(1 0 0 1 39.50 88.50)">9</text>
 	<text transform="matrix(1 0 0 1 56.25 26.95)">10</text>
-	<text transform="matrix(1 0 0 1 63.50 9.50)">11</text>
+	<text transform="matrix(1 0 0 1 62.50 9.50)">11</text>
 	<text transform="matrix(1 0 0 1 54.50 42.50)">12</text>
 	<text transform="matrix(1 0 0 1 81.50 20.50)">13</text>
-	<text transform="matrix(1 0 0 1 58.25 71.65)">14</text>
-	<text transform="matrix(1 0 0 1 74.50 56.50)">15</text>
-	<text transform="matrix(1 0 0 1 71.50 72.50)">16</text>
-	<text transform="matrix(1 0 0 1 71.50 88.50)">17</text>
+	<text transform="matrix(1 0 0 1 82.50 50.50)">14</text>
+	<text transform="matrix(1 0 0 1 58.25 71.50)">15</text>
+	<text transform="matrix(1 0 0 1 71.50 57.50)">16</text>
+	<text transform="matrix(1 0 0 1 71.50 72.50)">17</text>
+	<text transform="matrix(1 0 0 1 71.50 88.50)">18</text>
 </g>
 </svg>

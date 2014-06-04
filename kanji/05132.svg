@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05132" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05132" kvg:element="儲">
-	<g id="kvg:05132-g1" kvg:element="亻" kvg:variant="true" kvg:original="人" kvg:position="left" kvg:radical="general">
+	<g id="kvg:05132-g1" kvg:element="亻" kvg:original="人" kvg:position="left" kvg:radical="general">
 		<path id="kvg:05132-s1" kvg:type="㇒" d="M28.5,16.39c0.12,1.16,0.21,2.61-0.11,4.03c-2.03,8.99-9.88,26.36-19.34,38.55"/>
 		<path id="kvg:05132-s2" kvg:type="㇑" d="M22.03,43c0.59,0.61,0.76,1.97,0.76,3.23c0,13.02-0.29,44.15-0.29,52.9"/>
 	</g>
@@ -62,11 +62,12 @@ kvg:type CDATA #IMPLIED >
 				</g>
 				<path id="kvg:05132-s13" kvg:type="㇒" d="M91.53,21.27c0.1,0.98,0.03,2.78-0.69,3.94c-9.25,14.94-17.83,25.62-34.72,39.43"/>
 			</g>
+			<path id="kvg:05132-s14" kvg:type="㇔" d="M78,48.75c2.05,1.23,5.3,5.05,5.81,6.97"/>
 			<g id="kvg:05132-g8" kvg:element="日">
-				<path id="kvg:05132-s14" kvg:type="㇑" d="M67.55,58.92c0.29,0.82,0.59,1.23,0.59,2.33c0,1.09-0.1,32.66,0,33.75"/>
-				<path id="kvg:05132-s15" kvg:type="㇕a" d="M68.63,60.56c1.66-0.14,18.42-2.79,19.93-2.96c1.26-0.14,2.07,1.56,1.97,2.39c-0.2,1.69-0.39,32.61-0.39,33.46"/>
-				<path id="kvg:05132-s16" kvg:type="㇐a" d="M68.92,75.37c2.24,0,18-1.95,20.54-1.95"/>
-				<path id="kvg:05132-s17" kvg:type="㇐a" d="M68.82,91.93c4.57-0.59,14.94-1.18,20.63-1.7"/>
+				<path id="kvg:05132-s15" kvg:type="㇑" d="M67.55,58.92c0.29,0.82,0.59,1.23,0.59,2.33c0,1.09-0.1,32.66,0,33.75"/>
+				<path id="kvg:05132-s16" kvg:type="㇕a" d="M68.63,60.56c1.66-0.14,18.42-2.79,19.93-2.96c1.26-0.14,2.07,1.56,1.97,2.39c-0.2,1.69-0.39,32.61-0.39,33.46"/>
+				<path id="kvg:05132-s17" kvg:type="㇐a" d="M68.92,75.37c2.24,0,18-1.95,20.54-1.95"/>
+				<path id="kvg:05132-s18" kvg:type="㇐a" d="M68.82,91.93c4.57-0.59,14.94-1.18,20.63-1.7"/>
 			</g>
 		</g>
 	</g>
@@ -83,12 +84,13 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 36.50 72.50)">8</text>
 	<text transform="matrix(1 0 0 1 39.50 88.50)">9</text>
 	<text transform="matrix(1 0 0 1 56.25 26.95)">10</text>
-	<text transform="matrix(1 0 0 1 63.50 9.50)">11</text>
+	<text transform="matrix(1 0 0 1 62.50 9.50)">11</text>
 	<text transform="matrix(1 0 0 1 54.50 42.50)">12</text>
 	<text transform="matrix(1 0 0 1 81.50 20.50)">13</text>
-	<text transform="matrix(1 0 0 1 58.25 71.65)">14</text>
-	<text transform="matrix(1 0 0 1 74.50 56.50)">15</text>
-	<text transform="matrix(1 0 0 1 71.50 72.50)">16</text>
-	<text transform="matrix(1 0 0 1 71.50 88.50)">17</text>
+	<text transform="matrix(1 0 0 1 82.50 50.50)">14</text>
+	<text transform="matrix(1 0 0 1 58.25 71.50)">15</text>
+	<text transform="matrix(1 0 0 1 71.50 57.50)">16</text>
+	<text transform="matrix(1 0 0 1 71.50 72.50)">17</text>
+	<text transform="matrix(1 0 0 1 71.50 88.50)">18</text>
 </g>
 </svg>

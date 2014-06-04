@@ -48,12 +48,12 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08afa-Kaisho-s7" kvg:type="㇐b" d="M19.97,88.55c4.8-0.54,10.6-0.97,17.19-1.81"/>
 		</g>
 	</g>
-	<g id="kvg:08afa-Kaisho-g3" kvg:element="彦" kvg:position="right">
-		<g id="kvg:08afa-Kaisho-g4" kvg:element="立">
-			<path id="kvg:08afa-Kaisho-s8" kvg:type="㇑a" d="M65.33,10.97c2.67,1.28,3.67,2.78,5.15,5.96"/>
+	<g id="kvg:08afa-Kaisho-g3" kvg:element="彦" kvg:variant="true" kvg:position="right">
+		<g id="kvg:08afa-Kaisho-g4" kvg:element="立" kvg:variant="true">
+			<path id="kvg:08afa-Kaisho-s8" kvg:type="㇑a/㇔" d="M63.39,10.97C67,13,69.75,16,71.42,18.93"/>
 			<path id="kvg:08afa-Kaisho-s9" kvg:type="㇐" d="M50.72,25.79c0.77,0.29,1.66,0.33,2.44,0.29c7.49-0.33,22.21-3.58,33.09-3.88c1.28-0.04,2.05,0.14,2.7,0.29"/>
-			<path id="kvg:08afa-Kaisho-s10" kvg:type="㇔" d="M56.06,31.73c3.73,3.95,5.77,8.17,6.11,10.77"/>
-			<path id="kvg:08afa-Kaisho-s11" kvg:type="㇒" d="M80.66,25.5c0.34,0.75,0.74,1.9,0.57,2.36C79.5,32.75,76.52,40.47,75.37,43"/>
+			<path id="kvg:08afa-Kaisho-s10" kvg:type="㇒/㇔" d="M76.6,26.5c0.4,1.25,0.17,2.93-0.29,3.4C71.36,34.85,64.28,43.19,61,45.75"/>
+			<path id="kvg:08afa-Kaisho-s11" kvg:type="㇔/㇒" d="M61.25,29.75c6.3,3.31,13.09,8.92,16,13.25"/>
 			<g id="kvg:08afa-Kaisho-g5" kvg:element="厂" kvg:part="1">
 				<path id="kvg:08afa-Kaisho-s12" kvg:type="㇐" d="M47.48,48.77C48.29,49,51.92,49.1,52.72,49c11.34-1.46,26.82-3.25,38.36-4.48c1.34-0.14,3.5,0.11,4.17,0.23"/>
 			</g>
@@ -85,8 +85,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 23.50 84.50)">7</text>
 	<text transform="matrix(1 0 0 1 58.50 11.50)">8</text>
 	<text transform="matrix(1 0 0 1 47.50 22.50)">9</text>
-	<text transform="matrix(1 0 0 1 46.50 36.50)">10</text>
-	<text transform="matrix(1 0 0 1 69.75 32.38)">11</text>
+	<text transform="matrix(1 0 0 1 67.50 30.75)">10</text>
+	<text transform="matrix(1 0 0 1 54.50 33.50)">11</text>
 	<text transform="matrix(1 0 0 1 45.50 46.05)">12</text>
 	<text transform="matrix(1 0 0 1 41.25 58.50)">13</text>
 	<text transform="matrix(1 0 0 1 68.50 55.15)">14</text>

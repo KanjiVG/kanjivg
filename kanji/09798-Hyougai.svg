@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_09798-Hyougai" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:09798-Hyougai" kvg:element="鞘">
+	<g id="kvg:09798-Hyougai-g1" kvg:element="革" kvg:position="left" kvg:radical="general">
+		<g id="kvg:09798-Hyougai-g2" kvg:element="廿" kvg:position="top">
+			<g id="kvg:09798-Hyougai-g3" kvg:element="十">
+				<path id="kvg:09798-Hyougai-s1" kvg:type="㇐" d="M11.9,23.88c2.11,0.35,4.23,0.44,6.36,0.13c8.86-1.26,13.99-1.51,23.48-2.2c2.28-0.17,4.5-0.38,6.73,0.02"/>
+				<path id="kvg:09798-Hyougai-s2" kvg:type="㇑" d="M18.1,15.46c0.91,0.91,1.18,1.86,1.24,3.02c0.53,3.98,1.24,8.18,1.74,13.02c0.19,1.85,0.38,3.83,0.59,6"/>
+			</g>
+			<path id="kvg:09798-Hyougai-s3" kvg:type="㇑a" d="M37.56,13.75c0.81,1.25,0.82,2.46,0.67,3.89c-0.61,5.99-0.98,7.49-2.15,16.39"/>
+			<path id="kvg:09798-Hyougai-s4" kvg:type="㇐b" d="M22.58,36c3.05-0.28,7.82-0.57,11.92-0.85c1.33-0.09,2.57-0.18,3.6-0.27"/>
+		</g>
+		<g id="kvg:09798-Hyougai-g4" kvg:position="bottom">
+			<path id="kvg:09798-Hyougai-s5" kvg:type="㇑" d="M13.26,46.35c1.07,1.07,1.39,2.42,1.57,3.74c0.57,3.22,1.09,6.2,1.63,9.63c0.25,1.55,0.5,3.19,0.76,4.99"/>
+			<path id="kvg:09798-Hyougai-s6" kvg:type="㇕" d="M15.73,47.96c8.59-1.2,19.27-2.58,25.42-3.21c2.68-0.28,3.91,0.93,3.37,3.65c-0.57,2.87-1.67,6.92-2.59,11.38"/>
+			<path id="kvg:09798-Hyougai-s7" kvg:type="㇐" d="M18,62.63c4.24-0.39,12.67-1.14,19.63-1.7c2.07-0.17,4-0.31,5.6-0.43"/>
+			<path id="kvg:09798-Hyougai-s8" kvg:type="㇐" d="M8.75,75.08c2.9,0.58,5.8,0.53,8.74,0.1c7.38-1.06,16.51-1.68,24.26-2.05c2.43-0.11,4.84-0.2,7.25,0.04"/>
+			<path id="kvg:09798-Hyougai-s9" kvg:type="㇑" d="M28.57,38.5c1.03,1.03,1.06,2.38,1.06,3.75c0,6.63,0.04,32.58,0.06,47c0,4.06,0.01,7.21,0.01,8.75"/>
+		</g>
+	</g>
+	<g id="kvg:09798-Hyougai-g5" kvg:element="肖" kvg:position="right">
+		<g id="kvg:09798-Hyougai-g6" kvg:element="⺌" kvg:variant="true" kvg:original="小" kvg:position="top">
+			<path id="kvg:09798-Hyougai-s10" kvg:type="㇑a" d="M71.99,11.75c1.01,1.01,1.17,2.25,1.17,3.84c0,8.16-0.03,20.88-0.03,24.78"/>
+			<path id="kvg:09798-Hyougai-s11" kvg:type="㇔" d="M53.81,19.83c3.21,3.02,7.27,10.54,8.07,15.24"/>
+			<path id="kvg:09798-Hyougai-s12" kvg:type="㇒" d="M93.45,16.35c0,1.15-0.26,2.06-0.83,3.06c-3.24,5.72-5.26,8.87-9.73,14.35"/>
+		</g>
+		<g id="kvg:09798-Hyougai-g7" kvg:element="月" kvg:position="bottom">
+			<path id="kvg:09798-Hyougai-s13" kvg:type="㇑/㇒" d="M56.86,42.44c0.91,0.91,1.24,2.31,1.24,3.78c0,0.73-0.03,24.75-0.04,39.52c0,4.56-0.01,8.23-0.01,10.08"/>
+			<path id="kvg:09798-Hyougai-s14" kvg:type="㇆a" d="M59.09,43.62c2.21-0.21,20.91-2.32,26.39-3.01c2.88-0.37,5.49,0.61,5.49,3.98c0,10.54-0.1,38.04-0.1,45.54c0,11.25-5.62,1.46-7.48-0.17"/>
+			<path id="kvg:09798-Hyougai-s15" kvg:type="㇐a" d="M59.09,56.94c11.53-1.44,20.28-2.06,31.34-2.78"/>
+			<path id="kvg:09798-Hyougai-s16" kvg:type="㇐a" d="M58.97,71.36c9.78-0.98,23.22-2.32,30.89-2.78"/>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_09798-Hyougai" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 5.50 25.50)">1</text>
+	<text transform="matrix(1 0 0 1 9.50 15.50)">2</text>
+	<text transform="matrix(1 0 0 1 28.50 12.50)">3</text>
+	<text transform="matrix(1 0 0 1 24.50 32.50)">4</text>
+	<text transform="matrix(1 0 0 1 6.50 52.50)">5</text>
+	<text transform="matrix(1 0 0 1 16.58 44.50)">6</text>
+	<text transform="matrix(1 0 0 1 21.50 59.50)">7</text>
+	<text transform="matrix(1 0 0 1 1.50 76.50)">8</text>
+	<text transform="matrix(1 0 0 1 33.50 42.50)">9</text>
+	<text transform="matrix(1 0 0 1 58.50 12.50)">10</text>
+	<text transform="matrix(1 0 0 1 47.50 16.50)">11</text>
+	<text transform="matrix(1 0 0 1 81.50 14.50)">12</text>
+	<text transform="matrix(1 0 0 1 48.50 48.50)">13</text>
+	<text transform="matrix(1 0 0 1 63.25 40.50)">14</text>
+	<text transform="matrix(1 0 0 1 62.50 53.58)">15</text>
+	<text transform="matrix(1 0 0 1 62.50 67.50)">16</text>
+</g>
+</svg>

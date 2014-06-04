@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_05026-Hyougai" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:05026-Hyougai" kvg:element="倦">
+	<g id="kvg:05026-Hyougai-g1" kvg:element="亻" kvg:variant="true" kvg:original="人" kvg:position="left" kvg:radical="general">
+		<path id="kvg:05026-Hyougai-s1" kvg:type="㇒" d="M31.49,17.14c0.13,1.16-0.17,2.4-0.62,3.8c-3.75,11.68-10.5,24.8-21.57,38.27"/>
+		<path id="kvg:05026-Hyougai-s2" kvg:type="㇑" d="M24.78,39.5c0.92,0.92,1.01,1.88,1.01,3.73c0,9.57-0.02,27.97-0.03,40.52c0,4.53-0.01,8.3-0.01,10.62"/>
+	</g>
+	<g id="kvg:05026-Hyougai-g2" kvg:element="巻" kvg:position="right">
+		<g id="kvg:05026-Hyougai-g3" kvg:position="top">
+			<path id="kvg:05026-Hyougai-s3" kvg:type="㇔" d="M42.31,21.1c2.82,1.93,7.11,7.97,7.81,10.98"/>
+			<path id="kvg:05026-Hyougai-s4" kvg:type="㇒" d="M82.37,15.78c0.04,1.12-0.23,2.12-0.8,3c-1.9,3.3-4.01,6.69-8,11.3"/>
+			<g id="kvg:05026-Hyougai-g4" kvg:element="二">
+				<g id="kvg:05026-Hyougai-g5" kvg:position="top">
+					<path id="kvg:05026-Hyougai-s5" kvg:type="㇐" d="M39.21,38.12c3.72,0.08,7.41-0.2,11.05-0.85c8.42-1.38,19.77-2.98,28.88-3.99c3.42-0.41,6.85-0.47,10.31-0.17"/>
+				</g>
+				<g id="kvg:05026-Hyougai-g6" kvg:position="bottom">
+					<path id="kvg:05026-Hyougai-s6" kvg:type="㇐" d="M34.25,50.56c4.62,0.44,8.31,0.08,12.61-0.42c16.01-1.89,23.51-3.01,37.51-3.97c3.66-0.25,7.32-0.35,10.99-0.1"/>
+				</g>
+			</g>
+			<g id="kvg:05026-Hyougai-g7" kvg:element="人">
+				<path id="kvg:05026-Hyougai-s7" kvg:type="㇒" d="M63.71,13.75c0.17,1.5,0.23,2.83-0.35,4.81C58.5,35.25,49.75,59,32.25,73.76"/>
+				<path id="kvg:05026-Hyougai-s8" kvg:type="㇏" d="M66.08,40.07c4.44,4.45,13.5,14.67,20.35,21.42c3.3,3.04,6.66,5.65,10.57,7.84"/>
+			</g>
+		</g>
+		<g id="kvg:05026-Hyougai-g8" kvg:element="己" kvg:position="bottom">
+			<path id="kvg:05026-Hyougai-s9" kvg:type="㇕c" d="M51.46,62.83c2,0.48,4.01,0.53,6.03,0.15c4.41-0.8,10.94-2.43,14.12-3.13c2.04-0.45,3.54,0.45,3.02,2.78c-0.42,1.85-1.33,6.09-1.95,9.58"/>
+			<path id="kvg:05026-Hyougai-s10" kvg:type="㇐" d="M52.69,76.1c3.25-0.25,10.47-1.58,16.82-2.45c1.78-0.25,3.49-0.46,5.03-0.6"/>
+			<path id="kvg:05026-Hyougai-s11" kvg:type="㇟" d="M50.47,73.93c0.99,0.99,1.34,2.19,1.34,3.71c0,2.98-0.14,5.17-0.14,7.87c0,7.11,1.43,8.5,18.24,8.5c17.64,0,18.63-0.82,18.63-8.78"/>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_05026-Hyougai" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 22.50 16.50)">1</text>
+	<text transform="matrix(1 0 0 1 18.50 57.50)">2</text>
+	<text transform="matrix(1 0 0 1 38.50 17.50)">3</text>
+	<text transform="matrix(1 0 0 1 78.50 11.50)">4</text>
+	<text transform="matrix(1 0 0 1 36.72 34.50)">5</text>
+	<text transform="matrix(1 0 0 1 32.50 47.50)">6</text>
+	<text transform="matrix(1 0 0 1 55.50 10.50)">7</text>
+	<text transform="matrix(1 0 0 1 72.50 42.10)">8</text>
+	<text transform="matrix(1 0 0 1 51.50 60.50)">9</text>
+	<text transform="matrix(1 0 0 1 51.50 72.50)">10</text>
+	<text transform="matrix(1 0 0 1 41.50 80.50)">11</text>
+</g>
+</svg>
