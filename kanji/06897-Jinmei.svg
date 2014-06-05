@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons 
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_06897-Jinmei" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:06897-Jinmei" kvg:element="梗">
+	<g id="kvg:06897-Jinmei-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
+		<path id="kvg:06897-Jinmei-s1" kvg:type="㇐" d="M13.28,39.72c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,15.12-2.21,21.45-3.41c0.92-0.17,1.15-0.24,1.73,0"/>
+		<path id="kvg:06897-Jinmei-s2" kvg:type="㇑" d="M27.36,15c0.91,0.47,2.04,2.75,2.04,4.92c0,0.95-0.12,68.75-0.3,74.58"/>
+		<path id="kvg:06897-Jinmei-s3" kvg:type="㇒" d="M28.94,42.28c-5.9,14.39-9.19,20.47-18.33,33.06"/>
+		<path id="kvg:06897-Jinmei-s4" kvg:type="㇔/㇏" d="M32.97,47.9c2.37,1.32,5.66,5.83,7.66,8.39"/>
+	</g>
+	<g id="kvg:06897-Jinmei-g2" kvg:element="更" kvg:position="right">
+		<path id="kvg:06897-Jinmei-s5" kvg:type="㇐" d="M47.09,21.1c0.84,0.58,2.35,0.58,3.2,0.58c7.46,0.07,28.38-4.23,36.85-4.4c1.39-0.03,2.23,0.28,2.92,0.57"/>
+		<g id="kvg:06897-Jinmei-g3" kvg:element="日">
+			<path id="kvg:06897-Jinmei-s6" kvg:type="㇑" d="M48.69,34.4c0.49,0.73,0.98,1.63,0.98,2.61s3.01,23.64,3.17,24.62"/>
+			<path id="kvg:06897-Jinmei-s7" kvg:type="㇕a" d="M50.5,35.58c2.77-0.12,34.96-4.56,37.49-4.71c2.11-0.12,3.32,1.6,2.71,5.26c-0.95,5.76-1.37,10.09-4.21,22.84"/>
+			<path id="kvg:06897-Jinmei-s8" kvg:type="㇐a" d="M51.43,47.24c6.98-1.25,32.06-3.69,36.31-3.69"/>
+			<path id="kvg:06897-Jinmei-s9" kvg:type="㇐a" d="M54.42,58.88c10.8-1.49,20.78-1.79,32.3-2.94"/>
+		</g>
+		<g id="kvg:06897-Jinmei-g4" kvg:element="乂">
+			<g id="kvg:06897-Jinmei-g5" kvg:element="丿">
+				<path id="kvg:06897-Jinmei-s10" kvg:type="㇒" d="M69.22,21.75c0.68,1.41,0.64,2.59,0.64,4.63c0,32.48-0.61,56.87-27.58,69.16"/>
+			</g>
+			<path id="kvg:06897-Jinmei-s11" kvg:type="㇏" d="M55.25,64.25C60,72,83.29,88.14,89.61,91.8c2.14,1.24,3.98,1.78,6.12,2.13"/>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_06897-Jinmei" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 5.85 41.85)">1</text>
+	<text transform="matrix(1 0 0 1 18.50 15.50)">2</text>
+	<text transform="matrix(1 0 0 1 18.50 51.50)">3</text>
+	<text transform="matrix(1 0 0 1 35.50 46.50)">4</text>
+	<text transform="matrix(1 0 0 1 46.50 18.50)">5</text>
+	<text transform="matrix(1 0 0 1 43.50 45.25)">6</text>
+	<text transform="matrix(1 0 0 1 52.25 32.50)">7</text>
+	<text transform="matrix(1 0 0 1 55.25 44.50)">8</text>
+	<text transform="matrix(1 0 0 1 56.50 55.50)">9</text>
+	<text transform="matrix(1 0 0 1 59.50 29.50)">10</text>
+	<text transform="matrix(1 0 0 1 43.50 70.50)">11</text>
+</g>
+</svg>
