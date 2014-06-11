@@ -53,13 +53,10 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:0724c-s7" kvg:type="㇕a" d="M52.87,29.69c10.29-1.12,28.73-2.96,36.42-3.9c2.82-0.35,3.92,0.6,3.72,2.96c-0.38,4.52-2.26,15.25-4.54,22.84"/>
 				<path id="kvg:0724c-s8" kvg:type="㇐a" d="M54.79,40.73c3.35-0.44,32.3-3.66,35.07-3.84"/>
 				<path id="kvg:0724c-s9" kvg:type="㇐a" d="M55.89,52.21c7.41-0.48,22.35-1.98,32.58-2.76"/>
-				<path id="kvg:0724c-s10" kvg:type="㇑a" d="M69.7,28.97c0.85,1.07,1.28,1.22,1.3,1.92c0.24,6.31,0.09,15.93,0.09,19.41"/>
+				<path id="kvg:0724c-s10" kvg:type="㇑a" d="M 69.7,28.97 c 0.85,1.07 1.28,1.22 1.3,1.92 0.267735,6.31 2.707625,13.627467 -0.90711,20.568555 -3.614735,6.941089 -7.410317,11.731313 -12.886944,16.021695"/>
 			</g>
 		</g>
 		<g id="kvg:0724c-g6" kvg:position="bottom">
-			<g id="kvg:0724c-g7" kvg:element="丿">
-				<path id="kvg:0724c-s10prime" kvg:type="㇒" d="M65.47,54.43c0.03,0.33,0.2,0.89-0.06,1.33c-1.91,3.22-5.91,8.07-11.15,12.74"/>
-			</g>
 			<g id="kvg:0724c-g8" kvg:element="十">
 				<path id="kvg:0724c-s11" kvg:type="㇐" d="M45.25,72.81c0.65,0.25,2.4,0.93,4.14,0.75c11.72-1.24,33.75-4.82,44.88-5.06c1.74-0.04,3.15,0.07,4.24,0.32"/>
 				<path id="kvg:0724c-s12" kvg:type="㇑" d="M76.37,54.75c1.09,0.5,1.96,2.23,1.96,3.25c0,4,0.28,27.75,0.28,39"/>
@@ -73,13 +70,13 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 23.25 19.05)">2</text>
 	<text transform="matrix(1 0 0 1 26.25 37.98)">3</text>
 	<text transform="matrix(1 0 0 1 26.25 55.90)">4</text>
-	<text transform="matrix(1 0 0 1 59.25 13.83)">5</text>
+	<text transform="matrix(1 0 0 1 72.85 14.85)">5</text>
 	<text transform="matrix(1 0 0 1 44.25 34.75)">6</text>
-	<text transform="matrix(1 0 0 1 72.25 21.68)">7</text>
+	<text transform="matrix(1 0 0 1 50.25 25.6)">7</text>
 	<text transform="matrix(1 0 0 1 57 38)">8</text>
 	<text transform="matrix(1 0 0 1 58.25 48.45)">9</text>
 	<text transform="matrix(1 0 0 1 74 35.60)">10</text>
 	<text transform="matrix(1 0 0 1 44.25 69.30)">11</text>
-	<text transform="matrix(1 0 0 1 68.25 64.30)">12</text>
+	<text transform="matrix(1 0 0 1 80.1 62.6)">12</text>
 </g>
 </svg>

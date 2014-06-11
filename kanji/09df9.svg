@@ -101,10 +101,10 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 42.25 64.25)">17</text>
 	<text transform="matrix(1 0 0 1 42.22 69.10)">18</text>
 	<text transform="matrix(1 0 0 1 42.21 77.03)">19</text>
-	<text transform="matrix(1 0 0 1 21.25 89.25)">20</text>
-	<text transform="matrix(1 0 0 1 34.25 93.25)">21</text>
-	<text transform="matrix(1 0 0 1 48.25 91.25)">22</text>
-	<text transform="matrix(1 0 0 1 42.21 83.25)">23</text>
+	<text transform="matrix(1 0 0 1 42.21 83.25)">20</text>
+	<text transform="matrix(1 0 0 1 21.25 89.25)">21</text>
+	<text transform="matrix(1 0 0 1 34.25 93.25)">22</text>
+	<text transform="matrix(1 0 0 1 48.25 91.25)">23</text>
 	<text transform="matrix(1 0 0 1 61.25 90.25)">24</text>
 </g>
 </svg>
