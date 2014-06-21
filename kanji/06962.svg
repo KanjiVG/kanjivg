@@ -75,13 +75,13 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 20.50 15.50)">2</text>
 	<text transform="matrix(1 0 0 1 20.50 49.50)">3</text>
 	<text transform="matrix(1 0 0 1 35.50 47.50)">4</text>
-	<text transform="matrix(1 0 0 1 45.50 17.50)">5</text>
-	<text transform="matrix(1 0 0 1 75.50 12.50)">6</text>
-	<text transform="matrix(1 0 0 1 44.50 32.50)">7</text>
+	<text transform="matrix(1 0 0 1 50 17.50)">5</text>
+	<text transform="matrix(1 0 0 1 70 12.50)">6</text>
+	<text transform="matrix(1 0 0 1 55 32)">7</text>
 	<text transform="matrix(1 0 0 1 43.50 55.50)">8</text>
 	<text transform="matrix(1 0 0 1 51.75 47.50)">9</text>
 	<text transform="matrix(1 0 0 1 54.25 43.50)">10</text>
-	<text transform="matrix(1 0 0 1 66.50 42.50)">11</text>
+	<text transform="matrix(1 0 0 1 76 42.50)">11</text>
 	<text transform="matrix(1 0 0 1 55.50 78.50)">12</text>
 	<text transform="matrix(1 0 0 1 55.50 90.50)">13</text>
 </g>
