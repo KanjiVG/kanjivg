@@ -44,13 +44,13 @@ kvg:type CDATA #IMPLIED >
 	<g id="kvg:051a4-g2" kvg:element="兔" kvg:position="bottom">
 		<g id="kvg:051a4-g3" kvg:element="免" kvg:variant="true" kvg:position="kamae">
 			<g id="kvg:051a4-g4" kvg:position="top">
-				<g id="kvg:051a4-g5" kvg:element="𠂊" kvg:variant="true" kvg:original="勹">
-					<path id="kvg:051a4-s3" kvg:type="㇒" d="M43.4,22.15c0.04,0.48,0.09,1.25-0.08,1.94c-1.02,4.1-6.84,13.09-14.82,18.6"/>
-					<path id="kvg:051a4-s4" kvg:type="㇇" d="M41.83,30.04c2.69,0,18.69-2.44,21.52-2.65c2.43-0.18,3.12,1.91,2.17,2.9C61,35,57,39.5,53,45.19"/>
+				<g id="kvg:051a4-g5" kvg:element="刀" kvg:variant="true" kvg:original="勹">
+					<path id="kvg:051a4-s3" kvg:type="㇆" d="M  28.39074,25.402849 c 0.96,0.26 2.16,0.22 2.99,0.14 3.083623,0.03528 31.34935,-3.628723 35.62871,-4.230953 2.46,-0.17 3.13,1.75 3,2.94 -0.36,3.15 -1.6,10.91 -4.41,15.01 -3.74,5.47 -4.36,1.54 -5.72,0.16"/>
+					<path id="kvg:051a4-s4"  kvg:type="㇒" d="M 41.230741,26.656067 c -0.04012,2.32286 -1.873232,6.677289 -3.685362,9.131202 -2.262277,3.063483 -11.132862,11.90212 -16.00572,15.97012"/>
 				</g>
-				<path id="kvg:051a4-s5" kvg:type="㇑" d="M22.19,48.28c0.57,0.43,1.15,0.79,1.4,1.33c1.97,4.26,2.6,10.92,3.94,18.56"/>
-				<path id="kvg:051a4-s6" kvg:type="㇕" d="M25.73,49.74c13.89-1.79,45.17-4.54,52.34-5.15c2.62-0.22,4.19,2.22,3.82,3.52c-1.55,5.36-3.14,10.89-4.78,15.47"/>
-				<path id="kvg:051a4-s7" kvg:type="㇐" d="M28.66,66.34c5.62-0.46,42.2-3.88,48.38-4.11"/>
+				<path id="kvg:051a4-s5" kvg:type="㇑" d="M 26.830802,49.142979 c 0.57,0.43 1.15,0.79 1.4,1.33 1.329046,4.740715 1.63857,9.157378 2.257497,16.717259"/>
+				<path id="kvg:051a4-s6" kvg:type="㇕" d="M 29.169014,48.760238 c 13.89,-1.79 38.680347,-4.54 45.850347,-5.15 2.62,-0.22 4.19,2.22 3.82,3.52 -1.55,5.36 -3.14,10.89 -4.78,15.47"/>
+				<path id="kvg:051a4-s7" kvg:type="㇐" d="M 31.458061,66.401787 c 5.62,-0.46 35.38987,-4.921549 41.56987,-5.151549"/>
 			</g>
 			<g id="kvg:051a4-g6" kvg:element="儿" kvg:original="八" kvg:position="bottom">
 				<g id="kvg:051a4-g7" kvg:element="丿" kvg:position="left">
@@ -70,13 +70,13 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokeNumbers_051a4" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 14.50 17.50)">1</text>
 	<text transform="matrix(1 0 0 1 24.50 13.50)">2</text>
-	<text transform="matrix(1 0 0 1 34.50 25.98)">3</text>
-	<text transform="matrix(1 0 0 1 48.50 26.50)">4</text>
-	<text transform="matrix(1 0 0 1 15.50 55.50)">5</text>
-	<text transform="matrix(1 0 0 1 35.44 45.50)">6</text>
-	<text transform="matrix(1 0 0 1 31.50 62.50)">7</text>
+	<text transform="matrix(1 0 0 1 25.75 33.43)">3</text>
+	<text transform="matrix(1 0 0 1 43.5 33)">4</text>
+	<text transform="matrix(1 0 0 1 22.5 60.25)">5</text>
+	<text transform="matrix(1 0 0 1 33.75 55.8)">6</text>
+	<text transform="matrix(1 0 0 1 32.54 74.11)">7</text>
 	<text transform="matrix(1 0 0 1 44.50 56.50)">8</text>
 	<text transform="matrix(1 0 0 1 58.50 72.50)">9</text>
-	<text transform="matrix(1 0 0 1 62.50 79.50)">10</text>
+	<text transform="matrix(1 0 0 1 62 79.50)">10</text>
 </g>
 </svg>
