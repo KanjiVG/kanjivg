@@ -50,15 +50,12 @@ kvg:type CDATA #IMPLIED >
 			</g>
 			<path id="kvg:0633d-s6" kvg:type="㇑" d="M46.51,40.6c0.38,0.47,0.78,0.86,0.94,1.45c1.33,4.66,2.26,10.32,3.17,18.69"/>
 			<path id="kvg:0633d-s7" kvg:type="㇕" d="M47.4,42.71c9.4-1.96,32.8-5.53,37.65-6.19c1.77-0.24,2.84,2.43,2.58,3.85c-1.05,5.87-2.4,10.13-5.5,18.4"/>
-			<path id="kvg:0633d-s8" kvg:type="㇑" d="M65.38,40.5c0.57,1,0.9,3,0.9,4.25c0,4.75,0,10.5,0,12.5"/>
-			<path id="kvg:0633d-s9" kvg:type="㇐" d="M50.88,59.75c3.8-0.5,28.05-2.75,32.24-3"/>
+			<path id="kvg:0633d-s8" kvg:type="㇐" d="M50.88,59.75c3.8-0.5,28.05-2.75,32.24-3"/>
+			<path id="kvg:0633d-s9" kvg:type="㇑" d="M65.38,42 c0.87,1.25,0.81,3.42,0.84,5.36C61.5,66.75,53.5,87.75,33,97.17"/>
 		</g>
 		<g id="kvg:0633d-g5" kvg:element="儿" kvg:original="八" kvg:position="bottom">
-			<g id="kvg:0633d-g6" kvg:element="丿" kvg:position="left">
-				<path id="kvg:0633d-s10" kvg:type="㇒" d="M63.98,61.75c0.08,0.77,0.18,1.99-0.17,3.09c-2.05,6.52-11.75,22.52-29.9,29.58"/>
-			</g>
 			<g id="kvg:0633d-g7" kvg:position="right">
-				<path id="kvg:0633d-s11" kvg:type="㇟" d="M69.44,60.37c0.54,1.05,0.98,2.29,1.01,3.91c0.15,7.23-0.39,15.15-0.39,20.07c0,7.9,0.94,10.19,12.97,10.19c12.22,0,13.86-2.53,13.86-10.06"/>
+				<path id="kvg:0633d-s10" kvg:type="㇟" d="M71,60.37c0.54,1.05,0.98,2.29,1.01,3.91c0.15,7.23-0.39,15.15-0.39,20.07c0,7.9,0.94,10.19,12.97,10.19c12.22,0,13.86-2.53,13.86-10.06"/>
 			</g>
 		</g>
 	</g>
@@ -72,9 +69,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 66.19 18.45)">5</text>
 	<text transform="matrix(1 0 0 1 40.44 48.50)">6</text>
 	<text transform="matrix(1 0 0 1 50.50 39.50)">7</text>
-	<text transform="matrix(1 0 0 1 59.19 48.97)">8</text>
-	<text transform="matrix(1 0 0 1 54.50 56.50)">9</text>
-	<text transform="matrix(1 0 0 1 53.50 68.50)">10</text>
-	<text transform="matrix(1 0 0 1 60.50 81.50)">11</text>
+	<text transform="matrix(1 0 0 1 54.50 56.50)">8</text>
+	<text transform="matrix(1 0 0 1 59.19 48.97)">9</text>
+	<text transform="matrix(1 0 0 1 72 66)">10</text>
 </g>
 </svg>
