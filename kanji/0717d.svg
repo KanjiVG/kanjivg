@@ -45,10 +45,10 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:0717d-g2" kvg:element="扇" kvg:position="right">
 		<g id="kvg:0717d-g3" kvg:element="戸" kvg:position="tare">
-			<path id="kvg:0717d-s5" kvg:type="㇒" d="M50.08,31.15c9.15-1.4,31.31-3.73,37.04-4.4c1.55-0.18,2.55,1.31,2.14,3C88.49,33,87.9,36.5,86.93,39.5"/>
-			<path id="kvg:0717d-s6" kvg:type="㇒" d="M48.99,45.25c0.97,0,30.84-3.25,39.99-4.25"/>
-			<path id="kvg:0717d-s7" kvg:type="㇕" d="M89.95,9.93c-0.45,1.29-1.15,2.03-2.09,2.48C77.25,17.51,63.5,21,49.25,22.5"/>
-			<path id="kvg:0717d-s8" kvg:type="㇐" d="M47.65,22.18c0.6,1.32,0.73,2.43,0.74,4.63c0.1,27.73,0.35,55.94-11.15,67.69"/>
+			<path id="kvg:0717d-s5" kvg:type="㇒" d="M89.95,9.93c-0.45,1.29-1.15,2.03-2.09,2.48C77.25,17.51,63.5,21,49.25,22.5"/>
+			<path id="kvg:0717d-s6" kvg:type="㇒" d="M47.65,22.18c0.6,1.32,0.73,2.43,0.74,4.63c0.1,27.73,0.35,55.94-11.15,67.69"/>
+			<path id="kvg:0717d-s7" kvg:type="㇕" d="M50.08,31.15c9.15-1.4,31.31-3.73,37.04-4.4c1.55-0.18,2.55,1.31,2.14,3C88.49,33,87.9,36.5,86.93,39.5"/>
+			<path id="kvg:0717d-s8" kvg:type="㇐" d="M48.99,45.25c0.97,0,30.84-3.25,39.99-4.25"/>
 		</g>
 		<g id="kvg:0717d-g4" kvg:element="羽">
 			<g id="kvg:0717d-g5" kvg:position="left">
@@ -72,8 +72,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 32.54 65.85)">4</text>
 	<text transform="matrix(1 0 0 1 82.00 10.50)">5</text>
 	<text transform="matrix(1 0 0 1 41.50 24.50)">6</text>
-	<text transform="matrix(1 0 0 1 52.50 41.50)">7</text>
-	<text transform="matrix(1 0 0 1 41.75 43.60)">8</text>
+	<text transform="matrix(1 0 0 1 52 29)">7</text>
+	<text transform="matrix(1 0 0 1 50 43)">8</text>
 	<text transform="matrix(1 0 0 1 52.50 53.50)">9</text>
 	<text transform="matrix(1 0 0 1 51.50 63.50)">10</text>
 	<text transform="matrix(1 0 0 1 57.50 73.50)">11</text>
