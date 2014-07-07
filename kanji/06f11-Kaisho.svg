@@ -54,14 +54,15 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<g id="kvg:06f11-Kaisho-g4" kvg:element="旡" kvg:variant="true" kvg:original="无" kvg:position="right">
 			<path id="kvg:06f11-Kaisho-s11" kvg:type="㇐" d="M65.75,22.5c1,0.36,2.85,0.48,3.84,0.36c5.23-0.65,16.02-2.63,23.4-2.95c1.67-0.07,2.67,0.17,3.51,0.35"/>
-			<path id="kvg:06f11-Kaisho-s12" kvg:type="㇄" d="M70.31,25.38c0.76,0.45,1.16,2.35,1.01,3.25c-1.07,6.62-2.57,14.87-3.65,19.12c-0.58,2.29,0.34,3.71,1.77,3.57c8.73-0.82,13.23-2.2,24.23-2.27c2-0.01,3.58,0.44,5.33,0.73"/>
+			<path id="kvg:06f11-Kaisho-s12" kvg:type="㇑" d="M67.418125,23.547291c0.79,0.42,1.26,1.89,1.42,2.73c0.16,0.84,0,16.6-0.16,21.85"/>
+			<path id="kvg:06f11-Kaisho-s13" kvg:type="㇐" d="M62.8,49.034375c0.91,0.43,2.57,0.49,3.48,0.43c6.47-0.42,24.25-2.54,31.24-3.02c1.51-0.1,2.42,0.2,3.18,0.42"/>
 			<g id="kvg:06f11-Kaisho-g5" kvg:element="儿">
 				<g id="kvg:06f11-Kaisho-g6" kvg:element="八" kvg:variant="true">
 					<g id="kvg:06f11-Kaisho-g7" kvg:element="丿" kvg:position="left">
-						<path id="kvg:06f11-Kaisho-s13" kvg:type="㇒" d="M85,23.75c0.42,1,0.78,2.92,0.53,5.35C83.56,48.46,76.75,80.25,57,95"/>
+						<path id="kvg:06f11-Kaisho-s14" kvg:type="㇒" d="M85,23.75c0.42,1,0.78,2.92,0.53,5.35C83.56,48.46,76.75,80.25,57,95"/>
 					</g>
 					<g id="kvg:06f11-Kaisho-g8" kvg:position="right">
-						<path id="kvg:06f11-Kaisho-s14" kvg:type="㇟" d="M82.74,60.87c0.74,1.19,1.38,1.59,1.38,3.43C84.11,68,84,78,83.81,84c-0.34,10.5,2.18,11.53,7.94,11.53s6.76-1.78,6.76-9.12"/>
+						<path id="kvg:06f11-Kaisho-s15" kvg:type="㇟" d="M82.74,60.87c0.74,1.19,1.38,1.59,1.38,3.43C84.11,68,84,78,83.81,84c-0.34,10.5,2.18,11.53,7.94,11.53s6.76-1.78,6.76-9.12"/>
 					</g>
 				</g>
 			</g>
@@ -81,8 +82,9 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 40.50 65.28)">9</text>
 	<text transform="matrix(1 0 0 1 40.50 81.50)">10</text>
 	<text transform="matrix(1 0 0 1 64.50 19.50)">11</text>
-	<text transform="matrix(1 0 0 1 61.00 33.50)">12</text>
-	<text transform="matrix(1 0 0 1 75.50 30.50)">13</text>
-	<text transform="matrix(1 0 0 1 86.50 64.15)">14</text>
+	<text transform="matrix(1 0 0 1 70 30.2)">12</text>
+	<text transform="matrix(1 0 0 1 59.75 56.9)">13</text>
+	<text transform="matrix(1 0 0 1 86.5 28.8)">14</text>
+	<text transform="matrix(1 0 0 1 86.50 64.15)">15</text>
 </g>
 </svg>
