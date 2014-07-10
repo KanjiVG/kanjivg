@@ -39,8 +39,8 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:0903e" kvg:element="逾">
 	<g id="kvg:0903e-g1" kvg:element="兪">
 		<g id="kvg:0903e-g2" kvg:element="入" kvg:position="top">
-			<path id="kvg:0903e-s1" kvg:type="㇒" d="M59.71,10.25c0.07,0.71,0.29,1.88-0.15,2.84C56.93,18.93,45.25,34,33.5,40.77"/>
-			<path id="kvg:0903e-s2" kvg:type="㇏" d="M60.05,12.67c4.51,4.88,23.94,20.81,28.91,24.38c1.69,1.21,3.85,1.73,5.54,2.08"/>
+			<path id="kvg:0903e-s1" kvg:type="㇒" d="M 61.0725,15.132292 C 60.574791,16.41 60.227083,17.125833 59.332916,18.085833 54.999791,23.358125 45.25,34.113542 33.5,40.77"/>
+			<path id="kvg:0903e-s2" kvg:type="㇏" d="M 55.28125,7.3335417 c 1.687292,1.191042 4.778153,4.2074703 5.710104,5.5848963 C 66.73014,21.400379 78.640625,32.312917 88.96,37.05 c 1.69,1.21 3.85,1.73 5.54,2.08"/>
 		</g>
 		<g id="kvg:0903e-g3" kvg:position="bottom">
 			<g id="kvg:0903e-g4" kvg:element="一">
@@ -67,9 +67,9 @@ kvg:type CDATA #IMPLIED >
 </g>
 </g>
 <g id="kvg:StrokeNumbers_0903e" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 52.50 11.50)">1</text>
-	<text transform="matrix(1 0 0 1 70.50 18.50)">2</text>
-	<text transform="matrix(1 0 0 1 52.50 33.50)">3</text>
+	<text transform="matrix(1 0 0 1 51.25 19.1)">1</text>
+	<text transform="matrix(1 0 0 1 48.7 9.53)">2</text>
+	<text transform="matrix(1 0 0 1 52.25 34.2)">3</text>
 	<text transform="matrix(1 0 0 1 34.50 53.40)">4</text>
 	<text transform="matrix(1 0 0 1 42.50 43.50)">5</text>
 	<text transform="matrix(1 0 0 1 43.50 60.50)">6</text>
