@@ -39,12 +39,12 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:089a6" kvg:element="覦">
 	<g id="kvg:089a6-g1" kvg:element="兪" kvg:position="left">
 		<g id="kvg:089a6-g2" kvg:element="入" kvg:position="top">
-			<path id="kvg:089a6-s1" kvg:type="㇒" d="M30.23,13.75c0.06,0.72,0.23,1.91-0.12,2.89c-2.11,5.93-9.33,19.5-20.86,27.61"/>
-			<path id="kvg:089a6-s2" kvg:type="㇔/㇏" d="M31.99,17.11c6.15,2.5,17.07,13.77,20.25,19.45"/>
+			<path id="kvg:089a6-s1" kvg:type="㇒" d="M 33.563314,14.008016 c -0.04496,1.753402 -0.431606,2.697541 -0.962123,3.884459 -4.371612,8.740776 -10.772602,16.141661 -19.151368,23.560754"/>
+			<path id="kvg:089a6-s2" kvg:type="㇏" d="M 28.048896,8.8918517 C 34.285301,10.255 41.921115,28.522174 45.543715,33.247194 c 2.810994,3.666429 4.239392,4.955045 6.393167,6.318194"/>
 		</g>
 		<g id="kvg:089a6-g3" kvg:position="bottom">
 			<g id="kvg:089a6-g4" kvg:element="一">
-				<path id="kvg:089a6-s3" kvg:type="㇐" d="M21.44,39.8c0.79,0.34,2.23,0.37,3.03,0.34c5.3-0.2,14.03-2.14,18.37-3.11c1.28-0.29,2.11-0.34,2.77-0.17"/>
+				<path id="kvg:089a6-s3" kvg:type="㇐" d="M 23.597291,39.11875 c 0.79,0.34 2.23,0.37 3.03,0.34 5.3,-0.2 9.885729,-0.663958 14.225729,-1.633958 1.28,-0.29 2.11,-0.34 2.77,-0.17"/>
 			</g>
 			<g id="kvg:089a6-g5" kvg:element="月" kvg:variant="true">
 				<path id="kvg:089a6-s4" kvg:type="㇒" d="M14.78,49.75c0.46,1,0.77,2,0.92,3c0.15,1,0.22,40,0.15,42.25"/>
@@ -74,9 +74,9 @@ kvg:type CDATA #IMPLIED >
 </g>
 </g>
 <g id="kvg:StrokeNumbers_089a6" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 23.50 13.50)">1</text>
-	<text transform="matrix(1 0 0 1 38.50 18.50)">2</text>
-	<text transform="matrix(1 0 0 1 24.50 37.50)">3</text>
+	<text transform="matrix(1 0 0 1 25.7 19)">1</text>
+	<text transform="matrix(1 0 0 1 21.1 12.75)">2</text>
+	<text transform="matrix(1 0 0 1 25 37.4)">3</text>
 	<text transform="matrix(1 0 0 1 8.50 57.50)">4</text>
 	<text transform="matrix(1 0 0 1 18.25 48.33)">5</text>
 	<text transform="matrix(1 0 0 1 18.50 69.50)">6</text>
