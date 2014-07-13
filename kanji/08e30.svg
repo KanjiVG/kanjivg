@@ -50,12 +50,12 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:08e30-g3" kvg:element="兪" kvg:position="right">
 		<g id="kvg:08e30-g4" kvg:element="入" kvg:position="top">
-			<path id="kvg:08e30-s8" kvg:type="㇒" d="M66.46,11c0.07,0.87,0.29,2.31-0.15,3.5C63.68,21.69,54.65,38.16,40.25,48"/>
-			<path id="kvg:08e30-s9" kvg:type="㇏" d="M67.05,14.86c3.76,5.28,19.94,22.51,24.09,26.37c1.41,1.31,3.21,1.87,4.62,2.25"/>
+			<path id="kvg:08e30-s8" kvg:type="㇒" d="M  64.9,10.431453 c -0.04496,1.753402 -0.431606,2.697541 -0.962123,3.884459 -4.88255,10.898068 -14.74656,24.25989 -22.614389,30.032629"/>
+			<path id="kvg:08e30-s9" kvg:type="㇏" d="M 59.386395,5.3152892 C 65.6228,6.6784373 76.972627,26.238027 87.355432,36.625058 c 2.312306,2.313248 4.211007,4.188639 8.067907,6.233038"/>
 		</g>
 		<g id="kvg:08e30-g5" kvg:position="bottom">
 			<g id="kvg:08e30-g6" kvg:element="一">
-				<path id="kvg:08e30-s10" kvg:type="㇐" d="M56.53,42.05c0.66,0.33,1.87,0.31,2.53,0.33C63.49,42.51,74,41,78.76,40.3c1.09-0.16,1.76,0.16,2.31,0.32"/>
+				<path id="kvg:08e30-s10" kvg:type="㇐" d="M 53.464375,42.05 c 0.66,0.33 1.87,0.31 2.53,0.33 4.43,0.13 20.39,-1.38 25.15,-2.08 1.09,-0.16 1.76,0.16 2.31,0.32"/>
 			</g>
 			<g id="kvg:08e30-g7" kvg:element="月" kvg:variant="true">
 				<path id="kvg:08e30-s11" kvg:type="㇒" d="M46.02,52.25c0.61,1,1.02,2,1.22,3c0.2,1,0.29,40,0.2,42.25"/>
@@ -79,9 +79,9 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 30.50 56.50)">5</text>
 	<text transform="matrix(1 0 0 1 6.50 54.50)">6</text>
 	<text transform="matrix(1 0 0 1 3.50 92.50)">7</text>
-	<text transform="matrix(1 0 0 1 58.50 12.50)">8</text>
-	<text transform="matrix(1 0 0 1 73.50 18.50)">9</text>
-	<text transform="matrix(1 0 0 1 57.50 39.50)">10</text>
+	<text transform="matrix(1 0 0 1 55.8 16.8)">8</text>
+	<text transform="matrix(1 0 0 1 52.5 8.1)">9</text>
+	<text transform="matrix(1 0 0 1 53.9 39.50)">10</text>
 	<text transform="matrix(1 0 0 1 38.50 67.88)">11</text>
 	<text transform="matrix(1 0 0 1 48.25 50.50)">12</text>
 	<text transform="matrix(1 0 0 1 54.25 60.73)">13</text>

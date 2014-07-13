@@ -113,7 +113,7 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 10.25 27.50)">3</text>
 	<text transform="matrix(1 0 0 1 30.04 22.40)">4</text>
 	<text transform="matrix(1 0 0 1 40.50 32.33)">5</text>
-	<text transform="matrix(1 0 0 1 61.25 9.25)">6</text>
+	<text transform="matrix(1 0 0 1 57 13.7)">6</text>
 	<text transform="matrix(1 0 0 1 55.04 22.18)">7</text>
 	<text transform="matrix(1 0 0 1 50.04 24.10)">8</text>
 	<text transform="matrix(1 0 0 1 66.04 21.03)">9</text>
@@ -123,15 +123,15 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 38.50 51.50)">13</text>
 	<text transform="matrix(1 0 0 1 38.50 59.50)">14</text>
 	<text transform="matrix(1 0 0 1 9.50 80.58)">15</text>
-	<text transform="matrix(1 0 0 1 22.04 70.50)">16</text>
-	<text transform="matrix(1 0 0 1 24.50 81.50)">17</text>
-	<text transform="matrix(1 0 0 1 26.04 63.50)">18</text>
+	<text transform="matrix(1 0 0 1 18 72)">16</text>
+	<text transform="matrix(1 0 0 1 21.5 82)">17</text>
+	<text transform="matrix(1 0 0 1 23 65)">18</text>
 	<text transform="matrix(1 0 0 1 6.50 97.28)">19</text>
-	<text transform="matrix(1 0 0 1 76.50 66.50)">20</text>
-	<text transform="matrix(1 0 0 1 52.50 80.13)">21</text>
-	<text transform="matrix(1 0 0 1 60.50 70.50)">22</text>
-	<text transform="matrix(1 0 0 1 64.50 80.50)">23</text>
-	<text transform="matrix(1 0 0 1 47.04 89.50)">24</text>
+	<text transform="matrix(1 0 0 1 47.04 89.50)">20</text>
+	<text transform="matrix(1 0 0 1 50 80.13)">21</text>
+	<text transform="matrix(1 0 0 1 59 70.50)">22</text>
+	<text transform="matrix(1 0 0 1 61 80.50)">23</text>
+	<text transform="matrix(1 0 0 1 75 66.50)">24</text>
 	<text transform="matrix(1 0 0 1 56.50 91.13)">25</text>
 	<text transform="matrix(1 0 0 1 88.50 88.50)">26</text>
 </g>
