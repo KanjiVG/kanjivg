@@ -58,16 +58,18 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<g id="kvg:06adb-g6" kvg:element="即" kvg:position="bottom">
 			<g id="kvg:06adb-g7" kvg:element="艮" kvg:partial="true" kvg:position="left">
-				<path id="kvg:06adb-s11" kvg:type="㇕" d="M44.38,40.88c1.38,0.75,3.67,0.86,5.76,0.44c3.8-0.58,8.71-1.38,11.74-1.81c3.05-0.44,3.88,0.44,3.83,3.49c-0.09,5.53,0.01,15.75,0.01,22.09"/>
-				<path id="kvg:06adb-s12" kvg:type="㇐a" d="M48,52.38c3.75-0.5,12.12-1.38,16.38-1.62"/>
-				<path id="kvg:06adb-s13" kvg:type="㇐a" d="M48,64c5.75-0.5,11.25-1,16.38-1.38"/>
-				<path id="kvg:06adb-s14" kvg:type="㇙" d="M45.99,42c0.81,0.81,0.83,1.87,0.83,3.32c0,4.55-0.09,40.67-0.09,43.22c0,2.98,0.26,3.97,2.13,2.18c1.86-1.79,8.75-7.4,13.02-11.11"/>
-				<path id="kvg:06adb-s15" kvg:type="㇔" d="M57.24,71.41c3.64,2.2,9.18,9.33,10.85,15.05"/>
+				<path id="kvg:06adb-s11" kvg:type="㇒" d="M 55.328743,37.253575 c -0.08498,0.610126 -0.317173,1.032087 -0.661674,1.581965 -0.609499,0.972858 -1.592505,1.996435 -3.436643,3.457433"/>
+				<path id="kvg:06adb-s12" kvg:type="㇑" d="M 45.99,44.492723 c 0.81,0.81 0.83,1.87 0.83,3.32 0,4.55 -0.09,45.315531 -0.09,47.865531"/>
+				<path id="kvg:06adb-s13" kvg:type="㇕" d="M44.38,43.37c1.38,0.75,3.67,0.86,5.76,0.44c3.8-0.58,8.71-1.38,11.74-1.81c3.05-0.44,3.88,0.44,3.83,3.49c-0.09,5.53,0.01,15.75,0.01,22.09"/>
+				<path id="kvg:06adb-s14" kvg:type="㇐a" d="M48,54.87c3.75-0.5,12.12-1.38,16.38-1.62"/>
+				<path id="kvg:06adb-s15" kvg:type="㇐a" d="M48,66.5c5.75-0.5,11.25-1,16.38-1.38"/>
+				<path id="kvg:06adb-s16" kvg:type="㇐a" d="M48,78.4c5.75-0.5,11.25-1,16.38-1.38"/>
+				<path id="kvg:06adb-s17" kvg:type="㇐a" d="M48,87.5c5.75-0.5,11.25-1,16.38-1.38"/>
 			</g>
 			<g id="kvg:06adb-g8" kvg:element="卩" kvg:position="right">
 				<g id="kvg:06adb-g9" kvg:element="厶" kvg:variant="true" kvg:original="厶">
-					<path id="kvg:06adb-s16" kvg:type="㇆" d="M75.11,40.07c1.02,0.43,3.03,0.82,4.63,0.52c2.33-0.43,6.97-1.44,10.89-2.33c2.89-0.65,4.43,0.88,4.37,2.74c-0.32,11.04-1.25,27.9-2.95,34.82c-2.05,8.31-4.42,1.81-5.1,0.46"/>
-					<path id="kvg:06adb-s17" kvg:type="㇑" d="M76.11,40.82c0.72,0.72,1.24,1.81,1.24,3.07c0,0.71-0.05,25.85-0.08,41.36c-0.01,5.41-0.02,9.64-0.02,11.25"/>
+					<path id="kvg:06adb-s18" kvg:type="㇆" d="M75.11,40.07c1.02,0.43,3.03,0.82,4.63,0.52c2.33-0.43,6.97-1.44,10.89-2.33c2.89-0.65,4.43,0.88,4.37,2.74c-0.32,11.04-1.25,27.9-2.95,34.82c-2.05,8.31-4.42,1.81-5.1,0.46"/>
+					<path id="kvg:06adb-s19" kvg:type="㇑" d="M76.11,40.82c0.72,0.72,1.24,1.81,1.24,3.07c0,0.71-0.05,25.85-0.08,41.36c-0.01,5.41-0.02,9.64-0.02,11.25"/>
 				</g>
 			</g>
 		</g>
@@ -85,12 +87,14 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 69.50 12.50)">8</text>
 	<text transform="matrix(1 0 0 1 82.50 19.50)">9</text>
 	<text transform="matrix(1 0 0 1 73.50 29.95)">10</text>
-	<text transform="matrix(1 0 0 1 48.50 38.50)">11</text>
-	<text transform="matrix(1 0 0 1 50.50 48.50)">12</text>
-	<text transform="matrix(1 0 0 1 50.50 60.50)">13</text>
-	<text transform="matrix(1 0 0 1 37.50 49.50)">14</text>
-	<text transform="matrix(1 0 0 1 61.50 73.58)">15</text>
-	<text transform="matrix(1 0 0 1 83.50 36.50)">16</text>
-	<text transform="matrix(1 0 0 1 68.50 48.43)">17</text>
+	<text transform="matrix(1 0 0 1 45.28 35.9)">11</text>
+	<text transform="matrix(1 0 0 1 37.5 52)">12</text>
+	<text transform="matrix(1 0 0 1 38.64 41.55)">13</text>
+	<text transform="matrix(1 0 0 1 48.5 52.13)">14</text>
+	<text transform="matrix(1 0 0 1 48.5 64.1)">15</text>
+	<text transform="matrix(1 0 0 1 48.5 76)">16</text>
+	<text transform="matrix(1 0 0 1 48.5 85.5)">17</text>
+	<text transform="matrix(1 0 0 1 83.50 36.50)">18</text>
+	<text transform="matrix(1 0 0 1 66.2 48.43)">19</text>
 </g>
 </svg>

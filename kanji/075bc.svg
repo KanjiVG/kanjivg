@@ -55,7 +55,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:075bc-s9" kvg:type="㇔" d="M56.69,72.32c4.48,1.45,11.58,5.95,12.7,8.2"/>
 			</g>
 			<g id="kvg:075bc-g6" kvg:position="bottom">
-				<path id="kvg:075bc-s10" kvg:type="㇀" d="M46.96,85.34c9.72,2.23,25.12,9.18,27.55,12.66"/>
+				<path id="kvg:075bc-s10" kvg:type="㇀" d="M  45.029791,95.672291 C 60.08625,91.203333 69.695624,86.572084 84.161041,81.082292"/>
 			</g>
 		</g>
 	</g>
@@ -71,6 +71,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 58.50 34.50)">7</text>
 	<text transform="matrix(1 0 0 1 55.44 46.50)">8</text>
 	<text transform="matrix(1 0 0 1 60.50 71.50)">9</text>
-	<text transform="matrix(1 0 0 1 42.50 83.46)">10</text>
+	<text transform="matrix(1 0 0 1 36 92)">10</text>
 </g>
 </svg>

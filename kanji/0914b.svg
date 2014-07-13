@@ -39,15 +39,15 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:0914b" kvg:element="酋">
 	<g id="kvg:0914b-g1" kvg:element="八" kvg:variant="true" kvg:position="top" kvg:radical="nelson">
 		<g id="kvg:0914b-g2" kvg:position="left">
-			<path id="kvg:0914b-s1" kvg:type="㇔" d="M34.77,14.27c3.37,1.97,8.7,7.84,9.54,10.91"/>
+			<path id="kvg:0914b-s1" kvg:type="㇒" d="M 37.323708,15.121563 c 0,1.04 -0.27,2.02 -0.9,2.87 -2,3.67 -7.738286,11.729321 -14.00601,18.575615"/>
 		</g>
 		<g id="kvg:0914b-g3" kvg:position="right">
-			<path id="kvg:0914b-s2" kvg:type="㇒" d="M71.78,11.71c0,1.04-0.27,2.02-0.9,2.87c-2,3.67-3.9,6.72-8,11.8"/>
+			<path id="kvg:0914b-s2" kvg:type="㇔" d="M 67.043121,11.870572 c 1.042711,0.422997 2.315581,1.924587 2.948879,2.633918 4.370036,4.894691 10.586855,13.485113 12.853435,19.516134"/>
 		</g>
 	</g>
 	<g id="kvg:0914b-g4" kvg:element="酉" kvg:position="bottom" kvg:radical="tradit">
 		<g id="kvg:0914b-g5" kvg:element="西" kvg:part="1" kvg:original="襾">
-			<path id="kvg:0914b-s3" kvg:type="㇐" d="M18.4,31.86c3.85,0.76,10.13,0.35,13.1,0.07c12.37-1.18,34.15-2.85,46.87-3.45c4.01-0.16,8,0.01,11.97,0.51"/>
+			<path id="kvg:0914b-s3" kvg:type="㇐" d="M 32.690923,30.735995 c 10.668512,2.054576 33.043545,-1.659174 42.394721,-0.541704"/>
 			<path id="kvg:0914b-s4" kvg:type="㇑" d="M30.48,43.72c0.65,0.7,0.9,2.39,0.9,3.32c0,0.68,0.04,26.45,0.05,40.46c0.01,5.16,0.01,8.72,0.01,8.85"/>
 			<path id="kvg:0914b-s5" kvg:type="㇕a" d="M32.47,46.18c6.45-0.39,34.04-2.7,41.9-3.25c4.24-0.3,6.64,0.77,6.63,5.33c-0.02,5.33-0.08,23.84-0.11,36.75c-0.01,4.48-0.02,8.28-0.01,10.63"/>
 			<path id="kvg:0914b-s6" kvg:type="㇒" d="M47.23,31.39c1.07,1.07,1.07,2.58,1.07,4.07c0.07,19.04-2.18,26.29-12.33,32.74"/>
@@ -63,9 +63,9 @@ kvg:type CDATA #IMPLIED >
 </g>
 </g>
 <g id="kvg:StrokeNumbers_0914b" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 28.50 13.50)">1</text>
-	<text transform="matrix(1 0 0 1 62.25 10.50)">2</text>
-	<text transform="matrix(1 0 0 1 11.50 32.50)">3</text>
+	<text transform="matrix(1 0 0 1 32 13.3)">1</text>
+	<text transform="matrix(1 0 0 1 60.77 11)">2</text>
+	<text transform="matrix(1 0 0 1 35.22 29.25)">3</text>
 	<text transform="matrix(1 0 0 1 23.50 52.50)">4</text>
 	<text transform="matrix(1 0 0 1 33.25 42.50)">5</text>
 	<text transform="matrix(1 0 0 1 40.50 39.25)">6</text>
