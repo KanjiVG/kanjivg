@@ -43,8 +43,8 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:060b5-HzFst-s3" kvg:type="㇑" d="M21.87,12.75c1.09,0.5,1.74,2.25,1.96,3.25c0.22,1,0,73.75-0.22,80"/>
 	</g>
 	<g id="kvg:060b5-HzFst-g2" kvg:element="長" kvg:position="right">
-		<path id="kvg:060b5-HzFst-s4" kvg:type="㇐" d="M52.15,15.42c1.16,1.59,1.16,1.86,1.16,3.45s0.39,34.61,0.39,37"/>
-		<path id="kvg:060b5-HzFst-s5" kvg:type="㇑" d="M53.34,17.24c11.08-0.23,26.94-3.26,29.39-3.26c1.93,0,0.72,0,2.95,0"/>
+		<path id="kvg:060b5-HzFst-s4" kvg:type="㇐" d="M53.34,17.24c11.08-0.23,26.94-3.26,29.39-3.26c1.93,0,0.72,0,2.95,0"/>
+		<path id="kvg:060b5-HzFst-s5" kvg:type="㇑" d="M52.15,15.42c1.16,1.59,1.16,1.86,1.16,3.45s0.39,34.61,0.39,37"/>
 		<path id="kvg:060b5-HzFst-s6" kvg:type="㇐" d="M53.4,29.48c10.06-0.27,22.91-3.19,25.14-3.19c1.75,0,2.43-0.27,3.88,0"/>
 		<path id="kvg:060b5-HzFst-s7" kvg:type="㇐" d="M54.49,42.5c10.05-0.27,20.49-2.39,24.21-2.92c1.74-0.25,2.87-0.27,4.81-0.27"/>
 		<path id="kvg:060b5-HzFst-s8" kvg:type="㇐" d="M34.13,56.65c1.49,0.58,4.21,0.67,5.7,0.58c15.46-0.96,37.6-2.87,52.13-4.15c2.46-0.22,3.96,0.28,5.2,0.56"/>
@@ -58,8 +58,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 10.25 34.63)">1</text>
 	<text transform="matrix(1 0 0 1 28.50 28.50)">2</text>
 	<text transform="matrix(1 0 0 1 14.25 13.50)">3</text>
-	<text transform="matrix(1 0 0 1 45.50 22.50)">4</text>
-	<text transform="matrix(1 0 0 1 56.50 13.50)">5</text>
+	<text transform="matrix(1 0 0 1 56.50 13.50)">4</text>
+	<text transform="matrix(1 0 0 1 45.50 22.50)">5</text>
 	<text transform="matrix(1 0 0 1 57.50 25.50)">6</text>
 	<text transform="matrix(1 0 0 1 57.50 39.05)">7</text>
 	<text transform="matrix(1 0 0 1 38.50 54.50)">8</text>
