@@ -59,9 +59,9 @@ kvg:type CDATA #IMPLIED >
 					<path id="kvg:08d10-Kaisho-s10" kvg:type="㇐" d="M46.26,42.36c1.04,0.21,2.92,0.33,4.17,0.21c11.47-1.08,20.89-1.67,31.31-2.75c1.66-0.17,2.71,0,3.96,0.22"/>
 				</g>
 				<g id="kvg:08d10-Kaisho-g8" kvg:element="丨">
-					<path id="kvg:08d10-Kaisho-s11" kvg:type="㇑" d="M40.32,53.32c1.27,0.47,3.59,0.61,4.85,0.47c14.84-1.74,32.69-3.15,44.21-3.54c2.11-0.07,3.38,0.22,4.43,0.46"/>
+					<path id="kvg:08d10-Kaisho-s11" kvg:type="㇑" d="M64.33,10.75c0.91,0.43,1.63,1.91,1.63,2.8c0,4.77-0.18,31.38-0.18,37.98"/>
 				</g>
-				<path id="kvg:08d10-Kaisho-s12" kvg:type="㇐" d="M64.33,10.75c0.91,0.43,1.63,1.91,1.63,2.8c0,4.77-0.18,31.38-0.18,37.98"/>
+				<path id="kvg:08d10-Kaisho-s12" kvg:type="㇐" d="M40.32,53.32c1.27,0.47,3.59,0.61,4.85,0.47c14.84-1.74,32.69-3.15,44.21-3.54c2.11-0.07,3.38,0.22,4.43,0.46"/>
 			</g>
 			<g id="kvg:08d10-Kaisho-g9" kvg:element="灬" kvg:variant="true" kvg:original="火" kvg:position="bottom">
 				<path id="kvg:08d10-Kaisho-s13" kvg:type="㇔" d="M45.59,61.29c0,4.14-5.03,10.26-6.34,11.44"/>
@@ -81,12 +81,12 @@ kvg:type CDATA #IMPLIED >
 </g>
 </g>
 <g id="kvg:StrokeNumbers_08d10-Kaisho" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 17.50 15.50)">1</text>
-	<text transform="matrix(1 0 0 1 9.66 25.50)">2</text>
-	<text transform="matrix(1 0 0 1 20.50 50.50)">3</text>
-	<text transform="matrix(1 0 0 1 20.33 33.50)">4</text>
-	<text transform="matrix(1 0 0 1 12.72 84.50)">5</text>
-	<text transform="matrix(1 0 0 1 20.37 70.50)">6</text>
+	<text transform="matrix(1 0 0 1 9.66 25.50)">1</text>
+	<text transform="matrix(1 0 0 1 17.50 15.50)">2</text>
+	<text transform="matrix(1 0 0 1 20.33 33.50)">3</text>
+	<text transform="matrix(1 0 0 1 20.50 50.50)">4</text>
+	<text transform="matrix(1 0 0 1 20.37 70.50)">5</text>
+	<text transform="matrix(1 0 0 1 12.72 84.50)">6</text>
 	<text transform="matrix(1 0 0 1 24.50 88.50)">7</text>
 	<text transform="matrix(1 0 0 1 43.50 19.50)">8</text>
 	<text transform="matrix(1 0 0 1 36.50 29.50)">9</text>
