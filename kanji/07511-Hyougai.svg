@@ -58,10 +58,12 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:07511-Hyougai-g5" kvg:element="瓦" kvg:position="right" kvg:radical="general">
 		<path id="kvg:07511-Hyougai-s12" kvg:type="㇐" d="M54.8,20.95c2.71,0.61,5.44,0.48,8.19,0.09c7.3-0.75,17.03-1.28,23.26-1.63c2.34-0.23,4.68-0.19,7.02,0.13"/>
-		<path id="kvg:07511-Hyougai-s13" kvg:type="㇄" d="M67.42,24c0.46,1.25,0.29,2.76,0.11,3.75c-3.41,18.71-7.49,41.73-12.49,58.92c-0.99,3.42-0.46,4.03,2.81,2.5C64.62,86,70.89,82.67,76.26,80"/>
+		<path id="kvg:07511-Hyougai-s13" kvg:type="㇑" d="m 67.92,24.25 c 0.76,0.5 1.565481,2.761123 1.36,3.75 -4.068957,19.581832 -8.025888,40.705157 -12.212084,60.211198"/>
+		<path id="kvg:07511-Hyougai-s14" kvg:type="㇀" d="m 48.842448,91.327396 c 0.9425,0.349114 2.621198,0.146563 3.57026,-0.476354 C 57.952708,87.621042 71.86,80.32 77.51,77.5"/>
+
 		<path id="kvg:07511-Hyougai-s14" kvg:type="㇈" d="M67.74,43.29c1.63,0.25,3.22,0.12,4.76-0.4c2.62-0.67,6.88-1.86,9.5-2.64c2.65-0.78,4.08,0.24,3.69,3.5c-0.68,5.52-2.39,20.42-4.12,30.54c-3.15,18.52-1.41,20.26,5.66,20.52c4.76,0.17,8.08-0.56,8.25-10.29"/>
 		<g id="kvg:07511-Hyougai-g6" kvg:element="丶">
-			<path id="kvg:07511-Hyougai-s15" kvg:type="㇔" d="M65.6,56.08c3.15,2.36,8.65,9.71,9.44,13.38"/>
+			<path id="kvg:07511-Hyougai-s16" kvg:type="㇔" d="M68,56.08c3.15,2.36,8.65,9.71,9.44,13.38"/>
 		</g>
 	</g>
 </g>
@@ -80,7 +82,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 25.50 88.50)">11</text>
 	<text transform="matrix(1 0 0 1 56.25 18.50)">12</text>
 	<text transform="matrix(1 0 0 1 56.50 31.50)">13</text>
-	<text transform="matrix(1 0 0 1 69.50 38.50)">14</text>
-	<text transform="matrix(1 0 0 1 69.25 56.50)">15</text>
+	<text transform="matrix(1 0 0 1 44 88.4)">14</text>
+	<text transform="matrix(1 0 0 1 69.50 38.50)">15</text>
+	<text transform="matrix(1 0 0 1 70 56)">16</text>
 </g>
 </svg>
