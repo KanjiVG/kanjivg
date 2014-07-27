@@ -70,7 +70,7 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:087f6-g9" kvg:element="王" kvg:original="玉" kvg:partial="true" kvg:position="bottom">
 			<g id="kvg:087f6-g10" kvg:element="壬">
 				<g id="kvg:087f6-g11" kvg:element="丿">
-					<path id="kvg:087f6-s16" kvg:type="㇒" d="M54.94,64.03C65,61.25,77,57,82.86,53.66c0.92-0.53,1.89-1.16,1.91-2.73"/>
+					<path id="kvg:087f6-s16" kvg:type="㇒" d="M85.1,52c0.09,0.32,0.19,0.83-0.18,1.28c-2.23,2.71-15,8.65-32.47,12.29"/>
 				</g>
 				<g id="kvg:087f6-g12" kvg:element="士">
 					<path id="kvg:087f6-s17" kvg:type="㇐" d="M47.38,73.71c0.86,0.44,3.72,0.71,4.6,0.69c10.51-0.16,23.8-1.92,34.62-2.71c1.08-0.08,3.46-0.18,5.07,0.21"/>
@@ -98,9 +98,9 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 64.50 34.50)">13</text>
 	<text transform="matrix(1 0 0 1 72.50 22.50)">14</text>
 	<text transform="matrix(1 0 0 1 75.50 39.50)">15</text>
-	<text transform="matrix(1 0 0 1 73.50 51.50)">16</text>
-	<text transform="matrix(1 0 0 1 42.50 70.50)">17</text>
-	<text transform="matrix(1 0 0 1 60.50 69.50)">18</text>
+	<text transform="matrix(1 0 0 1 86.4 54.4)">16</text>
+	<text transform="matrix(1 0 0 1 39.5 71.9)">17</text>
+	<text transform="matrix(1 0 0 1 71.9 67.4)">18</text>
 	<text transform="matrix(1 0 0 1 40.50 89.50)">19</text>
 </g>
 </svg>

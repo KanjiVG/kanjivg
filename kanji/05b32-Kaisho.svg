@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05b32-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05b32-Kaisho" kvg:element="嬲">
-	<g id="kvg:05b32-Kaisho-g1" kvg:element="男" kvg:position="right">
+	<g id="kvg:05b32-Kaisho-g1" kvg:element="男" kvg:position="left">
 		<g id="kvg:05b32-Kaisho-g2" kvg:element="田" kvg:position="top" kvg:radical="nelson">
 			<path id="kvg:05b32-Kaisho-s1" kvg:type="㇑" d="M13.81,17.77c0.33,0.88,0.97,1.97,1.05,2.85c0.45,5.08,2.43,14.07,2.9,23.53"/>
 			<path id="kvg:05b32-Kaisho-s2" kvg:type="㇕a" d="M14.71,19.04c6.16-0.91,18.83-2.63,23.04-2.77c1.74-0.06,2.62,1.3,2.52,2.68c-0.35,5.04-1.44,13.69-2.49,22.24"/>
@@ -50,7 +50,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:05b32-Kaisho-s7" kvg:type="㇒" d="M26.67,44.86c0.05,1.12,0.11,2.89-0.09,4.49c-1.52,11.85-6.21,30.79-16.19,42.99"/>
 		</g>
 	</g>
-	<g id="kvg:05b32-Kaisho-g4" kvg:element="娚" kvg:position="left">
+	<g id="kvg:05b32-Kaisho-g4" kvg:element="娚" kvg:position="right">
 		<g id="kvg:05b32-Kaisho-g5" kvg:element="女" kvg:variant="true" kvg:position="left" kvg:radical="tradit">
 			<path id="kvg:05b32-Kaisho-s8" kvg:type="㇛" d="M55.09,14.87c0.31,1.06,0.86,2.8,0.7,4.34c-0.78,7.55-6.39,34.92-9.81,43.76c-0.7,1.81,0.32,2.52,0.7,2.69c7.42,3.29,13.75,9.33,17.9,17.13"/>
 			<path id="kvg:05b32-Kaisho-s9" kvg:type="㇒" d="M63.77,33.39c0.07,1.28,0.11,4.38-0.13,6.24C61.66,54.61,55.97,75.85,41.86,87"/>
