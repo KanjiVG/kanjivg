@@ -38,10 +38,10 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_05bc7-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05bc7-Kaisho" kvg:element="寇">
 	<g id="kvg:05bc7-Kaisho-g1" kvg:element="宀" kvg:position="top" kvg:radical="tradit">
-		<path id="kvg:05bc7-Kaisho-s1" kvg:type="㇑a" d="M23.55,23.77c0,3.41-2.87,12.79-4.17,15.07"/>
+		<path id="kvg:05bc7-Kaisho-s1" kvg:type="㇑a" d="M48.99,10.5c2.93,1.03,5.6,3.38,7.04,6.68"/>
 		<g id="kvg:05bc7-Kaisho-g2" kvg:element="冖">
-			<path id="kvg:05bc7-Kaisho-s2" kvg:type="㇔" d="M23.6,26.16c8.9-1.47,54.15-5.35,60.31-5.37c9.85-0.04-0.32,7.57-1.86,8.35"/>
-			<path id="kvg:05bc7-Kaisho-s3" kvg:type="㇖b" d="M48.99,10.5c2.93,1.03,5.6,3.38,7.04,6.68"/>
+			<path id="kvg:05bc7-Kaisho-s2" kvg:type="㇔" d="M23.55,23.77c0,3.41-2.87,12.79-4.17,15.07"/>
+			<path id="kvg:05bc7-Kaisho-s3" kvg:type="㇖b" d="M23.6,26.16c8.9-1.47,54.15-5.35,60.31-5.37c9.85-0.04-0.32,7.57-1.86,8.35"/>
 		</g>
 	</g>
 	<g id="kvg:05bc7-Kaisho-g3" kvg:position="bottom">
@@ -81,6 +81,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 57.50 33.50)">8</text>
 	<text transform="matrix(1 0 0 1 70.50 38.50)">9</text>
 	<text transform="matrix(1 0 0 1 55.50 54.50)">10</text>
-	<text transform="matrix(1 0 0 1 50.50 68.50)">11</text>
+	<text transform="matrix(1 0 0 1 49 69)">11</text>
 </g>
 </svg>
