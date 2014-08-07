@@ -77,9 +77,9 @@ kvg:type CDATA #IMPLIED >
 </g>
 </g>
 <g id="kvg:StrokeNumbers_06226-Kaisho" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 6.75 19.63)">1</text>
-	<text transform="matrix(1 0 0 1 18.75 15.13)">2</text>
-	<text transform="matrix(1 0 0 1 42.75 10.63)">3</text>
+	<text transform="matrix(1 0 0 1 9 23)">1</text>
+	<text transform="matrix(1 0 0 1 22 18)">2</text>
+	<text transform="matrix(1 0 0 1 44 14)">3</text>
 	<text transform="matrix(1 0 0 1 9.75 49.63)">4</text>
 	<text transform="matrix(1 0 0 1 22.99 37.33)">5</text>
 	<text transform="matrix(1 0 0 1 24.75 48.13)">6</text>
@@ -89,6 +89,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 53.44 39.95)">10</text>
 	<text transform="matrix(1 0 0 1 62.25 10.63)">11</text>
 	<text transform="matrix(1 0 0 1 87.75 48.13)">12</text>
-	<text transform="matrix(1 0 0 1 72.75 15.13)">13</text>
+	<text transform="matrix(1 0 0 1 72.75 17)">13</text>
 </g>
 </svg>
