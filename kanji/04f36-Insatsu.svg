@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_04f36-Insatsu" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:04f36-Insatsu" kvg:element="伶">
+	<g id="kvg:04f36-Insatsu-g1" kvg:element="亻" kvg:variant="true" kvg:original="人" kvg:position="left" kvg:radical="general">
+		<path id="kvg:04f36-Insatsu-s1" kvg:type="㇒" d="M30.69,15.5c0.13,1.16,0.22,2.61-0.11,4.03c-2.11,8.99-10.26,26.36-20.08,38.55"/>
+		<path id="kvg:04f36-Insatsu-s2" kvg:type="㇑" d="M25.94,37.86c0.91,0.91,1.32,2.14,1.32,3.51c0,11.62-0.01,34.18-0.01,47.14c0,2.82,0,5.18,0,6.88"/>
+	</g>
+	<g id="kvg:04f36-Insatsu-g2" kvg:element="令" kvg:position="right">
+		<g id="kvg:04f36-Insatsu-g3" kvg:element="人" kvg:position="top">
+			<path id="kvg:04f36-Insatsu-s3" kvg:type="㇒" d="M61.61,12.75c0.08,1.01-0.04,2.68-0.66,4.05c-4.32,9.58-13.32,25.95-25.7,37.79"/>
+			<path id="kvg:04f36-Insatsu-s4" kvg:type="㇏" d="M61.93,17.77c4.49,4.19,17.44,18.68,25.07,26.24c2.5,2.47,4.76,4.24,8.26,6.15"/>
+		</g>
+		<g id="kvg:04f36-Insatsu-g4" kvg:position="bottom">
+			<g id="kvg:04f36-Insatsu-g5" kvg:element="一">
+				<path id="kvg:04f36-Insatsu-s5" kvg:type="㇐" d="M49.6,45.1c1.76,0.72,3.84,0.36,5.65,0.14c5.4-0.66,13.08-1.76,18.48-2.24c1.88-0.17,3.54-0.23,5.37,0.21"/>
+			</g>
+			<g id="kvg:04f36-Insatsu-g6" kvg:element="卩" kvg:original="マ">
+				<path id="kvg:04f36-Insatsu-s6" kvg:type="㇆" d="M50.7,54c0.61,0.15,3,1,4.21,0.87c3.29-0.37,17.99-4.02,19.51-4.17c1.52-0.15,4.28-0.29,3.95,2.89c-0.43,4.17-2.68,16.92-6,23.84c-1.89,3.94-3.18,3.45-6.23,0.46"/>
+				<path id="kvg:04f36-Insatsu-s7" kvg:type="㇑" d="M57.9,55c0.87,0.87,1.8,2,1.8,3.5c0,7.36-0.04,24.53-0.1,34.13c-0.02,3.3-0.05,5.71-0.08,6.51"/>
+			</g>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_04f36-Insatsu" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 22.60 15.60)">1</text>
+	<text transform="matrix(1 0 0 1 20.25 56.25)">2</text>
+	<text transform="matrix(1 0 0 1 53.25 18.25)">3</text>
+	<text transform="matrix(1 0 0 1 72.25 25.25)">4</text>
+	<text transform="matrix(1 0 0 1 53.7 42.1)">5</text>
+	<text transform="matrix(1 0 0 1 43.6 58.5)">6</text>
+	<text transform="matrix(1 0 0 1 51.6 66.6)">7</text>
+</g>
+</svg>
