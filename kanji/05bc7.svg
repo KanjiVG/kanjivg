@@ -38,10 +38,10 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_05bc7" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05bc7" kvg:element="寇">
 	<g id="kvg:05bc7-g1" kvg:element="宀" kvg:position="top" kvg:radical="tradit">
-		<path id="kvg:05bc7-s1" kvg:type="㇑a" d="M23.55,23.77c0,3.41-2.87,12.79-4.17,15.07"/>
+		<path id="kvg:05bc7-s1" kvg:type="㇑a" d="M51.51,10c1.05,0.42,2.55,1.5,2.52,2.72c-0.08,3.82-0.08,6.33-0.08,9.81"/>
 		<g id="kvg:05bc7-g2" kvg:element="冖">
-			<path id="kvg:05bc7-s2" kvg:type="㇔" d="M23.6,26.16c8.9-1.47,54.15-5.35,60.31-5.37c9.85-0.04-0.32,7.57-1.86,8.35"/>
-			<path id="kvg:05bc7-s3" kvg:type="㇖b" d="M51.51,10c1.05,0.42,2.55,1.5,2.52,2.72c-0.08,3.82-0.08,6.33-0.08,9.81"/>
+			<path id="kvg:05bc7-s2" kvg:type="㇔" d="M23.55,23.77c0,3.41-2.87,12.79-4.17,15.07"/>
+			<path id="kvg:05bc7-s3" kvg:type="㇖b" d="M23.6,26.16c8.9-1.47,54.15-5.35,60.31-5.37c9.85-0.04-0.32,7.57-1.86,8.35"/>
 		</g>
 	</g>
 	<g id="kvg:05bc7-g3" kvg:position="bottom">
@@ -81,6 +81,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 57.50 33.50)">8</text>
 	<text transform="matrix(1 0 0 1 70.50 38.50)">9</text>
 	<text transform="matrix(1 0 0 1 55.50 54.50)">10</text>
-	<text transform="matrix(1 0 0 1 50.50 68.50)">11</text>
+	<text transform="matrix(1 0 0 1 49 69)">11</text>
 </g>
 </svg>

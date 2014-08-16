@@ -61,10 +61,10 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 18.50 13.50)">2</text>
 	<text transform="matrix(1 0 0 1 3.50 66.50)">3</text>
 	<text transform="matrix(1 0 0 1 45.50 28.50)">4</text>
-	<text transform="matrix(1 0 0 1 56.50 13.50)">5</text>
+	<text transform="matrix(1 0 0 1 59 13.50)">5</text>
 	<text transform="matrix(1 0 0 1 45.50 47.50)">6</text>
-	<text transform="matrix(1 0 0 1 57.00 59.50)">7</text>
-	<text transform="matrix(1 0 0 1 45.50 70.50)">8</text>
+	<text transform="matrix(1 0 0 1 45.50 70.50)">7</text>
+	<text transform="matrix(1 0 0 1 59 59.50)">8</text>
 	<text transform="matrix(1 0 0 1 39.50 90.50)">9</text>
 </g>
 </svg>

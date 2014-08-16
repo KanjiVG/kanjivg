@@ -70,7 +70,7 @@ kvg:type CDATA #IMPLIED >
 </g>
 <g id="kvg:StrokeNumbers_06483" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 12.75 21.50)">1</text>
-	<text transform="matrix(1 0 0 1 12.75 36.05)">2</text>
+	<text transform="matrix(1 0 0 1 12.75 35)">2</text>
 	<text transform="matrix(1 0 0 1 23.25 27.50)">3</text>
 	<text transform="matrix(1 0 0 1 25.50 34.55)">4</text>
 	<text transform="matrix(1 0 0 1 25.50 42.50)">5</text>
@@ -79,10 +79,10 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 53.25 21.13)">8</text>
 	<text transform="matrix(1 0 0 1 62.50 12.13)">9</text>
 	<text transform="matrix(1 0 0 1 62.25 32.50)">10</text>
-	<text transform="matrix(1 0 0 1 52.50 47.50)">11</text>
-	<text transform="matrix(1 0 0 1 71.25 61.63)">12</text>
-	<text transform="matrix(1 0 0 1 19.50 73.63)">13</text>
-	<text transform="matrix(1 0 0 1 10.50 84.50)">14</text>
-	<text transform="matrix(1 0 0 1 46.50 68.50)">15</text>
+	<text transform="matrix(1 0 0 1 51 48)">11</text>
+	<text transform="matrix(1 0 0 1 66.5 57)">12</text>
+	<text transform="matrix(1 0 0 1 17 73.63)">13</text>
+	<text transform="matrix(1 0 0 1 8.5 84.50)">14</text>
+	<text transform="matrix(1 0 0 1 57 67)">15</text>
 </g>
 </svg>
