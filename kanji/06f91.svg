@@ -48,9 +48,9 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:06f91-s5" kvg:type="㇑" d="M59.03,20.56c1,0.83,1.28,2.66,1.28,4.12c0,3.32-0.02,36.33-0.02,40.85"/>
 			<path id="kvg:06f91-s6" kvg:type="㇐" d="M43.44,36.77c2.36-0.19,14.18-1.61,16.11-1.8"/>
 			<path id="kvg:06f91-s7" kvg:type="㇄" d="M41.48,35.8c0.92,0.81,1.62,1.65,1.63,2.79c0.03,2.41-0.13,8.54-0.23,11.86c-0.02,0.72,0.17,1.5,1.86,1.26c3.85-0.55,11.28-1.22,15.24-1.91"/>
-			<path id="kvg:06f91-s8" kvg:type="㇑" d="M72.74,17.88c0.85,0.7,1.51,1.85,1.51,3.08c0,2.8-0.02,39.73-0.02,43.54"/>
-			<path id="kvg:06f91-s9" kvg:type="㇕" d="M74.53,34.25c3.85-0.55,13.33-2.19,17.32-2.68c2.37-0.29,3.38,1.62,3.01,2.86c-0.7,2.38-1.43,8.73-2.15,12.89"/>
-			<path id="kvg:06f91-s10" kvg:type="㇐" d="M74.23,49.24c2.36-0.19,18.04-1.73,19.97-1.92"/>
+			<path id="kvg:06f91-s8" kvg:type="㇕" d="M74.53,34.25c3.85-0.55,13.33-2.19,17.32-2.68c2.37-0.29,3.38,1.62,3.01,2.86c-0.7,2.38-1.43,8.73-2.15,12.89"/>
+			<path id="kvg:06f91-s9" kvg:type="㇐" d="M74.23,49.24c2.36-0.19,18.04-1.73,19.97-1.92"/>
+			<path id="kvg:06f91-s10" kvg:type="㇑" d="M72.74,17.88c0.85,0.7,1.51,1.85,1.51,3.08c0,2.8-0.02,39.73-0.02,43.54"/>
 		</g>
 		<g id="kvg:06f91-g4" kvg:element="田" kvg:position="bottom">
 			<path id="kvg:06f91-s11" kvg:type="㇑" d="M44.5,65.91c0.32,0.54,0.92,1.88,1,2.56c0.75,6.54,1.72,17.02,2.57,27.04"/>
@@ -70,9 +70,9 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 52.50 29.50)">5</text>
 	<text transform="matrix(1 0 0 1 43.50 33.50)">6</text>
 	<text transform="matrix(1 0 0 1 35.50 43.50)">7</text>
-	<text transform="matrix(1 0 0 1 66.50 27.50)">8</text>
-	<text transform="matrix(1 0 0 1 79.50 30.50)">9</text>
-	<text transform="matrix(1 0 0 1 78.25 45.70)">10</text>
+	<text transform="matrix(1 0 0 1 79.50 30.50)">8</text>
+	<text transform="matrix(1 0 0 1 78.25 45.70)">9</text>
+	<text transform="matrix(1 0 0 1 63.29 26.66)">10</text>
 	<text transform="matrix(1 0 0 1 33.50 75.63)">11</text>
 	<text transform="matrix(1 0 0 1 47.00 63.05)">12</text>
 	<text transform="matrix(1 0 0 1 70.50 73.73)">13</text>
