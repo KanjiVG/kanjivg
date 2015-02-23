@@ -38,17 +38,17 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_0624d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0624d" kvg:element="才">
 	<g id="kvg:0624d-g1" kvg:element="扌" kvg:variant="true" kvg:original="手" kvg:radical="tradit">
-		<path id="kvg:0624d-s1" kvg:type="㇐" d="M18.62,38.5c2.62,0.62,4.54,0.53,7.82,0.25C41.25,37.5,67.62,35,84.75,34c3.28-0.19,5.86,0,8,0.5"/>
+		<path id="kvg:0624d-s1" kvg:type="㇐" d="M 18.62,38.5 c 2.62,0.62 4.54,0.53 7.82,0.25 C 41.25,37.5 67.62,35 84.75,34 c 3.28,-0.19 5.86,0 8,0.5"/>
 		<g id="kvg:0624d-g2" kvg:element="亅" kvg:radical="nelson">
-			<path id="kvg:0624d-s2" kvg:type="㇚" d="M60.77,13.58c1.39,1.39,2.26,2.99,2.26,6.02c0,15.4-0.01,66.41-0.01,71.37c0,8.78-7.21,0.5-8.71-0.75"/>
+			<path id="kvg:0624d-s2" kvg:type="㇚" d="M 60.77,13.58 c 1.39,1.39 2.26,2.99 2.26,6.02 0,15.4 -0.01,66.41 -0.01,71.37 0,8.78 -7.21,0.5 -8.71,-0.75"/>
 		</g>
-		<path id="kvg:0624d-s3" kvg:type="㇒" d="M62.01,44.25c0.13,1.02-0.05,3.11-1,4.34c-7.51,9.66-23.13,25.16-44.39,37.1"/>
+		<path id="kvg:0624d-s3" kvg:type="㇒" d="M 73.043742,46.367587 C 62.856133,57.87424 32.711367,80.494361 23.641472,85.467096"/>
 	</g>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_0624d" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 11.50 38.50)">1</text>
-	<text transform="matrix(1 0 0 1 51.50 12.50)">2</text>
-	<text transform="matrix(1 0 0 1 51.75 49.63)">3</text>
+	<text transform="matrix(1 0 0 1 53.73 16.07)">2</text>
+	<text transform="matrix(1 0 0 1 75.49 46.06)">3</text>
 </g>
 </svg>
