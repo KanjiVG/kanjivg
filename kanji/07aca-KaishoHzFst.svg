@@ -76,7 +76,7 @@ kvg:type CDATA #IMPLIED >
 			<g id="kvg:07aca-KaishoHzFst-g11" kvg:element="禸">
 				<path id="kvg:07aca-KaishoHzFst-s19" kvg:type="㇑" d="M50.71,70.85c0.62,1.09,1.54,2.48,1.64,3.27c0.48,3.87,1.13,16.82,1.93,24.14"/>
 				<path id="kvg:07aca-KaishoHzFst-s20" kvg:type="㇆" d="M51.73,71.69c6.25-0.49,37.96-2.99,39.11-3.23c2.47-0.5,4.1,1.22,4.01,2.7c-0.21,3.56-2.39,18.85-4.34,23.37c-2.43,5.64-3.31,3.47-5.49-0.04"/>
-				<path id="kvg:07aca-KaishoHzFst-s21" kvg:type="㇜" d="M70.75,64.25c0.25,0.45,0.39,2.92,0.25,3.5c-1.78,7.2-5.83,12.5-9.38,17.87c-1.06,1.61-1.06,1.96,0.49,1.61c3.25-0.75,10.64-3.85,17.09-5.37"/>
+				<path id="kvg:07aca-s21" kvg:type="㇜" d="M 69.305619,72.754335 c -1.243842,3.114086 -3.828378,6.947698 -9.025362,13.180899 -1.06,1.61 -1.06,1.96 0.49,1.61 C 64.020257,86.795234 72.75,83.38 79.2,81.86"/>
 				<path id="kvg:07aca-KaishoHzFst-s22" kvg:type="㇔" d="M74.5,75.75c3.26,2.03,8.43,8.34,9.25,11.5"/>
 			</g>
 		</g>
@@ -104,7 +104,7 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 74.25 56.35)">18</text>
 	<text transform="matrix(1 0 0 1 43.25 88.50)">19</text>
 	<text transform="matrix(1 0 0 1 50.50 68.20)">20</text>
-	<text transform="matrix(1 0 0 1 74.50 67.13)">21</text>
+	<text transform="matrix(1 0 0 1 55.59 78.95)">21</text>
 	<text transform="matrix(1 0 0 1 81.50 78.50)">22</text>
 </g>
 </svg>
