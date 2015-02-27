@@ -53,18 +53,18 @@ kvg:type CDATA #IMPLIED >
 	<g id="kvg:08d13-KaishoHzFstTenFst-g4" kvg:element="臧" kvg:position="right">
 		<g id="kvg:08d13-KaishoHzFstTenFst-g5" kvg:element="爿" kvg:part="1" kvg:variant="true">
 			<path id="kvg:08d13-KaishoHzFstTenFst-s8" kvg:type="㇄" d="M50.6,31.44c0.45,0.87,0.73,2.36,0.73,3.39c0,24.87-0.29,45.83-9.98,57.07"/>
-			<path id="kvg:08d13-KaishoHzFstTenFst-s9" kvg:type="㇐" d="M41.02,33.93c0.51,0.39,0.7,0.86,0.74,2.16c0.06,1.96-0.27,10.6-0.43,12.65c-0.05,0.65,0.09,1.63,0.84,1.53c2.65-0.36,5.85-0.96,8.92-1.25"/>
-			<path id="kvg:08d13-KaishoHzFstTenFst-s10" kvg:type="㇒" d="M37.44,60.19c0.97,0.13,1.17,0.51,2.3,0.42c4.84-0.38,7.52-1.23,10.9-1.43"/>
+					<path id="kvg:08d13-KaishoHzFstTenFst-s9" kvg:type="㇐" d="M48.8,31.23c1.26,0.54,3.08,0.68,4.34,0.54c11.37-1.27,25.62-3.27,37.15-4.73c2.09-0.26,2.86,0.26,3.92,0.53"/>
+			<path id="kvg:08d13-KaishoHzFstTenFst-s10" kvg:type="㇐" d="M41.02,33.93c0.51,0.39,0.7,0.86,0.74,2.16c0.06,1.96-0.27,10.6-0.43,12.65c-0.05,0.65,0.09,1.63,0.84,1.53c2.65-0.36,5.85-0.96,8.92-1.25"/>
 		</g>
 		<g id="kvg:08d13-KaishoHzFstTenFst-g6" kvg:element="爿" kvg:part="2" kvg:variant="true">
 			<g id="kvg:08d13-KaishoHzFstTenFst-g7" kvg:element="厂" kvg:part="1" kvg:variant="true">
-				<path id="kvg:08d13-KaishoHzFstTenFst-s11" kvg:type="㇒" d="M43.71,60.71c0.02,0.46,0.02,1.19-0.04,1.86c-0.42,4.79-1.63,12.98-7.2,17.8"/>
+			<path id="kvg:08d13-KaishoHzFstTenFst-s11" kvg:type="㇒" d="M37.44,60.19c0.97,0.13,1.17,0.51,2.3,0.42c4.84-0.38,7.52-1.23,10.9-1.43"/>
 			</g>
 		</g>
 		<g id="kvg:08d13-KaishoHzFstTenFst-g8" kvg:element="戈" kvg:part="1">
 			<g id="kvg:08d13-KaishoHzFstTenFst-g9" kvg:element="弋" kvg:part="1">
 				<g id="kvg:08d13-KaishoHzFstTenFst-g10" kvg:element="厂" kvg:part="2" kvg:variant="true">
-					<path id="kvg:08d13-KaishoHzFstTenFst-s12" kvg:type="㇐" d="M48.8,31.23c1.26,0.54,3.08,0.68,4.34,0.54c11.37-1.27,25.62-3.27,37.15-4.73c2.09-0.26,2.86,0.26,3.92,0.53"/>
+				<path id="kvg:08d13-KaishoHzFstTenFst-s12" kvg:type="㇒" d="M43.71,60.71c0.02,0.46,0.02,1.19-0.04,1.86c-0.42,4.79-1.63,12.98-7.2,17.8"/>
 				</g>
 			</g>
 		</g>
@@ -102,10 +102,10 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 12.50 84.50)">6</text>
 	<text transform="matrix(1 0 0 1 23.63 87.50)">7</text>
 	<text transform="matrix(1 0 0 1 45.50 39.30)">8</text>
-	<text transform="matrix(1 0 0 1 36.50 31.50)">9</text>
-	<text transform="matrix(1 0 0 1 35.50 58.50)">10</text>
-	<text transform="matrix(1 0 0 1 35.50 68.50)">11</text>
-	<text transform="matrix(1 0 0 1 47.75 28.55)">12</text>
+	<text transform="matrix(1 0 0 1 47.75 28.55)">9</text>
+	<text transform="matrix(1 0 0 1 36.50 31.50)">10</text>
+	<text transform="matrix(1 0 0 1 35.50 58.50)">11</text>
+	<text transform="matrix(1 0 0 1 35.50 68.50)">12</text>
 	<text transform="matrix(1 0 0 1 57.50 39.50)">13</text>
 	<text transform="matrix(1 0 0 1 51.50 70.48)">14</text>
 	<text transform="matrix(1 0 0 1 68.50 48.50)">15</text>
