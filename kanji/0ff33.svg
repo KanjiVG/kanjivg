@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_0ff33" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0ff33">
+	<path id="kvg:0ff33-s1" d="M83.31,33.27c-3.61-12.43-16.47-17.77-29.77-17.77c-12.43,0-26.3,6.94-26.3,16.74c0,13.6,8.49,14.9,27.07,20.35c16.87,4.95,29.73,7.23,29.73,20.27c0,15.61-20.81,19.51-28.76,19.51c-15.9,0-26.73-6.5-30.78-17.87"/>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0ff33" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 86.04 28.99)">1</text>
+</g>
+</svg>
