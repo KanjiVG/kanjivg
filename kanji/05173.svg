@@ -36,12 +36,12 @@ kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05173" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:05173-g1" kvg:element="关">
+<g id="kvg:05173" kvg:element="关">
 	<path id="kvg:05173-s1" kvg:type="㇔" d="M 35.910208,17.62 c 3.69,2.55 9.54,10.48 10.47,14.44"/>
 	<path id="kvg:05173-s2" kvg:type="㇒" d="M 69.280208,14.64 c 0.05,0.58 0.22,1.54 -0.1,2.34 -1.65,4.14 -5.03,9.39 -10.9,16.52"/>
-	<g id="kvg:05173-g2" kvg:element="天">
+	<g id="kvg:05173-g1" kvg:element="天">
 		<path id="kvg:05173-s3" kvg:type="㇐" d="M 37.320208,39.34 c 1.96,0.29 3.96,0.31 5.58,0.13 6.28,-0.69 17.97,-2.39 24.4,-3.01 1.98,-0.19 3.88,-0.35 5.84,0.13"/>
-		<g id="kvg:05173-g3" kvg:element="大">
+		<g id="kvg:05173-g2" kvg:element="大">
 			<path id="kvg:05173-s4" kvg:type="㇐" d="M 30.270208,61.73 c 3.26,0.77 5.78,0.8 8.64,0.46 12.12,-1.44 26.11,-2.7 35.12,-3.35 3.02,-0.22 6.01,-0.07 8.98,0.64"/>
 			<path id="kvg:05173-s5" kvg:type="㇒" d="M 51.710208,42.12 c 0.6,0.76 0.77,2.38 0.7,3.84 -1.43,27.29 -11.79,41.04 -29.43,47.41"/>
 			<path id="kvg:05173-s6" kvg:type="㇏" d="M 51.980208,61.89 c 5.79,5.58 15.85,16.6 23.41,23.76 3.14,2.97 6.01,4.84 8.49,6.14"/>
