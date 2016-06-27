@@ -35,47 +35,47 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_08146-KaishoVtlst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:08146-KaishoVtlst" kvg:element="腆">
-	<g id="kvg:08146-KaishoVtlst-g1" kvg:element="月" kvg:variant="true" kvg:original="肉" kvg:position="left" kvg:radical="general">
-		<path id="kvg:08146-KaishoVtlst-s1" kvg:type="㇒" d="M15.75,17.08c1.25,0.67,1.69,1.67,1.69,3.31c0,0.97,0.14,26.88-0.37,34.89c-0.73,11.41-1.82,21.46-8.32,36.02"/>
-		<path id="kvg:08146-KaishoVtlst-s2" kvg:type="㇆a" d="M17.92,19.25c1.86-0.06,11.45-2.04,12.83-2.17c2.48-0.22,3.29,0.79,3.29,2.12c0,3.16,0.04,45.17,0.04,63.09c0,14.21-5.24,5.6-6.82,4.12"/>
-		<path id="kvg:08146-KaishoVtlst-s3" kvg:type="㇐a" d="M18.99,38.84c2.5-0.16,4.49-0.53,6.97-0.84c0.68-0.09,1.36-0.17,2.02-0.25"/>
-		<path id="kvg:08146-KaishoVtlst-s4" kvg:type="㇐a" d="M17.6,58.07c2.42-0.04,5.85-0.33,8.26-0.58c0.71-0.07,1.43-0.15,2.14-0.22"/>
+<g id="kvg:StrokePaths_08146-KaishoVtLst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:08146-KaishoVtLst" kvg:element="腆">
+	<g id="kvg:08146-KaishoVtLst-g1" kvg:element="月" kvg:variant="true" kvg:original="肉" kvg:position="left" kvg:radical="general">
+		<path id="kvg:08146-KaishoVtLst-s1" kvg:type="㇒" d="M15.75,17.08c1.25,0.67,1.69,1.67,1.69,3.31c0,0.97,0.14,26.88-0.37,34.89c-0.73,11.41-1.82,21.46-8.32,36.02"/>
+		<path id="kvg:08146-KaishoVtLst-s2" kvg:type="㇆a" d="M17.92,19.25c1.86-0.06,11.45-2.04,12.83-2.17c2.48-0.22,3.29,0.79,3.29,2.12c0,3.16,0.04,45.17,0.04,63.09c0,14.21-5.24,5.6-6.82,4.12"/>
+		<path id="kvg:08146-KaishoVtLst-s3" kvg:type="㇐a" d="M18.99,38.84c2.5-0.16,4.49-0.53,6.97-0.84c0.68-0.09,1.36-0.17,2.02-0.25"/>
+		<path id="kvg:08146-KaishoVtLst-s4" kvg:type="㇐a" d="M17.6,58.07c2.42-0.04,5.85-0.33,8.26-0.58c0.71-0.07,1.43-0.15,2.14-0.22"/>
 	</g>
-	<g id="kvg:08146-KaishoVtlst-g2" kvg:element="典" kvg:position="right">
-		<g id="kvg:08146-KaishoVtlst-g3" kvg:element="曲" kvg:position="top">
-			<g id="kvg:08146-KaishoVtlst-g4" kvg:element="日" kvg:part="1">
-				<path id="kvg:08146-KaishoVtlst-s5" kvg:type="㇑" d="M45.25,25.92c1.25,0.83,2.13,2.73,2.13,4.05c0,1.32,1.7,36.29,1.7,36.95"/>
-				<path id="kvg:08146-KaishoVtlst-s6" kvg:type="㇕a" d="M47.58,28.25c2.85-0.59,37.09-3.28,39.6-3.63c1.42-0.2,3.11,0.77,2.94,3.08c-0.26,3.54-1.8,21.5-2.54,36.39"/>
+	<g id="kvg:08146-KaishoVtLst-g2" kvg:element="典" kvg:position="right">
+		<g id="kvg:08146-KaishoVtLst-g3" kvg:element="曲" kvg:position="top">
+			<g id="kvg:08146-KaishoVtLst-g4" kvg:element="日" kvg:part="1">
+				<path id="kvg:08146-KaishoVtLst-s5" kvg:type="㇑" d="M45.25,25.92c1.25,0.83,2.13,2.73,2.13,4.05c0,1.32,1.7,36.29,1.7,36.95"/>
+				<path id="kvg:08146-KaishoVtLst-s6" kvg:type="㇕a" d="M47.58,28.25c2.85-0.59,37.09-3.28,39.6-3.63c1.42-0.2,3.11,0.77,2.94,3.08c-0.26,3.54-1.8,21.5-2.54,36.39"/>
 			</g>
-			<g id="kvg:08146-KaishoVtlst-g5" kvg:element="廾" kvg:part="1" kvg:variant="true">
-				<g id="kvg:08146-KaishoVtlst-g6" kvg:element="丿">
-					<g id="kvg:08146-KaishoVtlst-g7" kvg:element="十" kvg:part="1">
-						<path id="kvg:08146-KaishoVtlst-s7" kvg:type="㇐a" d="M48.68,46.05c11.32-0.3,19.89-1.3,28.73-1.98c1.11-0.08,2.18-0.17,3.21-0.24"/>
+			<g id="kvg:08146-KaishoVtLst-g5" kvg:element="廾" kvg:part="1" kvg:variant="true">
+				<g id="kvg:08146-KaishoVtLst-g6" kvg:element="丿">
+					<g id="kvg:08146-KaishoVtLst-g7" kvg:element="十" kvg:part="1">
+						<path id="kvg:08146-KaishoVtLst-s7" kvg:type="㇐a" d="M48.68,46.05c11.32-0.3,19.89-1.3,28.73-1.98c1.11-0.08,2.18-0.17,3.21-0.24"/>
 					</g>
 				</g>
-				<path id="kvg:08146-KaishoVtlst-s8" kvg:type="㇐a" d="M40.08,67.58c1.11,0.32,2.92,0.67,5.33,0.5c8.56-0.59,34.72-3.03,47.83-3.17c1.85-0.02,3.75-0.17,5.67,0.67"/>
-				<g id="kvg:08146-KaishoVtlst-g8" kvg:element="日" kvg:part="2">
-					<g id="kvg:08146-KaishoVtlst-g9" kvg:element="十" kvg:part="2">
-				<path id="kvg:08146-KaishoVtlst-s9" kvg:type="㇑a" d="M58.08,12.42c0.64,0.41,1.97,3.16,1.99,4.01c0.4,18.24,0.84,41.23,1.28,48.9"/>
+				<path id="kvg:08146-KaishoVtLst-s8" kvg:type="㇐a" d="M40.08,67.58c1.11,0.32,2.92,0.67,5.33,0.5c8.56-0.59,34.72-3.03,47.83-3.17c1.85-0.02,3.75-0.17,5.67,0.67"/>
+				<g id="kvg:08146-KaishoVtLst-g8" kvg:element="日" kvg:part="2">
+					<g id="kvg:08146-KaishoVtLst-g9" kvg:element="十" kvg:part="2">
+				<path id="kvg:08146-KaishoVtLst-s9" kvg:type="㇑a" d="M58.08,12.42c0.64,0.41,1.97,3.16,1.99,4.01c0.4,18.24,0.84,41.23,1.28,48.9"/>
 					</g>
 				</g>
-						<path id="kvg:08146-KaishoVtlst-s10" kvg:type="㇑a" d="M74.08,12.08c0.53,0.38,1.67,1.92,1.67,4.17c0,23-0.26,32.55-1,48.5"/>
+						<path id="kvg:08146-KaishoVtLst-s10" kvg:type="㇑a" d="M74.08,12.08c0.53,0.38,1.67,1.92,1.67,4.17c0,23-0.26,32.55-1,48.5"/>
 			</g>
 		</g>
-		<g id="kvg:08146-KaishoVtlst-g10" kvg:element="八" kvg:position="bottom">
-			<g id="kvg:08146-KaishoVtlst-g11" kvg:position="left">
-				<path id="kvg:08146-KaishoVtlst-s11" kvg:type="㇒" d="M58.98,74.06c0.05,0.47,0.1,1.23-0.1,1.91c-1.19,4.02-7.99,12.85-17.31,18.25"/>
+		<g id="kvg:08146-KaishoVtLst-g10" kvg:element="八" kvg:position="bottom">
+			<g id="kvg:08146-KaishoVtLst-g11" kvg:position="left">
+				<path id="kvg:08146-KaishoVtLst-s11" kvg:type="㇒" d="M58.98,74.06c0.05,0.47,0.1,1.23-0.1,1.91c-1.19,4.02-7.99,12.85-17.31,18.25"/>
 			</g>
-			<g id="kvg:08146-KaishoVtlst-g12" kvg:position="right">
-				<path id="kvg:08146-KaishoVtlst-s12" kvg:type="㇏" d="M75.42,74.2c5.96,3.77,15.41,15.51,16.9,21.38"/>
+			<g id="kvg:08146-KaishoVtLst-g12" kvg:position="right">
+				<path id="kvg:08146-KaishoVtLst-s12" kvg:type="㇏" d="M75.42,74.2c5.96,3.77,15.41,15.51,16.9,21.38"/>
 			</g>
 		</g>
 	</g>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_08146-KaishoVtlst" style="font-size:8;fill:#808080">
+<g id="kvg:StrokeNumbers_08146-KaishoVtLst" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 10.25 25.25)">1</text>
 	<text transform="matrix(1 0 0 1 19.25 16.25)">2</text>
 	<text transform="matrix(1 0 0 1 21.25 35.25)">3</text>
