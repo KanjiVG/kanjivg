@@ -37,16 +37,16 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0706c" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0706c" kvg:element="灬" kvg:variant="true" kvg:original="火" kvg:radical="tradit">
-	<path id="kvg:0706c-s1" kvg:type="㇔" d="M20.64,43.97c-0.51,10.16-6.01,19.28-8.39,21.66"/>
-	<path id="kvg:0706c-s2" kvg:type="㇔" d="M37.12,41.62c4.32,3.86,8.41,14.46,9.49,20.46"/>
-	<path id="kvg:0706c-s3" kvg:type="㇔" d="M60.42,39.96c3.34,3.66,8.63,15.07,9.47,20.77"/>
-	<path id="kvg:0706c-s4" kvg:type="㇔" d="M82.38,40.12c5.01,3.81,12.93,15.67,14.18,21.61"/>
+	<path id="kvg:0706c-s1" kvg:type="㇔" d="M 20.64,82.304746 c -0.51,10.16 -6.01,19.280004 -8.39,21.660004"/>
+	<path id="kvg:0706c-s2" kvg:type="㇔" d="M 37.12,79.954746 c 4.32,3.86 8.41,14.46 9.49,20.460004"/>
+	<path id="kvg:0706c-s3" kvg:type="㇔" d="M 60.42,78.294746 c 3.34,3.66 8.63,15.07 9.47,20.77"/>
+	<path id="kvg:0706c-s4" kvg:type="㇔" d="M 82.38,78.454746 c 5.01,3.81 12.93,15.67 14.18,21.610004"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_0706c" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 15.25 39.25)">1</text>
-	<text transform="matrix(1 0 0 1 30.25 40.25)">2</text>
-	<text transform="matrix(1 0 0 1 53.25 39.25)">3</text>
-	<text transform="matrix(1 0 0 1 74.25 39.25)">4</text>
+	<text transform="matrix(1 0 0 1 15.25 77.58)">1</text>
+	<text transform="matrix(1 0 0 1 30.25 78.58)">2</text>
+	<text transform="matrix(1 0 0 1 53.25 77.58)">3</text>
+	<text transform="matrix(1 0 0 1 74.25 77.58)">4</text>
 </g>
 </svg>

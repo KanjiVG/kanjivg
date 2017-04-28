@@ -37,14 +37,14 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05fc4" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05fc4" kvg:element="忄" kvg:variant="true" kvg:original="心" kvg:radical="tradit">
-	<path id="kvg:05fc4-s1" kvg:type="㇔" d="M40.38,36c0,7.78-3.07,19.28-3.88,21.5"/>
-	<path id="kvg:05fc4-s2" kvg:type="㇔" d="M64.88,28.12c1.94,2.54,5.01,10.43,5.5,14.38"/>
-	<path id="kvg:05fc4-s3" kvg:type="㇑" d="M52.62,10.75c1.38,1.38,1.71,2.62,1.71,4.5c0,0.84,0.02,49.32,0.03,71.12c0,4.69,0,8.14,0,9.63"/>
+	<path id="kvg:05fc4-s1" kvg:type="㇔" d="M 11.744407,36 c 0,7.78 -3.0700002,19.28 -3.8800002,21.5"/>
+	<path id="kvg:05fc4-s2" kvg:type="㇔" d="M 36.244407,28.12 c 1.94,2.54 5.01,10.43 5.5,14.38"/>
+	<path id="kvg:05fc4-s3" kvg:type="㇑" d="M 23.984407,10.75 c 1.38,1.38 1.71,2.62 1.71,4.5 0,0.84 0.02,49.32 0.03,71.12 0,4.69 0,8.14 0,9.63"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_05fc4" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 34.75 33.88)">1</text>
-	<text transform="matrix(1 0 0 1 59.38 25.00)">2</text>
-	<text transform="matrix(1 0 0 1 42.25 9.73)">3</text>
+	<text transform="matrix(1 0 0 1 6.11 33.88)">1</text>
+	<text transform="matrix(1 0 0 1 30.74 25.00)">2</text>
+	<text transform="matrix(1 0 0 1 13.61 9.73)">3</text>
 </g>
 </svg>
