@@ -39,28 +39,28 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:076de" kvg:element="盞">
 	<g id="kvg:076de-g1" kvg:element="戔" kvg:position="top">
 		<g id="kvg:076de-g2" kvg:element="戈" kvg:position="top" kvg:radical="nelson">
-			<g id="kvg:076de-g3" kvg:element="弋" kvg:part="1">
+			<g id="kvg:076de-g3" kvg:element="弋" kvg:part="1" kvg:number="1">
 				<path id="kvg:076de-s1" kvg:type="㇐" d="M22.79,22.24c1.31,0.35,3.71,0.39,5.01,0.35c10.19-0.32,34.87-5.43,46.65-5.9c2.18-0.09,3.49,0.17,4.58,0.34"/>
 				<path id="kvg:076de-s2" kvg:type="㇂" d="M43.63,10.18c1.7,0.65,2.98,2.08,3.34,3.48c2.98,11.71,13.33,22.15,34.19,26.52c6.69,1.4,6.58-0.24,4.89-5.86"/>
 			</g>
 			<g id="kvg:076de-g4" kvg:element="丿">
 				<path id="kvg:076de-s3" kvg:type="㇒" d="M68.3,22.54c-0.27,0.59-0.53,1.2-1.16,1.74c-5.5,4.71-19.64,12.16-43.09,17.05"/>
 			</g>
-			<g id="kvg:076de-g5" kvg:element="弋" kvg:part="2">
+			<g id="kvg:076de-g5" kvg:element="弋" kvg:part="2" kvg:number="1">
 				<g id="kvg:076de-g6" kvg:element="丶">
 					<path id="kvg:076de-s4" kvg:type="㇔" d="M55.83,9.12c2.82,0.72,7.33,2.38,8.65,3.62"/>
 				</g>
 			</g>
 		</g>
 		<g id="kvg:076de-g7" kvg:element="戈" kvg:position="bottom">
-			<g id="kvg:076de-g8" kvg:element="弋" kvg:part="1">
+			<g id="kvg:076de-g8" kvg:element="弋" kvg:part="1" kvg:number="2">
 				<path id="kvg:076de-s5" kvg:type="㇐" d="M22.79,54.2c1.31,0.35,3.72,0.53,5.01,0.35c13.19-1.85,38.37-6.3,50.15-6.78c2.18-0.09,3.49,0.17,4.58,0.34"/>
 				<path id="kvg:076de-s6" kvg:type="㇂" d="M43.13,40.13c1.99,0.7,2.69,2.29,3.27,3.74c5.09,12.58,15.66,24.36,40.07,29.05c7.84,1.51,6.73-1.7,5.73-4.79"/>
 			</g>
 			<g id="kvg:076de-g9" kvg:element="丿">
 				<path id="kvg:076de-s7" kvg:type="㇒" d="M72.29,54.5c0.14,0.44,0.29,1.14-0.28,1.78c-3.37,3.76-22.26,12.41-48.71,17.46"/>
 			</g>
-			<g id="kvg:076de-g10" kvg:element="弋" kvg:part="2">
+			<g id="kvg:076de-g10" kvg:element="弋" kvg:part="2" kvg:number="2">
 				<g id="kvg:076de-g11" kvg:element="丶">
 					<path id="kvg:076de-s8" kvg:type="㇔" d="M56.08,39.2c2.9,0.82,7.54,2.71,8.9,4.12"/>
 				</g>

@@ -52,28 +52,28 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:08ce4-Kaisho-g4" kvg:element="戔" kvg:position="right">
 		<g id="kvg:08ce4-Kaisho-g5" kvg:element="戈" kvg:position="top">
-			<g id="kvg:08ce4-Kaisho-g6" kvg:element="弋" kvg:part="1">
+			<g id="kvg:08ce4-Kaisho-g6" kvg:element="弋" kvg:part="1" kvg:number="1">
 				<path id="kvg:08ce4-Kaisho-s8" kvg:type="㇐" d="M46.72,27.72c0.86,0.67,2.44,0.74,3.31,0.67c6.72-0.61,24.54-6.53,32.31-7.44c1.43-0.17,2.3,0.32,3.02,0.65"/>
 				<path id="kvg:08ce4-Kaisho-s9" kvg:type="㇂" d="M58.31,11.5c1.39,0.79,2.04,1.92,2.33,3.62c2.44,14.22,11.33,28.09,28.41,33.4c5.48,1.7,5.39-0.29,4.01-5.9"/>
 			</g>
 			<g id="kvg:08ce4-Kaisho-g7" kvg:element="丿">
 				<path id="kvg:08ce4-Kaisho-s10" kvg:type="㇒" d="M80.43,27.2c-0.18,0.65-0.36,1.32-0.79,1.92c-3.74,5.2-13.67,12.68-29.31,18.83"/>
 			</g>
-			<g id="kvg:08ce4-Kaisho-g8" kvg:element="弋" kvg:part="2">
+			<g id="kvg:08ce4-Kaisho-g8" kvg:element="弋" kvg:part="2" kvg:number="1">
 				<g id="kvg:08ce4-Kaisho-g9" kvg:element="丶">
 					<path id="kvg:08ce4-Kaisho-s11" kvg:type="㇔" d="M69.17,10.43c2.69,1.3,6.98,4.27,8.24,6.5"/>
 				</g>
 			</g>
 		</g>
 		<g id="kvg:08ce4-Kaisho-g10" kvg:element="戈" kvg:position="bottom">
-			<g id="kvg:08ce4-Kaisho-g11" kvg:element="弋" kvg:part="1">
+			<g id="kvg:08ce4-Kaisho-g11" kvg:element="弋" kvg:part="1" kvg:number="2">
 				<path id="kvg:08ce4-Kaisho-s12" kvg:type="㇐" d="M46.77,67.13c0.96,0.44,2.73,0.57,3.69,0.44c8.42-1.12,30.51-6.83,39.18-7.43c1.6-0.11,2.57,0.21,3.37,0.43"/>
 				<path id="kvg:08ce4-Kaisho-s13" kvg:type="㇂" d="M60.76,49.67c1.45,1.01,1.93,1.81,2.38,3.94c4.12,19.64,11.37,32.64,28.6,42.57c5.28,3.04,4.89,0.43,4.16-4.03"/>
 			</g>
 			<g id="kvg:08ce4-Kaisho-g12" kvg:element="丿">
 				<path id="kvg:08ce4-Kaisho-s14" kvg:type="㇒" d="M84.66,67.78c0.1,0.64,0.21,1.64-0.2,2.56c-2.43,5.39-16.07,17.81-35.16,25.05"/>
 			</g>
-			<g id="kvg:08ce4-Kaisho-g13" kvg:element="弋" kvg:part="2">
+			<g id="kvg:08ce4-Kaisho-g13" kvg:element="弋" kvg:part="2" kvg:number="2">
 				<g id="kvg:08ce4-Kaisho-g14" kvg:element="丶">
 					<path id="kvg:08ce4-Kaisho-s15" kvg:type="㇔" d="M72.92,49.37c2.93,1.35,7.62,4.44,8.99,6.75"/>
 				</g>

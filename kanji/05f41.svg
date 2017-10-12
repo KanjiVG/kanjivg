@@ -44,7 +44,7 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:05f41-g2" kvg:element="哥" kvg:position="right">
 		<g id="kvg:05f41-g3" kvg:element="可" kvg:position="top">
-			<g id="kvg:05f41-g4" kvg:element="丁" kvg:part="1">
+			<g id="kvg:05f41-g4" kvg:element="丁" kvg:part="1" kvg:number="1">
 				<g id="kvg:05f41-g5" kvg:element="一">
 					<path id="kvg:05f41-s4" kvg:type="㇐" d="M45,15.82c0.98,0.47,2.76,0.47,3.76,0.47c11.74-0.04,27.74-2.54,41.45-3.6c1.63-0.13,2.62,0.23,3.43,0.46"/>
 				</g>
@@ -54,14 +54,14 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:05f41-s6" kvg:type="㇕b" d="M52.99,27.31c1.08-0.23,2.21-0.46,3.34-0.69c5.24-1.05,10.73-2.05,13.59-2.32c1.27-0.12,2.03,0.7,1.85,1.39c-0.58,2.19-1.23,4.73-2,7.57c-0.24,0.87-0.48,1.76-0.75,2.69"/>
 				<path id="kvg:05f41-s7" kvg:type="㇐b" d="M54.61,37.6c3.53-0.32,8.51-0.64,13.42-1.08c0.76-0.07,1.52-0.14,2.27-0.21"/>
 			</g>
-			<g id="kvg:05f41-g7" kvg:element="丁" kvg:part="2">
+			<g id="kvg:05f41-g7" kvg:element="丁" kvg:part="2" kvg:number="1">
 				<g id="kvg:05f41-g8" kvg:element="亅">
 					<path id="kvg:05f41-s8" kvg:type="㇑/㇚" d="M83.5,14.54c0.04,0.29,0.98,1.51,1.01,3.35c0.12,6.27,0.06,15.94-0.01,22.11c-0.03,2.53-0.07,4.47-0.09,5.35"/>
 				</g>
 			</g>
 		</g>
 		<g id="kvg:05f41-g9" kvg:element="可" kvg:position="bottom">
-			<g id="kvg:05f41-g10" kvg:element="丁" kvg:part="1">
+			<g id="kvg:05f41-g10" kvg:element="丁" kvg:part="1" kvg:number="2">
 				<g id="kvg:05f41-g11" kvg:element="一">
 					<path id="kvg:05f41-s9" kvg:type="㇐" d="M43.13,51.25c0.97,0.31,4,0.88,5,0.81c12.12-0.81,25.87-2.31,44.22-3.55c1.62-0.11,2.59,0.15,3.4,0.31"/>
 				</g>
@@ -71,7 +71,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:05f41-s11" kvg:type="㇕b" d="M52.35,63.67c0.64-0.09,1.29-0.18,1.95-0.27c6.25-0.86,13.36-1.82,16.62-2.21c1.32-0.15,2.11,0.92,1.92,1.83c-0.62,2.99-1.63,5.53-2.6,9.05c-0.25,0.92-0.51,1.92-0.75,3"/>
 				<path id="kvg:05f41-s12" kvg:type="㇐b" d="M55.05,77.76c3.57-0.4,8.54-0.82,13.49-1.38c0.92-0.1,1.85-0.21,2.76-0.33"/>
 			</g>
-			<g id="kvg:05f41-g13" kvg:element="丁" kvg:part="2">
+			<g id="kvg:05f41-g13" kvg:element="丁" kvg:part="2" kvg:number="2">
 				<g id="kvg:05f41-g14" kvg:element="亅">
 					<path id="kvg:05f41-s13" kvg:type="㇚" d="M84.41,51.32c0.06,0.29,0.79,1.51,0.85,3.35c0.27,8.83-0.17,32.16-0.17,35.17c0,10.41-5.34,1.91-6.85-0.81"/>
 				</g>
