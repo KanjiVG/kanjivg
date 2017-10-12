@@ -41,7 +41,7 @@ kvg:type CDATA #IMPLIED >
 	<g id="kvg:04e5f-g1" kvg:element="丨" kvg:radical="nelson">
 		<path id="kvg:04e5f-s2" kvg:type="㇑" d="M54.54,14.5c1.35,1.35,1.61,2.88,1.61,4.75c0,2.2-0.02,28.39-0.02,43.87c0,3.83,0,7,0,9"/>
 	</g>
-	<g id="kvg:04e5f-g2" kvg:element="乙" kvg:variant="true" kvg:radical="tradit">
+	<g id="kvg:04e5f-g2" kvg:element="乚" kvg:original="乙" kvg:radical="tradit">
 		<path id="kvg:04e5f-s3" kvg:type="㇟" d="M30.78,36.4c1.16,1.16,1.37,2.73,1.37,5.46c0,6.27-0.02,24.15-0.02,30.4C32.12,90.62,33.29,92,61.25,92c28.2,0,29.64-2.71,29.64-14.28"/>
 	</g>
 </g>
