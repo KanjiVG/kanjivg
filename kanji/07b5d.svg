@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_07b5d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:07b5d" kvg:element="筝">
-	<g id="kvg:07b5d-g1" kvg:element="竹" kvg:variant="true" kvg:position="top" kvg:radical="general">
+	<g id="kvg:07b5d-g1" kvg:element="⺮" kvg:original="竹" kvg:radical="general">
 		<g id="kvg:07b5d-g2" kvg:position="left">
 			<path id="kvg:07b5d-s1" kvg:type="㇒" d="M27.75,10.5c0.03,0.48,0.07,1.25-0.07,1.94C26.88,16.53,22.29,25.5,16,31"/>
 			<path id="kvg:07b5d-s2" kvg:type="㇐b" d="M27.23,20.59c3.89,0,16.4-1.79,20.77-1.79"/>
@@ -50,7 +50,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:07b5d-g4" kvg:element="争" kvg:position="bottom">
-		<g id="kvg:07b5d-g5" kvg:element="𠂊" kvg:variant="true" kvg:original="勹" kvg:position="top">
+		<g id="kvg:07b5d-g5" kvg:element="⺈" kvg:original="勹" kvg:position="top">
 			<path id="kvg:07b5d-s7" kvg:type="㇒" d="M43.7,30.93c0.06,0.6,0.21,1.58-0.11,2.4c-2.18,5.58-9.16,16.14-19.84,22.92"/>
 			<path id="kvg:07b5d-s8" kvg:type="㇇a" d="M42.39,39.17c2.89-0.58,17.12-2.44,20.13-3.22c2.58-0.67,3.27,1.27,2.33,2.22c-3.97,3.97-6.38,8.25-10.39,13.34"/>
 		</g>
