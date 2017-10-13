@@ -1,8 +1,8 @@
 This is the KanjiVG source repository. It is rather raw, so you probably want
 to process it before using it.
 
-Licence
--------
+# Licence
+
 KanjiVG is copyright Ulrich Apel and released under the Creative Commons
 Attribution-Share Aline 3.0 licence:
 
@@ -10,8 +10,8 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 See the COPYING file for more details.
 
-Description
------------
+# Description
+
 This repository is made of two directories: SVG and XML, as well as a set of
 Python scripts.
 
@@ -54,5 +54,3 @@ manipulate and add plenty of attributes. This script loads the essential
 information from altered SVG files and regenerate a clean file from the
 template.svg file. All changed SVG files must be passed through this filter
 before being commited.
-
-
