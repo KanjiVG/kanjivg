@@ -48,41 +48,33 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08b72-KaishoVtLst-s7" kvg:type="㇐b" d="M21.42,91.05c5.37-0.54,8.68-0.97,16.06-1.81"/>
 		</g>
 	</g>
-	<g id="kvg:08b72-KaishoVtLst-g3" kvg:element="襄" kvg:variant="true" kvg:position="right">
+	<g id="kvg:08b72-KaishoVtLst-g3" kvg:element="㐮" kvg:variant="true" kvg:original="襄" kvg:position="right">
 		<g id="kvg:08b72-KaishoVtLst-g4" kvg:element="六" kvg:variant="true">
-			<g id="kvg:08b72-KaishoVtLst-g5" kvg:element="衣" kvg:part="1">
-				<g id="kvg:08b72-KaishoVtLst-g6" kvg:element="亠" kvg:position="top">
-					<path id="kvg:08b72-KaishoVtLst-s8" kvg:type="㇑a" d="M62.11,10.5c2.39,1.69,4.39,4.35,5.33,7.18"/>
-					<path id="kvg:08b72-KaishoVtLst-s9" kvg:type="㇐" d="M46.12,23.85c1.24,0.25,2.34,0.51,3.77,0.34c8.52-1.03,27.28-3.36,37.2-3.86c1.46-0.07,2.21,0.03,3.29,0.44"/>
-				</g>
+			<g id="kvg:08b72-KaishoVtLst-g5" kvg:element="亠" kvg:position="top">
+				<path id="kvg:08b72-KaishoVtLst-s8" kvg:type="㇑a" d="M62.11,10.5c2.39,1.69,4.39,4.35,5.33,7.18"/>
+				<path id="kvg:08b72-KaishoVtLst-s9" kvg:type="㇐" d="M46.12,23.85c1.24,0.25,2.34,0.51,3.77,0.34c8.52-1.03,27.28-3.36,37.2-3.86c1.46-0.07,2.21,0.03,3.29,0.44"/>
 			</g>
-			<g id="kvg:08b72-KaishoVtLst-g7" kvg:position="left">
-				<g id="kvg:08b72-KaishoVtLst-g8" kvg:element="八">
-					<g id="kvg:08b72-KaishoVtLst-g9" kvg:element="口" kvg:variant="true">
-						<path id="kvg:08b72-KaishoVtLst-s10" kvg:type="㇒" d="M57.77,27.64c0.03,0.27,0.06,0.7-0.06,1.1c-0.71,2.31-4.81,7.38-10.41,10.48"/>
-					</g>
-				</g>
-				<g id="kvg:08b72-KaishoVtLst-g10" kvg:element="口" kvg:variant="true" kvg:position="right">
-					<path id="kvg:08b72-KaishoVtLst-s11" kvg:type="㇔" d="M76.77,26.33c4.43,1.3,11.44,5.36,12.54,7.38"/>
-				</g>
+			<g id="kvg:08b72-KaishoVtLst-g6" kvg:element="八">
+				<path id="kvg:08b72-KaishoVtLst-s10" kvg:type="㇒" d="M57.77,27.64c0.03,0.27,0.06,0.7-0.06,1.1c-0.71,2.31-4.81,7.38-10.41,10.48"/>
+				<path id="kvg:08b72-KaishoVtLst-s11" kvg:type="㇔" d="M76.77,26.33c4.43,1.3,11.44,5.36,12.54,7.38"/>
 			</g>
 		</g>
-		<g id="kvg:08b72-KaishoVtLst-g11" kvg:element="三" kvg:part="1">
-			<g id="kvg:08b72-KaishoVtLst-g12" kvg:element="一" kvg:position="top">
+		<g id="kvg:08b72-KaishoVtLst-g7" kvg:element="三" kvg:part="1">
+			<g id="kvg:08b72-KaishoVtLst-g8" kvg:element="一" kvg:position="top">
 				<path id="kvg:08b72-KaishoVtLst-s12" kvg:type="㇐" d="M50.75,43.52c0.71,0.29,3.52,0.35,4.24,0.29c6.51-0.56,20.76-2.81,27.77-3.45c1.18-0.11,1.9,0.14,2.5,0.28"/>
 			</g>
 		</g>
-		<g id="kvg:08b72-KaishoVtLst-g13" kvg:element="三" kvg:part="1" kvg:position="bottom">
-			<g id="kvg:08b72-KaishoVtLst-g14" kvg:element="一">
+		<g id="kvg:08b72-KaishoVtLst-g9" kvg:element="三" kvg:part="1" kvg:position="bottom">
+			<g id="kvg:08b72-KaishoVtLst-g10" kvg:element="一">
 				<path id="kvg:08b72-KaishoVtLst-s13" kvg:type="㇐" d="M50.75,53.52c0.71,0.29,3.52,0.35,4.24,0.29c6.51-0.56,22.26-2.81,29.27-3.45c1.18-0.11,1.9,0.14,2.5,0.28"/>
 			</g>
-			<g id="kvg:08b72-KaishoVtLst-g15" kvg:element="一">
+			<g id="kvg:08b72-KaishoVtLst-g11" kvg:element="一">
 				<path id="kvg:08b72-KaishoVtLst-s14" kvg:type="㇐" d="M45.25,63.89c0.94,0.38,2.66,0.42,3.6,0.38c7.4-0.27,38.07-3.73,42.61-3.38c1.56,0.12,2.5,0.18,3.29,0.37"/>
 			</g>
 			<path id="kvg:08b72-KaishoVtLst-s15" kvg:type="㇑" d="M58.87,37.75c1.09,0.5,1.74,2.25,1.96,3.25c0.22,1,0,16.25-0.22,22.5"/>
 			<path id="kvg:08b72-KaishoVtLst-s16" kvg:type="㇑" d="M75.87,33.75c0.88,1,1.72,2.24,1.46,3.75C76,45.25,76,52.5,75,61"/>
 		</g>
-		<g id="kvg:08b72-KaishoVtLst-g16" kvg:element="衣" kvg:part="2" kvg:position="bottom">
+		<g id="kvg:08b72-KaishoVtLst-g12" kvg:element="𧘇" kvg:position="bottom">
 			<path id="kvg:08b72-KaishoVtLst-s17" kvg:type="㇒" d="M63.52,65.89c0.06,0.47,0.25,1.25-0.12,1.89c-2.36,4.11-10.06,11.6-21.9,18.08"/>
 			<path id="kvg:08b72-KaishoVtLst-s18" kvg:type="㇙" d="M57.09,78.45c0.32,0.35,0.66,0.7,0.66,1.31c-0.02,7.77-0.21,14.16-0.21,15.47s0.78,2.06,1.77,1.08c0.99-0.99,10.5-8.79,11.82-9.77"/>
 			<path id="kvg:08b72-KaishoVtLst-s19" kvg:type="㇒" d="M82.9,67.69c0.02,0.23,0.24,1.09,0.11,1.39c-0.86,1.87-3.57,4.53-7.97,8.24"/>
