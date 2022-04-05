@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05321-VtLst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05321-VtLst" kvg:element="匡">
-	<g id="kvg:05321-VtLst-g1" kvg:element="匚" kvg:part="1" kvg:radical="general">
+	<g id="kvg:05321-VtLst-g1" kvg:element="匚" kvg:part="1" kvg:position="kamae" kvg:radical="general">
 		<path id="kvg:05321-VtLst-s1" kvg:type="㇐" d="M16.63,21.23c1.52,0.54,4.3,0.63,5.82,0.54c15.8-0.91,41.3-4.73,58.61-4.73c2.53,0,4.05,0.26,5.31,0.53"/>
 	</g>
 	<g id="kvg:05321-VtLst-g2" kvg:element="王" kvg:original="玉" kvg:partial="true">
@@ -46,7 +46,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:05321-VtLst-s4" kvg:type="㇐" d="M30.5,73.58c0.63,0.18,3.89,0.59,4.94,0.5c14.83-1.25,28.35-2.78,44.2-3.21c1.7-0.05,3.75,0.29,4.6,0.57"/>
 		<path id="kvg:05321-VtLst-s5" kvg:type="㇑" d="M54.35,34.5c1.31,1.33,1.31,2.13,1.31,3.19c0,7.45-0.01,22.01-0.01,33.95"/>
 	</g>
-	<g id="kvg:05321-VtLst-g3" kvg:element="匚" kvg:part="2" kvg:radical="general">
+	<g id="kvg:05321-VtLst-g3" kvg:element="匚" kvg:part="2" kvg:position="kamae" kvg:radical="general">
 		<path id="kvg:05321-VtLst-s6" kvg:type="㇗" d="M22.5,23.25c0,4-0.5,61.5-0.5,65.25c0,3,0.99,3.63,2.75,3.5c10-0.75,57.25-4.25,60.5-4.25s6,0.25,8,0.75"/>
 	</g>
 </g>
