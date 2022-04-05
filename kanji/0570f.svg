@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0570f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0570f" kvg:element="圏">
-	<g id="kvg:0570f-g1" kvg:element="囗" kvg:part="1" kvg:radical="general">
+	<g id="kvg:0570f-g1" kvg:element="囗" kvg:part="1" kvg:position="kamae" kvg:radical="general">
 		<path id="kvg:0570f-s1" kvg:type="㇑" d="M20,16.34c1.02,1.02,1.37,2.56,1.37,4.5c0,5.76-0.04,49.91-0.06,68.79c0,4.17-0.01,7.11-0.01,8.12"/>
 		<path id="kvg:0570f-s2" kvg:type="㇕a" d="M21.75,17.72c17.72-1.02,48.91-2.52,62.75-2.7c4.15-0.05,6,1.09,6,5.6c0,15.01,0.14,45.88,0.14,68.88c0,2.34,0.06,4.58,0.11,6.7"/>
 	</g>
@@ -64,7 +64,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:0570f-s11" kvg:type="㇟" d="M42.27,70.46c0.5,0.58,0.68,1.04,0.68,1.67c0,1.12-0.08,3.62-0.08,4.75c0,5.56,2,6.65,14.12,6.65c11.76,0,13.77-0.98,13.77-6.82"/>
 		</g>
 	</g>
-	<g id="kvg:0570f-g9" kvg:element="囗" kvg:part="2" kvg:radical="general">
+	<g id="kvg:0570f-g9" kvg:element="囗" kvg:part="2" kvg:position="kamae" kvg:radical="general">
 		<path id="kvg:0570f-s12" kvg:type="㇐a" d="M22.51,93.2c14.61-0.45,48.81-1.15,66.98-1.57"/>
 	</g>
 </g>
