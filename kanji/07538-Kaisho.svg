@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_07538-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:07538-Kaisho" kvg:element="甸">
-	<g id="kvg:07538-Kaisho-g1" kvg:element="勹">
+	<g id="kvg:07538-Kaisho-g1" kvg:element="勹" kvg:position="kamae">
 		<g id="kvg:07538-Kaisho-g2" kvg:element="丿">
 			<path id="kvg:07538-Kaisho-s1" kvg:type="㇒" d="M39.99,10.5c0.07,0.91,0.24,2.37-0.14,3.66C37.5,22,27.75,37,14.75,49.13"/>
 		</g>
