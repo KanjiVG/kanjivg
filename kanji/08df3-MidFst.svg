@@ -49,26 +49,16 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:08df3-MidFst-s7" kvg:type="㇀/㇏" d="M12,85.57c0.33,0.8,2.77,1.85,3.57,1.4C23.5,82.5,32.25,77,41,71.99"/>
 	</g>
 	<g id="kvg:08df3-MidFst-g3" kvg:element="兆" kvg:position="right">
-		<g id="kvg:08df3-MidFst-g4" kvg:element="儿" kvg:part="1" kvg:original="八" kvg:position="left">
-			<g id="kvg:08df3-MidFst-g5" kvg:element="丿">
-				<path id="kvg:08df3-MidFst-s8" kvg:type="㇒" d="M58.24,17.86c0.85,1.56,1.67,3.51,1.67,4.73c0,7.64,0.07,16.24,0.07,24.67c0,21-6.74,35.25-18.84,44.93"/>
-			</g>
-			<g id="kvg:08df3-MidFst-g6" kvg:element="冫">
-				<g id="kvg:08df3-MidFst-g7" kvg:position="top">
-					<path id="kvg:08df3-MidFst-s9" kvg:type="㇔" d="M70.28,16.69c0.97,1.02,1.46,2.72,1.49,4.3c0.14,7.06-0.02,53.62-0.02,58.42c0,11.21,3.26,10.37,11.69,10.37C96,89.77,96,88.58,96,81.91"/>
-				</g>
-				<g id="kvg:08df3-MidFst-g8" kvg:position="bottom">
-					<path id="kvg:08df3-MidFst-s10" kvg:type="㇀" d="M44.91,34.99c2.81,1.56,6.49,5.99,7.2,8.42"/>
-				</g>
-			</g>
+		<g id="kvg:08df3-MidFst-g4" kvg:element="儿" kvg:original="八">
+			<path id="kvg:08df3-MidFst-s8" kvg:type="㇓" d="M58.24,17.86c0.85,1.56,1.67,3.51,1.67,4.73c0,7.64,0.07,16.24,0.07,24.67c0,21-6.74,35.25-18.84,44.93"/>
+			<path id="kvg:08df3-MidFst-s9" kvg:type="㇟" d="M70.28,16.69c0.97,1.02,1.46,2.72,1.49,4.3c0.14,7.06-0.02,53.62-0.02,58.42c0,11.21,3.26,10.37,11.69,10.37C96,89.77,96,88.58,96,81.91"/>
 		</g>
-		<g id="kvg:08df3-MidFst-g9" kvg:position="right">
-			<g id="kvg:08df3-MidFst-g10" kvg:element="儿" kvg:part="2" kvg:original="八">
-				<path id="kvg:08df3-MidFst-s11" kvg:type="㇟" d="M41.61,63.67c1.03,0.48,2.06,0.64,2.84,0.1c1.08-0.75,7.86-6.03,12.11-9.67"/>
-			</g>
-			<path id="kvg:08df3-MidFst-s12" kvg:type="㇒" d="M88.9,27.96c0.03,0.33,0.14,0.87-0.07,1.31c-1.73,3.62-5.28,8.11-11.4,12.49"/>
-			<path id="kvg:08df3-MidFst-s13" kvg:type="㇔" d="M75.7,53.9c5.01,2.25,12.94,9.22,14.2,12.71"/>
+		<g id="kvg:08df3-MidFst-g5" kvg:element="冫">
+			<path id="kvg:08df3-MidFst-s10" kvg:type="㇔" d="M44.91,34.99c2.81,1.56,6.49,5.99,7.2,8.42"/>
+			<path id="kvg:08df3-MidFst-s11" kvg:type="㇒" d="M41.61,63.67c1.03,0.48,2.06,0.64,2.84,0.1c1.08-0.75,7.86-6.03,12.11-9.67"/>
 		</g>
+		<path id="kvg:08df3-MidFst-s12" kvg:type="㇒" d="M88.9,27.96c0.03,0.33,0.14,0.87-0.07,1.31c-1.73,3.62-5.28,8.11-11.4,12.49"/>
+		<path id="kvg:08df3-MidFst-s13" kvg:type="㇔" d="M75.7,53.9c5.01,2.25,12.94,9.22,14.2,12.71"/>
 	</g>
 </g>
 </g>
