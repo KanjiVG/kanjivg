@@ -44,15 +44,15 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:05ac2-MdFst-g2" kvg:element="叟" kvg:position="right">
 		<g id="kvg:05ac2-MdFst-g3" kvg:position="top">
-			<g id="kvg:05ac2-MdFst-g4" kvg:element="臼" kvg:variant="true">
+			<g id="kvg:05ac2-MdFst-g4" kvg:element="丨">
 				<path id="kvg:05ac2-MdFst-s4" kvg:type="㇑" d="M65.39,11.75c0.89,0.47,1.43,2.12,1.61,3.07c0.18,0.94,0,38.91-0.18,44.81"/>
+			</g>
+			<g id="kvg:05ac2-MdFst-g5" kvg:element="臼" kvg:variant="true">
 				<path id="kvg:05ac2-MdFst-s5" kvg:type="㇒" d="M58.14,16.4c0.03,0.2-0.16,0.97-0.35,1.19c-2.49,2.83-4.8,4.96-10.47,7.21"/>
 				<path id="kvg:05ac2-MdFst-s6" kvg:type="㇑" d="M45.85,23.1c0.6,0.71,1.35,2.29,1.5,3.74c0.55,5.3,1.91,16.61,2.46,23.77"/>
 				<path id="kvg:05ac2-MdFst-s7" kvg:type="㇐" d="M48.39,35.18c2.99-0.32,9.3-2.08,10.01-2.08c0.71,0,1.71,0,2.27,0"/>
 				<path id="kvg:05ac2-MdFst-s8" kvg:type="㇕" d="M73.51,17.74c0.71,0.16,1.28,0.48,2.27,0.48s10.8-1.93,11.94-2.09c1.14-0.16,2.08,0.8,1.99,1.77c-0.85,9.34-3.7,29.4-3.84,30.05"/>
 				<path id="kvg:05ac2-MdFst-s9" kvg:type="㇐" d="M72.94,31.48c0.71,0.16,1.28,0.48,2.27,0.48c0.99,0,11.73-0.82,12.87-0.98"/>
-			</g>
-			<g id="kvg:05ac2-MdFst-g5" kvg:element="丨">
 				<path id="kvg:05ac2-MdFst-s10" kvg:type="㇐" d="M50.709138,50.371897 c 2.401445,-0.103347 2.750499,-0.18351 4.387027,-0.437677 3.483453,-0.54101 23.357254,-2.822909 25.564761,-3.00199 3.187698,-0.258599 4.316029,-0.226612 4.876029,-0.226612"/>
 			</g>
 		</g>
