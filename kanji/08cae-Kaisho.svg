@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_08cae-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08cae-Kaisho" kvg:element="貮">
-	<g id="kvg:08cae-Kaisho-g1" kvg:element="弋" kvg:part="1">
+	<g id="kvg:08cae-Kaisho-g1" kvg:element="弋" kvg:part="1" kvg:position="kamae">
 		<g id="kvg:08cae-Kaisho-g2" kvg:element="一">
 			<path id="kvg:08cae-Kaisho-s1" kvg:type="㇐" d="M25,22.06c1.04,0.26,2.97,0.37,4,0.26c5.64-0.64,11.74-0.76,18.85-1.5c1.73-0.18,2.78,0.12,3.65,0.25"/>
 		</g>
@@ -56,7 +56,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08cae-Kaisho-s9" kvg:type="㇔" d="M43.56,82.84c4.49,3.5,9.79,9.86,11.01,12.92"/>
 		</g>
 	</g>
-	<g id="kvg:08cae-Kaisho-g6" kvg:element="弋" kvg:part="2">
+	<g id="kvg:08cae-Kaisho-g6" kvg:element="弋" kvg:part="2" kvg:position="kamae">
 		<path id="kvg:08cae-Kaisho-s10" kvg:type="㇂" d="M58.5,9.5c1.56,1.87,2.3,2.38,2.54,6.4C63,48.25,68.5,79.5,89.4,95.88c5.83,4.58,6.28-0.2,5.5-8.46"/>
 		<g id="kvg:08cae-Kaisho-g7" kvg:element="丶">
 			<path id="kvg:08cae-Kaisho-s11" kvg:type="㇔" d="M73.75,13c3.34,1.95,8.69,6.41,10.25,9.75"/>

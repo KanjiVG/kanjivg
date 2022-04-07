@@ -39,26 +39,22 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:0723c" kvg:element="爼">
 	<g id="kvg:0723c-g1" kvg:element="爻" kvg:position="left" kvg:radical="general">
 		<g id="kvg:0723c-g2" kvg:element="乂" kvg:position="top">
-			<g id="kvg:0723c-g3" kvg:element="丿">
-				<path id="kvg:0723c-s1" kvg:type="㇒" d="M43.69,14.39c0.09,0.81,0.18,2.1-0.17,3.27c-2.1,6.9-14.18,22.04-30.71,31.3"/>
-			</g>
+			<path id="kvg:0723c-s1" kvg:type="㇒" d="M43.69,14.39c0.09,0.81,0.18,2.1-0.17,3.27c-2.1,6.9-14.18,22.04-30.71,31.3"/>
 			<path id="kvg:0723c-s2" kvg:type="㇏" d="M18.41,21.77C28.25,25.5,40.5,36,45.56,44.17"/>
 		</g>
-		<g id="kvg:0723c-g4" kvg:element="乂" kvg:position="bottom">
-			<g id="kvg:0723c-g5" kvg:element="丿">
-				<path id="kvg:0723c-s3" kvg:type="㇒" d="M43.51,51.64c0.09,0.92,0.18,2.38-0.17,3.7c-2.06,7.8-13.87,24.9-30.03,35.38"/>
-			</g>
+		<g id="kvg:0723c-g3" kvg:element="乂" kvg:position="bottom">
+			<path id="kvg:0723c-s3" kvg:type="㇒" d="M43.51,51.64c0.09,0.92,0.18,2.38-0.17,3.7c-2.06,7.8-13.87,24.9-30.03,35.38"/>
 			<path id="kvg:0723c-s4" kvg:type="㇏" d="M20,58.95c9.9,3.9,22.22,14.87,27.31,23.41"/>
 		</g>
 	</g>
-	<g id="kvg:0723c-g6" kvg:element="且" kvg:position="right">
-		<g id="kvg:0723c-g7" kvg:element="月">
+	<g id="kvg:0723c-g4" kvg:element="且" kvg:position="right">
+		<g id="kvg:0723c-g5" kvg:element="月">
 			<path id="kvg:0723c-s5" kvg:type="㇑a" d="M58.13,20.09c0.53,1.03,0.88,2.05,1.06,3.06c0.18,1.01,0.39,63.58,0.32,65.81"/>
 			<path id="kvg:0723c-s6" kvg:type="㇕b" d="M60.24,21.23c2.05-0.1,20.83-2.48,22.35-2.66c2.73-0.31,3.77,3.51,3.44,4.98c-0.33,1.41-0.16,43.71-0.26,63.89"/>
 			<path id="kvg:0723c-s7" kvg:type="㇐a" d="M60.31,43.4c7.94-0.65,18.43-0.94,24.58-1.25"/>
 			<path id="kvg:0723c-s8" kvg:type="㇐a" d="M60.72,63.86c5.46-0.36,17.41-0.76,23.72-0.81"/>
 		</g>
-		<g id="kvg:0723c-g8" kvg:element="一">
+		<g id="kvg:0723c-g6" kvg:element="一">
 			<path id="kvg:0723c-s9" kvg:type="㇐" d="M39.54,90.24c1.3,0.51,3.68,0.59,4.98,0.51c13.51-0.85,37.97-2.42,51.57-2.42c2.17,0,3.46,0.24,4.55,0.5"/>
 		</g>
 	</g>

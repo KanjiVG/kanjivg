@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05f0f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05f0f" kvg:element="式">
-	<g id="kvg:05f0f-g1" kvg:element="弋" kvg:part="1" kvg:radical="general" kvg:phon="弋1">
+	<g id="kvg:05f0f-g1" kvg:element="弋" kvg:part="1" kvg:position="kamae" kvg:radical="general" kvg:phon="弋1">
 		<path id="kvg:05f0f-s1" kvg:type="㇐" d="M17.5,39.45c2.61,0.54,7.43,0.8,10.02,0.54c13.86-1.37,34.52-4.37,56.22-5.48c4.34-0.22,6.97,0.01,9.14,0.28"/>
 	</g>
 	<g id="kvg:05f0f-g2" kvg:element="工" kvg:variant="true">
@@ -45,7 +45,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:05f0f-s3" kvg:type="㇑a" d="M36.71,62.1c1.03,1.03,1.38,2.15,1.38,3.4c0,4.43-0.1,12.03-0.1,16.5"/>
 		<path id="kvg:05f0f-s4" kvg:type="㇀/㇐" d="M17.54,88.55c0.96,0.82,3.25,0.88,4.34,0.45C33.16,84.5,39.07,82.5,56,76.25"/>
 	</g>
-	<g id="kvg:05f0f-g3" kvg:element="弋" kvg:part="2" kvg:radical="general" kvg:phon="弋2">
+	<g id="kvg:05f0f-g3" kvg:element="弋" kvg:part="2" kvg:position="kamae" kvg:radical="general" kvg:phon="弋2">
 		<path id="kvg:05f0f-s5" kvg:type="㇂" d="M55.5,10.5c2,1.75,2.91,3.98,3.25,7.75c2.38,26.38,10,61.75,32,75.25c7.43,4.56,6.12,1.88,4.5-9.5"/>
 		<g id="kvg:05f0f-g4" kvg:element="丶">
 			<path id="kvg:05f0f-s6" kvg:type="㇔" d="M78,11.25c3.85,2.05,9.46,6.74,11.25,10.25"/>

@@ -42,9 +42,9 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:06015-s2" kvg:type="㇔" d="M32.77,31.33c2.4,2.58,6.19,10.62,6.79,14.63"/>
 		<path id="kvg:06015-s3" kvg:type="㇑" d="M24.87,12.75c1.09,0.5,1.74,2.25,1.96,3.25c0.22,1,0,73.75-0.22,80"/>
 	</g>
-	<g id="kvg:06015-g2" kvg:position="right">
+	<g id="kvg:06015-g2" kvg:element="白" kvg:position="right">
 		<g id="kvg:06015-g3" kvg:position="top">
-			<path id="kvg:06015-s4" kvg:type="㇔" d="M68.35,13.25c0.15,1,0.3,2.24,0,2.83C65.5,21.75,62,26.75,55.44,33.96"/>
+			<path id="kvg:06015-s4" kvg:type="丿" d="M68.35,13.25c0.15,1,0.3,2.24,0,2.83C65.5,21.75,62,26.75,55.44,33.96"/>
 		</g>
 		<g id="kvg:06015-g4" kvg:element="日" kvg:position="bottom">
 			<path id="kvg:06015-s5" kvg:type="㇑" d="M49.3,34.24c0.65,1.46,1.32,3.89,1.32,5.83c0,1.94,1.31,42.79,1.31,54.43"/>

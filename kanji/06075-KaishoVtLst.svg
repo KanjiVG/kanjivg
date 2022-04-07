@@ -44,8 +44,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:06075-KaishoVtLst-s2" kvg:type="㇑" d="M27.64,37.79c0.35,0.48,1.35,2.32,1.54,2.93c1.51,5.03,3.07,14.53,4.76,25.17"/>
 				<path id="kvg:06075-KaishoVtLst-s3" kvg:type="㇕a" d="M30.33,39.43c12.83-1.59,37.29-5.42,46.92-6.24C79.5,33,82,33.75,81.5,36.25c-1.02,5.09-3.53,19.48-6.16,26.26"/>
 			</g>
-
-			<g id="kvg:06075-KaishoVtLst-g4"  kvg:element="田" kvg:part="1" kvg:partial="true">
+			<g id="kvg:06075-KaishoVtLst-g4" kvg:element="田" kvg:part="1" kvg:partial="true">
 				<path id="kvg:06075-KaishoVtLst-s4" kvg:type="㇐" d="M32.65,51.85c10.51-1.51,21.08-2.63,31.62-3.89c1.27-0.15,2.5-0.3,3.69-0.44"/>
 				<path id="kvg:06075-KaishoVtLst-s5" kvg:type="㇐" d="M34.64,63.92c10.57-1.25,28.59-3.6,41.33-4.8"/>
 			</g>
@@ -58,8 +57,8 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:06075-KaishoVtLst-s9" kvg:type="㇔" d="M80.7,71.23c5.48,3.27,9.58,6.25,14.03,16.36"/>
 	</g>
 	<g id="kvg:06075-KaishoVtLst-g6" kvg:element="丨">
-	  <path id="kvg:06075-KaishoVtLst-s10" kvg:type="㇑"  d="M52.24,12.07c1.26,1.18,2,2.88,2.01,4.43c0.04,15.3,0.23,40.45,0.23,44.44"/>
-    </g>
+		<path id="kvg:06075-KaishoVtLst-s10" kvg:type="㇑" d="M52.24,12.07c1.26,1.18,2,2.88,2.01,4.43c0.04,15.3,0.23,40.45,0.23,44.44"/>
+	</g>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_06075-KaishoVtLst" style="font-size:8;fill:#808080">

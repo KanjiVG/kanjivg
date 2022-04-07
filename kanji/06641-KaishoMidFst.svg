@@ -44,21 +44,17 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:06641-KaishoMidFst-s4" kvg:type="㇐a" d="M34.78,37.3c8.35-0.46,26.83-1.87,38.36-2.61"/>
 	</g>
 	<g id="kvg:06641-KaishoMidFst-g2" kvg:element="兆" kvg:position="bottom">
-		<g id="kvg:06641-KaishoMidFst-g3" kvg:element="儿" kvg:part="1" kvg:original="八" kvg:position="left">
-			<g id="kvg:06641-KaishoMidFst-g4" kvg:element="丿">
+		<g id="kvg:06641-KaishoMidFst-g3" kvg:position="left">
+			<g id="kvg:06641-KaishoMidFst-g4" kvg:element="儿" kvg:part="1" kvg:original="八">
 				<path id="kvg:06641-KaishoMidFst-s5" kvg:type="㇒" d="M44.7,44.39c0.78,0.52,1.37,2.6,1.37,3.5c0,5.66,0.09,10.16,0.09,16.39c0,18.67-7.91,28.96-24.14,34.21"/>
 			</g>
 			<g id="kvg:06641-KaishoMidFst-g5" kvg:element="冫">
-				<g id="kvg:06641-KaishoMidFst-g6" kvg:position="top">
-					<path id="kvg:06641-KaishoMidFst-s6" kvg:type="㇔" d="M61.1,43.87c0.64,0.8,1.16,1.74,1.19,2.98c0.17,5.5-0.02,35.94-0.02,39.68c0,8.74,2.68,10.08,15.33,10.08s15.88-2.36,15.88-8.63"/>
-				</g>
-				<g id="kvg:06641-KaishoMidFst-g7" kvg:position="bottom">
-					<path id="kvg:06641-KaishoMidFst-s7" kvg:type="㇀" d="M22.09,50.41c4.58,1.68,11.82,6.89,12.96,9.5"/>
-				</g>
+				<path id="kvg:06641-KaishoMidFst-s6" kvg:type="㇔" d="M61.1,43.87c0.64,0.8,1.16,1.74,1.19,2.98c0.17,5.5-0.02,35.94-0.02,39.68c0,8.74,2.68,10.08,15.33,10.08s15.88-2.36,15.88-8.63"/>
+				<path id="kvg:06641-KaishoMidFst-s7" kvg:type="㇀" d="M22.09,50.41c4.58,1.68,11.82,6.89,12.96,9.5"/>
 			</g>
 		</g>
-		<g id="kvg:06641-KaishoMidFst-g8" kvg:position="right">
-			<g id="kvg:06641-KaishoMidFst-g9" kvg:element="儿" kvg:part="2" kvg:original="八">
+		<g id="kvg:06641-KaishoMidFst-g6" kvg:position="right">
+			<g id="kvg:06641-KaishoMidFst-g7" kvg:element="儿" kvg:part="2" kvg:original="八">
 				<path id="kvg:06641-KaishoMidFst-s8" kvg:type="㇟" d="M16.16,80.09c1.3,0.47,2.6,0.63,3.59,0.09c1.37-0.74,11.21-6.91,16.58-10.5"/>
 			</g>
 			<path id="kvg:06641-KaishoMidFst-s9" kvg:type="㇒" d="M81.89,43.79c0.04,0.37,0.09,0.96-0.08,1.49c-1.03,3.15-6.93,10.06-15,14.3"/>

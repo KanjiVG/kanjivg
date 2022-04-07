@@ -46,19 +46,15 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:0652a-g3" kvg:position="top">
 			<g id="kvg:0652a-g4" kvg:element="爻">
 				<g id="kvg:0652a-g5" kvg:element="乂" kvg:position="top">
-					<g id="kvg:0652a-g6" kvg:element="丿">
-						<path id="kvg:0652a-s4" kvg:type="㇒" d="M72.83,11.23c0.03,0.3,0.07,0.76-0.07,1.19c-0.81,2.51-5.44,8.01-11.79,11.37"/>
-					</g>
+					<path id="kvg:0652a-s4" kvg:type="㇒" d="M72.83,11.23c0.03,0.3,0.07,0.76-0.07,1.19c-0.81,2.51-5.44,8.01-11.79,11.37"/>
 					<path id="kvg:0652a-s5" kvg:type="㇏" d="M63.38,15.55c2.99,0.71,6.97,4.32,8.13,6.81"/>
 				</g>
-				<g id="kvg:0652a-g7" kvg:element="乂" kvg:position="bottom">
-					<g id="kvg:0652a-g8" kvg:element="丿">
-						<path id="kvg:0652a-s6" kvg:type="㇒" d="M71.75,28.25c0.04,0.28,0.08,0.72-0.07,1.13c-0.87,2.38-5.87,7.59-12.7,10.78"/>
-					</g>
+				<g id="kvg:0652a-g6" kvg:element="乂" kvg:position="bottom">
+					<path id="kvg:0652a-s6" kvg:type="㇒" d="M71.75,28.25c0.04,0.28,0.08,0.72-0.07,1.13c-0.87,2.38-5.87,7.59-12.7,10.78"/>
 					<path id="kvg:0652a-s7" kvg:type="㇏" d="M62.16,30.52c4.09,0.9,9.52,5.44,11.11,8.58"/>
 				</g>
 			</g>
-			<g id="kvg:0652a-g9" kvg:element="𦥑" kvg:variant="true" kvg:original="臼">
+			<g id="kvg:0652a-g7" kvg:element="𦥑" kvg:variant="true" kvg:original="臼">
 				<path id="kvg:0652a-s8" kvg:type="㇒" d="M56.63,12.38c0.03,0.18,0.12,0.52-0.06,0.72c-2.35,2.56-5.08,4.84-10.43,6.88"/>
 				<path id="kvg:0652a-s9" kvg:type="㇑" d="M44.25,18.92c0.48,0.63,0.94,2.06,1.14,3.32c1.04,6.5,2.39,16.73,2.76,24.18"/>
 				<path id="kvg:0652a-s10" kvg:type="㇐" d="M46.67,27.63c2.97-0.88,6.63-1.94,7.2-1.94c0.57,0,1.37,0,1.82,0"/>
@@ -67,20 +63,20 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:0652a-s13" kvg:type="㇐" d="M79.04,24.1c0.53,0.13,0.96,0.4,1.7,0.4c0.74,0,8-0.57,8.85-0.7"/>
 				<path id="kvg:0652a-s14" kvg:type="㇐" d="M78.86,33.58c0.53,0.13,0.96,0.4,1.7,0.4c0.74,0,8-1.57,8.85-1.7"/>
 			</g>
-			<g id="kvg:0652a-g10" kvg:element="冖">
+			<g id="kvg:0652a-g8" kvg:element="冖">
 				<path id="kvg:0652a-s15" kvg:type="㇔" d="M41.7,44.95c0,3.21-2.26,12.04-3.29,14.19"/>
 				<path id="kvg:0652a-s16" kvg:type="㇆" d="M41.69,47.68c7.23-0.94,43.06-3.9,48.93-4.26c9.17-0.56,1.94,6.84-0.34,8.86"/>
 			</g>
 		</g>
-		<g id="kvg:0652a-g11" kvg:element="見" kvg:position="bottom">
-			<g id="kvg:0652a-g12" kvg:element="目" kvg:position="top">
+		<g id="kvg:0652a-g9" kvg:element="見" kvg:position="bottom">
+			<g id="kvg:0652a-g10" kvg:element="目" kvg:position="top">
 				<path id="kvg:0652a-s17" kvg:type="㇑" d="M51.7,52.43c0.41,0.56,0.64,1.39,0.64,2.14c0,0.75,0.25,23.92,0.38,24.67"/>
 				<path id="kvg:0652a-s18" kvg:type="㇕a" d="M52.28,54.02c2.31-0.09,22.71-2.65,24.81-2.76c1.75-0.09,2.25,1.26,2.25,2.99c0,2.08-0.45,22.74-0.45,23.3"/>
 				<path id="kvg:0652a-s19" kvg:type="㇐a" d="M52.64,61.71c3.29,0,22.64-2.19,26.34-2.19"/>
 				<path id="kvg:0652a-s20" kvg:type="㇐a" d="M52.83,69.67c6.04-0.6,19.14-1.56,25.88-1.98"/>
 				<path id="kvg:0652a-s21" kvg:type="㇐a" d="M52.72,77.5c5.78-0.59,19.8-1.76,26.28-2.29"/>
 			</g>
-			<g id="kvg:0652a-g13" kvg:position="bottom">
+			<g id="kvg:0652a-g11" kvg:position="bottom">
 				<path id="kvg:0652a-s22" kvg:type="㇒" d="M58.6,80.16c0.05,0.42,0.1,1.08-0.1,1.68c-1.18,3.54-7.4,11.99-17.21,16.08"/>
 				<path id="kvg:0652a-s23" kvg:type="㇟" d="M67.73,78.75c0.5,0.87,0.89,1.9,0.92,3.25c0.13,6.01,0.03-0.38,0.03,8.43c0,8.81,4.16,8.67,12.39,8.46c8.23-0.2,10.75-1.23,11.67-1.93c1.93-1.47,1.4-2.2,1.58-4.77"/>
 			</g>

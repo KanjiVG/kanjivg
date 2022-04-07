@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_052fa" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:052fa" kvg:element="勺">
-	<g id="kvg:052fa-g1" kvg:element="勹" kvg:radical="general">
+	<g id="kvg:052fa-g1" kvg:element="勹" kvg:position="kamae" kvg:radical="general">
 		<g id="kvg:052fa-g2" kvg:element="丿">
 			<path id="kvg:052fa-s1" kvg:type="㇒" d="M41,12.25c0.06,0.9,0.07,2.14-0.38,3.38C36.75,26.5,29.38,39.25,17,48.88"/>
 		</g>

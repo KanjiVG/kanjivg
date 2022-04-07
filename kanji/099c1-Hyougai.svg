@@ -53,15 +53,11 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:099c1-Hyougai-g3" kvg:element="爻" kvg:position="right">
 		<g id="kvg:099c1-Hyougai-g4" kvg:element="乂" kvg:position="top">
-			<g id="kvg:099c1-Hyougai-g5" kvg:element="丿">
-				<path id="kvg:099c1-Hyougai-s11" kvg:type="㇒" d="M83.97,14.14c0.09,0.75,0.41,2.03-0.18,3C79.75,23.75,68.75,36,51.54,45.83"/>
-			</g>
+			<path id="kvg:099c1-Hyougai-s11" kvg:type="㇒" d="M83.97,14.14c0.09,0.75,0.41,2.03-0.18,3C79.75,23.75,68.75,36,51.54,45.83"/>
 			<path id="kvg:099c1-Hyougai-s12" kvg:type="㇏" d="M53.88,22.74c13.27,2.02,30.92,12.25,36.09,19.32"/>
 		</g>
-		<g id="kvg:099c1-Hyougai-g6" kvg:element="乂" kvg:position="bottom">
-			<g id="kvg:099c1-Hyougai-g7" kvg:element="丿">
-				<path id="kvg:099c1-Hyougai-s13" kvg:type="㇒" d="M84.53,47.59c0.59,1.18,0.48,3.28-0.07,4.6C76.5,71.25,65,83.5,47.5,95.25"/>
-			</g>
+		<g id="kvg:099c1-Hyougai-g5" kvg:element="乂" kvg:position="bottom">
+			<path id="kvg:099c1-Hyougai-s13" kvg:type="㇒" d="M84.53,47.59c0.59,1.18,0.48,3.28-0.07,4.6C76.5,71.25,65,83.5,47.5,95.25"/>
 			<path id="kvg:099c1-Hyougai-s14" kvg:type="㇏" d="M55.52,51.21c0.92,0.42,2.03,1.43,2.33,1.95c7.36,12.87,22.16,29.89,34.16,38.2c2.21,1.53,3.5,1.9,5.24,2.07"/>
 		</g>
 	</g>
