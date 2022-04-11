@@ -40,7 +40,7 @@ kvg:type CDATA #IMPLIED >
 	<g id="kvg:0767e-Kaisho-g1" kvg:element="一" kvg:position="top" kvg:radical="nelson">
 		<path id="kvg:0767e-Kaisho-s1" kvg:type="㇐" d="M16.63,20.73c1.39,0.54,3.93,0.69,5.32,0.54c16.3-1.77,44.8-4.77,64.07-5.23c2.31-0.06,3.7,0.26,4.86,0.53"/>
 	</g>
-	<g id="kvg:0767e-Kaisho-g2" kvg:position="bottom" kvg:radical="tradit">
+	<g id="kvg:0767e-Kaisho-g2" kvg:element="白" kvg:position="bottom" kvg:radical="tradit">
 		<g id="kvg:0767e-Kaisho-g3" kvg:position="top">
 			<path id="kvg:0767e-Kaisho-s2" kvg:type="㇔" d="M52.06,21.25c0.4,0.7,0.47,1.57,0.37,2.18c-0.57,3.63-5.46,12.31-9.91,17.18"/>
 		</g>
