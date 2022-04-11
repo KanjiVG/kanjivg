@@ -40,7 +40,7 @@ kvg:type CDATA #IMPLIED >
 	<g id="kvg:04e17-g1" kvg:element="卅">
 		<g id="kvg:04e17-g2" kvg:element="廾">
 			<g id="kvg:04e17-g3" kvg:element="廿" kvg:part="1" kvg:variant="true">
-				<g id="kvg:04e17-g4" kvg:element="十" kvg:part="1" kvg:radical="tradit">
+				<g id="kvg:04e17-g4" kvg:element="㇐" kvg:radical="tradit">
 					<path id="kvg:04e17-s1" kvg:type="㇐" d="M12.75,51.7c1.52,0.54,4.31,0.68,5.82,0.54c11.18-0.99,53.93-5.49,72.11-5.73c2.53-0.03,4.05,0.26,5.31,0.53"/>
 				</g>
 			</g>
@@ -54,18 +54,16 @@ kvg:type CDATA #IMPLIED >
 				</g>
 			</g>
 			<g id="kvg:04e17-g9" kvg:element="川" kvg:part="2" kvg:variant="true" kvg:original="巛">
-				<g id="kvg:04e17-g10" kvg:element="十" kvg:part="2" kvg:radical="tradit">
-					<g id="kvg:04e17-g11" kvg:element="廿" kvg:part="3" kvg:variant="true">
-						<path id="kvg:04e17-s3" kvg:type="㇑" d="M52.75,15.25c1.25,0.5,2,2.25,2.25,3.25s0,66.75-0.25,73"/>
-					</g>
+				<g id="kvg:04e17-g10" kvg:element="廿" kvg:part="3" kvg:variant="true">
+					<path id="kvg:04e17-s3" kvg:type="㇑" d="M52.75,15.25c1.25,0.5,2,2.25,2.25,3.25s0,66.75-0.25,73"/>
 				</g>
 			</g>
 		</g>
-		<g id="kvg:04e17-g12" kvg:element="川" kvg:part="3" kvg:variant="true" kvg:original="巛">
+		<g id="kvg:04e17-g11" kvg:element="川" kvg:part="3" kvg:variant="true" kvg:original="巛">
 			<path id="kvg:04e17-s4" kvg:type="㇑" d="M77.75,12.75C79,13.25,79.75,15,80,16s0,71.25-0.25,77.5"/>
 		</g>
 	</g>
-	<g id="kvg:04e17-g13" kvg:element="廿" kvg:part="4" kvg:variant="true">
+	<g id="kvg:04e17-g12" kvg:element="廿" kvg:part="4" kvg:variant="true">
 		<path id="kvg:04e17-s5" kvg:type="㇐" d="M30.5,93.75c7-0.75,43.17-3.8,48.96-3.36"/>
 	</g>
 </g>
