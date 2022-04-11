@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0820a-HzFst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0820a-HzFst" kvg:element="舊">
-	<g id="kvg:0820a-HzFst-g1" kvg:element="艹" kvg:variant="true" kvg:original="艸" kvg:position="top" kvg:radical="general">
+	<g id="kvg:0820a-HzFst-g1" kvg:element="艹" kvg:variant="true" kvg:original="艸" kvg:position="top" kvg:radical="nelson">
 		<path id="kvg:0820a-HzFst-s1" kvg:type="㇐" d="M19.25,22.08c1.27,0.41,3.5,0.65,6.17,0.5c14.33-0.83,44.41-3.78,57.83-3.83c2.11-0.01,4.5,0.25,6,0.83"/>
 		<path id="kvg:0820a-HzFst-s2" kvg:type="㇑a" d="M39.08,11.08c1.58,1.28,2.33,2.38,2.5,3.17c1.58,7.35,1.55,13.49,2,16.17"/>
 		<path id="kvg:0820a-HzFst-s3" kvg:type="㇑a" d="M67.58,8.92c1.12,0.93,2.04,1.79,1.67,3.17c-1.12,4.19-1.87,11.65-3.5,17"/>
@@ -55,7 +55,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:0820a-HzFst-s10" kvg:type="㇐b" d="M33.25,55.42c8.64-0.42,42.46-2.44,46.17-2.67"/>
 			<path id="kvg:0820a-HzFst-s11" kvg:type="㇐b" d="M33.31,64.42c9.1-1.09,47.7-2.91,51.6-3.5"/>
 		</g>
-		<g id="kvg:0820a-HzFst-g5" kvg:element="臼" kvg:phon="臼">
+		<g id="kvg:0820a-HzFst-g5" kvg:element="臼" kvg:phon="臼" kvg:radical="tradit">
 			<path id="kvg:0820a-HzFst-s12" kvg:type="㇒" d="M47.77,69.04c0.04,0.21-0.32,1.11-0.58,1.33c-3.41,2.97-8.49,5.41-14.2,7.48"/>
 			<path id="kvg:0820a-HzFst-s13" kvg:type="㇑" d="M28.92,76.75c0.67,0.49,1.5,1.67,1.67,2.67c0.65,3.87,1.79,12.41,2.73,19.92"/>
 			<path id="kvg:0820a-HzFst-s14" kvg:type="㇐" d="M32.75,86.25c4.98-1.13,15.23-2.17,16.17-2.17s2.58,0.17,3.33,0.17"/>
