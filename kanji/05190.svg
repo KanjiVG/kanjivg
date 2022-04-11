@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_05190" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05190" kvg:element="冐">
 	<g id="kvg:05190-g1" kvg:element="日" kvg:variant="true" kvg:position="top">
-		<g id="kvg:05190-g2" kvg:element="冂" kvg:variant="true">
+		<g id="kvg:05190-g2" kvg:element="冂" kvg:variant="true" kvg:radical="tradit">
 			<path id="kvg:05190-s1" kvg:type="㇑" d="M23.75,14.25c0.75,1.25,1.89,3.12,2,4c0.85,6.58,2.42,17.98,3.5,25.25"/>
 			<path id="kvg:05190-s2" kvg:type="㇕" d="M25.75,16.34C35.94,15.37,73.5,12.5,78,12c2.78-0.31,5.25,2.91,5,4.25c-1.03,5.45-2.54,17-3.8,23.75"/>
 		</g>
@@ -51,7 +51,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 	</g>
-	<g id="kvg:05190-g6" kvg:element="月" kvg:position="bottom" kvg:radical="tradit">
+	<g id="kvg:05190-g6" kvg:element="月" kvg:position="bottom">
 		<path id="kvg:05190-s5" kvg:type="㇑" d="M32.75,50.5c1.03,0.69,1.5,2.72,1.5,3.5c0,5.25,0.39,43.43,0.25,45"/>
 		<path id="kvg:05190-s6" kvg:type="㇆a" d="M35.28,52.33c3.04-0.21,32.44-3.41,34.7-3.62c4.05-0.39,5.08,1.94,5.08,3.05c0,2.49-0.08,25.46-0.08,38.8c0,10.69-7.01,2.52-8.03,1.71"/>
 		<path id="kvg:05190-s7" kvg:type="㇐a" d="M36.83,64.54c10.32-1,27.19-2.52,36.26-3.07"/>
