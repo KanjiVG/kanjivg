@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_08208-MdFst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08208-MdFst" kvg:element="興">
 	<g id="kvg:08208-MdFst-g1" kvg:position="top">
-		<g id="kvg:08208-MdFst-g2" kvg:element="𦥑" kvg:part="1" kvg:variant="true" kvg:original="臼" kvg:tradForm="true">
+		<g id="kvg:08208-MdFst-g2" kvg:element="𦥑" kvg:part="1" kvg:variant="true" kvg:original="臼" kvg:tradForm="true" kvg:radical="tradit">
 			<path id="kvg:08208-MdFst-s1" kvg:type="㇑" d="M40.51,19.59c0.29,0.8,0.48,1.12,0.38,2.56c-0.1,1.44,0.1,43.77,0.1,46.17"/>
 			<path id="kvg:08208-MdFst-s2" kvg:type="㇆a" d="M41.35,20.23c3.63-0.64,21.58-4.88,22.32-4.88c1.61,0,2.1,1.15,2.1,2.75c0,1.6,0.1,43.17,0.1,46.85"/>
 			<path id="kvg:08208-MdFst-s3" kvg:type="㇐" d="M45.58,30.83c0.38,0.18,1.08,0.2,1.46,0.18c3.96-0.21,7.75-1.62,10.08-1.62c0.63,0,1.01,0.09,1.33,0.18"/>
@@ -58,7 +58,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:08208-MdFst-s10" kvg:type="㇐" d="M21.5,57c4.5-1,10-3.75,12.75-3.75"/>
 			</g>
 		</g>
-		<g id="kvg:08208-MdFst-g7" kvg:element="𦥑" kvg:part="2" kvg:variant="true" kvg:original="臼" kvg:tradForm="true">
+		<g id="kvg:08208-MdFst-g7" kvg:element="𦥑" kvg:part="2" kvg:variant="true" kvg:original="臼" kvg:tradForm="true" kvg:radical="tradit">
 			<path id="kvg:08208-MdFst-s11" kvg:type="㇕" d="M75.1,24.48c1.4,0.02,2.34,0.54,4.23,0.12c6.57-1.44,9.02-1.5,9.59-1.5c1.61,0,2.83,1.33,2.1,2.75C88.75,30.25,83.98,60.46,83,64"/>
 			<path id="kvg:08208-MdFst-s12" kvg:type="㇐" d="M73.5,36.5c3.25,0.75,11.75-1,13-1"/>
 		</g>
