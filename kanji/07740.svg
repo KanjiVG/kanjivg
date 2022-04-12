@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_07740" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:07740" kvg:element="着">
 	<g id="kvg:07740-g1" kvg:position="tare">
-		<g id="kvg:07740-g2" kvg:element="羊" kvg:variant="true" kvg:radical="general">
+		<g id="kvg:07740-g2" kvg:element="羊" kvg:variant="true" kvg:radical="nelson">
 			<path id="kvg:07740-s1" kvg:type="㇔" d="M35.88,12.25c2.96,1.71,7.66,7.03,8.4,9.7"/>
 			<path id="kvg:07740-s2" kvg:type="㇒" d="M71.06,10.27c0.19,0.86,0.04,1.98-0.26,2.65c-1.3,2.95-3.18,5.58-6.68,9.95"/>
 			<path id="kvg:07740-s3" kvg:type="㇐" d="M30.6,28.43c1.46,0.34,4.12,0.43,5.58,0.34c10.07-0.64,25.82-2.64,37.96-3.43c2.42-0.16,4.13-0.09,5.34,0.08"/>
@@ -52,7 +52,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:07740-s7" kvg:type="㇒" d="M40.77,53.77c0.07,0.63-0.17,1.7-0.64,2.52C37,61.75,28.5,72.25,15.57,80.65"/>
 		</g>
 	</g>
-	<g id="kvg:07740-g5" kvg:element="目" kvg:phon="者2V">
+	<g id="kvg:07740-g5" kvg:element="目" kvg:radical="tradit" kvg:phon="者2V">
 		<path id="kvg:07740-s8" kvg:type="㇑" d="M41.79,60.32c0.88,0.88,1.28,2.28,1.28,3.45c0,1.17-0.1,32.39-0.1,32.98c0,0.81,0.1,2.88,0.1,3.75"/>
 		<path id="kvg:07740-s9" kvg:type="㇕a" d="M43.93,61.93c2.94-0.15,24.57-2.77,27.24-2.94c2.23-0.15,3.8,0.76,3.8,3.15c0,3.49,0.13,20.14,0.14,33c0,1.32,0,3.41-0.17,4.28"/>
 		<path id="kvg:07740-s10" kvg:type="㇐a" d="M44.13,73.74c5.79-0.2,24.89-2.11,29.6-2.11"/>

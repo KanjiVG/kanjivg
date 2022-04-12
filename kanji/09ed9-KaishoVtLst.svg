@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_09ed9-KaishoVtLst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09ed9-KaishoVtLst" kvg:element="黙">
 	<g id="kvg:09ed9-KaishoVtLst-g1" kvg:position="top">
-		<g id="kvg:09ed9-KaishoVtLst-g2" kvg:element="黒" kvg:part="1" kvg:variant="true" kvg:original="黑" kvg:tradForm="true">
+		<g id="kvg:09ed9-KaishoVtLst-g2" kvg:element="黒" kvg:part="1" kvg:variant="true" kvg:original="黑" kvg:tradForm="true" kvg:radical="tradit">
 			<g id="kvg:09ed9-KaishoVtLst-g3" kvg:element="里" kvg:variant="true">
 				<path id="kvg:09ed9-KaishoVtLst-s1" kvg:type="㇑" d="M15.41,16.21c0.26,0.42,0.59,1.64,0.74,2.16c1.19,4.34,3.31,14.78,4.05,22.88"/>
 				<path id="kvg:09ed9-KaishoVtLst-s2" kvg:type="㇕" d="M16.86,17.66c8.44-0.99,24.05-2.64,30.35-3.48c2.31-0.31,3.49,1.21,3.38,2.79c-0.28,4.01-1.64,14.27-3.35,21.31"/>
@@ -60,7 +60,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 	</g>
-	<g id="kvg:09ed9-KaishoVtLst-g7" kvg:element="黒" kvg:part="2" kvg:variant="true" kvg:original="黑" kvg:tradForm="true" kvg:position="bottom">
+	<g id="kvg:09ed9-KaishoVtLst-g7" kvg:element="黒" kvg:part="2" kvg:variant="true" kvg:original="黑" kvg:tradForm="true" kvg:position="bottom" kvg:radical="tradit">
 		<g id="kvg:09ed9-KaishoVtLst-g8" kvg:element="灬" kvg:variant="true" kvg:original="火" kvg:radical="nelson">
 			<path id="kvg:09ed9-KaishoVtLst-s12" kvg:type="㇔" d="M20.44,80.75c-1.19,6-6.9,13-8.44,14.5"/>
 			<path id="kvg:09ed9-KaishoVtLst-s13" kvg:type="㇔" d="M38.25,79.25c1.71,2.87,4.25,10.5,3.76,15.25"/>

@@ -38,12 +38,14 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_05192-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05192-Kaisho" kvg:element="冒">
 	<g id="kvg:05192-Kaisho-g1" kvg:element="日" kvg:position="top" kvg:radical="nelson">
-		<path id="kvg:05192-Kaisho-s1" kvg:type="㇑" d="M24.49,15.12c0.43,0.46,0.94,1.27,1.17,1.85c1.92,4.73,3.23,18.17,4.42,26.99"/>
-		<path id="kvg:05192-Kaisho-s2" kvg:type="㇕a" d="M26.49,17.25c14.89-1.19,41.43-3.21,52.55-4.21c4.08-0.37,5.18,1.93,4.97,3.23c-0.77,4.77-3.17,17.25-5.04,25.22"/>
+		<g id="kvg:05192-Kaisho-g2" kvg:element="冂" kvg:radical="tradit">
+			<path id="kvg:05192-Kaisho-s1" kvg:type="㇑" d="M24.49,15.12c0.43,0.46,0.94,1.27,1.17,1.85c1.92,4.73,3.23,18.17,4.42,26.99"/>
+			<path id="kvg:05192-Kaisho-s2" kvg:type="㇕a" d="M26.49,17.25c14.89-1.19,41.43-3.21,52.55-4.21c4.08-0.37,5.18,1.93,4.97,3.23c-0.77,4.77-3.17,17.25-5.04,25.22"/>
+		</g>
 		<path id="kvg:05192-Kaisho-s3" kvg:type="㇐a" d="M28.77,28.98c8.91-0.85,17.88-1.29,26.81-1.89c3.03-0.2,6.06-0.4,8.93-0.59"/>
 		<path id="kvg:05192-Kaisho-s4" kvg:type="㇐a" d="M30.85,42.17c13.4-0.92,33.8-2.13,48.61-2.96"/>
 	</g>
-	<g id="kvg:05192-Kaisho-g2" kvg:element="目" kvg:position="bottom" kvg:radical="tradit">
+	<g id="kvg:05192-Kaisho-g3" kvg:element="目" kvg:position="bottom">
 		<path id="kvg:05192-Kaisho-s5" kvg:type="㇑" d="M32.06,51.84c0.69,1.04,1.21,2.81,1.21,4.19c0,1.38-0.46,41.6-0.46,42.29"/>
 		<path id="kvg:05192-Kaisho-s6" kvg:type="㇕a" d="M33.05,53.68c3.93-0.17,36.24-3.19,39.82-3.4c2.98-0.17,5.08,0.97,5.08,4.25c0,4.97-0.71,26.23-0.7,41.44"/>
 		<path id="kvg:05192-Kaisho-s7" kvg:type="㇐a" d="M33.85,66.76c7.43-0.23,14.86-1.06,22.25-1.69c2.27-0.19,4.54-0.38,6.7-0.56"/>

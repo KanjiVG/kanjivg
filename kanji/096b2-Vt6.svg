@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_096b2-Vt6" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:096b2-Vt6" kvg:element="隲">
-	<g id="kvg:096b2-Vt6-g1" kvg:element="⻖" kvg:variant="true" kvg:original="阜" kvg:position="left" kvg:radical="nelson">
+	<g id="kvg:096b2-Vt6-g1" kvg:element="⻖" kvg:variant="true" kvg:original="阜" kvg:position="left" kvg:radical="general">
 		<path id="kvg:096b2-Vt6-s1" kvg:type="㇇" d="M15.87,15.66c0.86,0.44,1.94,0.75,3.13,0.61c6.51-0.76,11.72-1.65,14.14-2.56c3.06-1.15,6.12,1.15,4.76,3.83c-1.36,2.68-8.13,17.21-10.51,21.05"/>
 		<path id="kvg:096b2-Vt6-s2" kvg:type="㇕va" d="M27.38,38.59C42,51.75,38.75,83,28.08,72.43"/>
 		<path id="kvg:096b2-Vt6-s3" kvg:type="㇑" d="M17.54,17.03c0.46,0.72,0.28,2.59,0.5,3.74c0.22,1.15,0,70.3-0.22,77.49"/>
@@ -53,7 +53,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:096b2-Vt6-s7" kvg:type="㇒" d="M79.48,23.98c0.1,0.61,0.3,1.58-0.21,2.44c-4.16,7.1-20.16,18.56-36.41,23.33"/>
 			</g>
 		</g>
-		<g id="kvg:096b2-Vt6-g6" kvg:element="馬" kvg:position="bottom" kvg:radical="tradit">
+		<g id="kvg:096b2-Vt6-g6" kvg:element="馬" kvg:position="bottom">
 			<path id="kvg:096b2-Vt6-s8" kvg:type="㇑" d="M52.99,45.64c0.33,0.22,0.68,1.44,0.68,1.82c0,3.87,0.04,20.47-0.16,26.55"/>
 			<path id="kvg:096b2-Vt6-s9" kvg:type="㇐b" d="M54.63,47.27c8.05-0.76,27.86-3.32,31.31-3.73c1.21-0.15,3.25-0.31,3.86-0.2"/>
 			<path id="kvg:096b2-Vt6-s10" kvg:type="㇐b" d="M54.27,55.36c8.06-0.76,23.92-2.24,27.38-2.65c1.21-0.14,3.25-0.31,3.86-0.2"/>

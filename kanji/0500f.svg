@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_0500f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0500f" kvg:element="倏">
 	<g id="kvg:0500f-g1" kvg:element="攸" kvg:part="1" kvg:position="left">
-		<g id="kvg:0500f-g2" kvg:element="亻" kvg:variant="true" kvg:original="人" kvg:position="left">
+		<g id="kvg:0500f-g2" kvg:element="亻" kvg:variant="true" kvg:original="人" kvg:position="left" kvg:radical="general">
 			<path id="kvg:0500f-s1" kvg:type="㇒" d="M29.77,17c0.2,1.95-0.05,4.51-0.69,6.18C25,33.83,19.84,43.83,10.5,56.79"/>
 			<path id="kvg:0500f-s2" kvg:type="㇑" d="M23.53,45c0.47,1,1.25,1.94,1.25,3.23c0,14.27-0.53,33.27-0.53,44.02"/>
 		</g>
@@ -61,7 +61,7 @@ kvg:type CDATA #IMPLIED >
 				</g>
 			</g>
 		</g>
-		<g id="kvg:0500f-g10" kvg:element="犬" kvg:position="bottom" kvg:radical="general">
+		<g id="kvg:0500f-g10" kvg:element="犬" kvg:position="bottom">
 			<g id="kvg:0500f-g11" kvg:element="大">
 				<path id="kvg:0500f-s8" kvg:type="㇐" d="M45.82,68.98c0.92,0.34,4.03,0.77,5.79,0.57c8.96-1.02,25.83-2.59,37.37-3.34c1.27-0.08,3.07,0.13,5.91,0.72"/>
 				<path id="kvg:0500f-s9" kvg:type="㇒" d="M66.62,49.75c0.69,0.67,1.24,1.32,1.21,2.65C67.5,70.75,64,87,43.5,96.75"/>

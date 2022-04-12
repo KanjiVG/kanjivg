@@ -37,12 +37,12 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_097ee" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:097ee" kvg:element="韮">
-	<g id="kvg:097ee-g1" kvg:element="艹" kvg:variant="true" kvg:original="艸" kvg:position="top" kvg:radical="general">
+	<g id="kvg:097ee-g1" kvg:element="艹" kvg:variant="true" kvg:original="艸" kvg:position="top" kvg:radical="nelson">
 		<path id="kvg:097ee-s1" kvg:type="㇐" d="M20,26.77c1.29,0.53,2.8,0.63,4.1,0.53C36,26.33,71,22.83,84.72,22.76c2.16-0.01,3.45,0.25,4.53,0.51"/>
 		<path id="kvg:097ee-s2" kvg:type="㇑a" d="M37.75,13.5c1.75,1.43,2.31,1.87,2.5,2.75C42,24.5,42.5,32,43,35"/>
 		<path id="kvg:097ee-s3" kvg:type="㇑a" d="M66.25,11.75c1.12,1,1.87,2.52,1.5,4c-1.12,4.5-1.88,12-3.5,17.75"/>
 	</g>
-	<g id="kvg:097ee-g2" kvg:element="韭" kvg:position="bottom">
+	<g id="kvg:097ee-g2" kvg:element="韭" kvg:position="bottom" kvg:radical="tradit">
 		<g id="kvg:097ee-g3" kvg:element="非">
 			<path id="kvg:097ee-s4" kvg:type="㇑" d="M43.46,42.22c1.01,0.37,1.61,1.66,1.81,2.39c0.2,0.74,0,45.38-0.2,49.99"/>
 			<path id="kvg:097ee-s5" kvg:type="㇑" d="M61.9,40.75c1.01,0.37,1.62,1.66,1.82,2.39c0.2,0.74,0,46.12-0.2,50.72"/>
