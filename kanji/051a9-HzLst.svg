@@ -35,11 +35,19 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<<<<<<< HEAD:kanji/051a9-HzLst.svg
 <g id="kvg:StrokePaths_051a9" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:051a9-HzLst" kvg:element="冩">
 	<g id="kvg:051a9-HzLst-g1" kvg:element="冖" kvg:position="top" kvg:radical="tradit">
 		<path id="kvg:051a9-HzLst-s1" kvg:type="㇔" d="M20.91,13.63c0,3.48-3.03,13.05-4.41,15.37"/>
 		<path id="kvg:051a9-HzLst-s2" kvg:type="㇖b" d="M20.24,17.74c9.51-0.99,58.74-5.53,66.45-5.9c12.05-0.59,2.55,7.16-0.45,9.28"/>
+=======
+<g id="kvg:StrokePaths_051a9-HzFst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:051a9-HzFst" kvg:element="冩">
+	<g id="kvg:051a9-HzFst-g1" kvg:element="冖" kvg:position="top" kvg:radical="general">
+		<path id="kvg:051a9-HzFst-s1" kvg:type="㇔" d="M20.91,13.63c0,3.48-3.03,13.05-4.41,15.37"/>
+		<path id="kvg:051a9-HzFst-s2" kvg:type="㇖b" d="M20.24,17.74c9.51-0.99,58.74-5.53,66.45-5.9c12.05-0.59,2.55,7.16-0.45,9.28"/>
+>>>>>>> f248e8a5c (Change "tradit" to "general" where no Nelson variant):kanji/051a9-HzFst.svg
 	</g>
 	<g id="kvg:051a9-HzLst-g2" kvg:position="bottom">
 		<g id="kvg:051a9-HzLst-g3" kvg:element="臼">

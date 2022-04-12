@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05cfd" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05cfd" kvg:element="峽">
-	<g id="kvg:05cfd-g1" kvg:element="山" kvg:position="left" kvg:radical="tradit">
+	<g id="kvg:05cfd-g1" kvg:element="山" kvg:position="left" kvg:radical="general">
 		<path id="kvg:05cfd-s1" kvg:type="㇑a" d="M24.87,19.38c0.6,0.35,1.87,2.65,1.99,3.36c0.12,0.71-0.08,42.78-0.2,47.21"/>
 		<path id="kvg:05cfd-s2" kvg:type="㇄a" d="M13.28,41.69c0.6,0.35,1.23,1.85,1.2,2.57c-0.22,4.99-0.72,18.49-1.27,25.96c-0.12,1.62-0.28,2.8,1.19,2.46c4.11-0.94,16.36-2.94,24.11-4.19"/>
 		<path id="kvg:05cfd-s3" kvg:type="㇑" d="M38.71,38.76c0.6,0.38,1.29,2.85,1.2,3.62C39.25,47.5,39.25,60,38.73,70.65"/>

@@ -35,6 +35,7 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<<<<<<< HEAD:kanji/08c8e-HzLst.svg
 <g id="kvg:StrokePaths_08c8e" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08c8e-HzLst" kvg:element="貎">
 	<g id="kvg:08c8e-HzLst-g1" kvg:element="豸" kvg:position="left" kvg:radical="tradit">
@@ -45,6 +46,18 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:08c8e-HzLst-s5" kvg:type="㇕v" d="M28.44,44.42C39.25,52.5,41,73.5,34.96,91.85c-3.55,10.78-8.51,0.96-9.61,0.05"/>
 		<path id="kvg:08c8e-HzLst-s6" kvg:type="㇒" d="M31.61,50.17c0.06,0.44,0.3,1.23-0.12,1.75C28,56.25,20.75,63.5,11.05,68.66"/>
 		<path id="kvg:08c8e-HzLst-s7" kvg:type="㇒" d="M35.4,61.14c0.07,0.6,0.3,1.62-0.14,2.39C32.06,69.26,23.37,78.87,11,86.44"/>
+=======
+<g id="kvg:StrokePaths_08c8e-HzFst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:08c8e-HzFst" kvg:element="貎">
+	<g id="kvg:08c8e-HzFst-g1" kvg:element="豸" kvg:position="left" kvg:radical="general">
+		<path id="kvg:08c8e-HzFst-s1" kvg:type="㇒" d="M34.39,14c0.07,0.46,0.33,1.38-0.14,1.87C30.25,20,23.5,26.25,12.9,31.23"/>
+		<path id="kvg:08c8e-HzFst-s2" kvg:type="㇔" d="M13.81,33.98c2.72,1.79,7.02,7.38,7.7,10.17"/>
+		<path id="kvg:08c8e-HzFst-s3" kvg:type="㇔" d="M26.49,26.42c2.29,1.35,5.9,5.54,6.47,7.64"/>
+		<path id="kvg:08c8e-HzFst-s4" kvg:type="㇒" d="M39.66,29.01c0.08,0.63-0.09,2.37-0.67,3.02C33.25,38.5,22,48.25,10.86,54.11"/>
+		<path id="kvg:08c8e-HzFst-s5" kvg:type="㇕v" d="M28.44,44.42C39.25,52.5,41,73.5,34.96,91.85c-3.55,10.78-8.51,0.96-9.61,0.05"/>
+		<path id="kvg:08c8e-HzFst-s6" kvg:type="㇒" d="M31.61,50.17c0.06,0.44,0.3,1.23-0.12,1.75C28,56.25,20.75,63.5,11.05,68.66"/>
+		<path id="kvg:08c8e-HzFst-s7" kvg:type="㇒" d="M35.4,61.14c0.07,0.6,0.3,1.62-0.14,2.39C32.06,69.26,23.37,78.87,11,86.44"/>
+>>>>>>> f248e8a5c (Change "tradit" to "general" where no Nelson variant):kanji/08c8e-HzFst.svg
 	</g>
 	<g id="kvg:08c8e-HzLst-g2" kvg:element="兒" kvg:position="right">
 		<g id="kvg:08c8e-HzLst-g3" kvg:element="臼" kvg:position="top">
