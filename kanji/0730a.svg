@@ -35,7 +35,7 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_0730a" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:StrokePaths_0730a-HzFst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0730a" kvg:element="猊">
 	<g id="kvg:0730a-g1" kvg:element="⺨" kvg:variant="true" kvg:original="犬" kvg:position="left" kvg:radical="general">
 		<path id="kvg:0730a-s1" kvg:type="㇒" d="M38.04,16.25c0.07,0.61,0.32,1.8-0.14,2.46C32.08,27.17,26.16,33.15,12,42.29"/>
@@ -46,8 +46,8 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:0730a-g3" kvg:element="臼" kvg:position="top">
 			<path id="kvg:0730a-s4" kvg:type="㇒" d="M63.6,15.96c0.04,0.22-0.63,1.64-0.9,1.87c-3.54,3.06-6.32,6.5-14.89,10.47"/>
 			<path id="kvg:0730a-s5" kvg:type="㇑" d="M46.11,27.51c0.67,0.57,0.94,1.85,1.1,3.02c0.6,4.28,2.06,20.06,2.67,25.85"/>
-			<path id="kvg:0730a-s6" kvg:type="㇕" d="M71.94,23.95c0.79,0.13,1.42,0.39,2.51,0.39c1.1,0,11.83-2.56,13.09-2.69s2.77,0.85,2.6,2.33c-0.96,8.18-2.98,29.6-3.14,30.12"/>
-			<path id="kvg:0730a-s7" kvg:type="㇐" d="M49.01,39.76c3.92-0.7,10.81-1.86,11.75-1.86s2.24,0,2.99,0"/>
+			<path id="kvg:0730a-s6" kvg:type="㇐" d="M49.01,39.76c3.92-0.7,10.81-1.86,11.75-1.86s2.24,0,2.99,0"/>
+			<path id="kvg:0730a-s7" kvg:type="㇕" d="M71.94,23.95c0.79,0.13,1.42,0.39,2.51,0.39c1.1,0,11.83-2.56,13.09-2.69s2.77,0.85,2.6,2.33c-0.96,8.18-2.98,29.6-3.14,30.12"/>
 			<path id="kvg:0730a-s8" kvg:type="㇐" d="M71.62,37.06c0.79,0.13,1.42,0.39,2.52,0.39c1.1,0,12.9-1.54,14.16-1.67"/>
 			<path id="kvg:0730a-s9" kvg:type="㇐" d="M50.04,53.72c3.93-0.26,34.87-2.14,37.23-2.27"/>
 		</g>
@@ -64,14 +64,14 @@ kvg:type CDATA #IMPLIED >
 	</g>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_0730a" style="font-size:8;fill:#808080">
+<g id="kvg:StrokeNumbers_0730a-HzFst" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 30.50 15.50)">1</text>
 	<text transform="matrix(1 0 0 1 11.25 19.50)">2</text>
 	<text transform="matrix(1 0 0 1 23.50 45.50)">3</text>
 	<text transform="matrix(1 0 0 1 54.25 15.65)">4</text>
 	<text transform="matrix(1 0 0 1 39.00 34.50)">5</text>
-	<text transform="matrix(1 0 0 1 70.50 20.00)">6</text>
-	<text transform="matrix(1 0 0 1 52.75 35.50)">7</text>
+	<text transform="matrix(1 0 0 1 52.75 35.50)">6</text>
+	<text transform="matrix(1 0 0 1 70.50 20.00)">7</text>
 	<text transform="matrix(1 0 0 1 71.25 33.10)">8</text>
 	<text transform="matrix(1 0 0 1 53.50 50.50)">9</text>
 	<text transform="matrix(1 0 0 1 48.50 65.50)">10</text>

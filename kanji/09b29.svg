@@ -35,7 +35,7 @@ xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
 kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
-<g id="kvg:StrokePaths_09b29" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:StrokePaths_09b29-HzFst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09b29" kvg:element="鬩">
 	<g id="kvg:09b29-g1" kvg:element="鬥" kvg:position="kamae" kvg:radical="general">
 		<g id="kvg:09b29-g2" kvg:position="left">
@@ -61,8 +61,8 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:09b29-g7" kvg:element="臼" kvg:position="top">
 			<path id="kvg:09b29-s11" kvg:type="㇒" d="M50.11,42.46c0.04,0.15-0.55,1.18-0.79,1.34c-3.1,2.2-5.93,4.32-13.44,7.17"/>
 			<path id="kvg:09b29-s12" kvg:type="㇑" d="M34.35,50.34c0.6,0.46,0.84,1.5,0.99,2.44c0.54,3.46,2.25,15.55,2.79,20.23"/>
-			<path id="kvg:09b29-s13" kvg:type="㇕" d="M57.47,46.12c0.7,0.1,1.27,0.32,2.25,0.32c0.98,0,11.03-1.26,12.16-1.37c1.12-0.11,2.48,0.69,2.32,1.88c-0.86,6.62-1.97,17.17-2.81,22.23c-0.12,0.73,0,1.16-0.14,1.58"/>
-			<path id="kvg:09b29-s14" kvg:type="㇐" d="M36.9,59.81c3.18-0.45,10.95-1.75,11.71-1.75c0.76,0,1.82,0,2.42,0"/>
+			<path id="kvg:09b29-s13" kvg:type="㇐" d="M36.9,59.81c3.18-0.45,10.95-1.75,11.71-1.75c0.76,0,1.82,0,2.42,0"/>
+			<path id="kvg:09b29-s14" kvg:type="㇕" d="M57.47,46.12c0.7,0.1,1.27,0.32,2.25,0.32c0.98,0,11.03-1.26,12.16-1.37c1.12-0.11,2.48,0.69,2.32,1.88c-0.86,6.62-1.97,17.17-2.81,22.23c-0.12,0.73,0,1.16-0.14,1.58"/>
 			<path id="kvg:09b29-s15" kvg:type="㇐" d="M57.03,57.29c0.71,0.11,1.27,0.32,2.25,0.32c0.98,0,12.03-1.21,13.16-1.31"/>
 			<path id="kvg:09b29-s16" kvg:type="㇐" d="M38.27,71.22c3.51-0.21,30.31-2.46,32.42-2.56"/>
 		</g>
@@ -79,7 +79,7 @@ kvg:type CDATA #IMPLIED >
 	</g>
 </g>
 </g>
-<g id="kvg:StrokeNumbers_09b29" style="font-size:8;fill:#808080">
+<g id="kvg:StrokeNumbers_09b29-HzFst" style="font-size:8;fill:#808080">
 	<text transform="matrix(1 0 0 1 10.50 25.00)">1</text>
 	<text transform="matrix(1 0 0 1 24.50 14.00)">2</text>
 	<text transform="matrix(1 0 0 1 29.50 24.00)">3</text>
@@ -92,8 +92,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 85.50 9.00)">10</text>
 	<text transform="matrix(1 0 0 1 37.50 44.50)">11</text>
 	<text transform="matrix(1 0 0 1 25.25 59.50)">12</text>
-	<text transform="matrix(1 0 0 1 54.50 43.73)">13</text>
-	<text transform="matrix(1 0 0 1 40.75 56.50)">14</text>
+	<text transform="matrix(1 0 0 1 40.75 56.50)">13</text>
+	<text transform="matrix(1 0 0 1 54.50 43.73)">14</text>
 	<text transform="matrix(1 0 0 1 55.50 54.50)">15</text>
 	<text transform="matrix(1 0 0 1 41.50 68.50)">16</text>
 	<text transform="matrix(1 0 0 1 36.50 82.50)">17</text>
