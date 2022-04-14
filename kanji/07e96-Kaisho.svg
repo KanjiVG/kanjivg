@@ -64,7 +64,7 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:07e96-Kaisho-g8" kvg:element="韭">
 			<g id="kvg:07e96-Kaisho-g9" kvg:element="非">
 				<g id="kvg:07e96-Kaisho-g10" kvg:position="left">
-					<path id="kvg:07e96-Kaisho-s12" kvg:type="㇒" d="M53.19,42.75c0.69,0.33,1.1,1.5,1.24,2.17c0.14,0.67,0,37.31-0.14,41.48"/>
+					<path id="kvg:07e96-Kaisho-s12" kvg:type="㇑" d="M53.19,42.75c0.69,0.33,1.1,1.5,1.24,2.17c0.14,0.67,0,37.31-0.14,41.48"/>
 					<path id="kvg:07e96-Kaisho-s13" kvg:type="㇐c" d="M62.67,41.5c0.46,0.32,0.74,1.46,0.83,2.11c0.09,0.65,0,34.09-0.09,38.14"/>
 					<path id="kvg:07e96-Kaisho-s14" kvg:type="㇐c" d="M43.85,52.65c0.29,0.46,0.83,0.46,1.13,0.46c2.41-0.03,5.24-0.79,7.42-1.22c0.49-0.1,0.72-0.17,1.03-0.17"/>
 					<path id="kvg:07e96-Kaisho-s15" kvg:type="㇀" d="M44.71,63.49c0.3,0.35,0.86,0.35,1.17,0.35c2.48-0.02,4.88-1.05,7.13-1.37c0.51-0.07,0.74-0.12,1.07-0.12"/>
@@ -100,8 +100,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 20.25 15.25)">1</text>
 	<text transform="matrix(1 0 0 1 30.25 27.25)">2</text>
 	<text transform="matrix(1 0 0 1 32.25 51.25)">3</text>
-	<text transform="matrix(1 0 0 1 15.25 79.25)">4</text>
-	<text transform="matrix(1 0 0 1 4.25 83.25)">5</text>
+	<text transform="matrix(1 0 0 1 4.25 83.25)">4</text>
+	<text transform="matrix(1 0 0 1 15.25 79.25)">5</text>
 	<text transform="matrix(1 0 0 1 26.25 74.25)">6</text>
 	<text transform="matrix(1 0 0 1 43.25 15.25)">7</text>
 	<text transform="matrix(1 0 0 1 53.25 25.85)">8</text>
@@ -119,5 +119,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 43.25 86.25)">20</text>
 	<text transform="matrix(1 0 0 1 69.25 9.63)">21</text>
 	<text transform="matrix(1 0 0 1 81.25 46.25)">22</text>
+	<text transform="matrix(1 0 0 1 81.25 16.25)">23</text>
 </g>
 </svg>
