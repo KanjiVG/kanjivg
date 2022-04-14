@@ -57,17 +57,19 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:09aee-HzFst-g5" kvg:element="犮">
 		<g id="kvg:09aee-HzFst-g6" kvg:element="犬" kvg:part="1" kvg:position="bottom">
-			<g id="kvg:09aee-HzFst-g7" kvg:element="大">
+			<g id="kvg:09aee-HzFst-g7" kvg:element="大" kvg:part="1" kvg:partial="true">
 				<path id="kvg:09aee-HzFst-s11" kvg:type="㇐" d="M21.25,65.78c1.36,0.51,3.84,0.61,5.2,0.51c8.88-0.69,46.68-5.09,55.05-4.5c2.25,0.16,3.62,0.24,4.75,0.5"/>
 				<path id="kvg:09aee-HzFst-s12" kvg:type="㇒" d="M44.73,54c0.27,1.25,0.17,2.61-0.25,3.89C40.25,70.75,30.25,88,15.44,98.24"/>
-				<path id="kvg:09aee-HzFst-s13" kvg:type="㇏" d="M67.75,68.22c0.1,0.71,0.15,2.02-0.2,2.86c-4.1,9.88-17.05,24.41-37.8,27.71"/>
 			</g>
 		</g>
 		<g id="kvg:09aee-HzFst-g8" kvg:element="丿">
-			<path id="kvg:09aee-HzFst-s14" kvg:type="㇒" d="M42.5,69.19C51,75.25,68,89.75,81.11,96.39c2.42,1.23,3.83,1.78,5.89,2.14"/>
+			<path id="kvg:09aee-HzFst-s13" kvg:type="㇒" d="M67.75,68.22c0.1,0.71,0.15,2.02-0.2,2.86c-4.1,9.88-17.05,24.41-37.8,27.71"/>
 		</g>
 		<g id="kvg:09aee-HzFst-g9" kvg:element="犬" kvg:part="2">
-			<g id="kvg:09aee-HzFst-g10" kvg:element="丶">
+			<g id="kvg:09aee-HzFst-g10" kvg:element="大" kvg:part="2" kvg:partial="true">
+				<path id="kvg:09aee-HzFst-s14" kvg:type="㇏" d="M42.5,69.19C51,75.25,68,89.75,81.11,96.39c2.42,1.23,3.83,1.78,5.89,2.14"/>
+			</g>
+			<g id="kvg:09aee-HzFst-g11" kvg:element="丶">
 				<path id="kvg:09aee-HzFst-s15" kvg:type="㇔" d="M73.27,53.38c2.31,0.87,5.96,3.59,6.54,4.94"/>
 			</g>
 		</g>

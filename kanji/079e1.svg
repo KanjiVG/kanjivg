@@ -50,17 +50,19 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:079e1-g4" kvg:element="犮" kvg:position="right">
 		<g id="kvg:079e1-g5" kvg:element="犬" kvg:part="1">
-			<g id="kvg:079e1-g6" kvg:element="大">
+			<g id="kvg:079e1-g6" kvg:element="大" kvg:part="1" kvg:partial="true">
 				<path id="kvg:079e1-s6" kvg:type="㇐" d="M46.75,35.75c1,0.3,2.84,0.36,3.84,0.3c6.56-0.41,34.47-2.98,40.65-2.63c1.67,0.09,2.67,0.14,3.51,0.29"/>
 				<path id="kvg:079e1-s7" kvg:type="㇒" d="M63.59,11.75c0.85,1.29,1.26,1.84,1.14,4.2C63.67,37.83,58.5,76,38.5,90.75"/>
-				<path id="kvg:079e1-s8" kvg:type="㇒" d="M84.5,45.25c0.1,1.18,0.15,3.34-0.21,4.74C80.06,66.31,69.25,86.5,46.25,95.29"/>
 			</g>
 		</g>
 		<g id="kvg:079e1-g7" kvg:element="丿">
-			<path id="kvg:079e1-s9" kvg:type="㇏" d="M61,49.25c4.34,8.84,20.02,34.59,29.93,41.95c1.97,1.46,2.97,2.75,4.57,3.3"/>
+			<path id="kvg:079e1-s8" kvg:type="㇒" d="M84.5,45.25c0.1,1.18,0.15,3.34-0.21,4.74C80.06,66.31,69.25,86.5,46.25,95.29"/>
 		</g>
 		<g id="kvg:079e1-g8" kvg:element="犬" kvg:part="2">
-			<g id="kvg:079e1-g9" kvg:element="丶">
+			<g id="kvg:079e1-g9" kvg:element="大" kvg:part="2" kvg:partial="true">
+				<path id="kvg:079e1-s9" kvg:type="㇏" d="M61,49.25c4.34,8.84,20.02,34.59,29.93,41.95c1.97,1.46,2.97,2.75,4.57,3.3"/>
+			</g>
+			<g id="kvg:079e1-g10" kvg:element="丶">
 				<path id="kvg:079e1-s10" kvg:type="㇔" d="M76.27,14.08c3.79,1.84,9.79,7.56,10.73,10.42"/>
 			</g>
 		</g>
