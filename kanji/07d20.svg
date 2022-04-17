@@ -37,23 +37,17 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_07d20" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:07d20" kvg:element="素">
-	<g id="kvg:07d20-g1" kvg:position="top">
+	<g id="kvg:07d20-g1" kvg:element="龶" kvg:position="top">
 		<g id="kvg:07d20-g2" kvg:element="三" kvg:part="1">
-			<g id="kvg:07d20-g3" kvg:element="一" kvg:position="top">
-				<path id="kvg:07d20-s1" kvg:type="㇐" d="M34.13,23.42c2.37,0.58,4.27,0.34,6.25,0.12c7.13-0.77,19.82-2.6,26.27-3.38c1.98-0.24,4.35-0.41,5.98-0.02"/>
-			</g>
+			<path id="kvg:07d20-s1" kvg:type="㇐" d="M34.13,23.42c2.37,0.58,4.27,0.34,6.25,0.12c7.13-0.77,19.82-2.6,26.27-3.38c1.98-0.24,4.35-0.41,5.98-0.02"/>
 		</g>
 		<path id="kvg:07d20-s2" kvg:type="㇑a" d="M52.31,12.38c0.84,0.84,1.51,2.24,1.51,3.92c0,5.69-0.15,18.56-0.07,26.69"/>
-		<g id="kvg:07d20-g4" kvg:element="三" kvg:part="2" kvg:position="bottom">
-			<g id="kvg:07d20-g5" kvg:element="一">
-				<path id="kvg:07d20-s3" kvg:type="㇐" d="M31.13,34.53c2.75,0.47,4.79,0.21,7.01-0.04c7.63-0.86,21.9-2.81,29.25-3.73c2.33-0.29,4.99-0.51,6.99-0.14"/>
-			</g>
-			<g id="kvg:07d20-g6" kvg:element="一">
-				<path id="kvg:07d20-s4" kvg:type="㇐" d="M15.63,46c2.97,0.61,6,0.52,8.98,0.24c14.46-1.37,45.4-4.64,58.89-5.36c3.32-0.18,7.75-0.13,11,0.6"/>
-			</g>
+		<g id="kvg:07d20-g3" kvg:element="三" kvg:part="2" kvg:position="bottom">
+			<path id="kvg:07d20-s3" kvg:type="㇐" d="M31.13,34.53c2.75,0.47,4.79,0.21,7.01-0.04c7.63-0.86,21.9-2.81,29.25-3.73c2.33-0.29,4.99-0.51,6.99-0.14"/>
+			<path id="kvg:07d20-s4" kvg:type="㇐" d="M15.63,46c2.97,0.61,6,0.52,8.98,0.24c14.46-1.37,45.4-4.64,58.89-5.36c3.32-0.18,7.75-0.13,11,0.6"/>
 		</g>
 	</g>
-	<g id="kvg:07d20-g7" kvg:element="糸" kvg:position="bottom" kvg:radical="general">
+	<g id="kvg:07d20-g4" kvg:element="糸" kvg:position="bottom" kvg:radical="general">
 		<path id="kvg:07d20-s5" kvg:type="㇜" d="M47.44,45.32c0.18,0.8,0.07,1.73-0.48,2.34c-2.21,2.46-4.08,4.71-8.64,8.96c-1.01,0.94-1.06,2.37,0.5,2.77c3.17,0.8,6.09,2.17,8.78,3.84"/>
 		<path id="kvg:07d20-s6" kvg:type="㇜" d="M64.82,45.44C65,46.5,64.5,48,63.57,49.06c-7.09,8.13-15.2,14.19-24.64,22.07c-1.21,1.01-0.96,1.89,0.46,1.56c5.95-1.37,22.46-4.39,30.11-5.7"/>
 		<path id="kvg:07d20-s7" kvg:type="㇔" d="M65.5,62.6c4.03,1.75,10.41,7.18,11.41,9.9"/>

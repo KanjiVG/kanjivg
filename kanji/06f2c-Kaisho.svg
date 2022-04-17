@@ -37,13 +37,13 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_06f2c-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:06f2c-Kaisho" kvg:element="漬">
-	<g id="kvg:06f2c-Kaisho-g1" kvg:element="氵" kvg:variant="true" kvg:original="水" kvg:position="left">
+	<g id="kvg:06f2c-Kaisho-g1" kvg:element="氵" kvg:variant="true" kvg:original="水" kvg:position="left" kvg:radical="general">
 		<path id="kvg:06f2c-Kaisho-s1" kvg:type="㇔" d="M21.88,16.25c3.31,1.47,8.54,6.05,9.37,8.34"/>
 		<path id="kvg:06f2c-Kaisho-s2" kvg:type="㇔" d="M14.75,42.5c3.79,1.15,9.8,4.72,10.75,6.5"/>
 		<path id="kvg:06f2c-Kaisho-s3" kvg:type="㇀" d="M16.25,89.71c1.5,1.31,3.31,1.36,4.25-0.25C23.25,84.75,26,79,28.5,73"/>
 	</g>
 	<g id="kvg:06f2c-Kaisho-g2" kvg:element="責" kvg:position="right">
-		<g id="kvg:06f2c-Kaisho-g3" kvg:position="top">
+		<g id="kvg:06f2c-Kaisho-g3" kvg:element="龶" kvg:position="top">
 			<path id="kvg:06f2c-Kaisho-s4" kvg:type="㇐" d="M43.04,21.82c0.69,0.37,1.95,0.48,2.65,0.44c4.98-0.33,37.19-3.12,41.49-3.51c1.14-0.1,1.62-0.03,2.23,0.05"/>
 			<path id="kvg:06f2c-Kaisho-s5" kvg:type="㇑a" d="M63.16,10.31c0.64,0.25,2.14,2.31,2.14,2.8c0,6.61,0.3,20.82,0.36,28.25"/>
 			<path id="kvg:06f2c-Kaisho-s6" kvg:type="㇐" d="M46.24,31.94c0.69,0.28,1.95,0.37,2.65,0.34c4.98-0.2,31.48-2.83,35.78-3.08c1.15-0.06,1.99,0.01,2.6,0.07"/>
