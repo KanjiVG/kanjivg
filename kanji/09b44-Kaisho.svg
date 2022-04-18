@@ -37,15 +37,15 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_09b44-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09b44-Kaisho" kvg:element="魄">
-	<g id="kvg:09b44-Kaisho-g1" kvg:position="left" kvg:radical="nelson">
+	<g id="kvg:09b44-Kaisho-g1" kvg:position="left" kvg:radical="nelson"  kvg:element="白">
 		<g id="kvg:09b44-Kaisho-g2" kvg:position="top">
 			<path id="kvg:09b44-Kaisho-s1" kvg:type="㇔" d="M26.91,16c0.4,0.66,0.46,1.47,0.37,2.04c-0.56,3.39-5.38,11.51-9.77,16.06"/>
-		</g>
 		<g id="kvg:09b44-Kaisho-g3" kvg:element="日" kvg:position="bottom">
 			<path id="kvg:09b44-Kaisho-s2" kvg:type="㇑" d="M12.5,34.97c0.75,1.03,1.2,2.18,1.2,3.68c0,1.5-0.03,34.48,0.11,41.85"/>
 			<path id="kvg:09b44-Kaisho-s3" kvg:type="㇕a" d="M13.9,37.11c1.96-0.19,16.24-2.54,18.03-2.76c1.49-0.19,2.45,1.25,2.33,2.36c-0.23,2.25-0.51,30.44-0.7,42.4"/>
 			<path id="kvg:09b44-Kaisho-s4" kvg:type="㇐a" d="M14.12,55.86c3.18,0,6.4-0.47,9.56-0.76c1.03-0.09,2.07-0.19,3.07-0.28"/>
 			<path id="kvg:09b44-Kaisho-s5" kvg:type="㇐a" d="M13.88,77.44c5.59-0.69,13.16-1.94,19.64-2.14"/>
+		</g>
 		</g>
 	</g>
 	<g id="kvg:09b44-Kaisho-g4" kvg:element="鬼" kvg:position="right" kvg:radical="tradit">
