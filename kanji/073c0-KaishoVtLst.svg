@@ -43,7 +43,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:073c0-KaishoVtLst-s3" kvg:type="㇐" d="M12.25,87.75c1.25,0.75,2.65,0.97,4.5,0C22,85,33.5,78.5,41.5,73.75"/>
 		<path id="kvg:073c0-KaishoVtLst-s4" kvg:type="㇑" d="M27.57,28.52c0.87,0.88,1.48,2.78,1.48,3.48c0,5.95,0.52,44.62,0.35,48.57"/>
 	</g>
-	<g id="kvg:073c0-KaishoVtLst-g2" kvg:position="right">
+	<g id="kvg:073c0-KaishoVtLst-g2" kvg:element="白" kvg:position="right">
 		<g id="kvg:073c0-KaishoVtLst-g3" kvg:position="top">
 			<path id="kvg:073c0-KaishoVtLst-s5" kvg:type="㇔" d="M70.9,13c0.51,0.84,0.69,1.9,0.46,2.59c-1.67,5.08-6.85,14.6-12.42,20.38"/>
 		</g>

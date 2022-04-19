@@ -46,7 +46,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:07feb-Hyougai-s5" kvg:type="㇔" d="M38.62,26.03c2.2,1.18,5.13,3.85,6.24,5.97"/>
 			<path id="kvg:07feb-Hyougai-s6" kvg:type="㇀" d="M37,43.63c1,0.62,2.26,0.51,3.49-0.39c0.73-0.53,4.13-2.98,7.51-5.74"/>
 		</g>
-		<g id="kvg:07feb-Hyougai-g3" kvg:position="bottom">
+		<g id="kvg:07feb-Hyougai-g3" kvg:element="白" kvg:position="bottom">
 			<g id="kvg:07feb-Hyougai-g4" kvg:position="top">
 				<path id="kvg:07feb-Hyougai-s7" kvg:type="㇔" d="M34.91,52.5c0.03,1.11-0.3,2.04-0.99,2.78c-1.47,1.85-3.37,4.16-7.16,7.82"/>
 			</g>

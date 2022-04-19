@@ -42,7 +42,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:06cca-Kaisho-s2" kvg:type="㇔" d="M17.25,39.5C21.93,41,29.33,45.67,30.5,48"/>
 		<path id="kvg:06cca-Kaisho-s3" kvg:type="㇀" d="M17.25,86.73c1.71,1.27,3.78,1.32,4.86-0.25c3.14-4.57,6.29-10.16,9.14-15.99"/>
 	</g>
-	<g id="kvg:06cca-Kaisho-g2" kvg:position="right">
+	<g id="kvg:06cca-Kaisho-g2" kvg:element="白" kvg:position="right">
 		<g id="kvg:06cca-Kaisho-g3" kvg:position="top">
 			<path id="kvg:06cca-Kaisho-s4" kvg:type="㇔" d="M68.12,15c0.53,0.92,0.72,2.09,0.48,2.84c-1.73,5.57-7.12,16.03-12.92,22.37"/>
 		</g>
