@@ -44,13 +44,13 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:06676-Kaisho-s4" kvg:type="㇐a" d="M42.44,46.56C48.5,46,61.75,45,69.29,44.52"/>
 	</g>
 	<g id="kvg:06676-Kaisho-g2" kvg:position="bottom">
-		<g id="kvg:06676-Kaisho-g3" kvg:element="日" kvg:position="left" kvg:radical="general">
+		<g id="kvg:06676-Kaisho-g3" kvg:element="日" kvg:position="left">
 			<path id="kvg:06676-Kaisho-s5" kvg:type="㇑" d="M22.01,59.94c0.32,0.8,0.65,1.21,0.64,2.26c-0.01,1.06,0.21,32.65,0.31,33.71"/>
 			<path id="kvg:06676-Kaisho-s6" kvg:type="㇕a" d="M23.22,61.61c1.85-0.09,20.57-2.71,22.26-2.82c1.4-0.1,2.3,1.52,2.19,2.3c-0.23,1.58-0.62,31.6-0.63,32.39"/>
 			<path id="kvg:06676-Kaisho-s7" kvg:type="㇐a" d="M23.45,75.44c3.75,0.09,7.62-0.55,11.35-0.89c1.27-0.11,2.54-0.23,3.75-0.34"/>
 			<path id="kvg:06676-Kaisho-s8" kvg:type="㇐a" d="M23.74,91.47c5.1-0.44,16.19-1.68,22.54-2.01"/>
 		</g>
-		<g id="kvg:06676-Kaisho-g4" kvg:element="日" kvg:position="right" kvg:radical="general">
+		<g id="kvg:06676-Kaisho-g4" kvg:element="日" kvg:position="right">
 			<path id="kvg:06676-Kaisho-s9" kvg:type="㇑" d="M64.51,57.94c0.32,0.8,0.65,1.21,0.64,2.26c-0.01,1.06,0.21,32.65,0.31,33.71"/>
 			<path id="kvg:06676-Kaisho-s10" kvg:type="㇕a" d="M65.71,59.61c1.85-0.09,20.08-2.71,21.76-2.82c1.41-0.1,2.3,1.52,2.19,2.3c-0.23,1.58-0.62,31.6-0.63,32.39"/>
 			<path id="kvg:06676-Kaisho-s11" kvg:type="㇐a" d="M65.96,73.94c3.67,0.09,7.46-0.55,11.1-0.89c1.24-0.11,2.47-0.23,3.66-0.34"/>

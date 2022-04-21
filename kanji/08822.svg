@@ -83,7 +83,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08822-s14" kvg:type="㇀" d="M18.75,97.43c0.81,0.42,2.33,0.94,3.14,0.84c0.81-0.11,21.08-4.77,28.11-6.13"/>
 			<path id="kvg:08822-s15" kvg:type="㇔" d="M45.74,87.72c2.81,1.99,7.27,8.16,7.97,11.25"/>
 		</g>
-		<g id="kvg:08822-g17" kvg:element="虫" kvg:position="right" kvg:radical="general">
+		<g id="kvg:08822-g17" kvg:element="虫" kvg:position="right">
 			<g id="kvg:08822-g18" kvg:element="中">
 				<g id="kvg:08822-g19" kvg:element="口">
 					<path id="kvg:08822-s16" kvg:type="㇑" d="M58.49,68.32c0.55,0.33,0.95,1.16,1.05,1.6c0.75,3.19,1.52,7.39,2.58,13.43"/>
