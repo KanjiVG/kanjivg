@@ -48,7 +48,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:09375-Hyougai-s8" kvg:type="㇀/㇐" d="M13,88.19c1.12,1.43,2.25,1.68,4.29,0.82c7.09-3.01,10.15-4.39,22.46-9.76"/>
 	</g>
 	<g id="kvg:09375-Hyougai-g2" kvg:element="建" kvg:position="right">
-		<g id="kvg:09375-Hyougai-g3" kvg:element="聿">
+		<g id="kvg:09375-Hyougai-g3" kvg:element="聿" kvg:position="nyoc">
 			<g id="kvg:09375-Hyougai-g4" kvg:element="⺕" kvg:variant="true" kvg:original="彑">
 				<path id="kvg:09375-Hyougai-s9" kvg:type="㇕c" d="M62.17,23.95c2.15,0.35,4.3,0.34,6.44-0.04c7.01-0.91,14.14-2.12,18.97-2.46c1.84-0.13,3.1,0.96,2.83,2.95c-0.43,3.15-1.67,11.86-2.51,18.42"/>
 				<path id="kvg:09375-Hyougai-s10" kvg:type="㇐" d="M59.5,35.73c2.56,0.41,5.06,0.09,7.63-0.24c7.87-0.99,17.4-2.48,25.38-3.19c2.25-0.35,4.5-0.32,6.74,0.1"/>

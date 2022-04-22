@@ -38,7 +38,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_05c0e-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05c0e-Kaisho" kvg:element="導">
 	<g id="kvg:05c0e-Kaisho-g1" kvg:element="道" kvg:position="top">
-		<g id="kvg:05c0e-Kaisho-g2" kvg:element="首">
+		<g id="kvg:05c0e-Kaisho-g2" kvg:element="首" kvg:position="nyoc">
 			<path id="kvg:05c0e-Kaisho-s1" kvg:type="㇔" d="M51.18,12.62c2.04,1.46,5.28,5.99,5.79,8.25"/>
 			<path id="kvg:05c0e-Kaisho-s2" kvg:type="㇒" d="M76.63,10.53c0.01,0.22,0.03,0.56-0.04,0.86c-0.41,1.82-2.26,5.83-5.49,8.28"/>
 			<path id="kvg:05c0e-Kaisho-s3" kvg:type="㇐" d="M42.45,24.02c1.08,0.3,3.06,0.35,4.14,0.3c11.23-0.5,22.02-3.4,39.12-3.65c1.8-0.03,2.88,0.14,3.78,0.29"/>

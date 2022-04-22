@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_09023" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09023" kvg:element="連">
-	<g id="kvg:09023-g1" kvg:element="車">
+	<g id="kvg:09023-g1" kvg:element="車" kvg:position="nyoc">
 		<path id="kvg:09023-s1" kvg:type="㇐" d="M44.79,24.29c1.96,0.59,3.74,0.31,5.47,0.16c8.42-0.77,23.24-2.57,31-2.96c1.79-0.09,3.44-0.29,5.21,0.16"/>
 		<path id="kvg:09023-s2" kvg:type="㇑" d="M44.3,34.99c0.79,0.79,1.4,1.52,1.6,2.45c0.93,4.19,2.76,13.02,4.06,20.8c0.23,1.4,0.45,2.76,0.64,4.06"/>
 		<path id="kvg:09023-s3" kvg:type="㇕a" d="M46.56,35.94c10.77-1.22,28.9-3.5,36.82-3.93c3.68-0.2,5.22,0.53,4.71,4.37c-0.58,4.41-1.92,12.26-3.57,19.06c-0.31,1.26-0.62,2.49-0.95,3.65"/>

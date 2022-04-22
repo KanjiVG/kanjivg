@@ -43,7 +43,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:0633a-Jinmei-s3" kvg:type="㇀" d="M10.5,65.14c2.62,2.26,4.31,1.22,6.94-0.71c1.55-1.14,11-8.79,17.56-14.27"/>
 	</g>
 	<g id="kvg:0633a-Jinmei-g2" kvg:element="廷" kvg:position="right">
-		<g id="kvg:0633a-Jinmei-g3" kvg:element="壬">
+		<g id="kvg:0633a-Jinmei-g3" kvg:element="壬" kvg:position="nyoc">
 			<g id="kvg:0633a-Jinmei-g4" kvg:element="丿">
 				<path id="kvg:0633a-Jinmei-s4" kvg:type="㇒" d="M86.27,17.39c0.06,0.35,0.13,0.89-0.12,1.39c-1.46,2.92-9.81,9.33-21.24,13.25"/>
 			</g>

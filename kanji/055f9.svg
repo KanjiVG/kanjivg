@@ -43,7 +43,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:055f9-s3" kvg:type="㇐b" d="M12.82,57.86c4.87-0.66,10.25-1.42,16.93-2.43"/>
 	</g>
 	<g id="kvg:055f9-g2" kvg:element="連" kvg:variant="true" kvg:position="right">
-		<g id="kvg:055f9-g3" kvg:element="車">
+		<g id="kvg:055f9-g3" kvg:element="車" kvg:position="nyoc">
 			<path id="kvg:055f9-s4" kvg:type="㇐" d="M57.66,24.04c0.7,0.36,1.98,0.37,2.68,0.36c6.16-0.14,18.86-2.66,28.77-3.6c1.16-0.11,1.87,0.17,2.45,0.35"/>
 			<path id="kvg:055f9-s5" kvg:type="㇑" d="M57.95,34.11c0.5,0.45,1.13,0.79,1.22,1.38c0.67,4.27,2.62,15.73,3.57,23.81"/>
 			<path id="kvg:055f9-s6" kvg:type="㇕a" d="M59.86,35.72c7.54-0.86,24.05-3.39,29.2-3.52c2.13-0.05,2.57,1.64,2.48,2.98C91.23,39.78,89.7,49.66,88,57.2"/>

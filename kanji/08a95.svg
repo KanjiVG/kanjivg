@@ -49,7 +49,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:08a95-g3" kvg:element="延" kvg:position="right" kvg:phon="延">
-		<g id="kvg:08a95-g4" kvg:element="正" kvg:variant="true">
+		<g id="kvg:08a95-g4" kvg:element="正" kvg:variant="true" kvg:position="nyoc">
 			<g id="kvg:08a95-g5" kvg:element="丿">
 				<path id="kvg:08a95-s8" kvg:type="㇒" d="M85.84,15.25c0.06,0.39-0.23,1.41-0.62,1.82c-4.84,5.06-9.47,8.81-21.51,14.48"/>
 			</g>
