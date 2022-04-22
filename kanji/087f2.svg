@@ -52,7 +52,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:087f2-s6" kvg:type="㇔" d="M69.86,37.75c4.15,2.16,10.71,8.88,11.75,12.24"/>
 	</g>
 	<g id="kvg:087f2-g5" kvg:position="bottom">
-		<g id="kvg:087f2-g6" kvg:element="虫" kvg:position="left" kvg:radical="general">
+		<g id="kvg:087f2-g6" kvg:element="虫" kvg:position="left">
 			<g id="kvg:087f2-g7" kvg:element="中">
 				<g id="kvg:087f2-g8" kvg:element="口">
 					<path id="kvg:087f2-s7" kvg:type="㇑" d="M16.99,63.8c0.48,0.33,0.83,1.14,0.92,1.58c0.65,3.14,2.32,8.78,3.24,14.73"/>
@@ -66,7 +66,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:087f2-s11" kvg:type="㇀" d="M15.75,93.62c0.77,0.57,2.24,1.29,3.01,1.15c0.77-0.14,21.24-5.51,27.99-7.38"/>
 			<path id="kvg:087f2-s12" kvg:type="㇔" d="M43.24,81.22c2.81,2.69,7.27,11.06,7.97,15.25"/>
 		</g>
-		<g id="kvg:087f2-g10" kvg:element="虫" kvg:position="right" kvg:radical="general">
+		<g id="kvg:087f2-g10" kvg:element="虫" kvg:position="right">
 			<g id="kvg:087f2-g11" kvg:element="中">
 				<g id="kvg:087f2-g12" kvg:element="口">
 					<path id="kvg:087f2-s13" kvg:type="㇑" d="M57.49,62.32c0.55,0.33,0.95,1.16,1.05,1.6c0.75,3.19,2.02,7.89,3.08,13.93"/>
