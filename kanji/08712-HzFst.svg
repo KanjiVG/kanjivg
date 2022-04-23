@@ -52,7 +52,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:08712-HzFst-s6" kvg:type="㇔" d="M32.5,63.5c2.67,2.54,6.89,10.44,7.56,14.39"/>
 	</g>
 	<g id="kvg:08712-HzFst-g5" kvg:element="延" kvg:position="right">
-		<g id="kvg:08712-HzFst-g6" kvg:element="正" kvg:variant="true">
+		<g id="kvg:08712-HzFst-g6" kvg:element="正" kvg:variant="true" kvg:position="nyoc">
 			<g id="kvg:08712-HzFst-g7" kvg:element="丿">
 				<path id="kvg:08712-HzFst-s7" kvg:type="㇒" d="M89.87,16c0.06,0.32,0.22,0.92-0.11,1.28c-4.15,4.5-10.28,8.63-21.09,12.26"/>
 			</g>
