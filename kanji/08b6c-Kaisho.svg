@@ -38,14 +38,14 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_08b6c-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08b6c-Kaisho" kvg:element="譬">
 	<g id="kvg:08b6c-Kaisho-g1" kvg:element="辟" kvg:position="top">
-		<g id="kvg:08b6c-Kaisho-g2" kvg:position="left">
-			<g id="kvg:08b6c-Kaisho-g3" kvg:position="tare">
-				<g id="kvg:08b6c-Kaisho-g4" kvg:element="尸">
+		<g id="kvg:08b6c-Kaisho-g2">
+			<g id="kvg:08b6c-Kaisho-g3">
+				<g id="kvg:08b6c-Kaisho-g4" kvg:element="尸" kvg:position="tare">
 					<path id="kvg:08b6c-Kaisho-s1" kvg:type="㇕c" d="M20.88,14.65c1.13,0.34,3.32,0.65,4.52,0.58c6.46-0.38,18.57-2.47,21.16-2.61c1.28-0.07,2.45,0.87,2.18,1.86c-0.67,2.45-2.54,5.7-3.6,11.14"/>
 					<path id="kvg:08b6c-Kaisho-s2" kvg:type="㇐b" d="M24.92,28.35c3.24-0.11,14.07-1.62,22.42-2.09"/>
 					<path id="kvg:08b6c-Kaisho-s3" kvg:type="㇒" d="M25.65,16c0,1.51-0.25,4.29-0.27,5.71c-0.18,10.25-3.97,23.26-12.33,29.83"/>
 				</g>
-				<g id="kvg:08b6c-Kaisho-g5" kvg:element="口">
+				<g id="kvg:08b6c-Kaisho-g5" kvg:element="口" kvg:position="tarec">
 					<path id="kvg:08b6c-Kaisho-s4" kvg:type="㇑" d="M26.59,36.3c0.13,0.51,0.57,1.67,0.62,2.06c0.33,2.84,1.34,9.88,1.8,15.26"/>
 					<path id="kvg:08b6c-Kaisho-s5" kvg:type="㇕b" d="M27.26,37.6c3.66-0.57,14.22-2.52,16.72-2.6c1.03-0.04,1.42,1.2,1.28,2.04c-0.56,3.36-1.96,7.47-2.51,11.76"/>
 					<path id="kvg:08b6c-Kaisho-s6" kvg:type="㇐b" d="M29.2,50.85c3.03-0.24,11.53-1.32,15.17-1.62"/>

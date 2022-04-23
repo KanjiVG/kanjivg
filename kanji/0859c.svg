@@ -43,14 +43,14 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:0859c-s3" kvg:type="㇑a" d="M66.22,8.99c1.03,0.92,1.67,2.31,1.25,3.65c-1.27,4.08-2.32,10.88-4.12,16.09"/>
 	</g>
 	<g id="kvg:0859c-g2" kvg:element="辟" kvg:position="bottom">
-		<g id="kvg:0859c-g3" kvg:position="left">
-			<g id="kvg:0859c-g4" kvg:position="tare">
-				<g id="kvg:0859c-g5" kvg:element="尸">
+		<g id="kvg:0859c-g3">
+			<g id="kvg:0859c-g4">
+				<g id="kvg:0859c-g5" kvg:element="尸" kvg:position="tare">
 					<path id="kvg:0859c-s4" kvg:type="㇕c" d="M19.88,38.58c1.13,0.4,3.32,0.76,4.52,0.68c6.46-0.45,17.07-2,19.66-2.16c1.28-0.08,2.45,1.03,2.18,2.2c-0.67,2.89-2.54,12.3-3.6,18.71"/>
 					<path id="kvg:0859c-s5" kvg:type="㇐b" d="M22.92,60.01c3.32-0.08,13.38-1.4,21.92-1.72"/>
 					<path id="kvg:0859c-s6" kvg:type="㇒" d="M24.15,39.99c0,1.99,0.23,2.64,0.2,4.5c-0.2,13.47-4.6,33.75-13.55,42.22"/>
 				</g>
-				<g id="kvg:0859c-g6" kvg:element="口">
+				<g id="kvg:0859c-g6" kvg:element="口" kvg:position="tarec">
 					<path id="kvg:0859c-s7" kvg:type="㇑" d="M21.84,72.79c0.14,0.63,0.61,2.07,0.65,2.55c0.35,3.52,2.3,12.26,2.78,18.94"/>
 					<path id="kvg:0859c-s8" kvg:type="㇕b" d="M22.65,73.91c4.45-0.71,17.76-2.62,20.8-2.73c1.25-0.05,1.73,1.48,1.55,2.53c-0.68,4.17-2.88,10.77-3.55,16.1"/>
 					<path id="kvg:0859c-s9" kvg:type="㇐b" d="M25.51,92.34c3.68-0.3,14-1.63,18.41-2.01"/>

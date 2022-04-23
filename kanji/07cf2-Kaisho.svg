@@ -45,13 +45,13 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:07cf2-Kaisho-s5" kvg:type="㇒" d="M31.02,45.96C27.41,57.88,18.63,74.62,10.5,81.5"/>
 		<path id="kvg:07cf2-Kaisho-s6" kvg:type="㇔/㇏" d="M32.25,51.75C37.12,55.2,40.69,59.18,42.5,65"/>
 	</g>
-	<g id="kvg:07cf2-Kaisho-g2" kvg:position="right">
-		<g id="kvg:07cf2-Kaisho-g3" kvg:position="tare">
-			<g id="kvg:07cf2-Kaisho-g4" kvg:element="厂">
+	<g id="kvg:07cf2-Kaisho-g2">
+		<g id="kvg:07cf2-Kaisho-g3">
+			<g id="kvg:07cf2-Kaisho-g4" kvg:element="厂" kvg:position="tare">
 				<path id="kvg:07cf2-Kaisho-s7" kvg:type="㇐" d="M49.67,16.7c1.07,0.24,3.02,0.27,4.09,0.23c11.09-0.41,29.52-1.87,39.39-2.19c1.77-0.06,2.84,0.11,3.73,0.23"/>
 				<path id="kvg:07cf2-Kaisho-s8" kvg:type="㇒" d="M50.63,16.64c0.37,0.86,0.5,2.25,0.5,3.1C51.25,51.25,51,70,39.56,89.54"/>
 			</g>
-			<g id="kvg:07cf2-Kaisho-g5" kvg:element="萬">
+			<g id="kvg:07cf2-Kaisho-g5" kvg:element="萬" kvg:position="tarec">
 				<g id="kvg:07cf2-Kaisho-g6" kvg:element="艹" kvg:variant="true" kvg:original="艸" kvg:position="top">
 					<path id="kvg:07cf2-Kaisho-s9" kvg:type="㇐" d="M56.31,30.22c0.97,0.36,2.1,0.44,3.08,0.36c8.94-0.66,22.65-2.08,32.96-2.13c1.62-0.01,2.59,0.17,3.4,0.35"/>
 					<path id="kvg:07cf2-Kaisho-s10" kvg:type="㇑a" d="M64.67,22.36c1.04,0.86,1.37,1.12,1.48,1.65c1.03,4.94,1.33,10.94,1.63,12.74"/>
