@@ -50,7 +50,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:05ac9-Kaisho-s7" kvg:type="㇔" d="M44.24,46.84c2.01,1.36,5.2,5.62,5.7,7.74"/>
 			<path id="kvg:05ac9-Kaisho-s8" kvg:type="㇀" d="M39.17,68.91c1.11,0.54,1.46,0.39,2.43-0.28c3.95-2.68,6.24-4.39,9.23-6.7"/>
 		</g>
-		<g id="kvg:05ac9-Kaisho-g4" kvg:element="矢">
+		<g id="kvg:05ac9-Kaisho-g4" kvg:element="矢" kvg:position="tarec">
 			<path id="kvg:05ac9-Kaisho-s9" kvg:type="㇒" d="M69.82,32.45c0.03,0.53,0.05,1.38-0.05,2.15c-0.62,4.52-4.52,15.65-8.4,19.78"/>
 			<g id="kvg:05ac9-Kaisho-g5" kvg:element="天">
 				<path id="kvg:05ac9-Kaisho-s10" kvg:type="㇐" d="M70.1,43.38c0.95,0.08,3.11-0.34,3.76-0.49c2.68-0.61,10.73-2.04,14.86-3.09c1.09-0.28,1.78-0.36,2.33-0.21"/>

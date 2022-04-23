@@ -44,7 +44,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:07672-Kaisho-s4" kvg:type="㇔" d="M12.75,35c3.26,1.98,8.43,8.16,9.25,11.25"/>
 		<path id="kvg:07672-Kaisho-s5" kvg:type="㇀" d="M11.67,67c1.39,0.74,1.82,0.53,3.04-0.37c4.94-3.65,7.8-5.97,11.54-9.12"/>
 	</g>
-	<g id="kvg:07672-Kaisho-g2" kvg:element="顛" kvg:variant="true">
+	<g id="kvg:07672-Kaisho-g2" kvg:element="顛" kvg:variant="true" kvg:position="tarec">
 		<g id="kvg:07672-Kaisho-g3" kvg:element="真" kvg:variant="true" kvg:position="left">
 			<g id="kvg:07672-Kaisho-g4" kvg:element="眞">
 				<g id="kvg:07672-Kaisho-g5" kvg:element="十" kvg:variant="true" kvg:position="top">

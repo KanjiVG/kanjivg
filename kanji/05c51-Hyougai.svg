@@ -42,7 +42,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:05c51-Hyougai-s2" kvg:type="㇐b" d="M31.9,29.92c14.1-1.42,28.98-2.67,44.24-3.84c3.42-0.26,5.24-0.46,7.17-0.29"/>
 		<path id="kvg:05c51-Hyougai-s3" kvg:type="㇒" d="M29.83,17.33c1.17,0.8,1.34,2.17,1.29,3.67c-1,31.88-7,52.75-19.12,66"/>
 	</g>
-	<g id="kvg:05c51-Hyougai-g2" kvg:element="肖">
+	<g id="kvg:05c51-Hyougai-g2" kvg:element="肖" kvg:position="tarec">
 		<g id="kvg:05c51-Hyougai-g3" kvg:element="⺌" kvg:variant="true" kvg:original="小" kvg:position="top">
 			<path id="kvg:05c51-Hyougai-s4" kvg:type="㇑a" d="M60.06,31.83c1.06,1.06,1.49,2.3,1.49,4.14c0,6.37-0.05,11.11-0.05,14.16"/>
 			<path id="kvg:05c51-Hyougai-s5" kvg:type="㇔" d="M40.06,36.98c3.51,1.99,7.95,6.77,8.83,9.86"/>

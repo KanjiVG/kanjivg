@@ -71,19 +71,21 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:09c78-KaishoHzFstLeRi-s17" kvg:type="㇟a" d="M67.92,31.75c0.51,0.44,1.18,2.17,1.18,2.79c0,4.89-0.09,4.55-0.09,6.74c0,6.49,2.81,6,10.07,6c2.7,0,9.41-0.5,11.74-1.37"/>
 			</g>
 		</g>
-		<g id="kvg:09c78-KaishoHzFstLeRi-g10" kvg:element="田">
-			<path id="kvg:09c78-KaishoHzFstLeRi-s18" kvg:type="㇑" d="M59.25,55.53c0.21,0.36,0.61,1.57,0.72,2.01c0.94,3.64,1.78,8.3,2.33,15.01"/>
-			<path id="kvg:09c78-KaishoHzFstLeRi-s19" kvg:type="㇕a" d="M60.64,56.57c9.01-1.07,23.36-2.9,28.92-2.79c1.36,0.03,2.18,1.24,2.18,2.38c0,3.61-1.77,7.94-3.22,14.63"/>
-			<path id="kvg:09c78-KaishoHzFstLeRi-s20" kvg:type="㇑a" d="M73.16,55.52c1.01,0.73,1.39,1.27,1.39,1.91c-0.03,4.22,0.13,11.06,0.13,12.59"/>
-			<path id="kvg:09c78-KaishoHzFstLeRi-s21" kvg:type="㇐a" d="M61.97,63.96c6.33-0.45,12.65-1.06,18.97-1.57c0.76-0.06,1.51-0.12,2.22-0.18"/>
-			<path id="kvg:09c78-KaishoHzFstLeRi-s22" kvg:type="㇐a" d="M62.7,71.12c5.36,0,18.1-1.78,25.5-1.88"/>
-		</g>
-		<g id="kvg:09c78-KaishoHzFstLeRi-g11" kvg:element="皿">
-			<path id="kvg:09c78-KaishoHzFstLeRi-s23" kvg:type="㇑a" d="M56.88,78.12c0.45,0.76,1.03,1.58,1.12,2.23c0.75,5.13,1.43,7.68,2.12,14.47"/>
-			<path id="kvg:09c78-KaishoHzFstLeRi-s24" kvg:type="㇕b" d="M58.35,79.73c8.02-1.06,28.51-3.13,31.43-2.99c1.26,0.06,2,0.19,1.83,2.21c-0.24,2.98-1.47,9.86-2.4,13.87"/>
-			<path id="kvg:09c78-KaishoHzFstLeRi-s25" kvg:type="㇑a" d="M68.18,80.18c0.19,0.49,0.46,0.89,0.46,1.51c0,4.37,0.18,8.7,0.18,12.71"/>
-			<path id="kvg:09c78-KaishoHzFstLeRi-s26" kvg:type="㇑a" d="M79.16,79.09c0.34,0.58,0.7,1.59,0.61,2.34c-0.51,4.37-0.68,8.5-0.9,12.18"/>
-			<path id="kvg:09c78-KaishoHzFstLeRi-s27" kvg:type="㇐" d="M49.06,95.68c1.01,0.39,2.86,0.46,3.87,0.39c10.52-0.66,23.85-2.73,43.21-2.84c1.68-0.01,2.69,0.19,3.54,0.38"/>
+		<g id="kvg:09c78-KaishoHzFstLeRi-g10" kvg:position="tarec">
+			<g id="kvg:09c78-KaishoHzFstLeRi-g11" kvg:element="田">
+				<path id="kvg:09c78-KaishoHzFstLeRi-s18" kvg:type="㇑" d="M59.25,55.53c0.21,0.36,0.61,1.57,0.72,2.01c0.94,3.64,1.78,8.3,2.33,15.01"/>
+				<path id="kvg:09c78-KaishoHzFstLeRi-s19" kvg:type="㇕a" d="M60.64,56.57c9.01-1.07,23.36-2.9,28.92-2.79c1.36,0.03,2.18,1.24,2.18,2.38c0,3.61-1.77,7.94-3.22,14.63"/>
+				<path id="kvg:09c78-KaishoHzFstLeRi-s20" kvg:type="㇑a" d="M73.16,55.52c1.01,0.73,1.39,1.27,1.39,1.91c-0.03,4.22,0.13,11.06,0.13,12.59"/>
+				<path id="kvg:09c78-KaishoHzFstLeRi-s21" kvg:type="㇐a" d="M61.97,63.96c6.33-0.45,12.65-1.06,18.97-1.57c0.76-0.06,1.51-0.12,2.22-0.18"/>
+				<path id="kvg:09c78-KaishoHzFstLeRi-s22" kvg:type="㇐a" d="M62.7,71.12c5.36,0,18.1-1.78,25.5-1.88"/>
+			</g>
+			<g id="kvg:09c78-KaishoHzFstLeRi-g12" kvg:element="皿">
+				<path id="kvg:09c78-KaishoHzFstLeRi-s23" kvg:type="㇑a" d="M56.88,78.12c0.45,0.76,1.03,1.58,1.12,2.23c0.75,5.13,1.43,7.68,2.12,14.47"/>
+				<path id="kvg:09c78-KaishoHzFstLeRi-s24" kvg:type="㇕b" d="M58.35,79.73c8.02-1.06,28.51-3.13,31.43-2.99c1.26,0.06,2,0.19,1.83,2.21c-0.24,2.98-1.47,9.86-2.4,13.87"/>
+				<path id="kvg:09c78-KaishoHzFstLeRi-s25" kvg:type="㇑a" d="M68.18,80.18c0.19,0.49,0.46,0.89,0.46,1.51c0,4.37,0.18,8.7,0.18,12.71"/>
+				<path id="kvg:09c78-KaishoHzFstLeRi-s26" kvg:type="㇑a" d="M79.16,79.09c0.34,0.58,0.7,1.59,0.61,2.34c-0.51,4.37-0.68,8.5-0.9,12.18"/>
+				<path id="kvg:09c78-KaishoHzFstLeRi-s27" kvg:type="㇐" d="M49.06,95.68c1.01,0.39,2.86,0.46,3.87,0.39c10.52-0.66,23.85-2.73,43.21-2.84c1.68-0.01,2.69,0.19,3.54,0.38"/>
+			</g>
 		</g>
 	</g>
 </g>

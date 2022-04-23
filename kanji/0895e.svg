@@ -38,14 +38,14 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_0895e" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0895e" kvg:element="襞">
 	<g id="kvg:0895e-g1" kvg:element="辟" kvg:position="top">
-		<g id="kvg:0895e-g2" kvg:position="left">
-			<g id="kvg:0895e-g3" kvg:position="tare">
-				<g id="kvg:0895e-g4" kvg:element="尸">
+		<g id="kvg:0895e-g2">
+			<g id="kvg:0895e-g3">
+				<g id="kvg:0895e-g4" kvg:element="尸" kvg:position="tare">
 					<path id="kvg:0895e-s1" kvg:type="㇕c" d="M20.38,16.08c1.13,0.3,3.32,0.57,4.52,0.5c6.46-0.33,17.07-2.6,19.66-2.72c1.28-0.06,2.45,0.76,2.18,1.63c-0.67,2.15-2.04,5.43-3.1,10.19"/>
 					<path id="kvg:0895e-s2" kvg:type="㇐b" d="M24.92,29.01c3.24-0.1,13.07-1.85,21.42-2.27"/>
 					<path id="kvg:0895e-s3" kvg:type="㇒" d="M23.65,16.89c0.1,1.86,0.25,4.41,0.23,5.87c-0.18,10.55-4.47,23.95-12.83,30.71"/>
 				</g>
-				<g id="kvg:0895e-g5" kvg:element="口">
+				<g id="kvg:0895e-g5" kvg:element="口" kvg:position="tarec">
 					<path id="kvg:0895e-s4" kvg:type="㇑" d="M24.59,38.13c0.14,0.46,0.62,1.49,0.67,1.84c0.35,2.54,1.94,8.85,2.44,13.66"/>
 					<path id="kvg:0895e-s5" kvg:type="㇕b" d="M25.31,39.29c3.96-0.51,16.86-2.75,19.56-2.83c1.12-0.03,1.54,1.07,1.38,1.83c-0.61,3.01-2.12,6.69-2.71,10.53"/>
 					<path id="kvg:0895e-s6" kvg:type="㇐b" d="M27.91,51.15c3.27-0.21,13.46-1.68,17.38-1.95"/>

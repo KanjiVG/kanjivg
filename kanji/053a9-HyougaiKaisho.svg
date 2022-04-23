@@ -41,7 +41,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:053a9-HyougaiKaisho-s1" kvg:type="㇐" d="M20.13,18.73c1.52,0.54,4.3,0.63,5.82,0.54c15.8-0.91,44.3-3.52,59.61-4.23c2.53-0.12,4.05,0.26,5.31,0.53"/>
 		<path id="kvg:053a9-HyougaiKaisho-s2" kvg:type="㇒" d="M23.5,19.5c0.5,1.5,0.51,1.9,0.43,4.36C23.25,43.5,21.5,74.75,10.81,91.47"/>
 	</g>
-	<g id="kvg:053a9-HyougaiKaisho-g2" kvg:element="既">
+	<g id="kvg:053a9-HyougaiKaisho-g2" kvg:element="既" kvg:position="tarec">
 		<g id="kvg:053a9-HyougaiKaisho-g3" kvg:element="艮" kvg:variant="true" kvg:position="left">
 			<path id="kvg:053a9-HyougaiKaisho-s3" kvg:type="㇕" d="M32.81,35.79c1.27-0.08,17.25-2.86,18.4-3.02c1.95-0.28,2.4,1.02,2.36,2.31c-0.19,6.84-2.33,23.72-2.8,27.25"/>
 			<path id="kvg:053a9-HyougaiKaisho-s4" kvg:type="㇐" d="M33.04,48.18c2.28-0.33,7.05-1.19,9.33-1.53c0.88-0.13,1.78-0.27,2.68-0.4"/>

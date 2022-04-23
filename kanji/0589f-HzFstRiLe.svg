@@ -55,23 +55,25 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:0589f-HzFstRiLe-s9" kvg:type="㇟a" d="M65.47,33.68c0.43,0.45,1.01,2.22,1.01,2.84c0,4.98-0.08,7.14-0.08,9.37c0,6.61,3.85,6.61,10.07,6.61c2.31,0,11.37,0,13.36-0.89"/>
 			</g>
 		</g>
-		<g id="kvg:0589f-HzFstRiLe-g6" kvg:element="丱">
-			<g id="kvg:0589f-HzFstRiLe-g7" kvg:position="left">
-				<path id="kvg:0589f-HzFstRiLe-s10" kvg:type="㇄" d="M51.86,65.99c0.61,0.4,1.03,1.87,1.08,3.2c0.09,2.4-0.17,6.24-0.56,11.05c-0.08,0.94,0.5,1.58,1.78,1.2c4.09-1.2,8.76-1.6,10.44-1.7"/>
-				<g id="kvg:0589f-HzFstRiLe-g8" kvg:element="丿" kvg:variant="true">
-					<path id="kvg:0589f-HzFstRiLe-s11" kvg:type="㇑" d="M63.14,58.33c0.76,0.86,1.29,1.87,1.35,4.73c0.31,13.72-0.2,26.23-0.2,30.9"/>
+		<g id="kvg:0589f-HzFstRiLe-g6" kvg:position="tarec">
+			<g id="kvg:0589f-HzFstRiLe-g7" kvg:element="丱">
+				<g id="kvg:0589f-HzFstRiLe-g8" kvg:position="left">
+					<path id="kvg:0589f-HzFstRiLe-s10" kvg:type="㇄" d="M51.86,65.99c0.61,0.4,1.03,1.87,1.08,3.2c0.09,2.4-0.17,6.24-0.56,11.05c-0.08,0.94,0.5,1.58,1.78,1.2c4.09-1.2,8.76-1.6,10.44-1.7"/>
+					<g id="kvg:0589f-HzFstRiLe-g9" kvg:element="丿" kvg:variant="true">
+						<path id="kvg:0589f-HzFstRiLe-s11" kvg:type="㇑" d="M63.14,58.33c0.76,0.86,1.29,1.87,1.35,4.73c0.31,13.72-0.2,26.23-0.2,30.9"/>
+					</g>
+				</g>
+				<g id="kvg:0589f-HzFstRiLe-g10" kvg:position="right">
+					<g id="kvg:0589f-HzFstRiLe-g11" kvg:element="丨">
+						<path id="kvg:0589f-HzFstRiLe-s12" kvg:type="㇑" d="M88.68,63.33c0.61,0.4,1.08,1.87,1.08,3.2c0,3.67-1.44,10-1.44,14.93"/>
+					</g>
+					<path id="kvg:0589f-HzFstRiLe-s13" kvg:type="㇐" d="M 76.546186,78.772595 c 2.460509,-0.155264 8.539916,-0.613125 10.917628,-0.670858"/>
+					<path id="kvg:0589f-HzFstRiLe-s14" kvg:type="㇑" d="M74.6,58.58c0.75,0.85,1.27,1.85,1.33,4.66c0.31,13.52-0.19,25.37-0.19,29.97"/>
 				</g>
 			</g>
-			<g id="kvg:0589f-HzFstRiLe-g9" kvg:position="right">
-				<g id="kvg:0589f-HzFstRiLe-g10" kvg:element="丨">
-					<path id="kvg:0589f-HzFstRiLe-s12" kvg:type="㇑" d="M88.68,63.33c0.61,0.4,1.08,1.87,1.08,3.2c0,3.67-1.44,10-1.44,14.93"/>
-				</g>
-				<path id="kvg:0589f-HzFstRiLe-s13" kvg:type="㇐" d="M 76.546186,78.772595 c 2.460509,-0.155264 8.539916,-0.613125 10.917628,-0.670858"/>
-				<path id="kvg:0589f-HzFstRiLe-s14" kvg:type="㇑" d="M74.6,58.58c0.75,0.85,1.27,1.85,1.33,4.66c0.31,13.52-0.19,25.37-0.19,29.97"/>
+			<g id="kvg:0589f-HzFstRiLe-g12" kvg:element="一">
+				<path id="kvg:0589f-HzFstRiLe-s15" kvg:type="㇐" d="M42.38,96.32c1.08,0.42,3.07,0.62,4.14,0.42c4.37-0.81,39.17-2.95,49.44-2.95c1.8,0,2.88,0.2,3.78,0.41"/>
 			</g>
-		</g>
-		<g id="kvg:0589f-HzFstRiLe-g11" kvg:element="一">
-			<path id="kvg:0589f-HzFstRiLe-s15" kvg:type="㇐" d="M42.38,96.32c1.08,0.42,3.07,0.62,4.14,0.42c4.37-0.81,39.17-2.95,49.44-2.95c1.8,0,2.88,0.2,3.78,0.41"/>
 		</g>
 	</g>
 </g>

@@ -50,7 +50,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:07e92-KaishoVtLst-s7" kvg:type="㇐" d="M46.4,15.6c1.14,0.39,3.23,0.45,4.37,0.39c13.05-0.73,25.37-2.67,40.24-2.82c1.9-0.02,3.04,0.19,3.99,0.38"/>
 			<path id="kvg:07e92-KaishoVtLst-s8" kvg:type="㇒" d="M51,16c0.05,1.83-0.03,4.73-0.09,7.36C50.5,41.25,49.75,75.25,35.5,93.25"/>
 		</g>
-		<g id="kvg:07e92-KaishoVtLst-g4" kvg:element="墨">
+		<g id="kvg:07e92-KaishoVtLst-g4" kvg:element="墨" kvg:position="tarec">
 			<g id="kvg:07e92-KaishoVtLst-g5" kvg:element="黒" kvg:position="top">
 				<g id="kvg:07e92-KaishoVtLst-g6" kvg:element="里" kvg:variant="true" kvg:position="top">
 					<path id="kvg:07e92-KaishoVtLst-s9" kvg:type="㇑" d="M57.46,24.42c0.25,0.29,0.55,1.14,0.69,1.5c1.11,3.01,2.16,10.94,2.85,16.56"/>
