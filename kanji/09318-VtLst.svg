@@ -59,12 +59,10 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:09318-VtLst-s11" kvg:type="㇐" d="M43.74,55.77c0.97,0.53,2.09,0.63,3.06,0.53c8.88-0.96,36.99-3.8,47.41-4.53c1.61-0.11,2.58,0.25,3.38,0.51"/>
 		<path id="kvg:09318-VtLst-s12" kvg:type="㇑" d="M52.42,44.25c1.1,1.48,1.45,1.93,1.57,2.84c1.1,8.52,1.19,14.66,1.38,19.91"/>
 		<path id="kvg:09318-VtLst-s13" kvg:type="㇑" d="M86.32,40.75c0.19,1.15,0.45,2.01,0.23,3.43c-1.27,8.33-1.84,12.49-3.22,20.32"/>
-		<g id="kvg:09318-VtLst-g6" kvg:element="土" kvg:part="1">
+		<g id="kvg:09318-VtLst-g6" kvg:element="土">
 			<path id="kvg:09318-VtLst-s14" kvg:type="㇐" d="M48.72,74.15c0.82,0.45,2.31,0.49,3.14,0.45c6.96-0.35,30.08-3.6,35.98-3.54c1.36,0.01,2.18,0.21,2.87,0.44"/>
-		</g>
-		<g id="kvg:09318-VtLst-g7" kvg:element="土" kvg:part="2">
-			<g id="kvg:09318-VtLst-g8" kvg:element="千" kvg:part="2">
-				<g id="kvg:09318-VtLst-g9" kvg:element="十" kvg:part="2">
+			<g id="kvg:09318-VtLst-g7" kvg:element="千" kvg:part="2">
+				<g id="kvg:09318-VtLst-g8" kvg:element="十" kvg:part="2">
 					<path id="kvg:09318-VtLst-s15" kvg:type="㇑" d="M43.27,90.65c0.82,0.45,2.32,0.57,3.14,0.45c5.22-0.77,40.42-2.6,47.25-3.04c1.36-0.09,2.19,0.21,2.87,0.44"/>
 				</g>
 			</g>

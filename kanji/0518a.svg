@@ -47,10 +47,8 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:0518a-g4" kvg:element="丿" kvg:variant="true">
 			<path id="kvg:0518a-s3" kvg:type="㇑" d="M45.37,22.5c0.81,0.81,1.21,2.25,1.21,3.5c0,0.69,0.05,43.47,0.04,59.25c0,3.4,0,5.55-0.01,5.75"/>
 		</g>
-		<g id="kvg:0518a-g5" kvg:element="十" kvg:part="1" kvg:variant="true">
+		<g id="kvg:0518a-g5" kvg:element="十" kvg:variant="true">
 			<path id="kvg:0518a-s4" kvg:type="㇑" d="M62.12,20.5c0.75,0.75,1.21,1.75,1.21,3.25c0,2.65,0.05,44.8,0.04,61c0,3.7,0,6.04-0.01,6.25"/>
-		</g>
-		<g id="kvg:0518a-g6" kvg:element="十" kvg:part="2" kvg:variant="true">
 			<path id="kvg:0518a-s5" kvg:type="㇐" d="M12.5,53.45c3.02,1.08,7.1,0.72,10.25,0.43c16-1.5,45-3.38,66.87-4.03c2.67-0.08,5.75,0.14,8.38,0.7"/>
 		</g>
 	</g>

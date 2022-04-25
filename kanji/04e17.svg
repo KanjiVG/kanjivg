@@ -52,18 +52,16 @@ kvg:type CDATA #IMPLIED >
 						</g>
 					</g>
 				</g>
-			</g>
-			<g id="kvg:04e17-g9" kvg:element="川" kvg:part="2" kvg:variant="true" kvg:original="巛">
-				<g id="kvg:04e17-g10" kvg:element="廿" kvg:part="3" kvg:variant="true">
+				<g id="kvg:04e17-g9" kvg:element="廿" kvg:part="3" kvg:variant="true">
 					<path id="kvg:04e17-s3" kvg:type="㇑" d="M52.75,15.25c1.25,0.5,2,2.25,2.25,3.25s0,66.75-0.25,73"/>
 				</g>
 			</g>
 		</g>
-		<g id="kvg:04e17-g11" kvg:element="川" kvg:part="3" kvg:variant="true" kvg:original="巛">
+		<g id="kvg:04e17-g10" kvg:element="川" kvg:part="2" kvg:variant="true" kvg:original="巛">
 			<path id="kvg:04e17-s4" kvg:type="㇑" d="M77.75,12.75C79,13.25,79.75,15,80,16s0,71.25-0.25,77.5"/>
 		</g>
 	</g>
-	<g id="kvg:04e17-g12" kvg:element="廿" kvg:part="4" kvg:variant="true">
+	<g id="kvg:04e17-g11" kvg:element="廿" kvg:part="4" kvg:variant="true">
 		<path id="kvg:04e17-s5" kvg:type="㇐" d="M30.5,93.75c7-0.75,43.17-3.8,48.96-3.36"/>
 	</g>
 </g>

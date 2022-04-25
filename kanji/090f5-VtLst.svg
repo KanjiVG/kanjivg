@@ -49,19 +49,17 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:090f5-VtLst-s3" kvg:type="㇐" d="M11.7,50.3c0.96,0.39,2.08,0.47,3.05,0.39c8.84-0.71,33.91-4.81,44.29-5.36c1.6-0.08,2.57,0.19,3.37,0.38"/>
 		<path id="kvg:090f5-VtLst-s4" kvg:type="㇑" d="M21.41,41.17c1.12,1.44,1.48,1.88,1.6,2.77c1.12,8.31,2.08,16.88,2.4,19.9"/>
 		<path id="kvg:090f5-VtLst-s5" kvg:type="㇑" d="M52.2,37.24c0.3,0.51,1.01,2.22,0.76,3.44c-1.45,7.13-2.11,12.2-3.7,18.92"/>
-		<g id="kvg:090f5-VtLst-g5" kvg:element="土" kvg:part="1">
+		<g id="kvg:090f5-VtLst-g5" kvg:element="土">
 			<path id="kvg:090f5-VtLst-s6" kvg:type="㇐" d="M16.34,65.94c0.94,0.38,2.67,0.49,3.61,0.38c6-0.66,25.3-4.33,33.23-5.46c1.55-0.22,2.51,0.18,3.29,0.37"/>
-		</g>
-		<g id="kvg:090f5-VtLst-g6" kvg:element="土" kvg:part="2">
-			<g id="kvg:090f5-VtLst-g7" kvg:element="千" kvg:part="2">
-				<g id="kvg:090f5-VtLst-g8" kvg:element="十" kvg:part="2">
+			<g id="kvg:090f5-VtLst-g6" kvg:element="千" kvg:part="2">
+				<g id="kvg:090f5-VtLst-g7" kvg:element="十" kvg:part="2">
 					<path id="kvg:090f5-VtLst-s7" kvg:type="㇑" d="M17.7,85.43c0.69,1.11,1.95,1.38,2.65,1.11C25.5,84.5,50,76.25,57.75,74.04"/>
 				</g>
 			</g>
 			<path id="kvg:090f5-VtLst-s8" kvg:type="㇐" d="M36.05,23.18c1.07,0.43,1.71,1.93,1.93,2.79c0.21,0.86,0.21,45.42,0.21,53.99"/>
 		</g>
 	</g>
-	<g id="kvg:090f5-VtLst-g9" kvg:element="⻏" kvg:variant="true" kvg:original="邑" kvg:position="right" kvg:radical="general">
+	<g id="kvg:090f5-VtLst-g8" kvg:element="⻏" kvg:variant="true" kvg:original="邑" kvg:position="right" kvg:radical="general">
 		<path id="kvg:090f5-VtLst-s9" kvg:type="㇇" d="M70.67,25.02c7.43-1.11,14.91-2.72,18.43-3.83c3.52-1.11,5.04,1.61,3.48,4.2C91,27.98,83.86,41.06,81.12,44.76"/>
 		<path id="kvg:090f5-VtLst-s10" kvg:type="㇁" d="M81.12,44.76c20.63,13.49,13.38,45.74,2.46,31.68"/>
 		<path id="kvg:090f5-VtLst-s11" kvg:type="㇑" d="M68.37,22.25c1.09,0.5,1.74,2.25,1.96,3.25c0.22,1,0,67.25-0.22,73.5"/>
