@@ -48,12 +48,10 @@ kvg:type CDATA #IMPLIED >
 	<path id="kvg:05782-s3" kvg:type="㇐" d="M17.75,57.77c2.44,0.99,5.83,0.69,8.39,0.38c14.49-1.78,39.17-4.5,53.37-5.61c2.86-0.22,6.21-0.45,9,0.23"/>
 	<path id="kvg:05782-s4" kvg:type="㇑a" d="M33.25,47.75c0.88,0.88,1.48,2.18,1.6,3.09C36.12,60.25,37.08,67.9,37.5,71"/>
 	<path id="kvg:05782-s5" kvg:type="㇑a" d="M75.76,43.25c0.36,1.12,0.35,2.01,0.06,3.43C74.12,55,73.62,57.5,71.75,67"/>
-	<g id="kvg:05782-g4" kvg:element="土" kvg:part="1" kvg:radical="tradit">
+	<g id="kvg:05782-g4" kvg:element="土" kvg:radical="tradit">
 		<path id="kvg:05782-s6" kvg:type="㇐" d="M29.25,76.15c3,0.6,6.12,0.31,8.87-0.05c10.38-1.35,28.04-3.1,37.75-3.64c2.77-0.16,5.65-0.14,8.38,0.53"/>
-	</g>
-	<g id="kvg:05782-g5" kvg:element="土" kvg:part="2" kvg:radical="tradit">
-		<g id="kvg:05782-g6" kvg:element="千" kvg:part="2">
-			<g id="kvg:05782-g7" kvg:element="十" kvg:part="2">
+		<g id="kvg:05782-g5" kvg:element="千" kvg:part="2">
+			<g id="kvg:05782-g6" kvg:element="十" kvg:part="2">
 				<path id="kvg:05782-s7" kvg:type="㇑a" d="M53.25,26.5c1.12,1.12,1.5,2.62,1.5,4c0,1.03,0,51.25,0,61.25"/>
 			</g>
 		</g>

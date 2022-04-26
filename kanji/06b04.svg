@@ -59,7 +59,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 		<g id="kvg:06b04-g6" kvg:element="柬" kvg:variant="true" kvg:original="東">
-			<g id="kvg:06b04-g7" kvg:element="束" kvg:part="1">
+			<g id="kvg:06b04-g7" kvg:element="束">
 				<g id="kvg:06b04-g8" kvg:element="木" kvg:part="1">
 					<path id="kvg:06b04-s13" kvg:type="㇐" d="M54.94,46.59c1.23,0.5,2.89,0.44,4.22,0.31c4.95-0.47,11.32-2.18,17.36-2.87c1.32-0.15,2.41-0.29,3.69,0.03"/>
 				</g>
@@ -70,14 +70,12 @@ kvg:type CDATA #IMPLIED >
 					</g>
 				</g>
 				<path id="kvg:06b04-s16" kvg:type="㇐a" d="M55.69,60.95c5.44-0.82,22.06-2.83,24.63-2.83"/>
-			</g>
-			<g id="kvg:06b04-g11" kvg:element="束" kvg:part="2">
-				<g id="kvg:06b04-g12" kvg:element="口" kvg:part="2">
-					<g id="kvg:06b04-g13" kvg:element="日" kvg:part="1">
+				<g id="kvg:06b04-g11" kvg:element="口" kvg:part="2">
+					<g id="kvg:06b04-g12" kvg:element="日" kvg:part="1">
 						<path id="kvg:06b04-s17" kvg:type="㇐a" d="M56.51,67.69c5.86-0.69,16.43-1.85,22.19-2.09"/>
 					</g>
 				</g>
-				<g id="kvg:06b04-g14" kvg:element="木" kvg:part="2" kvg:variant="true">
+				<g id="kvg:06b04-g13" kvg:element="木" kvg:part="2" kvg:variant="true">
 					<path id="kvg:06b04-s18" kvg:type="㇑" d="M66.61,38.75c0.82,0.82,1.03,1.88,1.03,3.11c0,0.5,0.16,32.07,0.04,44.27c-0.02,2.19-0.04,3.71-0.06,4.25"/>
 					<path id="kvg:06b04-s19" kvg:type="㇒" d="M66,67.41c0,1.22-0.42,2.16-1.38,3.59c-3.72,5.54-9.63,11.7-14.57,14.51"/>
 					<path id="kvg:06b04-s20" kvg:type="㇔/㇏" d="M70.75,72.66c3.12,1.72,7.62,4.84,10.88,9.62"/>

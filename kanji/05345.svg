@@ -45,15 +45,13 @@ kvg:type CDATA #IMPLIED >
 			<g id="kvg:05345-g4" kvg:element="丿">
 				<path id="kvg:05345-s2" kvg:type="㇒" d="M34.4,20.93c0.84,1.82,1,4.45,1,6.37c0,43.96,0.09,53.46-15.91,65.71"/>
 			</g>
-		</g>
-		<g id="kvg:05345-g5" kvg:element="川" kvg:part="2" kvg:variant="true" kvg:original="巛">
-			<g id="kvg:05345-g6" kvg:element="十" kvg:part="2" kvg:radical="tradit">
+			<g id="kvg:05345-g5" kvg:element="十" kvg:part="2" kvg:radical="tradit">
 				<path id="kvg:05345-s3" kvg:type="㇑" d="M53.25,17.63c0.43,0.36,1.33,2.69,1.41,3.4c0.09,0.72-0.05,67.36-0.14,71.85"/>
 			</g>
 		</g>
 	</g>
-	<g id="kvg:05345-g7" kvg:element="川" kvg:part="3" kvg:variant="true" kvg:original="巛">
-		<g id="kvg:05345-g8" kvg:element="丨" kvg:radical="nelson">
+	<g id="kvg:05345-g6" kvg:element="川" kvg:part="2" kvg:variant="true" kvg:original="巛">
+		<g id="kvg:05345-g7" kvg:element="丨" kvg:radical="nelson">
 			<path id="kvg:05345-s4" kvg:type="㇑" d="M73.31,15.63c0.76,0.45,2.01,2.12,2.01,4.25c0,0.91-0.1,69.65-0.25,75.25"/>
 		</g>
 	</g>
