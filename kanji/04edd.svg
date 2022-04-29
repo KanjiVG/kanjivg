@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
+<g id="kvg:StrokePaths_04edd" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:04edd" kvg:element="仝">
+	<g id="kvg:04edd-g1" kvg:element="人" kvg:position="top" kvg:radical="general">
+		<path id="kvg:04edd-s1" kvg:type="㇒" d="M51,12c0.1,1.1-0.11,2.9-0.71,4.42C46.54,25.91,34.42,46.29,13.88,59"/>
+		<path id="kvg:04edd-s2" kvg:type="㇏" d="M51.25,17.13c6.01,5.71,24.37,23.52,33.03,31.21c3.08,2.73,4.85,3.78,9.22,5.5"/>
+	</g>
+	<g id="kvg:04edd-g2" kvg:element="工" kvg:position="bottom">
+		<path id="kvg:04edd-s3" kvg:type="㇐" d="M32.17,53.79c1.95,0.59,4.65,0.47,6.45,0.26c6.04-0.71,17.52-2.14,26.01-2.69c2.11-0.13,4.5-0.12,6.32,0.33"/>
+		<path id="kvg:04edd-s4" kvg:type="㇑a" d="M50.91,54.99c0.92,0.92,1.4,2.3,1.4,3.2c0,6.3-0.02,24.06-0.02,31.65"/>
+		<path id="kvg:04edd-s5" kvg:type="㇐" d="M20.48,92.76c1.91,0.49,4.89,0.79,8.3,0.5c13.59-1.14,33.47-2.89,50.39-3.45c2.86-0.09,6.3,0.23,7.73,0.68"/>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_04edd" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 43.50 12.50)">1</text>
+	<text transform="matrix(1 0 0 1 59.50 22.50)">2</text>
+	<text transform="matrix(1 0 0 1 37.50 50.50)">3</text>
+	<text transform="matrix(1 0 0 1 44.25 63.13)">4</text>
+	<text transform="matrix(1 0 0 1 12.75 94.63)">5</text>
+</g>
+</svg>
