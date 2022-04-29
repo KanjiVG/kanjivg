@@ -36,7 +36,7 @@ kvg:type CDATA #IMPLIED >
 ]>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0006b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
-<g id="kvg:0006b">
+<g id="kvg:0006b" kvg:element="k">
 	<path id="kvg:0006b-s1" d="M36,15.43c0,5.35,0,69.79,0,77.16"/>
 	<path id="kvg:0006b-s2" d="M75.84,35.29c-11.12,7.81-22.38,15.24-36.26,24.78"/>
 	<path id="kvg:0006b-s3" d="M40.01,60.29c8.81,7.23,30.81,25.71,38.61,32.36"/>
