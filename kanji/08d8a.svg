@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_08d8a" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08d8a" kvg:element="越">
-	<g id="kvg:08d8a-g1" kvg:element="走" kvg:radical="general">
+	<g id="kvg:08d8a-g1" kvg:element="走" kvg:position="nyo" kvg:radical="general">
 		<g id="kvg:08d8a-g2" kvg:element="土" kvg:position="top">
 			<path id="kvg:08d8a-s1" kvg:type="㇐" d="M18.69,30.41c1.53,0.65,2.98,0.48,4.58,0.33c5.41-0.52,13.44-1.73,18.24-2.25c1.24-0.13,2.24-0.24,3.55-0.11"/>
 			<path id="kvg:08d8a-s2" kvg:type="㇑a" d="M32.9,13.83c1.02,1.02,1.23,2.16,1.23,3.42c0,8.38,0.02,22.77,0.02,25.62"/>
@@ -50,7 +50,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08d8a-s7" kvg:type="㇏" d="M20.67,74.74C31.86,77.06,60.07,88.75,75,93.17c5.17,1.53,10.56,2.67,15.89,3.49"/>
 		</g>
 	</g>
-	<g id="kvg:08d8a-g4" kvg:element="戉" kvg:phon="戉">
+	<g id="kvg:08d8a-g4" kvg:element="戉" kvg:position="nyoc" kvg:phon="戉">
 		<g id="kvg:08d8a-g5" kvg:element="厂" kvg:part="1" kvg:variant="true">
 			<path id="kvg:08d8a-s8" kvg:type="㇙" d="M53.77,36.45c0.83,0.83,1.18,1.93,1.18,3.05c0,0.79-0.22,30.03-0.37,31.98c-0.13,1.76,0.68,2.41,2.14,0.97c4.78-4.7,7.4-7.2,12.68-11.82"/>
 		</g>
