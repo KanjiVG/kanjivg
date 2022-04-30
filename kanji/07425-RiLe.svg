@@ -44,7 +44,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:07425-RiLe-s4" kvg:type="㇐" d="M10,85.03c1.19,1.18,4.2,0.7,5.04,0.18c5.35-3.26,11.97-8.09,20.12-13.72"/>
 	</g>
 	<g id="kvg:07425-RiLe-g2" kvg:element="虎" kvg:position="right">
-		<g id="kvg:07425-RiLe-g3" kvg:element="虍">
+		<g id="kvg:07425-RiLe-g3" kvg:element="虍" kvg:position="tare">
 			<path id="kvg:07425-RiLe-s5" kvg:type="㇑" d="M63.13,10.08c1.04,0.97,1.85,2.1,1.85,5.29c0,6.22-0.02,8.64-0.02,13.87"/>
 			<path id="kvg:07425-RiLe-s6" kvg:type="㇐" d="M66.65,19.78c4.9-0.81,12.44-1.87,17.41-2.52c1.64-0.21,2.64,0.19,3.47,0.39"/>
 			<path id="kvg:07425-RiLe-s7" kvg:type="㇖" d="M45.46,30.69c1.98,1.62,5.94,0.63,8.18,0.33c11.9-1.56,27.62-2.8,36.07-3.19c12.54-0.59,2.27,6.66-0.4,8.78"/>
@@ -56,7 +56,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:07425-RiLe-s10" kvg:type="㇟a" d="M64.06,33.93c0.61,0.44,1.42,2.17,1.42,2.78c0,4.87-0.11,10.41-0.11,12.58c0,6.47,2.83,6.96,11.56,6.96c3.25,0,10.25,0,13.05-0.87"/>
 			</g>
 		</g>
-		<g id="kvg:07425-RiLe-g6" kvg:element="儿" kvg:original="八">
+		<g id="kvg:07425-RiLe-g6" kvg:element="儿" kvg:original="八" kvg:position="tarec">
 			<g id="kvg:07425-RiLe-g7" kvg:element="丿" kvg:position="left">
 				<path id="kvg:07425-RiLe-s11" kvg:type="㇒" d="M60.6,62.22c0.04,0.8,0.42,2.07,0.42,3.23c0,10.05-3.02,24.3-14.86,30.97"/>
 			</g>
