@@ -51,7 +51,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:0865f-VtFstRiLe-g5" kvg:element="虎" kvg:position="right">
-		<g id="kvg:0865f-VtFstRiLe-g6" kvg:element="虍" kvg:radical="general">
+		<g id="kvg:0865f-VtFstRiLe-g6" kvg:element="虍" kvg:position="tare" kvg:radical="general">
 			<path id="kvg:0865f-VtFstRiLe-s6" kvg:type="㇑" d="M65.28,11.08c0.74,1.04,1.33,2.26,1.33,5.71c0,6.71-0.02,9.32-0.02,14.96"/>
 			<path id="kvg:0865f-VtFstRiLe-s7" kvg:type="㇐" d="M66.8,20.37c5.53-0.68,11.76-1.55,17.36-2.09c1.84-0.18,2.97,0.16,3.9,0.33"/>
 			<path id="kvg:0865f-VtFstRiLe-s8" kvg:type="㇖" d="M51.18,34.41c1.32,0.09,2.55-0.2,4.03-0.37c6.79-0.79,26.96-3.82,35.93-3.95c9.46-0.14,2,5.34-0.35,7.03"/>
@@ -63,7 +63,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:0865f-VtFstRiLe-s11" kvg:type="㇟a" d="M66.7,34.68c0.6,0.38,1.39,1.88,1.39,2.4c0,4.22-0.11,9.01-0.11,10.89c0,5.6,2.78,6.02,11.37,6.02c3.2,0,10.09,0,12.84-0.75"/>
 			</g>
 		</g>
-		<g id="kvg:0865f-VtFstRiLe-g9" kvg:element="儿" kvg:original="八">
+		<g id="kvg:0865f-VtFstRiLe-g9" kvg:element="儿" kvg:original="八" kvg:position="tarec">
 			<g id="kvg:0865f-VtFstRiLe-g10" kvg:element="丿" kvg:position="left">
 				<path id="kvg:0865f-VtFstRiLe-s12" kvg:type="㇒" d="M64.04,61.72c0.46,0.78,0.41,2.08,0.42,3.26c0.04,7.53-1.71,22.53-14.71,31.19"/>
 			</g>

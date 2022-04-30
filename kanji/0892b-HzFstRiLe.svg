@@ -50,7 +50,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:0892b-HzFstRiLe-s7" kvg:type="㇒" d="M46.28,25.25c0.38,1,0.94,3.23,0.94,5.49c0,20.63,0.94,43.13-11.52,59.48"/>
 		</g>
 		<g id="kvg:0892b-HzFstRiLe-g4" kvg:element="虎" kvg:position="tarec">
-			<g id="kvg:0892b-HzFstRiLe-g5" kvg:element="虍">
+			<g id="kvg:0892b-HzFstRiLe-g5" kvg:element="虍" kvg:position="tare">
 				<path id="kvg:0892b-HzFstRiLe-s8" kvg:type="㇐" d="M69.44,29.78c4.73-0.65,10.07-1.48,14.87-2c1.58-0.17,2.55,0.15,3.34,0.31"/>
 				<path id="kvg:0892b-HzFstRiLe-s9" kvg:type="㇑" d="M67.76,23.58c0.65,0.77,1.15,1.66,1.15,4.21c0,4.94-0.01,5.36-0.01,9.52"/>
 				<path id="kvg:0892b-HzFstRiLe-s10" kvg:type="㇒" d="M56.92,39.65c0.76,0.16,2.12-0.17,3.36-0.35c5.72-0.8,20.93-3.04,28.41-3.18c7.89-0.14,1.67,5.58-0.29,7.35"/>
@@ -62,7 +62,7 @@ kvg:type CDATA #IMPLIED >
 					<path id="kvg:0892b-HzFstRiLe-s13" kvg:type="㇟a" d="M69.11,41.51c0.46,0.37,1.06,1.86,1.06,2.38c0,4.17-0.08,4.92-0.08,6.78c0,5.54,2.12,5.96,8.64,5.96c2.43,0,7.67,0,9.76-0.75"/>
 				</g>
 			</g>
-			<g id="kvg:0892b-HzFstRiLe-g8" kvg:element="儿" kvg:original="八">
+			<g id="kvg:0892b-HzFstRiLe-g8" kvg:element="儿" kvg:original="八" kvg:position="tarec">
 				<g id="kvg:0892b-HzFstRiLe-g9" kvg:element="丿" kvg:position="left">
 					<path id="kvg:0892b-HzFstRiLe-s14" kvg:type="㇒" d="M66.75,63.28c0.04,0.72,0.41,1.85,0.42,2.9c0.08,7.08-1.92,20.08-14.73,27.74"/>
 				</g>
