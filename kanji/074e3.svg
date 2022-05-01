@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_074e3" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:074e3" kvg:element="瓣">
-	<g id="kvg:074e3-g1" kvg:element="辛" kvg:variant="true">
+	<g id="kvg:074e3-g1" kvg:element="辛" kvg:variant="true" kvg:position="left">
 		<g id="kvg:074e3-g2" kvg:element="立" kvg:position="top">
 			<g id="kvg:074e3-g3" kvg:element="亠" kvg:position="top">
 				<path id="kvg:074e3-s1" kvg:type="㇑a" d="M23.62,13.75c1.01,1.31,1.51,1.31,1.51,4.35c0,3.05,0,3.65,0,7.65"/>
@@ -66,7 +66,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<path id="kvg:074e3-s13" kvg:type="㇏" d="M59.06,28.17c0.18,0,0.76,0.6,0.96,1.8c2.2,13.17,5.88,41.13,13.51,57.54c1.16,2.49,2.39,4.04,3.22,4.85"/>
 	</g>
-	<g id="kvg:074e3-g9" kvg:element="辛">
+	<g id="kvg:074e3-g9" kvg:element="辛" kvg:position="right">
 		<g id="kvg:074e3-g10" kvg:element="立" kvg:position="top">
 			<g id="kvg:074e3-g11" kvg:element="亠" kvg:position="top">
 				<path id="kvg:074e3-s14" kvg:type="㇑a" d="M81.56,12.75c1.41,1.31,2.12,1.31,2.12,4.35c0,3.05,0,4.15,0,8.15"/>
