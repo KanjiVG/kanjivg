@@ -38,22 +38,14 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_05146-MidFst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05146-MidFst" kvg:element="兆">
 	<g id="kvg:05146-MidFst-g1" kvg:element="儿" kvg:part="1" kvg:original="八" kvg:position="left" kvg:radical="tradit">
-		<g id="kvg:05146-MidFst-g2" kvg:element="丿">
-			<path id="kvg:05146-MidFst-s1" kvg:type="㇒" d="M39.75,18.25c0.5,0.75,0.88,3.76,0.88,5.06c0,8.19,0.06,21.19,0.06,30.21c0,26.99-6.21,34.15-15.44,42.23"/>
-		</g>
-		<g id="kvg:05146-MidFst-g3" kvg:element="冫" kvg:radical="nelson">
-			<g id="kvg:05146-MidFst-g4" kvg:position="top">
-				<path id="kvg:05146-MidFst-s2" kvg:type="㇔" d="M58.49,11.87c0.74,1.19,1.33,2.59,1.38,4.43c0.2,8.19-0.03,61.64-0.03,67.2c0,13,8.9,12.03,17.67,12.03c9.25,0,15.34-1.68,16.64-2.62c2.75-2,2-3,2.25-6.5"/>
-			</g>
-			<g id="kvg:05146-MidFst-g5" kvg:position="bottom">
-				<path id="kvg:05146-MidFst-s3" kvg:type="㇀" d="M19,33.75c4.77,2.03,12.31,8.34,13.5,11.5"/>
-			</g>
-		</g>
+		<path id="kvg:05146-MidFst-s1" kvg:type="㇒" d="M39.75,18.25c0.5,0.75,0.88,3.76,0.88,5.06c0,8.19,0.06,21.19,0.06,30.21c0,26.99-6.21,34.15-15.44,42.23"/>
+		<path id="kvg:05146-MidFst-s2" kvg:type="㇟" d="M58.49,11.87c0.74,1.19,1.33,2.59,1.38,4.43c0.2,8.19-0.03,61.64-0.03,67.2c0,13,8.9,12.03,17.67,12.03c9.25,0,15.34-1.68,16.64-2.62c2.75-2,2-3,2.25-6.5"/>
 	</g>
-	<g id="kvg:05146-MidFst-g6" kvg:position="right">
-		<g id="kvg:05146-MidFst-g7" kvg:element="儿" kvg:part="2" kvg:original="八" kvg:radical="tradit">
-			<path id="kvg:05146-MidFst-s4" kvg:type="㇟" d="M14.75,72.5c1.5,0.75,3,1,4.14,0.15C20.47,71.47,31.81,61.69,38,56"/>
-		</g>
+	<g id="kvg:05146-MidFst-g2" kvg:element="冫" kvg:radical="nelson">
+		<path id="kvg:05146-MidFst-s3" kvg:type="㇔" d="M19,33.75c4.77,2.03,12.31,8.34,13.5,11.5"/>
+		<path id="kvg:05146-MidFst-s4" kvg:type="㇀" d="M14.75,72.5c1.5,0.75,3,1,4.14,0.15C20.47,71.47,31.81,61.69,38,56"/>
+	</g>
+	<g id="kvg:05146-MidFst-g3" kvg:position="right">
 		<path id="kvg:05146-MidFst-s5" kvg:type="㇒" d="M84.76,23.64c0.04,0.38,0.09,0.99-0.09,1.54c-1.09,3.26-7.33,10.4-15.86,14.78"/>
 		<path id="kvg:05146-MidFst-s6" kvg:type="㇔" d="M73,56c4.77,2.43,12.31,9.97,13.5,13.75"/>
 	</g>
