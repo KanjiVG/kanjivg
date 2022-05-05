@@ -37,12 +37,12 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_053b3-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:053b3-Kaisho" kvg:element="厳">
-	<g id="kvg:053b3-Kaisho-g1" kvg:element="⺍" kvg:original="吅">
+	<g id="kvg:053b3-Kaisho-g1" kvg:element="⺍" kvg:original="吅" kvg:position="top">
 		<path id="kvg:053b3-Kaisho-s1" kvg:type="㇔" d="M33,18.5c3.5,3,7.25,8.25,7.75,9.75"/>
 		<path id="kvg:053b3-Kaisho-s2" kvg:type="㇔" d="M51.25,15.25c1.25,2,4.25,7.25,4.75,10.5"/>
 		<path id="kvg:053b3-Kaisho-s3" kvg:type="㇒" d="M77.5,11.5c0.5,0.75,1,1.5,0.75,3s-5.75,8.5-7.5,10.75"/>
 	</g>
-	<g id="kvg:053b3-Kaisho-g2" kvg:element="厂" kvg:position="kamae" kvg:radical="tradit">
+	<g id="kvg:053b3-Kaisho-g2" kvg:element="厂" kvg:position="bottom" kvg:radical="tradit">
 		<path id="kvg:053b3-Kaisho-s4" kvg:type="㇐" d="M23.63,35.23c1.52,0.54,4.3,0.65,5.82,0.54C47.25,34.5,69.5,32,84.56,31.54c2.53-0.08,4.05,0.26,5.31,0.53"/>
 		<path id="kvg:053b3-Kaisho-s5" kvg:type="㇒" d="M24.99,36.5c0.05,1.16-0.09,2.99-0.09,4.67c0,10.83-3.56,35.2-15.34,45.8"/>
 	</g>

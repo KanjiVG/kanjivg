@@ -37,20 +37,20 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_09ec4-VtLst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09ec4-VtLst" kvg:element="黄" kvg:radical="general">
-	<g id="kvg:09ec4-VtLst-g1" kvg:element="龷">
+	<g id="kvg:09ec4-VtLst-g1" kvg:element="龷" kvg:position="top">
 		<path id="kvg:09ec4-VtLst-s1" kvg:type="㇐" d="M28.13,27.68c1.02,0.37,2.9,0.55,3.9,0.37c4.12-0.72,27.52-4.16,47.03-4.26c1.7-0.01,2.72,0.18,3.57,0.36"/>
 		<path id="kvg:09ec4-VtLst-s2" kvg:type="㇑a" d="M39.54,12.88c0.85,0.41,2.66,3.01,2.7,3.84c0.25,5.53,1.6,14.89,2.5,24.53"/>
 		<path id="kvg:09ec4-VtLst-s3" kvg:type="㇑a" d="M64.56,10.63c0.76,0.45,1.64,3.35,1.51,4.25c-0.75,5.5-1.5,14.75-2.75,25"/>
 		<path id="kvg:09ec4-VtLst-s4" kvg:type="㇐" d="M14.88,43.98c1.52,0.54,4.32,0.8,5.82,0.54c6.15-1.05,39.03-5.08,68.11-5.23c2.53-0.01,4.05,0.26,5.31,0.53"/>
 	</g>
-	<g id="kvg:09ec4-VtLst-g2" kvg:element="由">
+	<g id="kvg:09ec4-VtLst-g2" kvg:element="由" kvg:position="middle">
 		<path id="kvg:09ec4-VtLst-s5" kvg:type="㇑" d="M30.72,53.37c0.77,0.46,1.82,1.8,1.88,2.4c0.49,4.67,2.19,15.68,3.07,24.72"/>
 		<path id="kvg:09ec4-VtLst-s6" kvg:type="㇕" d="M33.67,54.12c11.66-0.87,32.79-2.99,40.75-3.13c3.29-0.06,4.95,1.24,4.77,2.56c-0.66,4.82-2.72,14.52-4.71,22.69"/>
 		<path id="kvg:09ec4-VtLst-s7" kvg:type="㇐a" d="M35.13,67.07c3.9-0.24,37.31-4.19,40.53-4.19"/>
 		<path id="kvg:09ec4-VtLst-s8" kvg:type="㇐a" d="M36.3,79.22c11.29-1.67,24.99-3.15,38.28-3.75"/>
 		<path id="kvg:09ec4-VtLst-s9" kvg:type="㇑a" d="M51.97,44.34c0.78,0.41,2,1.9,2,2.41c0.02,8.39,0.17,27.08,0.17,29.33"/>
 	</g>
-	<g id="kvg:09ec4-VtLst-g3" kvg:element="八">
+	<g id="kvg:09ec4-VtLst-g3" kvg:element="八" kvg:position="bottom">
 		<path id="kvg:09ec4-VtLst-s10" kvg:type="㇒" d="M42.81,85.25c0.06,0.34,0.14,0.88-0.13,1.37c-1.57,2.89-10.59,8.24-22.93,12.13"/>
 		<path id="kvg:09ec4-VtLst-s11" kvg:type="㇔" d="M65.75,84.25c6.53,2.56,16.87,10.52,18.5,14.5"/>
 	</g>
