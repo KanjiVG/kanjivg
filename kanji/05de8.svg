@@ -38,15 +38,19 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_05de8" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05de8" kvg:element="巨">
 	<g id="kvg:05de8-g1" kvg:element="匚" kvg:part="1" kvg:variant="true" kvg:radical="nelson">
-		<path id="kvg:05de8-s1" kvg:type="㇑" d="M25.79,19.59c1.06,1.06,1.34,2.54,1.34,4.22c0,0.65,0.03,42.49,0.04,59.94c0,3.79,0,6.43,0,7.25"/>
+		<g id="kvg:05de8-g2" kvg:element="匚" kvg:part="1" kvg:variant="true" kvg:original="工" kvg:radical="tradit">
+			<path id="kvg:05de8-s1" kvg:type="㇑" d="M25.79,19.59c1.06,1.06,1.34,2.54,1.34,4.22c0,0.65,0.03,42.49,0.04,59.94c0,3.79,0,6.43,0,7.25"/>
+		</g>
 	</g>
-	<g id="kvg:05de8-g2" kvg:element="二" kvg:part="1" kvg:radical="tradit">
-		<path id="kvg:05de8-s2" kvg:type="㇐b" d="M28.1,22.11c6.33-0.64,30.52-2.86,49.64-4.47c2.52-0.21,5.4-0.64,7.9-0.12"/>
+	<g id="kvg:05de8-g3" kvg:element="匚" kvg:part="2" kvg:variant="true" kvg:radical="nelson">
+		<g id="kvg:05de8-g4" kvg:element="匚" kvg:part="2" kvg:original="工" kvg:radical="tradit">
+			<path id="kvg:05de8-s2" kvg:type="㇐b" d="M28.1,22.11c6.33-0.64,30.52-2.86,49.64-4.47c2.52-0.21,5.4-0.64,7.9-0.12"/>
+		</g>
 	</g>
 	<path id="kvg:05de8-s3" kvg:type="㇕b" d="M28.5,44.79c16.11-1.68,35.82-3.92,47-5.07c4.53-0.47,4.99,1.53,4.16,5.13c-1.04,4.48-2.57,11.1-3.73,16.46"/>
 	<path id="kvg:05de8-s4" kvg:type="㇐b" d="M28.32,66.83c5.43-0.54,29.86-2.96,42.93-4.02c2.37-0.19,4.5-0.44,6.77-0.32"/>
-	<g id="kvg:05de8-g3" kvg:element="二" kvg:part="2" kvg:radical="tradit">
-		<g id="kvg:05de8-g4" kvg:element="匚" kvg:part="2" kvg:variant="true" kvg:radical="nelson">
+	<g id="kvg:05de8-g5" kvg:element="匚" kvg:part="3" kvg:variant="true" kvg:radical="nelson">
+		<g id="kvg:05de8-g6" kvg:element="匚" kvg:part="3" kvg:original="工" kvg:radical="tradit">
 			<path id="kvg:05de8-s5" kvg:type="㇐b" d="M28.1,90.11c9.21-0.34,35.96-2.06,52.02-2.8c2.33-0.11,5.41-0.05,7.71,0.43"/>
 		</g>
 	</g>
