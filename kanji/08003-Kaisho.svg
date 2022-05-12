@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_08003-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08003-Kaisho" kvg:element="考">
-	<g id="kvg:08003-Kaisho-g1" kvg:element="耂" kvg:original="老" kvg:partial="true" kvg:radical="general">
+	<g id="kvg:08003-Kaisho-g1" kvg:element="耂" kvg:original="老" kvg:partial="true" kvg:position="tare" kvg:radical="general">
 		<g id="kvg:08003-Kaisho-g2" kvg:element="土">
 			<path id="kvg:08003-Kaisho-s1" kvg:type="㇐" d="M35,24.95c0.77,0.33,2.19,0.37,2.96,0.33c8.79-0.53,18.04-2.78,29.21-3.25c1.29-0.05,2.06,0.16,2.71,0.32"/>
 			<path id="kvg:08003-Kaisho-s2" kvg:type="㇑a" d="M51.92,10.87c0.12,0.29,1.65,1.53,1.77,3.39C54.26,23.19,54,34.96,54,38"/>
@@ -45,10 +45,12 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<path id="kvg:08003-Kaisho-s4" kvg:type="㇒" d="M81.09,13.98c0.17,1.31,0.43,3.22-0.84,4.77C63.84,38.73,51,51.5,20.31,69.47"/>
 	</g>
-	<g id="kvg:08003-Kaisho-g3" kvg:element="丿">
-		<path id="kvg:08003-Kaisho-s5" kvg:type="㇐/㇒" d="M50.5,58c6.25-0.75,12.25-1.75,20.75-3.75c1.77-0.42,3.5-0.75,5-0.75"/>
+	<g id="kvg:08003-Kaisho-g3" kvg:element="丂" kvg:position="tarec" kvg:phon="丂">
+		<g id="kvg:08003-Kaisho-g4" kvg:element="丿">
+			<path id="kvg:08003-Kaisho-s5" kvg:type="㇐/㇒" d="M50.5,58c6.25-0.75,12.25-1.75,20.75-3.75c1.77-0.42,3.5-0.75,5-0.75"/>
+		</g>
+		<path id="kvg:08003-Kaisho-s6" kvg:type="㇉" d="M53,50.5c0.25,1.25,0.75,1.75-0.98,4.08c-0.88,1.19-5.26,8.83-5.76,9.45c-2.01,2.47-1.51,4.22,1.14,4.25c1.67,0.02,25.24-3.56,29.51-4.24c3.34-0.53,4.84,2.47,3.93,5.1c-2.3,6.72-8.04,20.83-12.33,25.88C66,98,63.25,95.75,60.99,92.45"/>
 	</g>
-	<path id="kvg:08003-Kaisho-s6" kvg:type="㇉" d="M53,50.5c0.25,1.25,0.75,1.75-0.98,4.08c-0.88,1.19-5.26,8.83-5.76,9.45c-2.01,2.47-1.51,4.22,1.14,4.25c1.67,0.02,25.24-3.56,29.51-4.24c3.34-0.53,4.84,2.47,3.93,5.1c-2.3,6.72-8.04,20.83-12.33,25.88C66,98,63.25,95.75,60.99,92.45"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_08003-Kaisho" style="font-size:8;fill:#808080">

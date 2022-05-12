@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0541b" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0541b" kvg:element="君">
-	<g id="kvg:0541b-g1" kvg:element="尹" kvg:phon="尹">
+	<g id="kvg:0541b-g1" kvg:element="尹" kvg:position="tare" kvg:phon="尹">
 		<g id="kvg:0541b-g2" kvg:element="⺕" kvg:variant="true" kvg:original="彑">
 			<g id="kvg:0541b-g3" kvg:element="尸" kvg:part="1">
 				<path id="kvg:0541b-s1" kvg:type="㇕c" d="M29.49,20.59c1.88,0.54,4.04,1.06,6.39,0.85C48,20.38,65,18.25,73.33,17.75c3.32-0.2,5.46,1.31,4.61,4.94c-1.44,6.19-3.44,14.19-5.09,24.64"/>
@@ -51,7 +51,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 	</g>
-	<g id="kvg:0541b-g6" kvg:element="口" kvg:radical="general">
+	<g id="kvg:0541b-g6" kvg:element="口" kvg:position="tarec" kvg:radical="general">
 		<path id="kvg:0541b-s5" kvg:type="㇑" d="M39.5,66.6c0.95,0.95,1.32,2.26,1.5,3.4c1.09,6.87,1.8,13.94,2.65,21.25c0.12,1.07,0.25,2.14,0.38,3.21"/>
 		<path id="kvg:0541b-s6" kvg:type="㇕b" d="M41.64,68.46C54,66.5,71.31,64.38,77.69,63.77c2.81-0.27,4.56,0.98,3.9,3.85C80.23,73.5,79,78.5,76.92,88.52"/>
 		<path id="kvg:0541b-s7" kvg:type="㇐b" d="M44.04,92.38c6.29-0.63,20.95-2.05,30.6-2.64c1.84-0.11,3.49-0.19,4.87-0.23"/>

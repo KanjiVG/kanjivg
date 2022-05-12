@@ -37,13 +37,13 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_08912-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08912-Kaisho" kvg:element="褒">
-	<g id="kvg:08912-Kaisho-g1" kvg:element="衣" kvg:part="1" kvg:radical="tradit">
+	<g id="kvg:08912-Kaisho-g1" kvg:element="衣" kvg:part="1" kvg:position="top" kvg:radical="tradit">
 		<g id="kvg:08912-Kaisho-g2" kvg:element="亠" kvg:radical="nelson">
 			<path id="kvg:08912-Kaisho-s1" kvg:type="㇑a" d="M50.16,8c1.74,0.94,4.59,3.75,5.59,6.42"/>
 			<path id="kvg:08912-Kaisho-s2" kvg:type="㇐" d="M20.25,21.87c1.28,0.09,4.18,0.59,5.43,0.49c12.71-1.03,44.72-4.34,58.33-4.61c2.1-0.04,3.18,0.04,4.74,0.63"/>
 		</g>
 	</g>
-	<g id="kvg:08912-Kaisho-g3" kvg:element="保" kvg:variant="true">
+	<g id="kvg:08912-Kaisho-g3" kvg:element="保" kvg:variant="true" kvg:position="middle">
 		<g id="kvg:08912-Kaisho-g4" kvg:element="亻" kvg:variant="true" kvg:original="人" kvg:position="left">
 			<path id="kvg:08912-Kaisho-s3" kvg:type="㇒" d="M36.24,27.04c0.26,1.28-0.27,2.92-0.93,4.07c-4.1,7.17-8.61,14.56-21.05,23.09"/>
 			<path id="kvg:08912-Kaisho-s4" kvg:type="㇑" d="M29.77,42.07c0.54,0.4,0.64,1.29,0.69,2.11c0.51,7.7-0.44,19.35,0,24.08"/>
