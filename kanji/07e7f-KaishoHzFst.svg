@@ -57,12 +57,14 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:07e7f-KaishoHzFst-s13" kvg:type="㇐" d="M47.3,54.58c4.99-0.82,14.85-1.25,21.36-2c0.96-0.11,1.54-0.15,2.02,0.02"/>
 			</g>
 			<g id="kvg:07e7f-KaishoHzFst-g5" kvg:position="right">
-				<path id="kvg:07e7f-KaishoHzFst-s14" kvg:type="㇒" d="M79.75,13.25c0.02,0.55,0.16,1.48-0.05,2.21c-1.57,5.4-3.91,12.72-7.96,20.18"/>
-				<path id="kvg:07e7f-KaishoHzFst-s15" kvg:type="㇐" d="M76.87,25.94c0.74,0.55,2.08,0.59,2.82,0.55c5.41-0.26,9.96-0.52,14.64-1.77c1.21-0.33,2.36-0.25,2.97,0.02"/>
+				<g id="kvg:07e7f-KaishoHzFst-g6" kvg:element="𠂉">
+					<path id="kvg:07e7f-KaishoHzFst-s14" kvg:type="㇒" d="M79.75,13.25c0.02,0.55,0.16,1.48-0.05,2.21c-1.57,5.4-3.91,12.72-7.96,20.18"/>
+					<path id="kvg:07e7f-KaishoHzFst-s15" kvg:type="㇐" d="M76.87,25.94c0.74,0.55,2.08,0.59,2.82,0.55c5.41-0.26,9.96-0.52,14.64-1.77c1.21-0.33,2.36-0.25,2.97,0.02"/>
+				</g>
 				<path id="kvg:07e7f-KaishoHzFst-s16" kvg:type="㇐" d="M75.12,45.84c0.66,0.5,1.88,0.59,2.55,0.5c4.86-0.64,10.31-1.07,15.6-1.68c1.1-0.26,2.13-0.33,3.13-0.03"/>
 			</g>
 		</g>
-		<g id="kvg:07e7f-KaishoHzFst-g6" kvg:element="皿" kvg:position="bottom">
+		<g id="kvg:07e7f-KaishoHzFst-g7" kvg:element="皿" kvg:position="bottom">
 			<path id="kvg:07e7f-KaishoHzFst-s17" kvg:type="㇑a" d="M48.45,65.64c0.65,0.62,1.48,0.76,1.63,1.3c1.11,4.28,1.29,16.58,2.06,24.31"/>
 			<path id="kvg:07e7f-KaishoHzFst-s18" kvg:type="㇕b" d="M51,66.4c8.72-1.32,36.39-2.88,37.55-2.91c1.15-0.03,2.59,1.14,2.38,2.69C90.4,70.14,89.58,80.88,88,88.25"/>
 			<path id="kvg:07e7f-KaishoHzFst-s19" kvg:type="㇑a" d="M61.73,66.64c0.23,0.47,0.54,0.85,0.57,1.45c0.32,8.07,0.8,13.95,1.37,22.4"/>

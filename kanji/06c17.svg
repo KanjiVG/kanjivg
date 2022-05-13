@@ -38,13 +38,15 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_06c17" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:06c17" kvg:element="気">
 	<g id="kvg:06c17-g1" kvg:element="气" kvg:position="kamae" kvg:radical="general" kvg:phon="气">
-		<path id="kvg:06c17-s1" kvg:type="㇒" d="M37.75,9.25c0.25,1.62-0.25,2.75-1,4.25C35.63,15.74,28,25.25,24,29"/>
-		<path id="kvg:06c17-s2" kvg:type="㇐" d="M36.5,21.25c1.33-0.03,3.29-0.05,4.8-0.32c9.2-1.68,18.17-3.46,26.98-5.27c1.63-0.33,3.71-0.64,5.21-0.91"/>
+		<g id="kvg:06c17-g2" kvg:element="𠂉">
+			<path id="kvg:06c17-s1" kvg:type="㇒" d="M37.75,9.25c0.25,1.62-0.25,2.75-1,4.25C35.63,15.74,28,25.25,24,29"/>
+			<path id="kvg:06c17-s2" kvg:type="㇐" d="M36.5,21.25c1.33-0.03,3.29-0.05,4.8-0.32c9.2-1.68,18.17-3.46,26.98-5.27c1.63-0.33,3.71-0.64,5.21-0.91"/>
+		</g>
 		<path id="kvg:06c17-s3" kvg:type="㇐" d="M31.25,32.75c1.5,0.38,3.3,0.26,4.96,0.08c7.67-0.83,19.54-2.58,29.14-4.39c1.94-0.37,3.64-0.41,4.91-0.45"/>
 		<path id="kvg:06c17-s4" kvg:type="㇈a" d="M18.5,47c1.88,0.75,4,0.88,6.25,0.5c15.08-2.51,35-5.62,48.25-8c4.73-0.85,5.6,0.47,4.5,6.25c-4,21,0.71,40.32,11.5,50c7.25,6.5,6.5,0.75,6-5.25"/>
 	</g>
-	<g id="kvg:06c17-g2" kvg:element="乂">
-		<g id="kvg:06c17-g3" kvg:element="丿">
+	<g id="kvg:06c17-g3" kvg:element="乂">
+		<g id="kvg:06c17-g4" kvg:element="丿">
 			<path id="kvg:06c17-s5" kvg:type="㇒" d="M57,51.75c0.12,1.62-0.17,3.03-1,4.75C49.5,70,40.25,82.75,25.75,93.25"/>
 		</g>
 		<path id="kvg:06c17-s6" kvg:type="㇔/㇒" d="M30,63.75C41.5,68,54.5,78,62.25,90.5"/>
