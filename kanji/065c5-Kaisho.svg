@@ -48,9 +48,11 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:065c5-Kaisho-g4" kvg:position="right">
-		<path id="kvg:065c5-Kaisho-s5" kvg:type="㇒" d="M58.03,15c0.03,0.67,0.17,1.75-0.07,2.69C56.5,23.5,52,35.5,45.92,43.42"/>
-		<path id="kvg:065c5-Kaisho-s6" kvg:type="㇐" d="M56.75,31.5c1.57-0.05,4.37-0.26,6.32-0.56c7.36-1.16,15.7-3.8,21.43-5.19c1.21-0.29,2.5,0,3.75,0.25"/>
-		<g id="kvg:065c5-Kaisho-g5" kvg:element="亻" kvg:variant="true" kvg:original="人">
+		<g id="kvg:065c5-Kaisho-g5" kvg:element="𠂉">
+			<path id="kvg:065c5-Kaisho-s5" kvg:type="㇒" d="M58.03,15c0.03,0.67,0.17,1.75-0.07,2.69C56.5,23.5,52,35.5,45.92,43.42"/>
+			<path id="kvg:065c5-Kaisho-s6" kvg:type="㇐" d="M56.75,31.5c1.57-0.05,4.37-0.26,6.32-0.56c7.36-1.16,15.7-3.8,21.43-5.19c1.21-0.29,2.5,0,3.75,0.25"/>
+		</g>
+		<g id="kvg:065c5-Kaisho-g6" kvg:element="亻" kvg:variant="true" kvg:original="人">
 			<path id="kvg:065c5-Kaisho-s7" kvg:type="㇒" d="M68.47,33c0.06,0.83,0.3,2.16-0.12,3.33c-2.6,7.19-10.86,24.17-21.44,31.84"/>
 			<path id="kvg:065c5-Kaisho-s8" kvg:type="㇑" d="M61.77,53.37c0.09,0.48,1.17,2.49,1.26,5.52c0.4,14.55-0.26,32.16-0.26,37.12"/>
 		</g>
