@@ -43,12 +43,12 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:05632-Hyougai-s3" kvg:type="㇐b" d="M13.61,57.86c4.67-0.66,10.8-1.42,17.2-2.43"/>
 	</g>
 	<g id="kvg:05632-Hyougai-g2" kvg:element="朝" kvg:position="right">
-		<g id="kvg:05632-Hyougai-g3" kvg:position="left">
-			<g id="kvg:05632-Hyougai-g4" kvg:element="十">
+		<g id="kvg:05632-Hyougai-g3" kvg:element="𠦝" kvg:position="left">
+			<g id="kvg:05632-Hyougai-g4" kvg:element="十" kvg:position="top">
 				<path id="kvg:05632-Hyougai-s4" kvg:type="㇐" d="M36.04,28.01c0.72,0.37,3.93,0.45,4.68,0.37c6.34-0.66,17.89-2.72,23.35-2.91c1.21-0.04,3.08-0.14,3.69,0.04"/>
 				<path id="kvg:05632-Hyougai-s5" kvg:type="㇑" d="M52.23,13.25c0.32,0.34,0.99,2.53,1.06,3.2c0.06,0.68-1.54,18.33-1.61,22.55"/>
 			</g>
-			<g id="kvg:05632-Hyougai-g5" kvg:element="早">
+			<g id="kvg:05632-Hyougai-g5" kvg:element="早" kvg:position="bottom">
 				<g id="kvg:05632-Hyougai-g6" kvg:element="日">
 					<path id="kvg:05632-Hyougai-s6" kvg:type="㇑" d="M38.62,39.94c0.33,0.6,0.66,0.9,0.66,1.7c0,0.8,3.17,20.51,3.17,20.91"/>
 					<path id="kvg:05632-Hyougai-s7" kvg:type="㇕a" d="M40.49,41.5c4.4-0.75,19.54-3,23.37-3.51c1.41-0.19,2.46,1.26,2.22,3.7c-0.44,4.59-2.65,13.81-3.49,18.81"/>
