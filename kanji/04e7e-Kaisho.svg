@@ -37,12 +37,12 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_04e7e-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:04e7e-Kaisho" kvg:element="乾">
-	<g id="kvg:04e7e-Kaisho-g1" kvg:position="left">
-		<g id="kvg:04e7e-Kaisho-g2" kvg:element="十" kvg:radical="nelson">
+	<g id="kvg:04e7e-Kaisho-g1" kvg:element="𠦝" kvg:position="left">
+		<g id="kvg:04e7e-Kaisho-g2" kvg:element="十" kvg:position="top" kvg:radical="nelson">
 			<path id="kvg:04e7e-Kaisho-s1" kvg:type="㇐" d="M13.77,28.66c0.6,0.22,1.72,0.27,2.32,0.22c7.69-0.7,22.73-3.9,28.04-3.98c1.01-0.02,1.61,0.1,2.12,0.21"/>
 			<path id="kvg:04e7e-Kaisho-s2" kvg:type="㇑" d="M29.62,13.38c0.39,0.31,1.31,2.35,1.31,2.98c0,3.14-0.13,11.14-0.13,22.39"/>
 		</g>
-		<g id="kvg:04e7e-Kaisho-g3" kvg:element="早">
+		<g id="kvg:04e7e-Kaisho-g3" kvg:element="早" kvg:position="bottom">
 			<g id="kvg:04e7e-Kaisho-g4" kvg:element="日" kvg:position="top">
 				<path id="kvg:04e7e-Kaisho-s3" kvg:type="㇑" d="M14.33,41.81c0.54,1.03,0.81,1.55,1.43,2.75C16.65,46.28,18,60,19.01,64.82"/>
 				<path id="kvg:04e7e-Kaisho-s4" kvg:type="㇕a" d="M16.08,42.31c7.67-1.56,25.89-5.01,28.65-4.58c1.1,0.17,2.15,1.53,1.73,3.27c-0.79,3.27-1.88,13.89-3.32,19.74"/>

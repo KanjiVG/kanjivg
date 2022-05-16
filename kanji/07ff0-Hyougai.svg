@@ -37,12 +37,12 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_07ff0-Hyougai" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:07ff0-Hyougai" kvg:element="翰">
-	<g id="kvg:07ff0-Hyougai-g1" kvg:position="left">
-		<g id="kvg:07ff0-Hyougai-g2" kvg:element="十" kvg:radical="nelson">
+	<g id="kvg:07ff0-Hyougai-g1" kvg:element="𠦝" kvg:position="left">
+		<g id="kvg:07ff0-Hyougai-g2" kvg:element="十" kvg:position="top" kvg:radical="nelson">
 			<path id="kvg:07ff0-Hyougai-s1" kvg:type="㇐" d="M11.68,30.13c1.81,0.26,3.64,0.42,5.45,0.11c6.61-1.12,14.62-2.15,20.25-2.77c2.06-0.4,4.12-0.44,6.17-0.11"/>
 			<path id="kvg:07ff0-Hyougai-s2" kvg:type="㇑" d="M25.95,13.88c0.9,0.9,1.17,1.99,1.17,2.74c0,0.48-0.12,20.5-0.12,24.51"/>
 		</g>
-		<g id="kvg:07ff0-Hyougai-g3" kvg:element="早">
+		<g id="kvg:07ff0-Hyougai-g3" kvg:element="早" kvg:position="bottom">
 			<g id="kvg:07ff0-Hyougai-g4" kvg:element="日" kvg:position="top">
 				<path id="kvg:07ff0-Hyougai-s3" kvg:type="㇑" d="M13.52,42.91c0.48,1.07,0.71,1.61,1.26,2.86c0.79,1.79,2.09,12.61,2.87,17.26"/>
 				<path id="kvg:07ff0-Hyougai-s4" kvg:type="㇕a" d="M15.08,43.41c3.35-0.44,16.31-2.22,22.42-2.92c3.25-0.37,4.42,0.81,4.08,3.63c-0.45,3.75-1.6,10.9-2.87,16.97"/>

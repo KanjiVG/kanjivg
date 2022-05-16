@@ -37,12 +37,12 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0621f" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0621f" kvg:element="戟">
-	<g id="kvg:0621f-g1" kvg:position="left">
-		<g id="kvg:0621f-g2" kvg:element="十">
+	<g id="kvg:0621f-g1" kvg:element="𠦝" kvg:position="left">
+		<g id="kvg:0621f-g2" kvg:element="十" kvg:position="top">
 			<path id="kvg:0621f-s1" kvg:type="㇐" d="M15.18,27.88c2.69,0.62,5.24,0.36,8.09-0.02c8.23-1.1,15.73-2.73,21.61-3.74c1.54-0.27,3.11-0.51,4.68-0.5"/>
 			<path id="kvg:0621f-s2" kvg:type="㇑" d="M33.2,12.38c0.83,0.83,0.92,1.99,0.92,2.99c0,0.48-0.04,19.81-0.12,22.76"/>
 		</g>
-		<g id="kvg:0621f-g3" kvg:element="早">
+		<g id="kvg:0621f-g3" kvg:element="早" kvg:position="bottom">
 			<g id="kvg:0621f-g4" kvg:element="日" kvg:position="top">
 				<path id="kvg:0621f-s3" kvg:type="㇑" d="M16.77,40.41c0.97,0.97,1.54,2.01,1.76,3.36c0.84,5.11,2.46,15.98,3.12,19.01"/>
 				<path id="kvg:0621f-s4" kvg:type="㇕a" d="M18.83,42.16c5.54-1.05,19.55-3.66,27.17-4.55c3.27-0.38,5,0.64,4.58,3.52c-0.5,3.43-2.1,12.4-3.37,18.47"/>
