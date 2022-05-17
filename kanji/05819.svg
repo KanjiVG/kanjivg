@@ -42,7 +42,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:05819-s2" kvg:type="㇑a" d="M24.87,16c1.09,0.5,1.96,2.23,1.96,3.25c0,7.25,0.03,39.75,0.03,50.5"/>
 		<path id="kvg:05819-s3" kvg:type="㇀/㇐" d="M11.5,77.7c0.73,1.05,2.19,1.61,4.38,0.23C21.96,74.08,32.92,66.1,39,62.25"/>
 	</g>
-	<g id="kvg:05819-g2" kvg:position="right" kvg:element="垔">
+	<g id="kvg:05819-g2" kvg:element="垔" kvg:position="right">
 		<g id="kvg:05819-g3" kvg:element="覀" kvg:variant="true" kvg:original="襾" kvg:position="top">
 			<path id="kvg:05819-s4" kvg:type="㇐" d="M42.76,17.87c1.11,0.36,3.14,0.46,4.25,0.36c7.07-0.62,34.22-4.51,41.06-4.1c1.84,0.11,2.96,0.17,3.88,0.35"/>
 			<path id="kvg:05819-s5" kvg:type="㇑" d="M43.5,31.85c0.31,0.39,0.62,0.71,0.76,1.2c1.06,3.86,2.84,18.51,3.57,25.44"/>
