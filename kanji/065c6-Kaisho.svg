@@ -54,16 +54,16 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<g id="kvg:065c6-Kaisho-g6" kvg:element="市" kvg:variant="true">
 			<g id="kvg:065c6-Kaisho-g7" kvg:element="亠" kvg:partial="true" kvg:position="top">
-				<path id="kvg:065c6-Kaisho-s7" kvg:type="㇐" d="M67.69,32.56c1.65,0.98,4.35,4.77,4.35,6.71"/>
+				<path id="kvg:065c6-Kaisho-s7" kvg:type="㇔" d="M67.69,32.56c1.65,0.98,4.35,4.77,4.35,6.71"/>
+				<path id="kvg:065c6-Kaisho-s8" kvg:type="㇐" d="M47.25,45.62c1.05,0.07,3.43,0.42,4.46,0.37c9.94-0.42,30.97-4.02,42.15-4.22c1.73-0.03,2.61,0.03,3.9,0.48"/>
 			</g>
 			<g id="kvg:065c6-Kaisho-g8" kvg:element="巾" kvg:position="bottom">
-				<path id="kvg:065c6-Kaisho-s8" kvg:type="㇑" d="M47.25,45.62c1.05,0.07,3.43,0.42,4.46,0.37c9.94-0.42,30.97-4.02,42.15-4.22c1.73-0.03,2.61,0.03,3.9,0.48"/>
-				<path id="kvg:065c6-Kaisho-s9" kvg:type="㇆a" d="M52.22,57.78c0.44,0.3,1.36,2.68,1.44,3.29c0.58,4.43,1.94,23.01,1.86,26.82"/>
-				<path id="kvg:065c6-Kaisho-s10" kvg:type="㇑" d="M53.55,59.62c3.2-0.22,33.11-3.89,35.49-4.14c2.21-0.23,3.36,1.72,3.31,3.14C92,68.5,90.5,77.5,88.52,84.51c-1.8,6.39-4.99,0.05-6.05-1.04"/>
+				<path id="kvg:065c6-Kaisho-s9" kvg:type="㇑" d="M52.22,57.78c0.44,0.3,1.36,2.68,1.44,3.29c0.58,4.43,1.94,23.01,1.86,26.82"/>
+				<path id="kvg:065c6-Kaisho-s10" kvg:type="㇆a" d="M53.55,59.62c3.2-0.22,33.11-3.89,35.49-4.14c2.21-0.23,3.36,1.72,3.31,3.14C92,68.5,90.5,77.5,88.52,84.51c-1.8,6.39-4.99,0.05-6.05-1.04"/>
+				<path id="kvg:065c6-Kaisho-s11" kvg:type="㇑" d="M69.91,48.08c0.44,0.3,1.36,2.28,1.44,2.89c0.09,0.61,0.24,43.03,0.24,49.17"/>
 			</g>
 		</g>
 	</g>
-	<path id="kvg:065c6-Kaisho-s11" kvg:type="Missing stroke" d="M69.91,48.08c0.44,0.3,1.36,2.28,1.44,2.89c0.09,0.61,0.24,43.03,0.24,49.17"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_065c6-Kaisho" style="font-size:8;fill:#808080">
@@ -77,5 +77,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 52.50 42.50)">8</text>
 	<text transform="matrix(1 0 0 1 46.44 64.50)">9</text>
 	<text transform="matrix(1 0 0 1 53.50 55.50)">10</text>
+	<text transform="matrix(1 0 0 1 58.50 65.50)">11</text>
 </g>
 </svg>
