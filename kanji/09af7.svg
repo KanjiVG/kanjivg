@@ -67,11 +67,13 @@ kvg:type CDATA #IMPLIED >
 			<g id="kvg:09af7-g9" kvg:element="丿" kvg:variant="true">
 				<path id="kvg:09af7-s14" kvg:type="㇑" d="M64.29,53.23c1.25,0.63,1.75,2.84,1.63,4.13c-1.16,12.32-1.02,26.54-1.94,33.72"/>
 			</g>
-			<g id="kvg:09af7-g10" kvg:element="十" kvg:part="2">
-				<path id="kvg:09af7-s15" kvg:type="㇐" d="M30.13,79.47c7.62-0.72,51.47-4.3,55.21-4.3"/>
+			<g id="kvg:09af7-g10" kvg:element="日" kvg:part="2">
+				<g id="kvg:09af7-g11" kvg:element="十" kvg:part="2">
+					<path id="kvg:09af7-s15" kvg:type="㇐" d="M30.13,79.47c7.62-0.72,51.47-4.3,55.21-4.3"/>
+				</g>
 			</g>
 		</g>
-		<g id="kvg:09af7-g11" kvg:element="日" kvg:part="2">
+		<g id="kvg:09af7-g12" kvg:element="日" kvg:part="2">
 			<path id="kvg:09af7-s16" kvg:type="㇐" d="M31.7,93.89c6.74-0.46,41.73-3.21,50.13-3.6"/>
 		</g>
 	</g>

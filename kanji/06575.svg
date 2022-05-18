@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_06575" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:06575" kvg:element="敵">
-	<g id="kvg:06575-g1" kvg:position="left" kvg:phon="啇">
+	<g id="kvg:06575-g1" kvg:element="啇" kvg:position="left" kvg:phon="啇">
 		<g id="kvg:06575-g2" kvg:element="亠">
 			<path id="kvg:06575-s1" kvg:type="㇑a" d="M29.75,13.75c1,0.75,1.5,2,1.5,3.75s0,4.88,0,8"/>
 			<path id="kvg:06575-s2" kvg:type="㇐" d="M11,28.45c2.38,0.42,4.46,0.37,6.62,0.09c7.76-1.04,20.11-2.9,28.88-3.43c2.1-0.13,4.25-0.23,6.25-0.02"/>
