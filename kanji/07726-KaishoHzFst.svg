@@ -51,13 +51,13 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:07726-KaishoHzFst-s7" kvg:type="㇐" d="M53.33,14.87c0.85,0.57,1.36,2.57,1.53,3.72c0.17,1.14-0.06,55.03-0.06,67.33"/>
 			</g>
 			<path id="kvg:07726-KaishoHzFst-s8" kvg:type="㇄" d="M42.21,44.59c0.87,0.59,1.57,2.62,1.57,3.82c0,6.47,0.73,33.98,0.73,42.51"/>
+			<path id="kvg:07726-KaishoHzFst-s9" kvg:type="㇒" d="M36.99,92.89c0.39,0.86,2.76,1.15,3.74,0.64c11.52-6.03,17.72-9.09,26.57-13.99"/>
 		</g>
 		<g id="kvg:07726-KaishoHzFst-g5" kvg:element="匕" kvg:position="right">
-			<path id="kvg:07726-KaishoHzFst-s9" kvg:type="㇒" d="M36.99,92.89c0.39,0.86,2.76,1.15,3.74,0.64c11.52-6.03,17.72-9.09,26.57-13.99"/>
-			<path id="kvg:07726-KaishoHzFst-s10" kvg:type="㇟" d="M94.73,33c0.14,0.33,0.22,1.28-0.13,1.79c-2.31,3.27-10.22,12.27-17.67,15.61"/>
+			<path id="kvg:07726-KaishoHzFst-s10" kvg:type="㇒" d="M94.73,33c0.14,0.33,0.22,1.28-0.13,1.79c-2.31,3.27-10.22,12.27-17.67,15.61"/>
+			<path id="kvg:07726-KaishoHzFst-s11" kvg:type="㇟" d="M73.78,13.25c0.78,1.27,0.83,2.11,1.09,3.8c0.26,1.69,0.08,52.81,0.08,64.32c0,11.51,2.2,12.67,11.75,12.67S97.75,92,97.51,81.27"/>
 		</g>
 	</g>
-	<path id="kvg:07726-KaishoHzFst-s11" kvg:type="Missing stroke" d="M73.78,13.25c0.78,1.27,0.83,2.11,1.09,3.8c0.26,1.69,0.08,52.81,0.08,64.32c0,11.51,2.2,12.67,11.75,12.67S97.75,92,97.51,81.27"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_07726-KaishoHzFst" style="font-size:8;fill:#808080">
@@ -71,5 +71,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 59.50 41.50)">8</text>
 	<text transform="matrix(1 0 0 1 28.50 94.50)">9</text>
 	<text transform="matrix(1 0 0 1 82.50 31.50)">10</text>
+	<text transform="matrix(1 0 0 1 62.50 31.50)">11</text>
 </g>
 </svg>
