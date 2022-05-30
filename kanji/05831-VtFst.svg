@@ -38,29 +38,33 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_05831-VtFst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05831-VtFst" kvg:element="報">
 	<g id="kvg:05831-VtFst-g1" kvg:element="幸" kvg:position="left">
-		<g id="kvg:05831-VtFst-g2" kvg:position="top">
-			<g id="kvg:05831-VtFst-g3" kvg:element="土" kvg:radical="general">
-				<path id="kvg:05831-VtFst-s1" kvg:type="㇐" d="M16.31,25.8c0.75,0.38,2.12,0.44,2.87,0.38c5.32-0.43,18.32-2.43,23.47-2.63c1.25-0.05,2,0.18,2.62,0.37"/>
-				<path id="kvg:05831-VtFst-s2" kvg:type="㇑a" d="M31.18,11c0.09,0.29,1.35,1.52,1.35,3.39c0,12.11-0.15,21.32-0.15,24.36"/>
-				<path id="kvg:05831-VtFst-s3" kvg:type="㇐" d="M9.88,41.11c1.16,0.54,3.29,0.69,4.44,0.54C27,40,38.5,37.75,47.07,37.42c1.93-0.07,3.09,0.26,4.06,0.53"/>
-			</g>
-			<path id="kvg:05831-VtFst-s4" kvg:type="㇔" d="M20.26,45.83c1.81,1.44,4.69,5.9,5.14,8.13"/>
-			<path id="kvg:05831-VtFst-s5" kvg:type="㇒" d="M43.55,40.64c0.02,0.31,0.03,0.81-0.03,1.26c-0.38,2.66-2.52,8.49-5.47,12.06"/>
+		<g id="kvg:05831-VtFst-g2" kvg:element="土" kvg:position="top" kvg:radical="general">
+			<path id="kvg:05831-VtFst-s1" kvg:type="㇐" d="M16.31,25.8c0.75,0.38,2.12,0.44,2.87,0.38c5.32-0.43,18.32-2.43,23.47-2.63c1.25-0.05,2,0.18,2.62,0.37"/>
+			<path id="kvg:05831-VtFst-s2" kvg:type="㇑a" d="M31.18,11c0.09,0.29,1.35,1.52,1.35,3.39c0,12.11-0.15,21.32-0.15,24.36"/>
+			<path id="kvg:05831-VtFst-s3" kvg:type="㇐" d="M9.88,41.11c1.16,0.54,3.29,0.69,4.44,0.54C27,40,38.5,37.75,47.07,37.42c1.93-0.07,3.09,0.26,4.06,0.53"/>
 		</g>
-		<g id="kvg:05831-VtFst-g4" kvg:element="干" kvg:position="bottom">
-			<path id="kvg:05831-VtFst-s6" kvg:type="㇐" d="M15.75,59.34c0.57,0.34,2.51,0.36,3.08,0.3c3.91-0.39,17.42-1.89,24.85-3.55c0.92-0.21,2.92-0.21,3.39-0.04"/>
-			<g id="kvg:05831-VtFst-g5" kvg:element="十">
-				<path id="kvg:05831-VtFst-s7" kvg:type="㇐" d="M10.16,75.4c1.1,0.46,3.11,0.58,4.2,0.46c7.53-0.85,22.29-4.35,30.95-4.66c1.83-0.06,2.92,0.22,3.84,0.45"/>
-				<path id="kvg:05831-VtFst-s8" kvg:type="㇑" d="M30.97,59.25c0.41,0.51,1.28,2.81,1.36,3.83C32.42,64.1,32.28,92.64,32.2,99"/>
+		<g id="kvg:05831-VtFst-g3" kvg:element="𢆉">
+			<g id="kvg:05831-VtFst-g4" kvg:element="䒑" kvg:part="1">
+				<path id="kvg:05831-VtFst-s4" kvg:type="㇔" d="M20.26,45.83c1.81,1.44,4.69,5.9,5.14,8.13"/>
+				<path id="kvg:05831-VtFst-s5" kvg:type="㇒" d="M43.55,40.64c0.02,0.31,0.03,0.81-0.03,1.26c-0.38,2.66-2.52,8.49-5.47,12.06"/>
+			</g>
+			<g id="kvg:05831-VtFst-g5" kvg:element="干" kvg:position="bottom">
+				<g id="kvg:05831-VtFst-g6" kvg:element="䒑" kvg:part="2">
+					<path id="kvg:05831-VtFst-s6" kvg:type="㇐" d="M15.75,59.34c0.57,0.34,2.51,0.36,3.08,0.3c3.91-0.39,17.42-1.89,24.85-3.55c0.92-0.21,2.92-0.21,3.39-0.04"/>
+				</g>
+				<g id="kvg:05831-VtFst-g7" kvg:element="十">
+					<path id="kvg:05831-VtFst-s7" kvg:type="㇐" d="M10.16,75.4c1.1,0.46,3.11,0.58,4.2,0.46c7.53-0.85,22.29-4.35,30.95-4.66c1.83-0.06,2.92,0.22,3.84,0.45"/>
+					<path id="kvg:05831-VtFst-s8" kvg:type="㇑" d="M30.97,59.25c0.41,0.51,1.28,2.81,1.36,3.83C32.42,64.1,32.28,92.64,32.2,99"/>
+				</g>
 			</g>
 		</g>
 	</g>
-	<g id="kvg:05831-VtFst-g6" kvg:position="right">
-		<g id="kvg:05831-VtFst-g7" kvg:element="卩">
+	<g id="kvg:05831-VtFst-g8" kvg:position="right">
+		<g id="kvg:05831-VtFst-g9" kvg:element="卩">
 			<path id="kvg:05831-VtFst-s9" kvg:type="㇑" d="M57.83,18c0.03,0.14,0.05,1.58,0.07,4c0.09,15.39-0.09,70.1-0.28,75.5"/>
 			<path id="kvg:05831-VtFst-s10" kvg:type="㇆" d="M56.25,16c0.78,0.11,2.33,0.79,3.89,0.67c1.55-0.11,20.86-3.12,22.81-3.24c1.94-0.11,3.98,0.8,3.56,3.14c-0.75,4.17-2.48,12.44-5.47,17.28C76,42,73.64,34.42,73.06,34.2"/>
 		</g>
-		<g id="kvg:05831-VtFst-g8" kvg:element="又">
+		<g id="kvg:05831-VtFst-g10" kvg:element="又">
 			<path id="kvg:05831-VtFst-s11" kvg:type="㇇" d="M62.11,54.44c1.17,0.29,1.32,0.73,3.65,0.29S84.91,51,86.52,50.56s3.15,1.57,2.69,3.21C86.25,64.5,78,82.5,65.5,93"/>
 			<path id="kvg:05831-VtFst-s12" kvg:type="㇏" d="M64.88,61.04c2.85,0.78,16.78,21.63,26.7,30.17c1.55,1.33,2.67,2.22,4.11,2.66"/>
 		</g>
