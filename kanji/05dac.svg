@@ -44,33 +44,35 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:05dac-g2" kvg:element="義" kvg:position="right">
 		<g id="kvg:05dac-g3" kvg:element="羊" kvg:variant="true" kvg:position="top">
-			<path id="kvg:05dac-s4" kvg:type="㇔" d="M53.8,11.07c2.27,1.19,5.87,4.87,6.44,6.72"/>
-			<path id="kvg:05dac-s5" kvg:type="㇒" d="M78.33,9.14c0.02,0.23,0.03,0.6-0.03,0.93c-0.4,1.96-2.67,6.25-5.78,8.88"/>
-			<path id="kvg:05dac-s6" kvg:type="㇐" d="M50.06,23.1c0.8,0.2,2.26,0.26,3.06,0.2c9.76-0.64,25.67-2.65,32.86-2.57c1.33,0.01,2.13,0.1,2.79,0.2"/>
+			<g id="kvg:05dac-g4" kvg:element="䒑">
+				<path id="kvg:05dac-s4" kvg:type="㇔" d="M53.8,11.07c2.27,1.19,5.87,4.87,6.44,6.72"/>
+				<path id="kvg:05dac-s5" kvg:type="㇒" d="M78.33,9.14c0.02,0.23,0.03,0.6-0.03,0.93c-0.4,1.96-2.67,6.25-5.78,8.88"/>
+				<path id="kvg:05dac-s6" kvg:type="㇐" d="M50.06,23.1c0.8,0.2,2.26,0.26,3.06,0.2c9.76-0.64,25.67-2.65,32.86-2.57c1.33,0.01,2.13,0.1,2.79,0.2"/>
+			</g>
 			<path id="kvg:05dac-s7" kvg:type="㇑a" d="M67.53,23.96c0.68,0.3,1.08,1.36,1.22,1.97c0.14,0.61,0,12.21-0.14,16"/>
 			<path id="kvg:05dac-s8" kvg:type="㇐" d="M53.8,32.99c0.84,0.23,2.38,0.27,3.24,0.23c4.97-0.22,19.59-2.9,27.2-2.81c1.41,0.02,2.25,0.11,2.96,0.23"/>
 			<path id="kvg:05dac-s9" kvg:type="㇐" d="M47.03,43.57c1.16,0.33,3.29,0.38,4.46,0.33c9.99-0.4,27.4-2.94,40.17-3.61c1.94-0.1,3.11,0.16,4.08,0.32"/>
 		</g>
-		<g id="kvg:05dac-g4" kvg:element="我" kvg:position="bottom">
-			<g id="kvg:05dac-g5" kvg:element="丿">
+		<g id="kvg:05dac-g5" kvg:element="我" kvg:position="bottom">
+			<g id="kvg:05dac-g6" kvg:element="丿">
 				<path id="kvg:05dac-s10" kvg:type="㇒" d="M61.52,48.37c0.04,0.24,0.16,0.66-0.08,0.97c-1.9,2.44-6.37,6.1-14.44,9.26"/>
 			</g>
-			<g id="kvg:05dac-g6" kvg:element="戈" kvg:part="1">
-				<g id="kvg:05dac-g7" kvg:element="弋" kvg:part="1">
+			<g id="kvg:05dac-g7" kvg:element="戈" kvg:part="1">
+				<g id="kvg:05dac-g8" kvg:element="弋" kvg:part="1">
 					<path id="kvg:05dac-s11" kvg:type="㇐" d="M43.22,64c1.31,0.35,3.74,0.51,5.03,0.35c5.32-0.68,31.59-4.81,46.18-5.58c2.18-0.12,3.5,0.16,4.6,0.34"/>
 				</g>
 			</g>
-			<g id="kvg:05dac-g8" kvg:element="亅">
+			<g id="kvg:05dac-g9" kvg:element="亅">
 				<path id="kvg:05dac-s12" kvg:type="㇚" d="M58.01,56.65c0.07,0.28,0.89,1.47,0.95,3.27c0.3,8.62-0.19,30.22-0.19,33.15c0,2.98-1.15,3.57-2.99,2.37c-1.43-0.93-2.46-1.48-3.59-2.22"/>
 			</g>
 			<path id="kvg:05dac-s13" kvg:type="㇀" d="M42.91,81.08c1.34,0.67,3.28,0.81,4.97-0.06c1-0.51,13.69-7.15,17.94-9.6"/>
-			<g id="kvg:05dac-g9" kvg:element="戈" kvg:part="2">
+			<g id="kvg:05dac-g10" kvg:element="戈" kvg:part="2">
 				<path id="kvg:05dac-s14" kvg:type="㇂" d="M73.06,46.74c0.96,1.05,1.34,1.35,1.57,3.6c1.92,18.91,9.96,37.16,21.07,44.98c3.81,2.68,3.25,0.45,2.77-4.2"/>
-				<g id="kvg:05dac-g10" kvg:element="丿">
+				<g id="kvg:05dac-g11" kvg:element="丿">
 					<path id="kvg:05dac-s15" kvg:type="㇒" d="M88.36,65.12c0.06,0.61,0.12,1.58-0.12,2.46c-1.42,5.19-9.25,17.16-20.4,24.13"/>
 				</g>
-				<g id="kvg:05dac-g11" kvg:element="弋" kvg:part="2">
-					<g id="kvg:05dac-g12" kvg:element="丶">
+				<g id="kvg:05dac-g12" kvg:element="弋" kvg:part="2">
+					<g id="kvg:05dac-g13" kvg:element="丶">
 						<path id="kvg:05dac-s16" kvg:type="㇔" d="M84.69,45.84c1.88,1.27,4.87,4.18,5.75,6.36"/>
 					</g>
 				</g>

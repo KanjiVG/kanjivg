@@ -38,18 +38,20 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_07f8c" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:07f8c" kvg:element="羌">
 	<g id="kvg:07f8c-g1" kvg:element="羊" kvg:variant="true" kvg:position="top" kvg:radical="general">
-		<path id="kvg:07f8c-s1" kvg:type="㇔" d="M32.78,13.55c3.84,1.93,10.56,9.14,11.52,12.14"/>
-		<path id="kvg:07f8c-s2" kvg:type="㇒" d="M69.87,10.89c0.03,0.3,0.05,0.76-0.05,1.19c-0.59,2.5-4.48,9.98-9.12,13.34"/>
-		<path id="kvg:07f8c-s3" kvg:type="㇐" d="M23.75,30.64c1.63,0.29,4.62,0.35,6.25,0.29c10.81-0.4,35.45-4.42,52.09-4.41c2.72,0,4.35,0.14,5.7,0.28"/>
+		<g id="kvg:07f8c-g2" kvg:element="䒑">
+			<path id="kvg:07f8c-s1" kvg:type="㇔" d="M32.78,13.55c3.84,1.93,10.56,9.14,11.52,12.14"/>
+			<path id="kvg:07f8c-s2" kvg:type="㇒" d="M69.87,10.89c0.03,0.3,0.05,0.76-0.05,1.19c-0.59,2.5-4.48,9.98-9.12,13.34"/>
+			<path id="kvg:07f8c-s3" kvg:type="㇐" d="M23.75,30.64c1.63,0.29,4.62,0.35,6.25,0.29c10.81-0.4,35.45-4.42,52.09-4.41c2.72,0,4.35,0.14,5.7,0.28"/>
+		</g>
 		<path id="kvg:07f8c-s4" kvg:type="㇑a" d="M52.2,29.26c1.14,0.39,2.06,1.75,2.06,2.57c0,6.72,0,17.71,0,24.75"/>
 		<path id="kvg:07f8c-s5" kvg:type="㇐" d="M28.36,44.18c1.39,0.41,3.95,0.55,5.33,0.41c8.81-0.84,28.46-4.12,42.18-4.57c2.32-0.08,3.71,0.2,4.87,0.41"/>
 		<path id="kvg:07f8c-s6" kvg:type="㇐" d="M17.59,59.05c1.82,0.53,5.17,0.79,6.96,0.53c7.35-1.04,41.33-3.9,61.25-4.98c3.02-0.16,4.84,0.25,6.36,0.52"/>
 	</g>
-	<g id="kvg:07f8c-g2" kvg:element="儿" kvg:original="八" kvg:position="bottom">
-		<g id="kvg:07f8c-g3" kvg:element="丿" kvg:position="left">
+	<g id="kvg:07f8c-g3" kvg:element="儿" kvg:original="八" kvg:position="bottom">
+		<g id="kvg:07f8c-g4" kvg:element="丿" kvg:position="left">
 			<path id="kvg:07f8c-s7" kvg:type="㇒" d="M43.24,60.75c0.07,0.86,0.15,2.23-0.14,3.47c-1.76,7.32-7.1,24.28-25.68,33.2"/>
 		</g>
-		<g id="kvg:07f8c-g4" kvg:position="right">
+		<g id="kvg:07f8c-g5" kvg:position="right">
 			<path id="kvg:07f8c-s8" kvg:type="㇟" d="M60.24,58.62c0.66,1.21,1.18,2.64,1.22,4.51c0.18,8.35-0.47,16.46-0.47,22.14C60.99,96,64,96.53,76.65,96.53c14.85,0,16.74-2.53,16.74-10.3"/>
 		</g>
 	</g>

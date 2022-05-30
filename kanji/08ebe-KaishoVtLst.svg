@@ -48,14 +48,16 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:08ebe-KaishoVtLst-g2" kvg:element="美" kvg:position="right">
 		<g id="kvg:08ebe-KaishoVtLst-g3" kvg:element="羊" kvg:variant="true" kvg:position="top">
-			<path id="kvg:08ebe-KaishoVtLst-s8" kvg:type="㇔" d="M54.35,14.06c3.07,1.82,7.92,7.29,8.67,9.96"/>
-			<path id="kvg:08ebe-KaishoVtLst-s9" kvg:type="㇒" d="M80.42,11.91c0.02,0.28,0.04,0.73-0.04,1.13c-0.46,2.36-3.05,7.42-6.58,10.38"/>
-			<path id="kvg:08ebe-KaishoVtLst-s10" kvg:type="㇐" d="M49.62,27.44c1.22,0.44,3.45,0.67,4.68,0.59c8.2-0.53,24.2-2.53,32.76-2.34c2.04,0.04,3.26,0.32,4.27,0.56"/>
+			<g id="kvg:08ebe-KaishoVtLst-g4" kvg:element="䒑">
+				<path id="kvg:08ebe-KaishoVtLst-s8" kvg:type="㇔" d="M54.35,14.06c3.07,1.82,7.92,7.29,8.67,9.96"/>
+				<path id="kvg:08ebe-KaishoVtLst-s9" kvg:type="㇒" d="M80.42,11.91c0.02,0.28,0.04,0.73-0.04,1.13c-0.46,2.36-3.05,7.42-6.58,10.38"/>
+				<path id="kvg:08ebe-KaishoVtLst-s10" kvg:type="㇐" d="M49.62,27.44c1.22,0.44,3.45,0.67,4.68,0.59c8.2-0.53,24.2-2.53,32.76-2.34c2.04,0.04,3.26,0.32,4.27,0.56"/>
+			</g>
 			<path id="kvg:08ebe-KaishoVtLst-s11" kvg:type="㇐" d="M52.19,39.76c1.12,0.44,3.18,0.69,4.31,0.59c10-0.85,19-1.85,27.66-2.37c1.87-0.11,3,0.33,3.93,0.56"/>
 			<path id="kvg:08ebe-KaishoVtLst-s12" kvg:type="㇐" d="M49.58,50.49c1.41,0.63,4.01,0.95,5.42,0.88c6.69-0.35,28.11-2.98,34.56-2.83c2.35,0.05,3.77-0.02,4.95,0.33"/>
 			<path id="kvg:08ebe-KaishoVtLst-s13" kvg:type="㇑" d="M68.03,27.08c0.61,0.56,1.1,2.36,1.09,3.39c-0.02,6.09-0.07,10.94-0.09,19.06"/>
 		</g>
-		<g id="kvg:08ebe-KaishoVtLst-g4" kvg:element="大" kvg:position="bottom">
+		<g id="kvg:08ebe-KaishoVtLst-g5" kvg:element="大" kvg:position="bottom">
 			<path id="kvg:08ebe-KaishoVtLst-s14" kvg:type="㇐" d="M45.88,66.36c1.6,0.53,3.38,0.74,4.43,0.65C62,66,80.75,65.02,91.3,64.79c1.32-0.03,2.95-0.04,5.15,0.39"/>
 			<path id="kvg:08ebe-KaishoVtLst-s15" kvg:type="㇒" d="M68.97,52.5c0.38,0.6,0.71,1.81,0.57,3.09C67.11,77.16,62.5,88.5,45.18,96.25"/>
 			<path id="kvg:08ebe-KaishoVtLst-s16" kvg:type="㇏" d="M68.59,66.75c5.37,6.5,17.01,21.81,22.37,26.16c1.83,1.48,2.46,1.7,3.29,1.84"/>

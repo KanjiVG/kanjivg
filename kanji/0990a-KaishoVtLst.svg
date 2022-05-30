@@ -38,14 +38,16 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_0990a-KaishoVtLst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0990a-KaishoVtLst" kvg:element="養">
 	<g id="kvg:0990a-KaishoVtLst-g1" kvg:element="羊" kvg:variant="true" kvg:position="top" kvg:radical="nelson">
-		<path id="kvg:0990a-KaishoVtLst-s1" kvg:type="㇔" d="M37.91,9.91c2.44,1.41,6.29,5.79,6.9,7.98"/>
-		<path id="kvg:0990a-KaishoVtLst-s2" kvg:type="㇒" d="M63.95,9.39c0.02,0.24,0.03,0.63-0.03,0.98c-0.39,2.07-2.62,6.6-5.67,9.38"/>
-		<path id="kvg:0990a-KaishoVtLst-s3" kvg:type="㇐" d="M31.4,24.33c0.81,0.33,2.28,0.42,3.09,0.33c7.77-0.91,31.02-3.41,39.41-4.55c1.33-0.18,2.15,0.16,2.82,0.32"/>
+		<g id="kvg:0990a-KaishoVtLst-g2" kvg:element="䒑">
+			<path id="kvg:0990a-KaishoVtLst-s1" kvg:type="㇔" d="M37.91,9.91c2.44,1.41,6.29,5.79,6.9,7.98"/>
+			<path id="kvg:0990a-KaishoVtLst-s2" kvg:type="㇒" d="M63.95,9.39c0.02,0.24,0.03,0.63-0.03,0.98c-0.39,2.07-2.62,6.6-5.67,9.38"/>
+			<path id="kvg:0990a-KaishoVtLst-s3" kvg:type="㇐" d="M31.4,24.33c0.81,0.33,2.28,0.42,3.09,0.33c7.77-0.91,31.02-3.41,39.41-4.55c1.33-0.18,2.15,0.16,2.82,0.32"/>
+		</g>
 		<path id="kvg:0990a-KaishoVtLst-s4" kvg:type="㇐" d="M32.33,34.77c0.81,0.33,2.29,0.44,3.09,0.33c6.09-0.85,28.59-3.35,37.48-4.33c1.33-0.15,2.15,0.16,2.82,0.32"/>
 		<path id="kvg:0990a-KaishoVtLst-s5" kvg:type="㇐" d="M17.03,46.26c1.3,0.46,3.7,0.64,4.99,0.46c9.23-1.23,49.48-5.48,64.14-6.49c2.16-0.15,3.47,0.22,4.56,0.45"/>
 		<path id="kvg:0990a-KaishoVtLst-s6" kvg:type="㇑" d="M52.43,24.71c0.94,0.43,1.5,1.93,1.69,2.79c0.19,0.86,0,10.39-0.19,15.75"/>
 	</g>
-	<g id="kvg:0990a-KaishoVtLst-g2" kvg:element="食" kvg:position="bottom" kvg:radical="tradit">
+	<g id="kvg:0990a-KaishoVtLst-g3" kvg:element="食" kvg:position="bottom" kvg:radical="tradit">
 		<path id="kvg:0990a-KaishoVtLst-s7" kvg:type="㇒" d="M40.37,46.25c0.08,0.57,0.33,1.53-0.16,2.31c-4.04,6.4-16.09,16.56-28.71,22.07"/>
 		<path id="kvg:0990a-KaishoVtLst-s8" kvg:type="㇏" d="M64.58,43.6C69.5,47,86.21,61.66,90.61,64.75c1.49,1.05,3.4,1.5,4.89,1.8"/>
 		<path id="kvg:0990a-KaishoVtLst-s9" kvg:type="㇑a" d="M49.99,48.26c2.39,0.92,4.33,3.3,4.81,5.13"/>
