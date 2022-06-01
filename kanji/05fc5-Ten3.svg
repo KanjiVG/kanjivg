@@ -37,18 +37,16 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05fc5-Ten3" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05fc5-Ten3" kvg:element="必">
-	<g id="kvg:05fc5-Ten3-g1" kvg:element="心" kvg:part="1" kvg:variant="true" kvg:radical="tradit">
-		<g id="kvg:05fc5-Ten3-g2" kvg:element="丶" kvg:radical="nelson">
-			<path id="kvg:05fc5-Ten3-s1" kvg:type="㇔" d="M68.68,24.89c0.13,1.54,0.28,3.97-0.26,6.18C65.2,44.11,49.75,76.25,22.56,91.22"/>
+	<g id="kvg:05fc5-Ten3-g1" kvg:element="丿">
+		<path id="kvg:05fc5-Ten3-s1" kvg:type="㇒" d="M68.68,24.89c0.13,1.54,0.28,3.97-0.26,6.18C65.2,44.11,49.75,76.25,22.56,91.22"/>
+	</g>
+	<g id="kvg:05fc5-Ten3-g2" kvg:element="心" kvg:part="2" kvg:variant="true" kvg:radical="tradit">
+		<path id="kvg:05fc5-Ten3-s2" kvg:type="㇃" d="M31,44.5C40,66,51.71,87.55,77.5,87.69c10.25,0.06,7.75-3.89,3.5-9.35"/>
+		<g id="kvg:05fc5-Ten3-g3" kvg:element="丶" kvg:radical="nelson">
+			<path id="kvg:05fc5-Ten3-s3" kvg:type="㇔" d="M40.5,24.5c1.76,4.45,6.4,14.4,7.5,8.11"/>
 		</g>
-		<g id="kvg:05fc5-Ten3-g3" kvg:element="丿">
-			<path id="kvg:05fc5-Ten3-s2" kvg:type="㇒" d="M31,44.5C40,66,51.71,87.55,77.5,87.69c10.25,0.06,7.75-3.89,3.5-9.35"/>
-		</g>
-		<g id="kvg:05fc5-Ten3-g4" kvg:element="心" kvg:part="2" kvg:variant="true" kvg:radical="tradit">
-			<path id="kvg:05fc5-Ten3-s3" kvg:type="㇟" d="M40.5,24.5c1.76,4.45,6.4,14.4,7.5,8.11"/>
-			<path id="kvg:05fc5-Ten3-s4" kvg:type="㇔" d="M17.5,51.31c0.21,3.06-2.08,16.59-3.75,21.69"/>
-			<path id="kvg:05fc5-Ten3-s5" kvg:type="㇔" d="M85.5,46.6c4,3.16,8.75,9.65,10.25,15.82"/>
-		</g>
+		<path id="kvg:05fc5-Ten3-s4" kvg:type="㇔" d="M17.5,51.31c0.21,3.06-2.08,16.59-3.75,21.69"/>
+		<path id="kvg:05fc5-Ten3-s5" kvg:type="㇔" d="M85.5,46.6c4,3.16,8.75,9.65,10.25,15.82"/>
 	</g>
 </g>
 </g>
