@@ -40,7 +40,7 @@ kvg:type CDATA #IMPLIED >
 	<g id="kvg:05f6c-Kaisho-g1" kvg:element="林" kvg:part="1" kvg:position="left">
 		<g id="kvg:05f6c-Kaisho-g2" kvg:element="木" kvg:radical="nelson">
 			<path id="kvg:05f6c-Kaisho-s1" kvg:type="㇐" d="M11.53,40.97c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,13.12-1.71,19.45-2.91c0.92-0.17,2.15-0.24,2.73,0"/>
-			<path id="kvg:05f6c-Kaisho-s2" kvg:type="㇑" d="M25.11,14.25c0.91,0.47,2.04,2.25,2.04,4.42c0,2.11-0.3,71.95-0.3,71.58c0,10.5-4.47,2.88-5.6,1.75"/>
+			<path id="kvg:05f6c-Kaisho-s2" kvg:type="㇚" d="M25.11,14.25c0.91,0.47,2.04,2.25,2.04,4.42c0,2.11-0.3,71.95-0.3,71.58c0,10.5-4.47,2.88-5.6,1.75"/>
 			<path id="kvg:05f6c-Kaisho-s3" kvg:type="㇒" d="M27.19,42.53C22.5,58,18.25,67.75,10.86,78.59"/>
 			<path id="kvg:05f6c-Kaisho-s4" kvg:type="㇏" d="M29.47,49.65c2.59,1.92,6.84,8.14,9.03,11.85"/>
 		</g>
@@ -49,7 +49,7 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:05f6c-Kaisho-g4" kvg:element="林" kvg:part="2" kvg:position="left">
 			<g id="kvg:05f6c-Kaisho-g5" kvg:element="木" kvg:radical="nelson">
 				<path id="kvg:05f6c-Kaisho-s5" kvg:type="㇐" d="M43,38.62c0.28,0.23,1.92,0.4,2.65,0.3c3.16-0.39,11.83-2.09,16.92-3.26c0.74-0.17,1.72-0.23,2.19,0"/>
-				<path id="kvg:05f6c-Kaisho-s6" kvg:type="㇑" d="M52.6,13.31c0.73,0.45,1.65,1.44,1.94,4.26c0.09,0.91-0.24,66.13-0.24,71.75c0,12.18-4.67,3.3-5.54,2.43"/>
+				<path id="kvg:05f6c-Kaisho-s6" kvg:type="㇚" d="M52.6,13.31c0.73,0.45,1.65,1.44,1.94,4.26c0.09,0.91-0.24,66.13-0.24,71.75c0,12.18-4.67,3.3-5.54,2.43"/>
 				<path id="kvg:05f6c-Kaisho-s7" kvg:type="㇒" d="M54.17,40.34c-5.25,14.72-8.18,20.94-16.31,33.82"/>
 				<path id="kvg:05f6c-Kaisho-s8" kvg:type="㇏" d="M56.9,48.28c2.65,1.96,7.01,8.34,9.25,12.15"/>
 			</g>
