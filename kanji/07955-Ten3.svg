@@ -49,16 +49,14 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:07955-Ten3-g4" kvg:element="必" kvg:position="right">
-		<g id="kvg:07955-Ten3-g5" kvg:element="心" kvg:part="1" kvg:variant="true">
-			<g id="kvg:07955-Ten3-g6" kvg:element="丿">
-				<path id="kvg:07955-Ten3-s6" kvg:type="㇒" d="M86.62,20.68c0.38,1.06,0.79,1.83,0.28,4.23C83.25,42,70.5,74.5,41.71,92.72"/>
-			</g>
-			<g id="kvg:07955-Ten3-g7" kvg:element="心" kvg:part="2" kvg:variant="true">
-				<path id="kvg:07955-Ten3-s7" kvg:type="㇃" d="M55.68,35.62c0.56,1.16,1.45,2.31,1.65,3.44c5.5,30.85,11.99,45.76,31.13,51.66c10.01,3.08,10.98-0.26,4.35-9.9"/>
-				<path id="kvg:07955-Ten3-s8" kvg:type="㇔" d="M66.25,31.75c1.61,6.95,4.84,12.07,5.68,6.01"/>
-				<path id="kvg:07955-Ten3-s9" kvg:type="㇔" d="M51.26,48.57c0.28,3.24-2.77,17.57-4.99,22.98"/>
-				<path id="kvg:07955-Ten3-s10" kvg:type="㇔" d="M87.56,45.42c5.05,3.27,11.04,9.96,12.94,16.33"/>
-			</g>
+		<g id="kvg:07955-Ten3-g5" kvg:element="丿">
+			<path id="kvg:07955-Ten3-s6" kvg:type="㇒" d="M86.62,20.68c0.38,1.06,0.79,1.83,0.28,4.23C83.25,42,70.5,74.5,41.71,92.72"/>
+		</g>
+		<g id="kvg:07955-Ten3-g6" kvg:element="心" kvg:part="2" kvg:variant="true">
+			<path id="kvg:07955-Ten3-s7" kvg:type="㇃" d="M55.68,35.62c0.56,1.16,1.45,2.31,1.65,3.44c5.5,30.85,11.99,45.76,31.13,51.66c10.01,3.08,10.98-0.26,4.35-9.9"/>
+			<path id="kvg:07955-Ten3-s8" kvg:type="㇔" d="M66.25,31.75c1.61,6.95,4.84,12.07,5.68,6.01"/>
+			<path id="kvg:07955-Ten3-s9" kvg:type="㇔" d="M51.26,48.57c0.28,3.24-2.77,17.57-4.99,22.98"/>
+			<path id="kvg:07955-Ten3-s10" kvg:type="㇔" d="M87.56,45.42c5.05,3.27,11.04,9.96,12.94,16.33"/>
 		</g>
 	</g>
 </g>

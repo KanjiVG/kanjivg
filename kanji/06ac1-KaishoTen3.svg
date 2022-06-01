@@ -53,27 +53,25 @@ kvg:type CDATA #IMPLIED >
 				</g>
 			</g>
 			<g id="kvg:06ac1-KaishoTen3-g6" kvg:element="必">
-				<g id="kvg:06ac1-KaishoTen3-g7" kvg:element="心" kvg:part="1" kvg:variant="true">
-					<g id="kvg:06ac1-KaishoTen3-g8" kvg:element="丿">
-						<path id="kvg:06ac1-KaishoTen3-s8" kvg:type="㇒" d="M77.45,30.42c0.08,0.63,0.1,1.61-0.16,2.54c-2.1,7.55-16.89,21.67-33.25,27.82"/>
-					</g>
-					<g id="kvg:06ac1-KaishoTen3-g9" kvg:element="心" kvg:part="2" kvg:variant="true">
-						<path id="kvg:06ac1-KaishoTen3-s9" kvg:type="㇃" d="M54.91,33.95c5,13.65,10.59,20.8,28.51,23.1c6.31,0.81,4.81-3.37,2.17-6.23"/>
-						<path id="kvg:06ac1-KaishoTen3-s10" kvg:type="㇔" d="M62.31,33.48c0.85,1.8,3.09,5.33,3.62,2.79"/>
-						<path id="kvg:06ac1-KaishoTen3-s11" kvg:type="㇔" d="M49.22,40.55c0.26,1.54-2.65,8.33-4.77,10.89"/>
-						<path id="kvg:06ac1-KaishoTen3-s12" kvg:type="㇔" d="M86.49,40.44c3.38,1.6,7.4,4.87,8.67,7.98"/>
-					</g>
+				<g id="kvg:06ac1-KaishoTen3-g7" kvg:element="丿">
+					<path id="kvg:06ac1-KaishoTen3-s8" kvg:type="㇒" d="M77.45,30.42c0.08,0.63,0.1,1.61-0.16,2.54c-2.1,7.55-16.89,21.67-33.25,27.82"/>
+				</g>
+				<g id="kvg:06ac1-KaishoTen3-g8" kvg:element="心" kvg:part="2" kvg:variant="true">
+					<path id="kvg:06ac1-KaishoTen3-s9" kvg:type="㇃" d="M54.91,33.95c5,13.65,10.59,20.8,28.51,23.1c6.31,0.81,4.81-3.37,2.17-6.23"/>
+					<path id="kvg:06ac1-KaishoTen3-s10" kvg:type="㇔" d="M62.31,33.48c0.85,1.8,3.09,5.33,3.62,2.79"/>
+					<path id="kvg:06ac1-KaishoTen3-s11" kvg:type="㇔" d="M49.22,40.55c0.26,1.54-2.65,8.33-4.77,10.89"/>
+					<path id="kvg:06ac1-KaishoTen3-s12" kvg:type="㇔" d="M86.49,40.44c3.38,1.6,7.4,4.87,8.67,7.98"/>
 				</g>
 			</g>
 		</g>
-		<g id="kvg:06ac1-KaishoTen3-g10" kvg:element="虫" kvg:position="bottom">
-			<g id="kvg:06ac1-KaishoTen3-g11" kvg:element="中">
-				<g id="kvg:06ac1-KaishoTen3-g12" kvg:element="口">
+		<g id="kvg:06ac1-KaishoTen3-g9" kvg:element="虫" kvg:position="bottom">
+			<g id="kvg:06ac1-KaishoTen3-g10" kvg:element="中">
+				<g id="kvg:06ac1-KaishoTen3-g11" kvg:element="口">
 					<path id="kvg:06ac1-KaishoTen3-s13" kvg:type="㇑" d="M48.82,68.03c0.43,0.33,0.73,1.13,0.81,1.56c0.58,3.11,1.17,7.7,1.99,13.58"/>
 					<path id="kvg:06ac1-KaishoTen3-s14" kvg:type="㇕b" d="M49.95,68.73c6.51-0.62,28.76-2.82,33.47-3.06c1.84-0.09,1.92,0.99,1.74,2.37c-0.42,3.21-1.09,4.58-2.36,9.88"/>
 					<path id="kvg:06ac1-KaishoTen3-s15" kvg:type="㇐b" d="M51.86,80.91c5.24-0.62,24.39-2.16,33.09-2.1"/>
 				</g>
-				<g id="kvg:06ac1-KaishoTen3-g13" kvg:element="丨">
+				<g id="kvg:06ac1-KaishoTen3-g12" kvg:element="丨">
 					<path id="kvg:06ac1-KaishoTen3-s16" kvg:type="㇑a" d="M65.59,57.99c0.72,0.33,1.15,1.46,1.29,2.11c0.14,0.65,0,28.11-0.14,32.17"/>
 				</g>
 			</g>
