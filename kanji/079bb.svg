@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_079bb" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:079bb" kvg:element="离">
-	<g id="kvg:079bb-g1" kvg:element="㐫">
+	<g id="kvg:079bb-g1" kvg:element="㐫" kvg:position="top">
 		<g id="kvg:079bb-g2" kvg:element="亠" kvg:radical="general">
 			<path id="kvg:079bb-s1" kvg:type="㇑a" d="m54.599718,7.4733752c1.658724,0.8991936,2.152391,2.1409372,2.152391,3.4469088,0,2.537011,0.157974,4.688653,0.157974,6.669019"/>
 			<path id="kvg:079bb-s2" kvg:type="㇐" d="m13.882006,20.982689c4.857691,0.513825,10.070821,0.331845,14.968005,-0.02141,14.849524,-1.070469,37.893933,-2.858152,53.572819,-3.650298,4.482503,-0.224799,9.616647,-0.374664,14.197883,0.04282"/>
@@ -55,7 +55,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 	</g>
-	<g id="kvg:079bb-g7" kvg:element="禸" kvg:variant="true">
+	<g id="kvg:079bb-g7" kvg:element="禸" kvg:variant="true" kvg:position="bottom">
 		<g id="kvg:079bb-g8" kvg:element="冂">
 			<path id="kvg:079bb-s7" kvg:type="㇑" d="m19.983739,63.351836c1.856191,1.006241,2.191885,2.408554,1.935177,4.067781-0.17772,1.220334-0.197467,15.393338-0.07899,24.053429,0.03949,3.211406-0.157974,4.999089-0.157974,5.748417"/>
 			<path id="kvg:079bb-s8" kvg:type="㇆a" d="m23.893587,64.668512c7.720963,-0.631576,41.507581,-4.206941,53.237125,-5.27741,5.924012,-0.535234,10.070821,0.642281,9.912847,4.121304-0.276453,5.812645-0.671388,19.792965-2.152391,25.445039-2.251124,8.52093-8.412097,3.661003-10.860689,1.905434"/>
