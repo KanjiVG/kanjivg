@@ -39,7 +39,7 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:0548e" kvg:element="咎">
 	<g id="kvg:0548e-g1" kvg:element="处" kvg:position="top">
 		<g id="kvg:0548e-g2" kvg:element="夂" kvg:position="left">
-			<g id="kvg:0548e-g3" kvg:element="各">
+			<g id="kvg:0548e-g3" kvg:element="各" kvg:part="1">
 				<path id="kvg:0548e-s1" kvg:type="㇒" d="M33.77,12.08c0.06,0.73,0.29,1.94-0.11,2.94c-3.1,7.68-10.03,19.13-19.75,28.71"/>
 				<path id="kvg:0548e-s2" kvg:type="㇇" d="M31.6,22.57c0.33,0.04,1.76,0,2.71-0.11c3.14-0.35,11.46-2.59,15.94-3.68c3.08-0.75,3.95,0.85,3.16,2.89C49.11,32.81,34.67,58,13.77,68.7"/>
 				<path id="kvg:0548e-s3" kvg:type="㇏" d="M24.98,34.91C35.42,35.16,62.33,55,84.33,63.31c3.46,1.31,6.22,2.05,9.57,2.46"/>
@@ -51,7 +51,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:0548e-g5" kvg:element="口" kvg:radical="general">
-		<g id="kvg:0548e-g6" kvg:element="各">
+		<g id="kvg:0548e-g6" kvg:element="各" kvg:part="2">
 			<path id="kvg:0548e-s6" kvg:type="㇑" d="M31.67,70.08c0.39,0.46,0.78,0.84,0.96,1.42c1.35,4.55,2.92,18.62,3.84,26.8"/>
 			<path id="kvg:0548e-s7" kvg:type="㇕b" d="M33.08,72.63c10.91-1.54,34.28-3.42,38.83-4.02c1.66-0.22,2.66,1.29,2.42,2.58c-0.98,5.32-3.21,14.26-4.67,21.61"/>
 			<path id="kvg:0548e-s8" kvg:type="㇐b" d="M36.65,95.32c5.34-0.68,27.88-1.79,35.21-2.83"/>
