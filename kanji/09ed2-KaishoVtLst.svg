@@ -38,15 +38,17 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:StrokePaths_09ed2-KaishoVtLst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:09ed2-KaishoVtLst" kvg:element="黒" kvg:variant="true" kvg:original="黑" kvg:radical="general">
 	<g id="kvg:09ed2-KaishoVtLst-g1" kvg:element="里" kvg:variant="true" kvg:position="top">
-		<path id="kvg:09ed2-KaishoVtLst-s1" kvg:type="㇑" d="M28.86,18.41c0.41,0.45,1.02,1.74,1.15,2.33c1.49,7.13,3.09,17.77,4.24,26.51"/>
-		<path id="kvg:09ed2-KaishoVtLst-s2" kvg:type="㇕" d="M31.12,19.98c14.88-1.61,36.4-3.64,46.2-4.54c4.01,0.28,5.73,1.68,5.15,4.17c-0.68,5.04-3.39,17.11-5.89,24.23"/>
-		<path id="kvg:09ed2-KaishoVtLst-s3" kvg:type="㇐" d="M33.32,32.24c10.19-1.01,20.41-1.97,30.61-2.79c1.22-0.1,2.42-0.19,3.56-0.28"/>
-		<path id="kvg:09ed2-KaishoVtLst-s4" kvg:type="㇐" d="M34.72,43.91c9.46-0.46,28.31-3.11,41.37-3.86"/>
+		<g id="kvg:09ed2-KaishoVtLst-g2" kvg:element="日">
+			<path id="kvg:09ed2-KaishoVtLst-s1" kvg:type="㇑" d="M28.86,18.41c0.41,0.45,1.02,1.74,1.15,2.33c1.49,7.13,3.09,17.77,4.24,26.51"/>
+			<path id="kvg:09ed2-KaishoVtLst-s2" kvg:type="㇕" d="M31.12,19.98c14.88-1.61,36.4-3.64,46.2-4.54c4.01,0.28,5.73,1.68,5.15,4.17c-0.68,5.04-3.39,17.11-5.89,24.23"/>
+			<path id="kvg:09ed2-KaishoVtLst-s3" kvg:type="㇐" d="M33.32,32.24c10.19-1.01,20.41-1.97,30.61-2.79c1.22-0.1,2.42-0.19,3.56-0.28"/>
+			<path id="kvg:09ed2-KaishoVtLst-s4" kvg:type="㇐" d="M34.72,43.91c9.46-0.46,28.31-3.11,41.37-3.86"/>
+		</g>
 		<path id="kvg:09ed2-KaishoVtLst-s5" kvg:type="㇐" d="M34.63,57.14c2.2,0.35,4.41,0.38,6.62,0.07C51,56.25,62,55.12,70.63,54.25c1.94-0.2,3.89-0.06,5.82,0.23"/>
 		<path id="kvg:09ed2-KaishoVtLst-s6" kvg:type="㇐" d="M21.13,70.97c2.83,0.44,5.67,0.48,8.51,0.22c14.11-1.31,33.36-2.9,50.74-3.87c2.76-0.14,5.51-0.02,8.25,0.35"/>
 		<path id="kvg:09ed2-KaishoVtLst-s7" kvg:type="㇑" d="M54.02,19.81c0.73,0.69,1.1,2.09,1.1,2.93c0,8.27-0.11,39.88-0.11,45"/>
 	</g>
-	<g id="kvg:09ed2-KaishoVtLst-g2" kvg:element="灬" kvg:variant="true" kvg:original="火" kvg:position="bottom">
+	<g id="kvg:09ed2-KaishoVtLst-g3" kvg:element="灬" kvg:variant="true" kvg:original="火" kvg:position="bottom">
 		<path id="kvg:09ed2-KaishoVtLst-s8" kvg:type="㇔" d="M24.69,81.5c-1.29,6.41-7.51,13.9-9.19,15.5"/>
 		<path id="kvg:09ed2-KaishoVtLst-s9" kvg:type="㇔" d="M42,79.5c1.71,2.87,4.25,10.5,3.76,15.25"/>
 		<path id="kvg:09ed2-KaishoVtLst-s10" kvg:type="㇔" d="M62.25,77.5c2.65,2.69,6.5,10.5,6.5,15.25"/>

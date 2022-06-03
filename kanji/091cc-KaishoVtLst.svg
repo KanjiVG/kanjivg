@@ -37,10 +37,12 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_091cc-KaishoVtLst" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:091cc-KaishoVtLst" kvg:element="里" kvg:variant="true" kvg:radical="general">
-	<path id="kvg:091cc-KaishoVtLst-s1" kvg:type="㇑" d="M25.33,21.44c0.42,0.56,0.43,0.95,0.66,1.65c1.9,5.8,3.69,20.45,4.87,31.27"/>
-	<path id="kvg:091cc-KaishoVtLst-s2" kvg:type="㇕" d="M27.3,22.22c14.73-1.46,39.97-3.94,50.97-5.17c4.04-0.45,6.11,1.14,5.9,2.74c-0.76,5.85-2.64,21.78-4.48,31.55"/>
-	<path id="kvg:091cc-KaishoVtLst-s3" kvg:type="㇐" d="M30.05,37.22c11.41-1.36,22.88-2.35,34.32-3.46c1.37-0.13,2.71-0.26,3.99-0.39"/>
-	<path id="kvg:091cc-KaishoVtLst-s4" kvg:type="㇐" d="M31.62,52.79c10.6-0.62,33.42-3.22,48.06-4.24"/>
+	<g id="kvg:091cc-KaishoVtLst-g1" kvg:element="日">
+		<path id="kvg:091cc-KaishoVtLst-s1" kvg:type="㇑" d="M25.33,21.44c0.42,0.56,0.43,0.95,0.66,1.65c1.9,5.8,3.69,20.45,4.87,31.27"/>
+		<path id="kvg:091cc-KaishoVtLst-s2" kvg:type="㇕" d="M27.3,22.22c14.73-1.46,39.97-3.94,50.97-5.17c4.04-0.45,6.11,1.14,5.9,2.74c-0.76,5.85-2.64,21.78-4.48,31.55"/>
+		<path id="kvg:091cc-KaishoVtLst-s3" kvg:type="㇐" d="M30.05,37.22c11.41-1.36,22.88-2.35,34.32-3.46c1.37-0.13,2.71-0.26,3.99-0.39"/>
+		<path id="kvg:091cc-KaishoVtLst-s4" kvg:type="㇐" d="M31.62,52.79c10.6-0.62,33.42-3.22,48.06-4.24"/>
+	</g>
 	<path id="kvg:091cc-KaishoVtLst-s5" kvg:type="㇐" d="M27.88,71.17c0.94,0.38,2.66,0.42,3.6,0.38c9.77-0.44,31.27-4.3,43.36-4.38c1.57-0.01,2.5,0.18,3.29,0.37"/>
 	<path id="kvg:091cc-KaishoVtLst-s6" kvg:type="㇐" d="M16.38,91.73c1.52,0.54,4.3,0.63,5.82,0.54C38,91.36,68.5,87,87.31,87.04c2.53,0,4.05,0.26,5.31,0.53"/>
 	<path id="kvg:091cc-KaishoVtLst-s7" kvg:type="㇑" d="M52.33,20.63c0.42,1.12,1.62,2.63,1.66,4.87c0.3,15.62,0.1,58.11,0.1,62.5"/>

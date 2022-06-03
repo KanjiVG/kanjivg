@@ -52,15 +52,17 @@ kvg:type CDATA #IMPLIED >
 	</g>
 	<g id="kvg:09edb-g5" kvg:element="黒" kvg:variant="true" kvg:original="黑" kvg:position="bottom" kvg:radical="general">
 		<g id="kvg:09edb-g6" kvg:element="里" kvg:position="top">
-			<path id="kvg:09edb-s6" kvg:type="㇑" d="M31.96,47.02c0.92,0.92,1.47,2.54,1.68,3.38c0.96,3.93,1.54,6.92,2.22,10.45c0.28,1.45,0.58,3,0.93,4.74"/>
-			<path id="kvg:09edb-s7" kvg:type="㇕a" d="M33.66,47.86c14.72-1.29,31.83-2.86,40.27-3.49c3.1-0.23,4.07,1.7,3.78,3.6c-0.33,2.2-1.43,6.86-2.52,11.03c-0.4,1.53-0.79,2.99-1.15,4.24"/>
-			<path id="kvg:09edb-s8" kvg:type="㇐a" d="M35.52,56.07c3.69-0.29,35.48-3.13,40.12-3.3"/>
-			<path id="kvg:09edb-s9" kvg:type="㇐a" d="M37.73,64.53c9.52-0.96,24.43-2.34,35.68-2.86"/>
+			<g id="kvg:09edb-g7" kvg:element="日">
+				<path id="kvg:09edb-s6" kvg:type="㇑" d="M31.96,47.02c0.92,0.92,1.47,2.54,1.68,3.38c0.96,3.93,1.54,6.92,2.22,10.45c0.28,1.45,0.58,3,0.93,4.74"/>
+				<path id="kvg:09edb-s7" kvg:type="㇕a" d="M33.66,47.86c14.72-1.29,31.83-2.86,40.27-3.49c3.1-0.23,4.07,1.7,3.78,3.6c-0.33,2.2-1.43,6.86-2.52,11.03c-0.4,1.53-0.79,2.99-1.15,4.24"/>
+				<path id="kvg:09edb-s8" kvg:type="㇐a" d="M35.52,56.07c3.69-0.29,35.48-3.13,40.12-3.3"/>
+				<path id="kvg:09edb-s9" kvg:type="㇐a" d="M37.73,64.53c9.52-0.96,24.43-2.34,35.68-2.86"/>
+			</g>
 			<path id="kvg:09edb-s10" kvg:type="㇑a" d="M53.29,48.36c0.96,0.96,1.15,2.21,1.15,3.72c0,8.58-0.07,22.05-0.07,27.49"/>
 			<path id="kvg:09edb-s11" kvg:type="㇐" d="M32.01,72.54c1.85,0.53,4.11,0.29,5.99,0.12c8.69-0.75,18-1.59,31.63-2.66c2.57-0.2,5.36-0.27,7.9,0.17"/>
 			<path id="kvg:09edb-s12" kvg:type="㇐" d="M20.61,82.15c2.94,0.73,6.41,0.42,9.39,0.15c14.73-1.35,33.88-2.35,52.88-3.12c3.29-0.13,6.67-0.18,9.94,0.3"/>
 		</g>
-		<g id="kvg:09edb-g7" kvg:element="灬" kvg:variant="true" kvg:original="火" kvg:position="bottom">
+		<g id="kvg:09edb-g8" kvg:element="灬" kvg:variant="true" kvg:original="火" kvg:position="bottom">
 			<path id="kvg:09edb-s13" kvg:type="㇔" d="M28.24,88.79c-0.98,4.92-5.71,10.67-6.99,11.9"/>
 			<path id="kvg:09edb-s14" kvg:type="㇔" d="M43.47,87.94c2.37,2.01,5.53,7.01,5.97,11.18"/>
 			<path id="kvg:09edb-s15" kvg:type="㇔" d="M62.27,86.46c2.85,2.36,5.73,6.11,7.52,10.93"/>
