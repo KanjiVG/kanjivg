@@ -41,7 +41,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:053a9-Jinmei-s1" kvg:type="㇐" d="M20.13,18.73c1.52,0.54,4.3,0.63,5.82,0.54c15.8-0.91,44.3-3.52,59.61-4.23c2.53-0.12,4.05,0.26,5.31,0.53"/>
 		<path id="kvg:053a9-Jinmei-s2" kvg:type="㇓" d="M23.5,19.5c0.5,1.5,0.51,1.9,0.43,4.36C23.25,43.5,21.5,74.75,10.81,91.47"/>
 	</g>
-	<g id="kvg:053a9-Jinmei-g2" kvg:element="既">
+	<g id="kvg:053a9-Jinmei-g2" kvg:element="既" kvg:position="tarec">
 		<g id="kvg:053a9-Jinmei-g3" kvg:element="艮" kvg:variant="true" kvg:position="left">
 			<path id="kvg:053a9-Jinmei-s3" kvg:type="㇐" d="M41.75,24.75c0.02,0.17,0.03,0.45-0.03,0.7c-0.38,1.47-3.04,5.42-5.97,7.39"/>
 			<path id="kvg:053a9-Jinmei-s4" kvg:type="㇐" d="M32.27,33.54c0.36,0.8,0.72,1.71,0.72,2.77c0,1.07-0.12,59.87,0,60.94"/>
@@ -59,8 +59,6 @@ kvg:type CDATA #IMPLIED >
 				<g id="kvg:053a9-Jinmei-g6" kvg:element="八" kvg:variant="true">
 					<path id="kvg:053a9-Jinmei-s13" kvg:type="㇐" d="M78.57,33.59c0.36,0.86,0.65,2.53,0.45,4.63c-1.66,16.76-7.68,42.7-23.92,57.03"/>
 					<path id="kvg:053a9-Jinmei-s14" kvg:type="㇐" d="M77.85,62.7c0.59,1.14,1.06,2.48,1.09,4.23c0.16,7.83-0.48,12.15-0.64,17.88c-0.27,10.04,2.12,11.02,10.25,11.02c7.33,0,9.32-1.7,9.32-8.72"/>
-					<g id="kvg:053a9-Jinmei-g7" kvg:element="丿" kvg:position="left"></g>
-					<g id="kvg:053a9-Jinmei-g8" kvg:position="right"></g>
 				</g>
 			</g>
 		</g>
