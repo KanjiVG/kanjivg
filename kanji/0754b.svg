@@ -50,10 +50,8 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:0754b-s7" kvg:type="㇐" d="M59.72,37.97c0.03-0.22,1.79,0.63,2.42,0.57c6.58-0.65,17.84-2.98,27.89-4.02c1.13-0.12,1.82-0.03,2.11,0.11"/>
 		</g>
 		<g id="kvg:0754b-g4" kvg:element="乂" kvg:position="bottom">
-			<g id="kvg:0754b-g5" kvg:element="丿">
-				<path id="kvg:0754b-s8" kvg:type="㇏" d="M54.75,54C61,57.99,79.72,83.75,90.27,92.18c2.03,1.62,3.32,1.89,4.98,2.07"/>
-			</g>
-			<path id="kvg:0754b-s9" kvg:type="㇒" d="M78.76,44.43c0.59,1.24,0.91,2.13,0.29,4.4C73.46,69.43,60.74,87.85,42.37,95"/>
+			<path id="kvg:0754b-s8" kvg:type="㇒" d="M78.76,44.43c0.59,1.24,0.91,2.13,0.29,4.4C73.46,69.43,60.74,87.85,42.37,95"/>
+			<path id="kvg:0754b-s9" kvg:type="㇏" d="M54.75,54C61,57.99,79.72,83.75,90.27,92.18c2.03,1.62,3.32,1.89,4.98,2.07"/>
 		</g>
 	</g>
 </g>
@@ -66,7 +64,7 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 20.50 69.85)">5</text>
 	<text transform="matrix(1 0 0 1 54.50 15.50)">6</text>
 	<text transform="matrix(1 0 0 1 65.50 34.50)">7</text>
-	<text transform="matrix(1 0 0 1 61.50 57.50)">8</text>
-	<text transform="matrix(1 0 0 1 69.50 47.50)">9</text>
+	<text transform="matrix(1 0 0 1 69.50 47.50)">8</text>
+	<text transform="matrix(1 0 0 1 61.50 57.50)">9</text>
 </g>
 </svg>
