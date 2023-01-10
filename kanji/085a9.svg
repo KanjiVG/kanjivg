@@ -56,18 +56,20 @@ kvg:type CDATA #IMPLIED >
 						<path id="kvg:085a9-s8" kvg:type="㇐" d="M47.06,43.34c2.08,0.5,4.35,0.14,6.44-0.1c6.28-0.73,17.47-2.21,24.62-2.81c2.24-0.19,4.46-0.31,6.7,0.01"/>
 					</g>
 					<g id="kvg:085a9-g8" kvg:position="bottom">
-						<path id="kvg:085a9-s9" kvg:type="㇒/㇔" d="M55.38,46.03c12.04,3.19,17.51,6.44,18.61,8.54"/>
-						<path id="kvg:085a9-s10" kvg:type="㇔/㇒" d="M73.6,43.62c-0.1,1-0.42,1.77-1.64,2.73c-6.22,4.95-11.4,7.87-14.52,9.38"/>
-						<g id="kvg:085a9-g9" kvg:element="厂" kvg:part="1">
+						<g id="kvg:085a9-g9" kvg:element="乂">
+							<path id="kvg:085a9-s9" kvg:type="㇒" d="M73.6,43.62c-0.1,1-0.42,1.77-1.64,2.73c-6.22,4.95-11.4,7.87-14.52,9.38"/>
+							<path id="kvg:085a9-s10" kvg:type="㇔" d="M55.38,46.03c12.04,3.19,17.51,6.44,18.61,8.54"/>
+						</g>
+						<g id="kvg:085a9-g10" kvg:element="厂" kvg:part="1">
 							<path id="kvg:085a9-s11" kvg:type="㇐" d="M42.07,58.93c2.27,0.52,5,0.38,7.31,0.16c10.53-1.02,22.83-2.67,34.63-3.29c2.67-0.14,5.28-0.29,7.94,0.08"/>
 						</g>
 					</g>
 				</g>
-				<g id="kvg:085a9-g10" kvg:element="厂" kvg:part="2">
+				<g id="kvg:085a9-g11" kvg:element="厂" kvg:part="2">
 					<path id="kvg:085a9-s12" kvg:type="㇒" d="M46.35,61.39c1.01,1.01,0.97,2.02,0.79,3.7C46,75.56,42.76,87.24,35.25,95"/>
 				</g>
 			</g>
-			<g id="kvg:085a9-g11" kvg:element="生" kvg:position="tarec">
+			<g id="kvg:085a9-g12" kvg:element="生" kvg:position="tarec">
 				<path id="kvg:085a9-s13" kvg:type="㇒" d="M57.58,65.59c0.06,0.88,0.03,1.76-0.26,2.58c-1.45,4.08-2.95,7.2-6.57,12.8"/>
 				<path id="kvg:085a9-s14" kvg:type="㇐" d="M59.05,72.44c0.56,0.19,1.58,0.23,2.13,0.19c3.31-0.23,13.6-1.5,19.07-2.11c1.5-0.17,3.01-0.14,4.53-0.04"/>
 				<path id="kvg:085a9-s15" kvg:type="㇑a" d="M68.82,62.39c0.9,0.9,1.24,1.98,1.24,3.26c0,0.54-0.05,22.24-0.05,26.98"/>
@@ -87,8 +89,8 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 13.50 48.25)">6</text>
 	<text transform="matrix(1 0 0 1 55.50 31.50)">7</text>
 	<text transform="matrix(1 0 0 1 45.50 40.50)">8</text>
-	<text transform="matrix(1 0 0 1 46.50 51.50)">9</text>
-	<text transform="matrix(1 0 0 1 64.50 48.50)">10</text>
+	<text transform="matrix(1 0 0 1 64.50 48.50)">9</text>
+	<text transform="matrix(1 0 0 1 46.50 51.50)">10</text>
 	<text transform="matrix(1 0 0 1 38.50 55.50)">11</text>
 	<text transform="matrix(1 0 0 1 38.50 67.80)">12</text>
 	<text transform="matrix(1 0 0 1 48.50 70.50)">13</text>
