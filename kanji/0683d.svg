@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0683d" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0683d" kvg:element="栽">
-	<g id="kvg:0683d-g1" kvg:element="𢦏" kvg:position="kamae">
+	<g id="kvg:0683d-g1" kvg:element="𢦏" kvg:part="1" kvg:position="kamae">
 		<g id="kvg:0683d-g2" kvg:element="土" kvg:phon="土戈1">
 			<g id="kvg:0683d-g3" kvg:element="十" kvg:radical="nelson">
 				<path id="kvg:0683d-s1" kvg:type="㇐" d="M23.38,27.38c1.83,0.49,3.91,0.28,5.77,0.12c6.7-0.57,15.46-2.16,21.3-2.68c1.62-0.14,2.62-0.12,3.43,0.01"/>
@@ -56,7 +56,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:0683d-s6" kvg:type="㇒" d="M39.33,61.53c0,1.47-1.26,3.93-2.19,5.25c-6.33,8.9-11.09,13.59-21.87,22.56"/>
 		<path id="kvg:0683d-s7" kvg:type="㇔/㇏" d="M43.62,68c3.03,1.9,8,8.07,10.56,11.75"/>
 	</g>
-	<g id="kvg:0683d-g7" kvg:element="𢦏" kvg:position="kamae">
+	<g id="kvg:0683d-g7" kvg:element="𢦏" kvg:part="2" kvg:position="kamae">
 		<g id="kvg:0683d-g8" kvg:element="戈" kvg:part="2" kvg:phon="土戈2">
 			<g id="kvg:0683d-g9" kvg:element="弋" kvg:part="2">
 				<path id="kvg:0683d-s8" kvg:type="㇂" d="M60.25,11.75c1.43,1.81,1.89,3.57,2.28,7.47c3.09,31.03,9.09,57.03,27.81,74.72c4.97,4.7,4.83,0.78,4.11-7.26"/>

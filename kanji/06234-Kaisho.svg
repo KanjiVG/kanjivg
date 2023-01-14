@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_06234-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:06234-Kaisho" kvg:element="戴">
-	<g id="kvg:06234-Kaisho-g1" kvg:element="𢦏" kvg:position="kamae">
+	<g id="kvg:06234-Kaisho-g1" kvg:element="𢦏" kvg:part="2" kvg:position="kamae">
 		<g id="kvg:06234-Kaisho-g2" kvg:element="十" kvg:radical="nelson">
 			<path id="kvg:06234-Kaisho-s1" kvg:type="㇐" d="M21.13,23.43c1.16,0.25,3.27,0.3,4.43,0.25c8.08-0.35,18.68-2.61,26.27-3.15c1.91-0.14,3.08,0.12,4.05,0.24"/>
 			<path id="kvg:06234-Kaisho-s2" kvg:type="㇑" d="M37.42,10.12c0.12,0.29,1.77,1.52,1.77,3.39c0,12,0.14,4,0.14,19.86"/>
@@ -69,7 +69,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 	</g>
-	<g id="kvg:06234-Kaisho-g10" kvg:element="𢦏" kvg:position="kamae">
+	<g id="kvg:06234-Kaisho-g10" kvg:element="𢦏" kvg:part="2" kvg:position="kamae">
 		<g id="kvg:06234-Kaisho-g11" kvg:element="戈" kvg:part="2" kvg:radical="tradit">
 			<g id="kvg:06234-Kaisho-g12" kvg:element="弋" kvg:part="2">
 				<path id="kvg:06234-Kaisho-s15" kvg:type="㇂" d="M63.25,8.5c1.27,1.93,2.11,2.47,2.47,6.61C68.5,47,76.5,80,91.35,96.58c4.37,4.88,4.28,0.83,3.65-7.71"/>
