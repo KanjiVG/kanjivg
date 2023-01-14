@@ -51,7 +51,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 		<g id="kvg:06103-g5" kvg:element="亘" kvg:position="bottom">
-			<g id="kvg:06103-g6" kvg:element="二" kvg:position="top">
+			<g id="kvg:06103-g6" kvg:element="二" kvg:part="1" kvg:position="top">
 				<g id="kvg:06103-g7" kvg:element="一">
 					<path id="kvg:06103-s7" kvg:type="㇐" d="M51.68,42.12c0.64,0.34,1.81,0.36,2.46,0.34c5.36-0.21,17.11-1.96,23.6-2.55c1.06-0.1,1.71,0.16,2.25,0.33"/>
 				</g>
@@ -63,7 +63,7 @@ kvg:type CDATA #IMPLIED >
 					<path id="kvg:06103-s10" kvg:type="㇐a" d="M55.37,65.25c5.42-0.7,18.88-2,24.67-1.88"/>
 					<path id="kvg:06103-s11" kvg:type="㇐a" d="M54.9,77.99c6.45-0.81,17.44-1.68,24.47-2.17"/>
 				</g>
-				<g id="kvg:06103-g10" kvg:element="二" kvg:position="bottom">
+				<g id="kvg:06103-g10" kvg:element="二" kvg:part="2" kvg:position="bottom">
 					<g id="kvg:06103-g11" kvg:element="一">
 						<path id="kvg:06103-s12" kvg:type="㇐" d="M38.92,91.37c1.35,0.41,3.83,0.43,5.18,0.41c11.93-0.2,33.18-3.04,47.13-3.03c2.25,0,3.6,0.19,4.73,0.39"/>
 					</g>
