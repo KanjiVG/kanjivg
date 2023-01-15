@@ -69,7 +69,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 			<path id="kvg:0703e-Kaisho-s15" kvg:type="㇔" d="M58.47,57.94c1.48,1.02,3.81,4.18,4.18,5.76"/>
 			<path id="kvg:0703e-Kaisho-s16" kvg:type="㇒" d="M75.96,56.95c0.01,0.14,0.03,0.37-0.03,0.57c-0.3,1.2-2.01,3.83-4.36,5.45"/>
-			<g id="kvg:0703e-Kaisho-g10" kvg:element="束">
+			<g id="kvg:0703e-Kaisho-g10" kvg:element="束" kvg:part="2">
 				<g id="kvg:0703e-Kaisho-g11" kvg:element="口" kvg:part="2">
 					<path id="kvg:0703e-Kaisho-s17" kvg:type="㇐" d="M54.84,67.81c6.23-0.54,19.25-2.06,25.07-2.33"/>
 				</g>

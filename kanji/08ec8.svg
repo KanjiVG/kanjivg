@@ -47,15 +47,15 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:08ec8-s7" kvg:type="㇒" d="M40.64,47.25c0.24,0.86,0.65,2.37,0,3.78C36.18,60.83,20.55,78.02,11.03,83"/>
 	</g>
 	<g id="kvg:08ec8-g2" kvg:element="應" kvg:position="right">
-		<g id="kvg:08ec8-g3" kvg:element="雁" kvg:variant="true" kvg:position="tare">
-			<g id="kvg:08ec8-g4" kvg:element="广" kvg:part="1">
-				<path id="kvg:08ec8-s8" kvg:type="㇔" d="M69.22,11.13c0.46,0.31,1.45,2.36,1.54,2.99c0.09,0.63,0.05,3.81-0.05,7.75"/>
-			</g>
-			<g id="kvg:08ec8-g5" kvg:element="广" kvg:position="tare">
+		<g id="kvg:08ec8-g3" kvg:element="广" kvg:part="1">
+			<path id="kvg:08ec8-s8" kvg:type="㇔" d="M69.22,11.13c0.46,0.31,1.45,2.36,1.54,2.99c0.09,0.63,0.05,3.81-0.05,7.75"/>
+		</g>
+		<g id="kvg:08ec8-g4" kvg:element="雁" kvg:variant="true" kvg:position="tare">
+			<g id="kvg:08ec8-g5" kvg:element="广" kvg:part="2" kvg:position="tare">
 				<g id="kvg:08ec8-g6" kvg:element="厂">
 					<path id="kvg:08ec8-s9" kvg:type="㇐" d="M46.41,23.64c1.13,0.19,2.88,0.27,4.34,0.19c10.66-0.54,27.56-1.85,41.58-2.38c1.88-0.07,3.02,0.09,3.96,0.19"/>
+					<path id="kvg:08ec8-s10" kvg:type="㇒" d="M50.2,24.51c0.04,1.58,0.43,4.06,0.43,6.33c0,16.16,0.13,43.91-12.31,60.08"/>
 				</g>
-				<path id="kvg:08ec8-s10" kvg:type="㇒" d="M50.2,24.51c0.04,1.58,0.43,4.06,0.43,6.33c0,16.16,0.13,43.91-12.31,60.08"/>
 			</g>
 			<g id="kvg:08ec8-g7" kvg:element="亻" kvg:variant="true" kvg:original="人" kvg:position="left">
 				<path id="kvg:08ec8-s11" kvg:type="㇒" d="M64.42,29.63c0.06,0.61,0.1,1.37-0.05,2.12C63.4,36.47,59.64,45.6,55.11,52"/>
