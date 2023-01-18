@@ -47,19 +47,19 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:07149-Jinmei-g3" kvg:element="木" kvg:part="1">
 			<path id="kvg:07149-Jinmei-s5" kvg:type="㇐" d="M45.64,27.04c1.36,0.21,3.01,0.34,4.9,0.03c8.21-1.32,22.96-3.32,31.17-4.01c2.1-0.17,4.04-0.07,5.89,0.55"/>
 		</g>
-		<g id="kvg:07149-Jinmei-g4" kvg:element="日">
+		<g id="kvg:07149-Jinmei-g4" kvg:element="日" kvg:variant="true">
 			<path id="kvg:07149-Jinmei-s6" kvg:type="㇑" d="M44.62,37.51c0.26,0.45,0.53,0.83,0.64,1.4c0.9,4.49,3.95,17.73,4.57,25.8"/>
 			<path id="kvg:07149-Jinmei-s7" kvg:type="㇕a" d="M45.59,40.06c9.66-1.56,37.59-4.15,40.64-4.57c1.91-0.26,2.9,1.5,2.6,4.01c-0.86,7.29-2.32,17.33-3.39,22.27"/>
-			<path id="kvg:07149-Jinmei-s8" kvg:type="㇐a" d="M53.9,45.51c2.02,1.48,5.22,6.1,5.73,8.41"/>
-			<path id="kvg:07149-Jinmei-s9" kvg:type="㇐a" d="M79.24,43.37c0.02,0.24,0.04,0.62-0.04,0.97c-0.42,2.05-2.86,6.55-6.2,9.3"/>
+			<path id="kvg:07149-Jinmei-s8" kvg:type="㇏" d="M53.9,45.51c2.02,1.48,5.22,6.1,5.73,8.41"/>
+			<path id="kvg:07149-Jinmei-s9" kvg:type="㇒" d="M79.24,43.37c0.02,0.24,0.04,0.62-0.04,0.97c-0.42,2.05-2.86,6.55-6.2,9.3"/>
+			<path id="kvg:07149-Jinmei-s10" kvg:type="㇐a" d="M49.63,62.26c8.53-1.01,27.98-2.96,35.95-3.46"/>
 		</g>
 		<g id="kvg:07149-Jinmei-g5" kvg:element="木" kvg:part="2">
-			<path id="kvg:07149-Jinmei-s10" kvg:type="㇑" d="M49.63,62.26c8.53-1.01,27.98-2.96,35.95-3.46"/>
-			<path id="kvg:07149-Jinmei-s11" kvg:type="㇒" d="M65.15,12.25c0.87,0.5,1.39,2.25,1.56,3.25c0.17,1,0,76.75-0.17,83"/>
-			<path id="kvg:07149-Jinmei-s12" kvg:type="㇏" d="M64.57,61.51C60.2,70.9,48.84,84.19,39.75,89.5"/>
+			<path id="kvg:07149-Jinmei-s11" kvg:type="㇑" d="M65.15,12.25c0.87,0.5,1.39,2.25,1.56,3.25c0.17,1,0,76.75-0.17,83"/>
+			<path id="kvg:07149-Jinmei-s12" kvg:type="㇒" d="M64.57,61.51C60.2,70.9,48.84,84.19,39.75,89.5"/>
+			<path id="kvg:07149-Jinmei-s13" kvg:type="㇏" d="M67.37,61.46c3.61,3.68,19.14,21.57,23.07,25.19c1.33,1.23,2.47,1.75,3.8,2.1"/>
 		</g>
 	</g>
-	<path id="kvg:07149-Jinmei-s13" kvg:type="Missing stroke" d="M67.37,61.46c3.61,3.68,19.14,21.57,23.07,25.19c1.33,1.23,2.47,1.75,3.8,2.1"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_07149-Jinmei" style="font-size:8;fill:#808080">
@@ -75,5 +75,6 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 52.50 58.50)">10</text>
 	<text transform="matrix(1 0 0 1 53.50 11.50)">11</text>
 	<text transform="matrix(1 0 0 1 47.50 73.50)">12</text>
+	<text transform="matrix(1 0 0 1 87.50 73.50)">13</text>
 </g>
 </svg>
