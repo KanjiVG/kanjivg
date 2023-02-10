@@ -6,8 +6,10 @@ use FindBin '$Bin';
 use v5.32;
 no warnings qw(experimental::signatures);
 use feature qw(signatures say);
-# Requires install. cpanm JSON::Create
+# Requires install. "cpanm JSON::Create"
 use JSON::Create 'write_json';
+
+# The index we write to the file.
 my %index;
 my @files = <$Bin/kanji/*.svg>;
 for my $file (@files) {
