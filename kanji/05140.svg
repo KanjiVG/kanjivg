@@ -37,10 +37,10 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05140" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05140" kvg:element="兀">
-	<g id="kvg:05140-g1" kvg:element="一" kvg:radical="nelson" kvg:position="top">
+	<g id="kvg:05140-g1" kvg:element="一" kvg:position="top" kvg:radical="nelson">
 		<path id="kvg:05140-s1" kvg:type="㇐" d="M16.38,24.98c1.4,0.54,3.96,0.63,5.36,0.54c14.54-0.91,42.27-6.02,64-6.23c2.33-0.02,4.23,0.26,5.39,0.53"/>
 	</g>
-	<g id="kvg:05140-g2" kvg:element="儿" kvg:original="八" kvg:radical="tradit" kvg:position="bottom">
+	<g id="kvg:05140-g2" kvg:element="儿" kvg:original="八" kvg:position="bottom" kvg:radical="tradit">
 		<g id="kvg:05140-g3" kvg:element="丿">
 			<path id="kvg:05140-s2" kvg:type="㇒" d="M42.75,26.5c1,1,0.97,3.9,0.87,6.08c-0.87,19.17-9.48,47.83-22.12,59.17"/>
 		</g>
