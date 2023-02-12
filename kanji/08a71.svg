@@ -49,7 +49,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 	</g>
 	<g id="kvg:08a71-g3" kvg:element="舌" kvg:position="right" kvg:phon="舌">
-		<g id="kvg:08a71-g4" kvg:position="top">
+		<g id="kvg:08a71-g4" kvg:element="千" kvg:position="top">
 			<path id="kvg:08a71-s8" kvg:type="㇒" d="M81.75,13.75c-0.12,1.25-0.79,2.39-1.66,3.06c-4.84,3.69-15.34,9.94-29.34,14.94"/>
 			<path id="kvg:08a71-s9" kvg:type="㇐" d="M45.39,45.8c1.55,0.34,4.36,0.62,6.73,0.34C62.8,44.9,76.37,43.07,91,42.23c2.28-0.13,4.49-0.01,6.75,0.29"/>
 			<path id="kvg:08a71-s10" kvg:type="㇑a" d="M68.87,27.19c1.4,1.4,1.85,3.06,1.85,4.88c0,1.44-0.21,28.18-0.21,35.16"/>

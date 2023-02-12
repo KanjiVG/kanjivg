@@ -43,7 +43,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08218-s2" kvg:type="㇏" d="M36.39,22.21c4.36,2.41,8.36,7.04,10.86,11.29"/>
 		</g>
 		<g id="kvg:08218-g3" kvg:element="舌" kvg:variant="true" kvg:position="bottom" kvg:radical="tradit">
-			<g id="kvg:08218-g4" kvg:position="top">
+			<g id="kvg:08218-g4" kvg:element="千" kvg:position="top">
 				<path id="kvg:08218-s3" kvg:type="㇐" d="M21.5,43.22c1.55,0.15,3.11,0.19,4.64-0.04C30.62,42.5,34,42,39.37,40.99c1.6-0.3,3.25-0.22,4.88-0.22"/>
 				<path id="kvg:08218-s4" kvg:type="㇐" d="M14.09,59.59c2.49,0.44,4.97,0.17,7.44-0.3c5.93-0.73,12.35-1.79,19.85-2.45c2.63-0.23,5.27-0.21,7.9,0.04"/>
 				<path id="kvg:08218-s5" kvg:type="㇑" d="M31.95,44.44c0.99,0.99,1.24,1.93,1.24,3.14c0,4.35,0.12,19.88-0.19,24.23"/>
