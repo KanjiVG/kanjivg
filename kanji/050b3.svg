@@ -42,7 +42,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:050b3-s2" kvg:type="㇑" d="M27.53,42.5c0.59,0.61,0.76,1.97,0.76,3.23c0,13.02-0.29,39.65-0.29,48.4"/>
 	</g>
 	<g id="kvg:050b3-g2" kvg:element="專" kvg:position="right" kvg:phon="專">
-		<g id="kvg:050b3-g3" kvg:position="top">
+		<g id="kvg:050b3-g3" kvg:element="CDP-8BD0" kvg:position="top">
 			<g id="kvg:050b3-g4" kvg:element="十" kvg:part="1">
 				<path id="kvg:050b3-s3" kvg:type="㇐" d="M43.85,20.27c0.95,0.47,2.69,0.57,3.64,0.47c9.27-0.99,22.02-3.24,33.32-3.87c1.58-0.09,2.53,0.22,3.32,0.46"/>
 			</g>
