@@ -48,7 +48,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:08e8d-s6" kvg:type="㇑" d="M16.87,54.99c0.88,0.88,0.96,1.96,0.96,3.5c0,3.13,0.03,18.76,0.03,26"/>
 		<path id="kvg:08e8d-s7" kvg:type="㇀/㇏" d="M12.5,85.52c0.93,0.93,2.12,1.23,3.49,0.46c7.1-4,14.09-7.9,22.01-12.24"/>
 	</g>
-	<g id="kvg:08e8d-g3" kvg:position="right" kvg:phon="翟">
+	<g id="kvg:08e8d-g3" kvg:element="翟" kvg:position="right" kvg:phon="翟">
 		<g id="kvg:08e8d-g4" kvg:element="羽" kvg:position="top">
 			<g id="kvg:08e8d-g5" kvg:position="left">
 				<path id="kvg:08e8d-s8" kvg:type="㇕/㇆" d="M47,13.75c1.5,0.75,2.75,0.75,5,0.5s9-1.72,10.5-2c2-0.38,3.5,0.88,3.5,3c0,1.06,0.05,11.88,0.05,20c0,3.01-0.05,5.59-0.05,6.25"/>
