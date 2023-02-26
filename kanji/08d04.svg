@@ -80,7 +80,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08d04-s15" kvg:type="㇐a" d="M34.32,74.68c7.81-0.72,32.22-2.1,40.5-2.44"/>
 			<path id="kvg:08d04-s16" kvg:type="㇐a" d="M33.96,84.38c7.81-0.59,33.73-1.99,40.85-2.2"/>
 		</g>
-		<g id="kvg:08d04-g15" kvg:position="bottom">
+		<g id="kvg:08d04-g15" kvg:element="八" kvg:position="bottom">
 			<path id="kvg:08d04-s17" kvg:type="㇒" d="M41.69,88.68c0.56,1.01-0.42,2-1.53,2.73c-3.34,2.22-12.11,6.96-18.79,9.59"/>
 			<path id="kvg:08d04-s18" kvg:type="㇔" d="M64.77,87.56c8.8,3.4,19.2,9.55,21.6,12.52"/>
 		</g>
