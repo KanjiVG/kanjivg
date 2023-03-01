@@ -43,22 +43,24 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:084d6-Kaisho-s3" kvg:type="㇑a" d="M67.75,9.75c1.12,1,1.37,2.52,1,4c-1.12,4.5-1.88,8.5-3.5,14.25"/>
 	</g>
 	<g id="kvg:084d6-Kaisho-g2" kvg:element="𣬉" kvg:position="bottom">
-		<path id="kvg:084d6-Kaisho-s4" kvg:type="㇒" d="M50.04,26c0.01,0.17,0.03,0.45-0.02,0.69c-0.31,1.46-2.06,4.67-4.46,6.63"/>
-		<path id="kvg:084d6-Kaisho-s5" kvg:type="㇑" d="M23.99,33.84c0.23,0.39,0.63,1.33,0.76,1.83c1.05,4.05,2.44,14.6,3.09,22.15"/>
-		<path id="kvg:084d6-Kaisho-s6" kvg:type="㇕" d="M24.87,35.75C36.59,34.52,68.5,33,79.14,32.17c2.85-0.22,4.26,1.25,4.11,3.01c-0.53,6.43-0.75,11.32-2.63,19.84"/>
-		<g id="kvg:084d6-Kaisho-g3" kvg:element="乂">
-			<g id="kvg:084d6-Kaisho-g4" kvg:element="丿">
-				<path id="kvg:084d6-Kaisho-s7" kvg:type="㇒" d="M62.74,35.25c0.06,0.38,0.13,0.98-0.12,1.52c-1.48,3.21-9.96,10.25-21.57,14.55"/>
+		<g id="kvg:084d6-Kaisho-g3" kvg:element="囟">
+			<path id="kvg:084d6-Kaisho-s4" kvg:type="㇒" d="M50.04,26c0.01,0.17,0.03,0.45-0.02,0.69c-0.31,1.46-2.06,4.67-4.46,6.63"/>
+			<path id="kvg:084d6-Kaisho-s5" kvg:type="㇑" d="M23.99,33.84c0.23,0.39,0.63,1.33,0.76,1.83c1.05,4.05,2.44,14.6,3.09,22.15"/>
+			<path id="kvg:084d6-Kaisho-s6" kvg:type="㇕" d="M24.87,35.75C36.59,34.52,68.5,33,79.14,32.17c2.85-0.22,4.26,1.25,4.11,3.01c-0.53,6.43-0.75,11.32-2.63,19.84"/>
+			<g id="kvg:084d6-Kaisho-g4" kvg:element="乂">
+				<g id="kvg:084d6-Kaisho-g5" kvg:element="丿">
+					<path id="kvg:084d6-Kaisho-s7" kvg:type="㇒" d="M62.74,35.25c0.06,0.38,0.13,0.98-0.12,1.52c-1.48,3.21-9.96,10.25-21.57,14.55"/>
+				</g>
+				<path id="kvg:084d6-Kaisho-s8" kvg:type="㇏" d="M43.27,39.94c7.69,1.79,19.87,7.35,21.79,10.13"/>
 			</g>
-			<path id="kvg:084d6-Kaisho-s8" kvg:type="㇏" d="M43.27,39.94c7.69,1.79,19.87,7.35,21.79,10.13"/>
 		</g>
 		<path id="kvg:084d6-Kaisho-s9" kvg:type="㇐" d="M27.88,56.61c7.39-0.68,41.05-2.73,52.74-3.07"/>
-		<g id="kvg:084d6-Kaisho-g5" kvg:element="比">
-			<g id="kvg:084d6-Kaisho-g6" kvg:position="left">
+		<g id="kvg:084d6-Kaisho-g6" kvg:element="比">
+			<g id="kvg:084d6-Kaisho-g7" kvg:position="left">
 				<path id="kvg:084d6-Kaisho-s10" kvg:type="㇐b" d="M27.88,73.73c7.31-0.38,12.67-1.22,19.04-1.85c1.87-0.19,3.06-0.18,4.02-0.07"/>
 				<path id="kvg:084d6-Kaisho-s11" kvg:type="㇙" d="M26,62.01c1,0.63,1.37,1.78,1.37,2.64c0,2.34-0.32,25.99-0.32,29.63c0,3.06-0.16,4.36,4.03,1.75c5.92-3.68,11.67-6.68,17.06-9.21"/>
 			</g>
-			<g id="kvg:084d6-Kaisho-g7" kvg:element="匕" kvg:position="right">
+			<g id="kvg:084d6-Kaisho-g8" kvg:element="匕" kvg:position="right">
 				<path id="kvg:084d6-Kaisho-s12" kvg:type="㇒" d="M59.88,73.61c8.5-0.42,14.73-1.37,22.13-2.08c2.17-0.21,3.56-0.21,4.67-0.08"/>
 				<path id="kvg:084d6-Kaisho-s13" kvg:type="㇟" d="M57.78,58.86c1.18,0.58,1.69,2.59,1.69,3.33c0,1.94-0.27,24.04-0.27,26.32c0,6.85,2.79,8.68,16.77,8.68c8.18,0,12.24-0.98,14.21-3.24"/>
 			</g>
