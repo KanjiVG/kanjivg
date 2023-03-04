@@ -16,8 +16,9 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import os, os.path, sys, codecs, re, datetime
+import sys, os, re, datetime
 from kanjivg import licenseString
+from utils import open
 
 pathre = re.compile(r'<path .*d="([^"]*)".*/>')
 
@@ -28,9 +29,9 @@ Recognized commands:
   release                         create single release file""" % (sys.argv[0],)
 
 def createPathsSVG(f):
-	s = codecs.open(f, "r", "utf-8").read()
+	s = open(f, "r", encoding="utf-8").read()
 	paths = pathre.findall(s)
-	out = codecs.open(f[:-4] + "-paths.svg", "w", "utf-8")
+	out = open(f[:-4] + "-paths.svg", "w", encoding="utf-8")
 	out.write("""<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" []>
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">\n""")
 	i = 1
@@ -44,20 +45,21 @@ def mergePathsSVG(f):
 	if not os.path.exists(pFile):
 		print("%s does not exist!" % (pFile,))
 		return
-	s = codecs.open(pFile, "r", "utf-8").read()
+	s = open(pFile, "r", encoding="utf-8").read()
 	paths = pathre.findall(s)
-	s = codecs.open(f, "r", "utf-8").read()
+	s = open(f, "r", encoding="utf-8").read()
 	pos = 0
 	while True:
 		match = pathre.search(s[pos:])
 		if match and len(paths) == 0 or not match and len(paths) > 0:
 			print("Paths count mismatch for %s" % (f,))
 			return
-		if not match and len(paths) == 0: break
+		if not match and len(paths) == 0:
+			break
 		s = s[:pos + match.start(1)] + paths[0] + s[pos + match.end(1):]
 		pos += match.start(1) + len(paths[0])
 		del paths[0]
-	codecs.open(f, "w", "utf-8").write(s)
+	open(f, "w", encoding="utf-8").write(s)
 
 def release():
 	datadir = "kanji"
@@ -69,7 +71,7 @@ def release():
 	del allfiles
 	files.sort()
 	
-	out = open("kanjivg.xml", "w")
+	out = open("kanjivg.xml", "w", encoding='utf8')
 	out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 	out.write("<!--\n")
 	out.write(licenseString)
@@ -77,7 +79,8 @@ def release():
 	out.write("\n-->\n")
 	out.write("<kanjivg xmlns:kvg='http://kanjivg.tagaini.net'>\n")
 	for f in files:
-		data = open(os.path.join(datadir, f)).read()
+		data = open(os.path.join(datadir, f), encoding='utf8').read()
+		data = data.replace("\r\n", "\n")
 		data = data[data.find("<svg "):]
 		data = data[data.find(idMatchString) + len(idMatchString):]
 		kidend = data.find("\"")
@@ -102,7 +105,8 @@ if __name__ == "__main__":
 	action = actions[sys.argv[1]][0]
 	files = sys.argv[2:]
 
-	if len(files) == 0: action()
+	if len(files) == 0:
+		action()
 	else:
 		for f in files:
 			if not os.path.exists(f):
