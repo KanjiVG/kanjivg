@@ -36,7 +36,7 @@ Recognized commands:
                 the given element from ./kanjivg.xml file.
 
 Parameters:
-  element 	    May either be the singular character, e.g. 並 or its
+  element       May either be the singular character, e.g. 並 or its
                 unicode code-point e.g. 4e26.
 
 Examples:
