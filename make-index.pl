@@ -14,7 +14,7 @@ my %index;
 my @files = <$Bin/kanji/*.svg>;
 for my $file (@files) {
     my ($kanji, $ex) = file_to_kanji ($file);
-    if (! $kanji) {
+    if (! defined $kanji) {
 	next;
     }
     my $tfile = $file;
