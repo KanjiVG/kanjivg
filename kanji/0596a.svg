@@ -37,12 +37,12 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0596a" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0596a" kvg:element="奪">
-	<g id="kvg:0596a-g1" kvg:element="大" kvg:position="top" kvg:radical="general">
-		<path id="kvg:0596a-s1" kvg:type="㇐" d="M21.38,20.65c2.98,0.84,5.75,0.74,8.76,0.26c11.99-1.91,29.12-4.16,41.74-5.14c3.09-0.24,6.18-0.23,9.24,0.46"/>
-		<path id="kvg:0596a-s2" kvg:type="㇒" d="M49.68,9c0.32,1.12,0.15,2.13-0.44,3.22C41.62,26.38,33.12,38.38,14.5,50.5"/>
-		<path id="kvg:0596a-s3" kvg:type="㇏" d="M54,18.5c5.89,4.22,17.56,13.44,26.26,19.17c2.64,1.74,6.24,3.95,10.49,5.83"/>
-	</g>
-	<g id="kvg:0596a-g2" kvg:position="bottom">
+	<g id="kvg:0596a-g1" kvg:element="奞" kvg:position="top">
+		<g id="kvg:0596a-g2" kvg:element="大" kvg:position="top" kvg:radical="general">
+			<path id="kvg:0596a-s1" kvg:type="㇐" d="M21.38,20.65c2.98,0.84,5.75,0.74,8.76,0.26c11.99-1.91,29.12-4.16,41.74-5.14c3.09-0.24,6.18-0.23,9.24,0.46"/>
+			<path id="kvg:0596a-s2" kvg:type="㇒" d="M49.68,9c0.32,1.12,0.15,2.13-0.44,3.22C41.62,26.38,33.12,38.38,14.5,50.5"/>
+			<path id="kvg:0596a-s3" kvg:type="㇏" d="M54,18.5c5.89,4.22,17.56,13.44,26.26,19.17c2.64,1.74,6.24,3.95,10.49,5.83"/>
+		</g>
 		<g id="kvg:0596a-g3" kvg:element="隹" kvg:position="top">
 			<g id="kvg:0596a-g4" kvg:element="亻" kvg:variant="true" kvg:original="人">
 				<path id="kvg:0596a-s4" kvg:type="㇒" d="M43.2,33.49c0.15,0.9-0.04,2.09-0.52,2.89c-3.04,5.11-6.9,9.5-13.87,15.9"/>
@@ -55,11 +55,11 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:0596a-s10" kvg:type="㇐b" d="M40.13,59.17c4.48-0.48,17.15-2.1,24.23-2.74c2.19-0.2,3.8-0.35,4.4-0.42"/>
 			<path id="kvg:0596a-s11" kvg:type="㇐b" d="M39.88,66.92c4.82-0.62,22.71-2.39,31.1-3.28c2.15-0.23,3.68-0.4,4.21-0.48"/>
 		</g>
-		<g id="kvg:0596a-g5" kvg:element="寸" kvg:position="bottom">
-			<path id="kvg:0596a-s12" kvg:type="㇐" d="M17.63,77.91c3.62,0.97,7.27,0.56,10.36,0.15c16.58-2.23,39.4-4.15,56.77-4.97c3.19-0.15,6.87,0.04,9.37,0.76"/>
-			<path id="kvg:0596a-s13" kvg:type="㇚" d="M66.36,68.83c0.71,0.71,1.12,1.92,1.12,3.31c0,14.08-0.1,20.31-0.1,23.73c0,8.3-4.76,1.86-6.27,0.8"/>
-			<path id="kvg:0596a-s14" kvg:type="㇔" d="M38.21,83.37c3.44,1.5,8.89,6.17,9.75,8.5"/>
-		</g>
+	</g>
+	<g id="kvg:0596a-g5" kvg:element="寸" kvg:position="bottom">
+		<path id="kvg:0596a-s12" kvg:type="㇐" d="M17.63,77.91c3.62,0.97,7.27,0.56,10.36,0.15c16.58-2.23,39.4-4.15,56.77-4.97c3.19-0.15,6.87,0.04,9.37,0.76"/>
+		<path id="kvg:0596a-s13" kvg:type="㇚" d="M66.36,68.83c0.71,0.71,1.12,1.92,1.12,3.31c0,14.08-0.1,20.31-0.1,23.73c0,8.3-4.76,1.86-6.27,0.8"/>
+		<path id="kvg:0596a-s14" kvg:type="㇔" d="M38.21,83.37c3.44,1.5,8.89,6.17,9.75,8.5"/>
 	</g>
 </g>
 </g>
