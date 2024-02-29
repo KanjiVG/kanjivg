@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0620c" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0620c" kvg:element="戌">
-	<g id="kvg:0620c-g1" kvg:element="戍" kvg:variant="true">
+	<g id="kvg:0620c-g1" kvg:element="戊" kvg:part="1">
 		<g id="kvg:0620c-g2" kvg:element="厂" kvg:part="1">
 			<path id="kvg:0620c-s1" kvg:type="㇒" d="M27.01,34.89c1.24,1.24,1.45,3.38,1.4,5.36C28,59,22.5,86.25,11.81,94.97"/>
 		</g>
@@ -48,18 +48,20 @@ kvg:type CDATA #IMPLIED >
 				</g>
 			</g>
 		</g>
-		<g id="kvg:0620c-g6" kvg:element="一">
-			<path id="kvg:0620c-s3" kvg:type="㇐" d="M33.75,60.38c1.19,0.47,3.37,0.62,4.55,0.47c3.95-0.48,10.79-1.78,14.54-2.2c1.96-0.22,3.67-0.39,4.66-0.15"/>
-		</g>
-		<g id="kvg:0620c-g7" kvg:element="戈" kvg:part="2" kvg:radical="general">
-			<g id="kvg:0620c-g8" kvg:element="弋" kvg:part="2">
+	</g>
+	<g id="kvg:0620c-g6" kvg:element="一">
+		<path id="kvg:0620c-s3" kvg:type="㇐" d="M33.75,60.38c1.19,0.47,3.37,0.62,4.55,0.47c3.95-0.48,10.79-1.78,14.54-2.2c1.96-0.22,3.67-0.39,4.66-0.15"/>
+	</g>
+	<g id="kvg:0620c-g7" kvg:element="戊" kvg:part="2">
+		<g id="kvg:0620c-g8" kvg:element="戈" kvg:part="2" kvg:radical="general">
+			<g id="kvg:0620c-g9" kvg:element="弋" kvg:part="2">
 				<path id="kvg:0620c-s4" kvg:type="㇂" d="M55.5,11.75c1.72,1.84,1.76,3.09,2.04,7.04C59.75,49.75,70.5,82,90.75,94.25c6.69,4.05,5.71,1.46,4.85-6.67"/>
 			</g>
-			<g id="kvg:0620c-g9" kvg:element="丿">
+			<g id="kvg:0620c-g10" kvg:element="丿">
 				<path id="kvg:0620c-s5" kvg:type="㇒" d="M84.71,43.39c0.28,1.97-0.16,3.85-0.81,5.66c-4.4,10.32-17.37,29.92-36.34,42.16"/>
 			</g>
-			<g id="kvg:0620c-g10" kvg:element="弋" kvg:part="3">
-				<g id="kvg:0620c-g11" kvg:element="丶">
+			<g id="kvg:0620c-g11" kvg:element="弋" kvg:part="3">
+				<g id="kvg:0620c-g12" kvg:element="丶">
 					<path id="kvg:0620c-s6" kvg:type="㇔" d="M74.25,11.5c3.67,1.75,9.54,5.75,11.25,8.75"/>
 				</g>
 			</g>
