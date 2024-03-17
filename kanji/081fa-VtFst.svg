@@ -44,16 +44,16 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:081fa-VtFst-s2" kvg:type="㇑a" d="M52.46,9.51c0.62,0.8,1.83,2.13,1.83,2.95c0,5.15-0.19,10.79-0.19,13.94"/>
 				<path id="kvg:081fa-VtFst-s3" kvg:type="㇐" d="M32.91,27.8c0.95,0.14,2.7,0.12,3.66,0.07C44.75,27.5,60,26,72.92,25.49c1.59-0.06,2.54,0.02,3.34,0.08"/>
 			</g>
-			<g id="kvg:081fa-VtFst-g4" kvg:element="冖">
+			<g id="kvg:081fa-VtFst-g4" kvg:element="口" kvg:position="bottom">
 				<path id="kvg:081fa-VtFst-s4" kvg:type="㇔" d="M33.71,34.89c0.23,0.17,0.46,0.31,0.56,0.52c0.78,1.67,1.72,6.29,2.26,9.3"/>
 				<path id="kvg:081fa-VtFst-s5" kvg:type="㇆" d="M35.12,35.47c5.54-0.7,34.49-3.12,37.35-3.36c1.05-0.09,1.67,0.87,1.52,1.38c-0.62,2.11-1.33,3.92-2.65,6.96"/>
+				<path id="kvg:081fa-VtFst-s6" kvg:type="㇑" d="M36.75,43.61c3.36-0.27,32.37-2.62,36.63-2.89"/>
 			</g>
 		</g>
-		<g id="kvg:081fa-VtFst-g5" kvg:element="口" kvg:position="bottom">
-			<path id="kvg:081fa-VtFst-s6" kvg:type="㇑" d="M36.75,43.61c3.36-0.27,32.37-2.62,36.63-2.89"/>
-			<path id="kvg:081fa-VtFst-s7" kvg:type="㇕b" d="M20.66,49.44c-0.16,3.81-4.03,13.79-5.41,16.06"/>
-			<path id="kvg:081fa-VtFst-s8" kvg:type="㇐b" d="M19.97,52.75c3.53,0,48.75-4.75,66.47-4.75c12.06,0,3.81,5.75-0.69,9.5"/>
-		</g>
+	</g>
+	<g id="kvg:081fa-VtFst-g5" kvg:element="冖">
+		<path id="kvg:081fa-VtFst-s7" kvg:type="㇕b" d="M20.66,49.44c-0.16,3.81-4.03,13.79-5.41,16.06"/>
+		<path id="kvg:081fa-VtFst-s8" kvg:type="㇐b" d="M19.97,52.75c3.53,0,48.75-4.75,66.47-4.75c12.06,0,3.81,5.75-0.69,9.5"/>
 	</g>
 	<g id="kvg:081fa-VtFst-g6" kvg:element="至" kvg:position="bottom" kvg:radical="tradit">
 		<path id="kvg:081fa-VtFst-s9" kvg:type="㇐" d="M28.69,59.01c0.86,0.31,2.45,0.34,3.31,0.31c11.25-0.32,28.61-2.39,43.08-2.78c1.44-0.04,2.3,0.15,3.02,0.31"/>
