@@ -64,14 +64,11 @@ kvg:type CDATA #IMPLIED >
 		<g id="kvg:0622f-VtFstLeRiTenFst-g8" kvg:element="弋" kvg:part="1">
 			<path id="kvg:0622f-VtFstLeRiTenFst-s12" kvg:type="㇐" d="M58.5,46.52c0.65,0.23,1.83,0.28,2.48,0.23c11.77-0.93,21.02-5.43,26.51-6.58c1.05-0.22,1.72,0.11,2.26,0.23"/>
 			<path id="kvg:0622f-VtFstLeRiTenFst-s13" kvg:type="㇂" d="M65.25,10.57c1,1.25,2.05,2.41,2.33,6.46C69.9,50.94,79.5,80.82,93.66,96.2c4.48,4.87,5.09,1.87,4.32-9.04"/>
+			<g id="kvg:0622f-VtFstLeRiTenFst-g9" kvg:element="丶"></g>
+			<path id="kvg:0622f-VtFstLeRiTenFst-s14" kvg:type="丶" d="M78.5,19.32c3.1,2.35,7.55,7.72,9,11.75"/>
 		</g>
-		<g id="kvg:0622f-VtFstLeRiTenFst-g9" kvg:element="丿" kvg:radical="nelson">
-			<path id="kvg:0622f-VtFstLeRiTenFst-s14" kvg:type="㇒" d="M78.5,19.32c3.1,2.35,7.55,7.72,9,11.75"/>
-		</g>
-		<g id="kvg:0622f-VtFstLeRiTenFst-g10" kvg:element="弋" kvg:part="2">
-			<g id="kvg:0622f-VtFstLeRiTenFst-g11" kvg:element="丶">
-				<path id="kvg:0622f-VtFstLeRiTenFst-s15" kvg:type="㇔" d="M88.73,50.96c0.07,0.71,0.15,1.84-0.14,2.86c-1.75,6.02-11.82,19.91-25.59,28"/>
-			</g>
+		<g id="kvg:0622f-VtFstLeRiTenFst-g10" kvg:element="丿" kvg:radical="nelson">
+			<path id="kvg:0622f-VtFstLeRiTenFst-s15" kvg:type="㇒" d="M88.73,50.96c0.07,0.71,0.15,1.84-0.14,2.86c-1.75,6.02-11.82,19.91-25.59,28"/>
 		</g>
 	</g>
 </g>
