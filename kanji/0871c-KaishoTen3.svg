@@ -46,27 +46,25 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 		<g id="kvg:0871c-KaishoTen3-g4" kvg:element="必">
-			<g id="kvg:0871c-KaishoTen3-g5" kvg:element="心" kvg:part="1" kvg:variant="true">
-				<path id="kvg:0871c-KaishoTen3-s4" kvg:type="㇔" d="M65.8,28.31c0.11,0.73,0.13,1.87-0.21,2.95C62.78,40,43.06,56.37,21.25,63.5"/>
+			<g id="kvg:0871c-KaishoTen3-g5" kvg:element="丿">
+				<path id="kvg:0871c-KaishoTen3-s4" kvg:type="㇒" d="M65.8,28.31c0.11,0.73,0.13,1.87-0.21,2.95C62.78,40,43.06,56.37,21.25,63.5"/>
 			</g>
-			<g id="kvg:0871c-KaishoTen3-g6" kvg:element="丿">
-				<path id="kvg:0871c-KaishoTen3-s5" kvg:type="㇒" d="M33.74,30.66C41.06,43.92,49.1,53.35,75.5,53.09c9.31-0.09,7.04-3.27,3.18-6.05"/>
-			</g>
-			<g id="kvg:0871c-KaishoTen3-g7" kvg:element="心" kvg:part="2" kvg:variant="true">
-				<path id="kvg:0871c-KaishoTen3-s6" kvg:type="㇟b" d="M46.94,30.7c1.14,2.09,4.12,6.76,4.83,3.81"/>
+			<g id="kvg:0871c-KaishoTen3-g6" kvg:element="心" kvg:variant="true">
+				<path id="kvg:0871c-KaishoTen3-s5" kvg:type="㇟b" d="M33.74,30.66C41.06,43.92,49.1,53.35,75.5,53.09c9.31-0.09,7.04-3.27,3.18-6.05"/>
+				<path id="kvg:0871c-KaishoTen3-s6" kvg:type="㇔" d="M46.94,30.7c1.14,2.09,4.12,6.76,4.83,3.81"/>
 				<path id="kvg:0871c-KaishoTen3-s7" kvg:type="㇔" d="M27.84,36.29c0.19,1.74-1.88,9.43-3.38,12.33"/>
 				<path id="kvg:0871c-KaishoTen3-s8" kvg:type="㇔" d="M75.19,32.97c4.51,1.85,9.87,5.64,11.56,9.25"/>
 			</g>
 		</g>
 	</g>
-	<g id="kvg:0871c-KaishoTen3-g8" kvg:element="虫" kvg:position="bottom" kvg:radical="tradit">
-		<g id="kvg:0871c-KaishoTen3-g9" kvg:element="中">
-			<g id="kvg:0871c-KaishoTen3-g10" kvg:element="口">
+	<g id="kvg:0871c-KaishoTen3-g7" kvg:element="虫" kvg:position="bottom" kvg:radical="tradit">
+		<g id="kvg:0871c-KaishoTen3-g8" kvg:element="中">
+			<g id="kvg:0871c-KaishoTen3-g9" kvg:element="口">
 				<path id="kvg:0871c-KaishoTen3-s9" kvg:type="㇑" d="M30.14,64.54c0.52,0.34,0.89,1.18,0.99,1.63c0.71,3.25,1.44,7.54,2.43,13.69"/>
 				<path id="kvg:0871c-KaishoTen3-s10" kvg:type="㇕b" d="M31.51,66.85c7.95-0.65,41.85-4.53,47.6-4.77c2.24-0.1,2.34,1.04,2.12,2.48c-0.52,3.36-1.33,4.8-2.88,10.34"/>
 				<path id="kvg:0871c-KaishoTen3-s11" kvg:type="㇐b" d="M33.85,78.55c6.4-0.65,37.59-3.16,46.53-3.77"/>
 			</g>
-			<g id="kvg:0871c-KaishoTen3-g11" kvg:element="丨">
+			<g id="kvg:0871c-KaishoTen3-g10" kvg:element="丨">
 				<path id="kvg:0871c-KaishoTen3-s12" kvg:type="㇑a" d="M52.46,55.61c0.88,0.34,1.4,1.53,1.58,2.21c0.18,0.68,0,29.43-0.17,33.68"/>
 			</g>
 		</g>
