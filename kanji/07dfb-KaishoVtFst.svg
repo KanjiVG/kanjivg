@@ -43,7 +43,7 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:07dfb-KaishoVtFst-s3" kvg:type="㇔" d="M30.45,53.54c2.42,2.66,6.24,10.92,6.85,15.06"/>
 		<path id="kvg:07dfb-KaishoVtFst-s4" kvg:type="㇔" d="M7.96,82.46c3.67,3.32,6.48,11.04,7.33,14.04"/>
 		<path id="kvg:07dfb-KaishoVtFst-s5" kvg:type="㇔" d="M18.47,78.16c4.16,2.88,7.35,9.56,8.31,12.17"/>
-		<path id="kvg:07dfb-KaishoVtFst-s6" kvg:type="㇐" d="M28.98,73.07c4.03,2.31,7.13,7.67,8.07,9.76"/>
+		<path id="kvg:07dfb-KaishoVtFst-s6" kvg:type="㇔" d="M28.98,73.07c4.03,2.31,7.13,7.67,8.07,9.76"/>
 	</g>
 	<g id="kvg:07dfb-KaishoVtFst-g2" kvg:element="致" kvg:variant="true" kvg:position="right">
 		<g id="kvg:07dfb-KaishoVtFst-g3" kvg:element="至" kvg:position="left">
@@ -53,14 +53,14 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:07dfb-KaishoVtFst-s9" kvg:type="㇔" d="M56.25,33c2.47,1.98,6.38,8.16,7,11.25"/>
 			</g>
 			<g id="kvg:07dfb-KaishoVtFst-g5" kvg:element="土" kvg:variant="true">
-				<path id="kvg:07dfb-KaishoVtFst-s10" kvg:type="㇐" d="M51.18,45.77c0.06,0.4,0.86,2.1,0.86,4.67c0,12.88,0.03,26.47,0.03,30.66"/>
+				<path id="kvg:07dfb-KaishoVtFst-s10" kvg:type="㇑" d="M51.18,45.77c0.06,0.4,0.86,2.1,0.86,4.67c0,12.88,0.03,26.47,0.03,30.66"/>
 				<path id="kvg:07dfb-KaishoVtFst-s11" kvg:type="㇐" d="M40.25,64.18c0.76,0.08,2.25,0.18,2.67,0.16c4.87-0.24,12.36-1.97,16.85-2.51c0.69-0.08,2.18,0.08,2.53,0.16"/>
 				<path id="kvg:07dfb-KaishoVtFst-s12" kvg:type="㇒" d="M40,87.3c0.9,0.81,2.48,0.58,3.19,0.12c7.15-4.64,13.25-7.79,23.07-14.22"/>
 			</g>
 		</g>
 		<g id="kvg:07dfb-KaishoVtFst-g6" kvg:element="攵" kvg:position="right">
-			<path id="kvg:07dfb-KaishoVtFst-s13" kvg:type="㇇" d="M76.49,15.39c0.04,0.89,0.19,2.33-0.07,3.57c-1.89,8.98-6.13,24.2-12.67,35.04"/>
-			<path id="kvg:07dfb-KaishoVtFst-s14" kvg:type="㇏" d="M75.5,35.61c0.94,0.19,2.69,0,3.2-0.03c5.28-0.31,9.42-1.63,14.91-2.46c0.9-0.14,1.46-0.01,1.7,0.05"/>
+			<path id="kvg:07dfb-KaishoVtFst-s13" kvg:type="㇒" d="M76.49,15.39c0.04,0.89,0.19,2.33-0.07,3.57c-1.89,8.98-6.13,24.2-12.67,35.04"/>
+			<path id="kvg:07dfb-KaishoVtFst-s14" kvg:type="㇐" d="M75.5,35.61c0.94,0.19,2.69,0,3.2-0.03c5.28-0.31,9.42-1.63,14.91-2.46c0.9-0.14,1.46-0.01,1.7,0.05"/>
 			<g id="kvg:07dfb-KaishoVtFst-g7" kvg:element="乂" kvg:variant="true" kvg:position="bottom">
 				<path id="kvg:07dfb-KaishoVtFst-s15" kvg:type="㇒" d="M86.16,40.76c0.48,1.29,0.75,2.22,0.24,4.58c-4.59,21.47-13.32,39.32-29.65,47.91"/>
 				<path id="kvg:07dfb-KaishoVtFst-s16" kvg:type="㇏" d="M69.19,52.48c0.95,0,1.51,0.99,2.27,2.34C76.58,64,86,81.73,92.85,90.43c1.26,1.6,2.59,2.67,3.65,2.82"/>
@@ -79,9 +79,9 @@ kvg:type CDATA #IMPLIED >
 	<text transform="matrix(1 0 0 1 39.75 17.93)">7</text>
 	<text transform="matrix(1 0 0 1 40.50 30.85)">8</text>
 	<text transform="matrix(1 0 0 1 57.25 30.25)">9</text>
-	<text transform="matrix(1 0 0 1 40.25 82.25)">10</text>
+	<text transform="matrix(1 0 0 1 41.50 52.25)">10</text>
 	<text transform="matrix(1 0 0 1 39.25 61.20)">11</text>
-	<text transform="matrix(1 0 0 1 41.50 52.25)">12</text>
+	<text transform="matrix(1 0 0 1 40.25 82.25)">12</text>
 	<text transform="matrix(1 0 0 1 64.50 14.25)">13</text>
 	<text transform="matrix(1 0 0 1 78.25 31.25)">14</text>
 	<text transform="matrix(1 0 0 1 83.25 61.25)">15</text>
