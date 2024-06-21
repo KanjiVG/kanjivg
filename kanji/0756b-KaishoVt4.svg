@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0756b-KaishoVt4" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0756b-KaishoVt4" kvg:element="畫">
-	<g id="kvg:0756b-KaishoVt4-g1" kvg:position="top">
+	<g id="kvg:0756b-KaishoVt4-g1" kvg:element="CDP-8BC6" kvg:position="top">
 		<g id="kvg:0756b-KaishoVt4-g2" kvg:element="聿" kvg:radical="nelson">
 			<g id="kvg:0756b-KaishoVt4-g3" kvg:element="⺕" kvg:variant="true" kvg:original="彑">
 				<path id="kvg:0756b-KaishoVt4-s1" kvg:type="㇕c" d="M30,19.82c2.33,0.23,2.99,0.62,5.13,0.47c9.8-0.7,29.87-2.5,39.2-2.97c3.03-0.15,5.11,1.14,4.67,3.5c-0.7,3.73-1.6,7.6-3.23,18.1"/>
@@ -50,14 +50,16 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:0756b-KaishoVt4-s5" kvg:type="㇐" d="M30.38,51.67c1.15,0.38,3.24,0.42,4.39,0.38C46.68,51.61,63.5,50,75.12,49.16c1.9-0.14,3.05,0.18,4.01,0.37"/>
 			<path id="kvg:0756b-KaishoVt4-s6" kvg:type="㇐" d="M16.88,62.98c1.52,0.54,4.31,0.71,5.82,0.54c17.8-2.02,51.3-4.27,65.11-4.73c2.53-0.08,4.05,0.26,5.31,0.53"/>
 		</g>
-		<g id="kvg:0756b-KaishoVt4-g5" kvg:element="田" kvg:position="bottom" kvg:radical="tradit">
+	</g>
+	<g id="kvg:0756b-KaishoVt4-g5" kvg:position="bottom">
+		<g id="kvg:0756b-KaishoVt4-g6" kvg:element="田" kvg:position="top" kvg:radical="tradit">
 			<path id="kvg:0756b-KaishoVt4-s7" kvg:type="㇑a" d="M31.59,70.23c0.32,0.33,0.33,0.55,0.5,0.97c1.43,3.4,3.21,13.5,4.06,19.86"/>
 			<path id="kvg:0756b-KaishoVt4-s8" kvg:type="㇑" d="M33.1,71.18c11.9-1.43,30.79-3.48,39.26-4.24c3.11-0.28,4.14,0.56,4.02,2.58c-0.2,3.49-2.23,13.02-2.87,18.39"/>
 			<path id="kvg:0756b-KaishoVt4-s9" kvg:type="㇕a" d="M54.41,69.51c-0.02,0.27-0.03,0.73-0.04,1.35c-0.04,4.03,0.2,14.35,0.2,15.81"/>
 			<path id="kvg:0756b-KaishoVt4-s10" kvg:type="㇐" d="M35.12,79.48c8.8-0.86,17.63-1.47,26.44-2.17c1.06-0.08,2.09-0.17,3.07-0.24"/>
 			<path id="kvg:0756b-KaishoVt4-s11" kvg:type="㇐a" d="M36.24,88.62c8.17-0.41,26.11-2.11,37.38-2.76"/>
 		</g>
-		<g id="kvg:0756b-KaishoVt4-g6" kvg:element="一">
+		<g id="kvg:0756b-KaishoVt4-g7" kvg:element="一" kvg:position="bottom">
 			<path id="kvg:0756b-KaishoVt4-s12" kvg:type="㇐a" d="M17.88,97.98c1.52,0.54,4.3,0.61,5.82,0.54c17.3-0.77,50.8-3.27,64.61-3.73c2.53-0.08,4.05,0.26,5.31,0.53"/>
 		</g>
 	</g>
