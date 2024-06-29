@@ -44,22 +44,16 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:06843-KaishoMidFst-s4" kvg:type="㇔/㇏" d="M31.47,48.9c2.37,1.59,6.28,5.76,8.28,8.85"/>
 	</g>
 	<g id="kvg:06843-KaishoMidFst-g2" kvg:element="兆" kvg:position="right">
-		<g id="kvg:06843-KaishoMidFst-g3" kvg:position="left">
-			<g id="kvg:06843-KaishoMidFst-g4" kvg:element="儿" kvg:part="1" kvg:original="八">
-				<path id="kvg:06843-KaishoMidFst-s5" kvg:type="㇒" d="M57.04,18.41c0.71,1.59,1.39,3.58,1.39,4.82c0,7.79,0.06,22.17,0.06,30.76c0,21.27-7.27,32.51-16.59,40.2"/>
-			</g>
-			<g id="kvg:06843-KaishoMidFst-g5" kvg:element="冫">
-				<path id="kvg:06843-KaishoMidFst-s6" kvg:type="㇔" d="M70.28,15.69c0.97,1.06,1.46,2.83,1.49,4.47c0.14,7.34-0.02,56.29-0.02,61.29c0,11.66,3.76,10.79,12.19,10.79c10.31,0,11.56-1.73,11.56-8.68"/>
-				<path id="kvg:06843-KaishoMidFst-s7" kvg:type="㇀" d="M43.91,38.81c2.89,1.47,7.47,6.03,8.2,8.32"/>
-			</g>
+		<g id="kvg:06843-KaishoMidFst-g3" kvg:element="儿" kvg:original="八">
+			<path id="kvg:06843-KaishoMidFst-s5" kvg:type="㇓" d="M57.04,18.41c0.71,1.59,1.39,3.58,1.39,4.82c0,7.79,0.06,22.17,0.06,30.76c0,21.27-7.27,32.51-16.59,40.2"/>
+			<path id="kvg:06843-KaishoMidFst-s6" kvg:type="㇟" d="M70.28,15.69c0.97,1.06,1.46,2.83,1.49,4.47c0.14,7.34-0.02,56.29-0.02,61.29c0,11.66,3.76,10.79,12.19,10.79c10.31,0,11.56-1.73,11.56-8.68"/>
 		</g>
-		<g id="kvg:06843-KaishoMidFst-g6" kvg:position="right">
-			<g id="kvg:06843-KaishoMidFst-g7" kvg:element="儿" kvg:part="2" kvg:original="八">
-				<path id="kvg:06843-KaishoMidFst-s8" kvg:type="㇟" d="M42.11,68.74c1.03,0.5,2.06,0.67,2.84,0.1c1.08-0.78,8.86-7.28,13.11-11.06"/>
-			</g>
-			<path id="kvg:06843-KaishoMidFst-s9" kvg:type="㇒" d="M89.64,31.25c0.04,0.36,0.09,0.94-0.08,1.46c-1.04,3.07-6.98,9.81-15.11,13.94"/>
-			<path id="kvg:06843-KaishoMidFst-s10" kvg:type="㇔" d="M74.7,51.02c6.25,2.75,16.13,11.31,17.7,15.59"/>
+		<g id="kvg:06843-KaishoMidFst-g4" kvg:element="冫" kvg:position="left">
+			<path id="kvg:06843-KaishoMidFst-s7" kvg:type="㇔" d="M43.91,38.81c2.89,1.47,7.47,6.03,8.2,8.32"/>
+			<path id="kvg:06843-KaishoMidFst-s8" kvg:type="㇀" d="M42.11,68.74c1.03,0.5,2.06,0.67,2.84,0.1c1.08-0.78,8.86-7.28,13.11-11.06"/>
 		</g>
+		<path id="kvg:06843-KaishoMidFst-s9" kvg:type="㇒" d="M89.64,31.25c0.04,0.36,0.09,0.94-0.08,1.46c-1.04,3.07-6.98,9.81-15.11,13.94"/>
+		<path id="kvg:06843-KaishoMidFst-s10" kvg:type="㇔" d="M74.7,51.02c6.25,2.75,16.13,11.31,17.7,15.59"/>
 	</g>
 </g>
 </g>
