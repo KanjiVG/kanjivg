@@ -47,8 +47,8 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:08cb2-KaishoHzFst-s4" kvg:type="㇐" d="M16.35,42.89c0.4,0.59,2.24,0.77,3.27,0.44c8.13-2.58,22.48-7.58,31.42-10.93"/>
 		</g>
 		<g id="kvg:08cb2-KaishoHzFst-g4" kvg:element="匕" kvg:position="right">
-			<path id="kvg:08cb2-KaishoHzFst-s5" kvg:type="㇟" d="M84.05,14.11C84,15,83.84,15.42,83.38,15.73c-3,2.05-12.77,7.21-22.45,9.31"/>
-			<path id="kvg:08cb2-KaishoHzFst-s6" kvg:type="㇑" d="M55.96,9.75c1,0.55,1.4,1.85,1.4,2.66c0,6.09,0.11,12.7,0.11,17.72c0,8.37,0.78,8.72,17.07,8.72c15.96,0,16.86-1.35,16.86-8.42"/>
+			<path id="kvg:08cb2-KaishoHzFst-s5" kvg:type="㇒" d="M84.05,14.11C84,15,83.84,15.42,83.38,15.73c-3,2.05-12.77,7.21-22.45,9.31"/>
+			<path id="kvg:08cb2-KaishoHzFst-s6" kvg:type="㇟" d="M55.96,9.75c1,0.55,1.4,1.85,1.4,2.66c0,6.09,0.11,12.7,0.11,17.72c0,8.37,0.78,8.72,17.07,8.72c15.96,0,16.86-1.35,16.86-8.42"/>
 		</g>
 	</g>
 	<g id="kvg:08cb2-KaishoHzFst-g5" kvg:element="貝" kvg:position="bottom" kvg:radical="general">
@@ -67,17 +67,18 @@ kvg:type CDATA #IMPLIED >
 </g>
 </g>
 <g id="kvg:StrokeNumbers_08cb2-KaishoHzFst" style="font-size:8;fill:#808080">
-	<text transform="matrix(1 0 0 1 9.50 24.50)">1</text>
+	<text transform="matrix(1 0 0 1 37.50 19.50)">1</text>
 	<text transform="matrix(1 0 0 1 21.75 11.50)">2</text>
-	<text transform="matrix(1 0 0 1 37.50 19.50)">3</text>
+	<text transform="matrix(1 0 0 1 9.50 24.50)">3</text>
 	<text transform="matrix(1 0 0 1 9.50 45.50)">4</text>
-	<text transform="matrix(1 0 0 1 51.50 7.50)">5</text>
-	<text transform="matrix(1 0 0 1 74.50 11.50)">6</text>
+	<text transform="matrix(1 0 0 1 74.50 11.50)">5</text>
+	<text transform="matrix(1 0 0 1 51.50 7.50)">6</text>
 	<text transform="matrix(1 0 0 1 24.50 57.50)">7</text>
 	<text transform="matrix(1 0 0 1 35.50 47.50)">8</text>
 	<text transform="matrix(1 0 0 1 37.50 58.03)">9</text>
 	<text transform="matrix(1 0 0 1 36.50 68.95)">10</text>
 	<text transform="matrix(1 0 0 1 36.50 80.50)">11</text>
 	<text transform="matrix(1 0 0 1 24.50 93.50)">12</text>
+	<text transform="matrix(1 0 0 1 84.50 93.50)">13</text>
 </g>
 </svg>
