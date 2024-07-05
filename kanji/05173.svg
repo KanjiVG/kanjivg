@@ -37,11 +37,11 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_05173" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:05173" kvg:element="关">
-	<g id="kvg:05173-g1" kvg:element="丷" kvg:original="八" kvg:radical="general">
+	<g id="kvg:05173-g1" kvg:element="丷" kvg:original="八" kvg:position="top" kvg:radical="general">
 		<path id="kvg:05173-s1" kvg:type="㇔" d="M 35.910208,17.62 c 3.69,2.55 9.54,10.48 10.47,14.44"/>
 		<path id="kvg:05173-s2" kvg:type="㇒" d="M 69.280208,14.64 c 0.05,0.58 0.22,1.54 -0.1,2.34 -1.65,4.14 -5.03,9.39 -10.9,16.52"/>
 	</g>
-	<g id="kvg:05173-g2" kvg:element="天">
+	<g id="kvg:05173-g2" kvg:element="天" kvg:position="bottom">
 		<path id="kvg:05173-s3" kvg:type="㇐" d="M 37.320208,39.34 c 1.96,0.29 3.96,0.31 5.58,0.13 6.28,-0.69 17.97,-2.39 24.4,-3.01 1.98,-0.19 3.88,-0.35 5.84,0.13"/>
 		<g id="kvg:05173-g3" kvg:element="大">
 			<path id="kvg:05173-s4" kvg:type="㇐" d="M 30.270208,61.73 c 3.26,0.77 5.78,0.8 8.64,0.46 12.12,-1.44 26.11,-2.7 35.12,-3.35 3.02,-0.22 6.01,-0.07 8.98,0.64"/>

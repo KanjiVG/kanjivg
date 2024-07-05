@@ -37,17 +37,17 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_053ef" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:053ef" kvg:element="可">
-	<g id="kvg:053ef-g1" kvg:element="丁" kvg:part="1">
+	<g id="kvg:053ef-g1" kvg:element="丁" kvg:part="1" kvg:position="kamae">
 		<g id="kvg:053ef-g2" kvg:element="一" kvg:radical="nelson">
 			<path id="kvg:053ef-s1" kvg:type="㇐" d="M13.88,21.98C18,22.75,21.74,22.34,25.39,22c13.57-1.26,43.04-4.34,58.11-5.52c3.93-0.31,7.74-0.5,11.63,0.33"/>
 		</g>
 	</g>
-	<g id="kvg:053ef-g3" kvg:element="口" kvg:radical="tradit">
+	<g id="kvg:053ef-g3" kvg:element="口" kvg:position="kamaec" kvg:radical="tradit">
 		<path id="kvg:053ef-s2" kvg:type="㇑" d="M25,42.14c0.87,0.87,1.5,1.99,1.79,3.21c0.74,3.14,1.96,9.62,2.94,15.63c0.28,1.74,0.55,3.45,0.77,5.02"/>
 		<path id="kvg:053ef-s3" kvg:type="㇕b" d="M27.38,44.28c7.5-1.77,16.49-3.18,21.87-4.27c3.75-0.76,5.13,1.05,4.31,4.53c-1.01,4.33-1.94,8.21-3.4,14.01"/>
 		<path id="kvg:053ef-s4" kvg:type="㇐b" d="M31.2,61.83c5.62-0.7,11.39-1.52,17.83-2.29c1.21-0.14,2.43-0.29,3.69-0.43"/>
 	</g>
-	<g id="kvg:053ef-g4" kvg:element="丁" kvg:part="2">
+	<g id="kvg:053ef-g4" kvg:element="丁" kvg:part="2" kvg:position="kamae">
 		<g id="kvg:053ef-g5" kvg:element="亅">
 			<path id="kvg:053ef-s5" kvg:type="㇚" d="M75.46,20.33c1.04,1.04,2.01,2.67,2.01,4.77c0,14.56-0.01,60.44-0.01,65.4c0,10.62-7.96,1.25-9.46,0"/>
 		</g>
