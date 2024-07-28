@@ -32,8 +32,8 @@ def createPathsSVG(f):
 	s = open(f, "r", encoding="utf-8").read()
 	paths = pathre.findall(s)
 	out = open(f[:-4] + "-paths.svg", "w", encoding="utf-8")
-	out.write("""<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" []>
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">\n""")
+	out.write("""<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:kvg="http://kanjivg.tagaini.net" width="109" height="109" viewBox="0 0 109 109" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">\n""")
 	i = 1
 	for path in paths:
 		out.write('<!--%2d--><path d="%s"/>\n' % (i, path))
@@ -77,7 +77,7 @@ def release():
 	out.write(licenseString)
 	out.write("\nThis file has been generated on %s, using the latest KanjiVG data\nto this date." % (datetime.date.today()))
 	out.write("\n-->\n")
-	out.write("<kanjivg xmlns:kvg='http://kanjivg.tagaini.net'>\n")
+	out.write("<kanjivg xmlns:kvg=\"http://kanjivg.tagaini.net\">\n")
 	for f in files:
 		data = open(os.path.join(datadir, f), encoding='utf8').read()
 		data = data.replace("\r\n", "\n")
