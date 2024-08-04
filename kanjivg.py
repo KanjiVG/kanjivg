@@ -117,7 +117,8 @@ class StrokeGr:
 		self.position = None
 		self.radical = None
 		self.phon = None
-		
+		self.ID = None
+
 		self.childs = []
 
 	def __repr__(self):
@@ -300,6 +301,8 @@ class KanjisHandler(BasicHandler):
 		if "kvg:radical" in attrs: group.radical = unicode(attrs["kvg:radical"])
 		if "kvg:phon" in attrs: group.phon = unicode(attrs["kvg:phon"])
 
+#		print("ID is %s" % (attrs["id"]))
+		group.ID = str(attrs["id"])
 		self.group = group
 
 		if group.element: self.metComponents.add(group.element)
@@ -316,7 +319,7 @@ class KanjisHandler(BasicHandler):
 			# The group must not exist
 			else:
 				if (group.element + str(group.number)) in self.compCpt:
-					print("%s: Duplicate numbered group %d" % (self.kanji.kId(), group.number))
+					print("%s: Duplicate numbered group %s for %s - %d" % (self.kanji.kId(), group.ID, group.element, group.number))
 			self.compCpt[group.element + str(group.number)] = group.part
 		# No number, just a part - groups restart with part 1, otherwise must
 		# increase correctly
