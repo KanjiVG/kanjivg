@@ -256,6 +256,7 @@ class KanjisHandler(BasicHandler):
 		self.kanjis = {}
 		self.group = None
 		self.groups = []
+		# This stores the components for checking
 		self.compCpt = {}
 		self.metComponents = set()
 
@@ -271,7 +272,7 @@ class KanjisHandler(BasicHandler):
 			raise Exception("Each kanji should have id formatted as kvg:kanji_XXXXX.")
 		idVariant = idVariantStr.split('-')
 		self.kanji = Kanji(*idVariant)
-		
+		self.compCpt = {}
 
 	def handle_end_kanji(self):
 		if self.group is not None:
@@ -301,7 +302,6 @@ class KanjisHandler(BasicHandler):
 		if "kvg:radical" in attrs: group.radical = unicode(attrs["kvg:radical"])
 		if "kvg:phon" in attrs: group.phon = unicode(attrs["kvg:phon"])
 
-#		print("ID is %s" % (attrs["id"]))
 		group.ID = str(attrs["id"])
 		self.group = group
 
@@ -309,18 +309,21 @@ class KanjisHandler(BasicHandler):
 		if group.original: self.metComponents.add(group.original)
 
 		if group.number:
-			if not group.part: print("%s: Number specified, but part missing" % (self.kanji.kId()))
+			if not group.part:
+				print("%s: group %s has number %d, but no part" % (self.kanji.kId(), group.ID, group.number))
+			ged = group.element + "n" + str(group.number)
 			# The group must exist already
 			if group.part > 1:
-				if (group.element + str(group.number)) not in self.compCpt:
-					print("%s: Missing numbered group" % (self.kanji.kId()))
-				elif self.compCpt[group.element + str(group.number)] != group.part - 1:
+				if (ged) not in self.compCpt:
+					print("%s: Numbered group %s with no first part" % (self.kanji.kId(), group.ID))
+				elif self.compCpt[ged] != group.part - 1:
 					print("%s: Incorrectly numbered group" % (self.kanji.kId()))
 			# The group must not exist
 			else:
-				if (group.element + str(group.number)) in self.compCpt:
-					print("%s: Duplicate numbered group %s for %s - %d" % (self.kanji.kId(), group.ID, group.element, group.number))
-			self.compCpt[group.element + str(group.number)] = group.part
+				if (ged) in self.compCpt:
+					if self.compCpt[ged] == group.part:
+						print("%s: Duplicate group %s %s for %s part %d - %d" % (self.kanji.kId(), group.ID, ged,group.element, group.part, group.number))
+			self.compCpt[ged] = group.part
 		# No number, just a part - groups restart with part 1, otherwise must
 		# increase correctly
 		elif group.part:
@@ -345,6 +348,8 @@ class KanjisHandler(BasicHandler):
 			stroke.stype = unicode(attrs["kvg:type"])
 		if "d" in attrs: stroke.svg = unicode(attrs["d"])
 		self.group.childs.append(stroke)
+
+
 
 class SVGHandler(BasicHandler):
 	"""SVG handler for parsing final kanji files. It can handle single-kanji files or aggregation files. After parsing, the kanji are accessible through the kanjis member, indexed by their svg file name."""
@@ -396,7 +401,7 @@ class SVGHandler(BasicHandler):
 			if not group.part: print("%s: Number specified, but part missing" % (self.currentKanji.kId()))
 			# The group must exist already
 			if group.part > 1:
-				if not self.compCpt.has_key(group.element + str(group.number)):
+				if not self.compCpt.has_key(group.element + "n" + str(group.number)):
 					print("%s: Missing numbered group" % (self.currentKanji.kId()))
 				elif self.compCpt[group.element + str(group.number)] != group.part - 1:
 					print("%s: Incorrectly numbered group" % (self.currentKanji.kId()))
