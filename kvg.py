@@ -67,6 +67,8 @@ def release():
 	allfiles = os.listdir(datadir)
 	files = []
 	for f in allfiles:
+                # This rejects the variant files by only choosing
+                # files with length of 9, for 0abcd.svg style files.
 		if len(f) == 9: files.append(f)
 	del allfiles
 	files.sort()
@@ -75,7 +77,7 @@ def release():
 	out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 	out.write("<!--\n")
 	out.write(licenseString)
-	out.write("\nThis file has been generated on %s, using the latest KanjiVG data\nto this date." % (datetime.date.today()))
+	out.write("\nThis file was generated on %s from the most recent KanjiVG data." % (datetime.date.today()))
 	out.write("\n-->\n")
 	out.write("<kanjivg xmlns:kvg='http://kanjivg.tagaini.net'>\n")
 	for f in files:
