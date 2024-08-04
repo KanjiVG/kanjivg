@@ -30,7 +30,7 @@ class SvgFileInfo:
     def __init__(self, file, dir):
         self.path = os.path.join(dir, file)
         if file[-4:].lower() != ".svg":
-            raise Exception("File should have .svg exension. (%s)" % (str(self.path)))
+            raise Exception("File should have .svg extension. (%s)" % (str(self.path)))
         parts = (file[:-4]).split('-')
         if len(parts) == 2:
             self.variant = parts[1]

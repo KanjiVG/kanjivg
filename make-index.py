@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+# This makes the file kvg-index.json which is used by the online
+# KanjiVG viewer at https://kanjivg.tagaini.net/viewer.html. This
+# script was contributed by
+# https://github.com/KanjiVG/kanjivg/pull/430, but copy-pasted into
+# the repository, see that pull request for details of why. This does
+# not use the other kanjivg libraries in this directory.
+
 if __name__ == "__main__":
 	import glob
 	import json
