@@ -42,7 +42,12 @@ See http://creativecommons.org/licenses/by-sa/3.0/ for more details."""
 def isKanji(v):
 	return (v >= 0x4E00 and v <= 0x9FC3) or (v >= 0x3400 and v <= 0x4DBF) or (v >= 0xF900 and v <= 0xFAD9) or (v >= 0x2E80 and v <= 0x2EFF) or (v >= 0x20000 and v <= 0x2A6DF)
 
-# Returns the unicode of a character in a unicode string, taking surrogate pairs into account
+# Returns the unicode of a character in a unicode string, taking
+# surrogate pairs into account
+
+# Why do we need to worry about surrogate pairs? This doesn't occur in
+# KanjiVG.
+
 def realord(s, pos = 0):
 	if s == None: return None
 	code = ord(s[pos])
@@ -311,7 +316,7 @@ class KanjisHandler(BasicHandler):
 			# The group must not exist
 			else:
 				if (group.element + str(group.number)) in self.compCpt:
-					print("%s: Duplicate numbered group" % (self.kanji.kId()))
+					print("%s: Duplicate numbered group %d" % (self.kanji.kId(), group.number))
 			self.compCpt[group.element + str(group.number)] = group.part
 		# No number, just a part - groups restart with part 1, otherwise must
 		# increase correctly
@@ -321,7 +326,7 @@ class KanjisHandler(BasicHandler):
 				if group.element not in self.compCpt:
 					print("%s: Incorrectly started multi-part group" % (self.kanji.kId()))
 				elif self.compCpt[group.element] != group.part - 1:
-					print("%s: Incorrectly splitted multi-part group" % (self.kanji.kId()))
+					print("%s: Incorrectly split multi-part group for %s - %d" % (self.kanji.kId(),group.element,group.part))
 			self.compCpt[group.element] = group.part
 
 	def handle_end_g(self):
@@ -395,7 +400,7 @@ class SVGHandler(BasicHandler):
 			# The group must not exist
 			else:
 				if self.compCpt.has_key(group.element + str(group.number)):
-					print("%s: Duplicate numbered group" % (self.currentKanji.kId()))
+					print("%s: Duplicate numbered group %d" % (self.currentKanji.kId(), group.number))
 			self.compCpt[group.element + str(group.number)] = group.part
 		# No number, just a part - groups restart with part 1, otherwise must
 		# increase correctly

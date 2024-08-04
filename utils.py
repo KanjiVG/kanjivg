@@ -11,6 +11,11 @@ else:
 	def unicode(s):
 		return s
 
+# Given a string "id", either turn it into its numerical Unicode
+# value, or if it appears to be a hexadecimal string, convert that
+# into a number, then convert the number into a five digit hexadecimal
+# for use as a file name.
+
 def canonicalId(id):
 	if isinstance(id, str):
 		idLen = len(id)
@@ -61,9 +66,13 @@ class SvgFileInfo:
 			raise Exception("File does not contain 1 kanji entry. (%s)" % (self.path))
 		return parsed[0]
 
+# Parse kanjivg.xml
+
 def parseXmlFile(path, handler):
 	from xml.sax import parse
 	parse(path, handler)
+
+# Make a list of the SVG files in kanji
 
 def listSvgFiles(dir):
 	list = []
@@ -72,6 +81,8 @@ def listSvgFiles(dir):
 		if sfi.OK:
 			list.append(sfi)
 	return list
+
+# Read in the file kanjivg.xml
 
 def readXmlFile(path, KanjisHandler=None):
 	if KanjisHandler is None:

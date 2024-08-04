@@ -31,9 +31,9 @@ helpString = """Usage: %s <find-svg|find-xml> <element1> [...elementN]
 
 Recognized commands:
   find-svg      Find and view summary of an SVG file for the given 
-                element in ./kanji/ directory.
+                element in the /kanji directory.
   find-xml      Find and view summary of a <kanji> entry for
-                the given element from ./kanjivg.xml file.
+                the given element from the file kanjivg.xml
 
 Parameters:
   element       May either be the singular character, e.g. 並 or its
@@ -129,6 +129,12 @@ if __name__ == "__main__":
 		len(sys.argv) <= actions[sys.argv[1]][1]:
 		print(helpString)
 		sys.exit(0)
+
+
+	if sys.argv[1] == "find-xml":
+		if not os.path.exists("./kanjivg.xml"):
+			print("Re-run \"./kvg.py release\" to regenerate kanjivg.xml")
+			sys.exit(1)
 
 	action = actions[sys.argv[1]][0]
 	args = sys.argv[2:]
