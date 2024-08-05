@@ -418,7 +418,7 @@ class SVGHandler(BasicHandler):
 		elif group.part:
 				# The group must exist already
 			if group.part > 1:
-				if not self.compCpt.has_key(group.element):
+				if (group.element) not in self.compCpt:
 					print("%s: Incorrectly started multi-part group" % (self.currentKanji.kId()))
 				elif self.compCpt[group.element] != group.part - 1:
 					print("%s: Incorrectly splitted multi-part group" % (self.currentKanji.kId()))
