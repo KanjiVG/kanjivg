@@ -397,19 +397,22 @@ class SVGHandler(BasicHandler):
 		if group.element: self.metComponents.add(group.element)
 		if group.original: self.metComponents.add(group.original)
 
+		# This code seems to be duplicated in the XML and SVG code and
+		# possibly should be unified.
 		if group.number:
-			if not group.part: print("%s: Number specified, but part missing" % (self.currentKanji.kId()))
-			# The group must exist already
+			if not group.part:
+				print("%s: Number specified, but part missing" % (self.currentKanji.kId()))
+			ged = group.element + "n" + str(group.number)
 			if group.part > 1:
-				if not self.compCpt.has_key(group.element + "n" + str(group.number)):
+				if (ged) not in self.compCpt:
 					print("%s: Missing numbered group" % (self.currentKanji.kId()))
-				elif self.compCpt[group.element + str(group.number)] != group.part - 1:
+				elif self.compCpt[ged] != group.part - 1:
 					print("%s: Incorrectly numbered group" % (self.currentKanji.kId()))
 			# The group must not exist
 			else:
-				if self.compCpt.has_key(group.element + str(group.number)):
+				if (ged) not in self.compCpt:
 					print("%s: Duplicate numbered group %d" % (self.currentKanji.kId(), group.number))
-			self.compCpt[group.element + str(group.number)] = group.part
+			self.compCpt[ged] = group.part
 		# No number, just a part - groups restart with part 1, otherwise must
 		# increase correctly
 		elif group.part:
