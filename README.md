@@ -31,6 +31,14 @@ This zip file contains all of the SVG files, including the variant
 forms, in the same format as they were in the repository at the time
 the release was made.
 
+* kanjivg-YYYYMMDD-stripped.zip
+
+This zip file contains all of the SVG files, including the variant
+forms, but with all of the attributes such as the stroke type,
+radical, or element removed from the files. This file is specifically
+for people who use XML parsers which limit the use of user-defined
+attributes. 
+
 * kanjivg-YYYYMMDD.xml.gz
 
 The file kanjivg-YYYYMMDD.xml.gz contains all of the non-variant SVG

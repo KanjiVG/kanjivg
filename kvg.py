@@ -20,6 +20,8 @@ import sys, os, re, datetime
 from kanjivg import licenseString
 from utils import open
 
+verbose = False
+
 pathre = re.compile(r'<path .*d="([^"]*)".*/>')
 
 helpString = """Usage: %s <command> [ kanji files ]
@@ -90,7 +92,8 @@ def release():
 		out.write(data)
 	out.write("</kanjivg>\n")
 	out.close()
-	print("%d kanji emitted" % len(files))
+	if verbose:
+		print("%d kanji emitted" % len(files))
 
 actions = {
 	"split": (createPathsSVG, 2),

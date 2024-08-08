@@ -3,7 +3,7 @@
 # This script removes unnecessary files such as backups from Emacs or
 # old release files.
 
-import os, glob
+import os, glob, shutil
 
 # Print debugging information if set to a true value.
 
@@ -30,3 +30,7 @@ for file in emacsBackups:
 	if verbose:
 		print("Removing %s" % (file) )
 	os.remove(file)
+
+stripped = 'stripped'
+if os.path.exists(stripped):
+	shutil.rmtree(stripped)
