@@ -40,7 +40,7 @@ kvg:type CDATA #IMPLIED >
 	<g id="kvg:07433-KaishoVtLst-g1" kvg:element="王" kvg:original="玉" kvg:partial="true" kvg:position="left" kvg:radical="general">
 		<path id="kvg:07433-KaishoVtLst-s1" kvg:type="㇐" d="M9.86,26.89c0.59,0.35,3.77,0.41,4.37,0.33C17.5,26.75,26.25,25,32.86,24.2c0.9-0.11,2.58-0.25,3.33,0.04"/>
 		<path id="kvg:07433-KaishoVtLst-s2" kvg:type="㇐" d="M10.16,52.35c0.52,0.38,3.66,0.44,4.19,0.35c3.04-0.51,14.88-3.02,19.09-3.57c0.65-0.08,1.51-0.16,2.48,0.18"/>
-		<path id="kvg:07433-KaishoVtLst-s3" kvg:type="㇐" d="M11.49,83.39c1.11,1.1,2.97,1.57,3.75,1.1c4.96-3.02,12.5-7.95,20.06-13.16"/>
+		<path id="kvg:07433-KaishoVtLst-s3" kvg:type="㇀/㇐" d="M11.49,83.39c1.11,1.1,2.97,1.57,3.75,1.1c4.96-3.02,12.5-7.95,20.06-13.16"/>
 		<path id="kvg:07433-KaishoVtLst-s4" kvg:type="㇑" d="M22.89,29.05c0.82,0.84,1.39,2.64,1.39,3.32c0,5.67,0.05,42.52-0.11,46.28"/>
 	</g>
 	<g id="kvg:07433-KaishoVtLst-g2" kvg:element="林" kvg:position="right">
