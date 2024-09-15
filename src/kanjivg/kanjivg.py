@@ -15,8 +15,8 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-from xmlhandler import *
-from utils import PYTHON_VERSION_MAJOR, canonicalId
+from .xmlhandler import *
+from .utils import PYTHON_VERSION_MAJOR, canonicalId
 
 if PYTHON_VERSION_MAJOR > 2:
 	def unicode(s):
