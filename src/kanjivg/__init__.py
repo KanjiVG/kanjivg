@@ -6,3 +6,5 @@ __license__ = metadata.metadata(__name__)['License']
 __all__ = [__name__]
 
 from .kanjivg import *
+from .kvg_lookup import *
+from .kvg import *
