@@ -18,8 +18,8 @@
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import sys, os, re, datetime
-from .kanjivg import Stroke, StrokeGr
-from .utils import listSvgFiles, readXmlFile, canonicalId, PYTHON_VERSION_MAJOR
+from kanjivg import Stroke, StrokeGr
+from utils import listSvgFiles, readXmlFile, canonicalId, PYTHON_VERSION_MAJOR
 
 if PYTHON_VERSION_MAJOR > 2:
 	def unicode(s):
