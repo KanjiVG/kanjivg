@@ -24,7 +24,9 @@ classifiers = [
 ]
 
 [tool.setuptools_scm]
+version_scheme = "no-guess-dev"
 local_scheme = "no-local-version"
+tag_regex = "^(?:r)?(\\d{8}-?\\d?)$"
 
 [project.urls]
 Homepage = "https://github.com/KanjiVG/kanjivg"
