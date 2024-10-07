@@ -43,20 +43,20 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:085cf-s3" kvg:type="㇑a" d="M67.25,10.25c1.12,1,1.87,2.52,1.5,4c-1.12,4.5-2.88,8-4.5,13.75"/>
 	</g>
 	<g id="kvg:085cf-g2" kvg:element="臧" kvg:position="bottom">
-		<g id="kvg:085cf-g3" kvg:element="爿" kvg:variant="true">
-			<path id="kvg:085cf-s4" kvg:type="㇄" d="M32.9,42.73c0.42,0.76,0.68,2.07,0.68,2.96c0,21.77-0.27,40.11-9.3,49.95"/>
-			<path id="kvg:085cf-s5" kvg:type="㇐" d="M30.68,42.62c1.57,0.63,3.78,0.53,5.12,0.38c11.48-1.26,25.98-3.8,38.79-4.96c2.22-0.2,3.56-0.08,4.67,0.37"/>
-			<path id="kvg:085cf-s6" kvg:type="㇐" d="M19.76,38.25c0.78,0.49,1.08,1.06,1.14,2.66c0.1,2.41-0.42,9.56-0.66,12.09c-0.08,0.81,0.14,2.01,1.3,1.88c4.1-0.44,7.03-0.69,11.77-1.04"/>
-			<g id="kvg:085cf-g4" kvg:element="厂" kvg:part="1" kvg:variant="true">
-				<path id="kvg:085cf-s7" kvg:type="㇒" d="M14.44,66.89c0.81,0.61,2.35,1.56,3.63,1.36c6.42-1,10.42-1.75,15.14-2.74"/>
+		<g id="kvg:085cf-g3" kvg:element="厂" kvg:variant="true">
+			<g id="kvg:085cf-g4" kvg:element="爿" kvg:part="1" kvg:variant="true">
+				<path id="kvg:085cf-s4" kvg:type="㇓" d="M32.9,42.73c0.42,0.76,0.68,2.07,0.68,2.96c0,21.77-0.27,40.11-9.3,49.95"/>
 			</g>
-		</g>
-		<g id="kvg:085cf-g5" kvg:element="戈" kvg:part="1">
-			<g id="kvg:085cf-g6" kvg:element="弋" kvg:part="1">
-				<g id="kvg:085cf-g7" kvg:element="厂" kvg:part="2" kvg:variant="true">
-					<path id="kvg:085cf-s8" kvg:type="㇒" d="M22.99,67.91c0.02,0.5,0.08,1.3-0.04,2.03c-1.2,6.81-2.45,13.31-8.03,20.39"/>
+			<g id="kvg:085cf-g5" kvg:element="戈" kvg:part="1">
+				<g id="kvg:085cf-g6" kvg:element="弋" kvg:part="1">
+					<path id="kvg:085cf-s5" kvg:type="㇐" d="M30.68,42.62c1.57,0.63,3.78,0.53,5.12,0.38c11.48-1.26,25.98-3.8,38.79-4.96c2.22-0.2,3.56-0.08,4.67,0.37"/>
 				</g>
 			</g>
+		</g>
+		<g id="kvg:085cf-g7" kvg:element="爿" kvg:part="2" kvg:variant="true">
+			<path id="kvg:085cf-s6" kvg:type="㇄" d="M19.76,38.25c0.78,0.49,1.08,1.06,1.14,2.66c0.1,2.41-0.42,9.56-0.66,12.09c-0.08,0.81,0.14,2.01,1.3,1.88c4.1-0.44,7.03-0.69,11.77-1.04"/>
+			<path id="kvg:085cf-s7" kvg:type="㇐" d="M14.44,66.89c0.81,0.61,2.35,1.56,3.63,1.36c6.42-1,10.42-1.75,15.14-2.74"/>
+			<path id="kvg:085cf-s8" kvg:type="㇒" d="M22.99,67.91c0.02,0.5,0.08,1.3-0.04,2.03c-1.2,6.81-2.45,13.31-8.03,20.39"/>
 		</g>
 		<g id="kvg:085cf-g8" kvg:element="臣">
 			<path id="kvg:085cf-s9" kvg:type="㇑" d="M40,51.54c0.61,0.26,0.97,1.15,1.09,1.67c0.12,0.51,0,37.04-0.12,40.24"/>
