@@ -53,15 +53,17 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:055c5-s9" kvg:type="㇐a" d="M51.38,53.4c5.77,0,22.95-2.05,30.42-2.05"/>
 			</g>
 		</g>
-		<g id="kvg:055c5-g5" kvg:element="犬" kvg:position="bottom">
+		<g id="kvg:055c5-g5" kvg:element="犬" kvg:part="1" kvg:position="bottom">
 			<g id="kvg:055c5-g6" kvg:element="大">
 				<path id="kvg:055c5-s10" kvg:type="㇐" d="M36.62,73.11c1.43,0.39,3.04,0.19,3.97,0.11c11.76-0.97,37.82-2.47,50.15-3.64c1.18-0.11,3.08,0.17,4.62,0.42"/>
 				<path id="kvg:055c5-s11" kvg:type="㇒" d="M63.32,58.75c0.09,0.99,0.39,1.7,0.28,2.89C61.75,82.75,53.5,93,34.25,99.75"/>
 				<path id="kvg:055c5-s12" kvg:type="㇏" d="M63.33,71.75c6.41,5.83,21.35,20.69,27.75,24.6c2.18,1.33,2.93,1.53,3.92,1.65"/>
 			</g>
-			<g id="kvg:055c5-g7" kvg:element="丶">
-				<path id="kvg:055c5-s13" kvg:type="㇔" d="M73.77,57.08c2.57,1.26,6.65,5.18,7.29,7.13"/>
-			</g>
+		</g>
+	</g>
+	<g id="kvg:055c5-g7" kvg:element="犬" kvg:part="2" kvg:position="bottom">
+		<g id="kvg:055c5-g8" kvg:element="丶">
+			<path id="kvg:055c5-s13" kvg:type="㇔" d="M73.77,57.08c2.57,1.26,6.65,5.18,7.29,7.13"/>
 		</g>
 	</g>
 </g>
