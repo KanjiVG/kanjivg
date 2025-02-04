@@ -58,22 +58,22 @@ kvg:type CDATA #IMPLIED >
 			<g id="kvg:08cce-g7" kvg:element="一" kvg:position="bottom">
 				<path id="kvg:08cce-s9" kvg:type="㇐" d="M48.82,45.87c3.15,0.64,6.2-0.01,9.34-0.7c5.96-1.3,12.39-2.51,17.6-3.29c2.47-0.44,4.97-0.56,7.49-0.39"/>
 			</g>
-			<g id="kvg:08cce-g8" kvg:element="戈">
-				<g id="kvg:08cce-g9" kvg:element="弋" kvg:part="1">
-					<g id="kvg:08cce-g10" kvg:element="三" kvg:part="2">
-						<g id="kvg:08cce-g11" kvg:element="一">
-							<path id="kvg:08cce-s10" kvg:type="㇐" d="M44.25,60.45c3.22,0.87,6.37,0.71,9.54-0.04c7.34-1.74,21.46-4.78,30.71-6.07c3.2-0.45,6.32-0.79,9.5-0.34"/>
-						</g>
+		</g>
+		<g id="kvg:08cce-g8" kvg:element="戈">
+			<g id="kvg:08cce-g9" kvg:element="弋" kvg:part="1">
+				<g id="kvg:08cce-g10" kvg:element="三" kvg:part="2">
+					<g id="kvg:08cce-g11" kvg:element="一">
+						<path id="kvg:08cce-s10" kvg:type="㇐" d="M44.25,60.45c3.22,0.87,6.37,0.71,9.54-0.04c7.34-1.74,21.46-4.78,30.71-6.07c3.2-0.45,6.32-0.79,9.5-0.34"/>
 					</g>
-					<path id="kvg:08cce-s11" kvg:type="㇂" d="M55.77,11.25c1.64,1.83,2.31,3.33,2.66,7.26C61.88,56.5,72.25,81.5,90.7,94.18c6.21,4.27,5.78,1.03,4.96-7.06"/>
 				</g>
-				<g id="kvg:08cce-g12" kvg:element="丿">
-					<path id="kvg:08cce-s12" kvg:type="㇒" d="M85.95,61.88c0,1.12-0.08,1.89-0.7,2.92C79.75,73.88,70,85.38,49.31,95.11"/>
-				</g>
-				<g id="kvg:08cce-g13" kvg:element="弋" kvg:part="2">
-					<g id="kvg:08cce-g14" kvg:element="丶">
-						<path id="kvg:08cce-s13" kvg:type="㇔" d="M70.37,13.03c4.12,1.4,9.99,4.12,11.91,6.52"/>
-					</g>
+				<path id="kvg:08cce-s11" kvg:type="㇂" d="M55.77,11.25c1.64,1.83,2.31,3.33,2.66,7.26C61.88,56.5,72.25,81.5,90.7,94.18c6.21,4.27,5.78,1.03,4.96-7.06"/>
+			</g>
+			<g id="kvg:08cce-g12" kvg:element="丿">
+				<path id="kvg:08cce-s12" kvg:type="㇒" d="M85.95,61.88c0,1.12-0.08,1.89-0.7,2.92C79.75,73.88,70,85.38,49.31,95.11"/>
+			</g>
+			<g id="kvg:08cce-g13" kvg:element="弋" kvg:part="2">
+				<g id="kvg:08cce-g14" kvg:element="丶">
+					<path id="kvg:08cce-s13" kvg:type="㇔" d="M70.37,13.03c4.12,1.4,9.99,4.12,11.91,6.52"/>
 				</g>
 			</g>
 		</g>

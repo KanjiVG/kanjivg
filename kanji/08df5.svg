@@ -56,22 +56,22 @@ kvg:type CDATA #IMPLIED >
 			<g id="kvg:08df5-g6" kvg:element="一" kvg:position="bottom">
 				<path id="kvg:08df5-s9" kvg:type="㇐" d="M48.33,44.38c2.15,0.57,3.79,0.64,5.92,0.12c8.75-2.13,14.5-3.25,21.78-4.29c1.83-0.26,3.34-0.34,5.11,0.07"/>
 			</g>
-			<g id="kvg:08df5-g7" kvg:element="戈">
-				<g id="kvg:08df5-g8" kvg:element="弋" kvg:part="1">
-					<g id="kvg:08df5-g9" kvg:element="三" kvg:part="2">
-						<g id="kvg:08df5-g10" kvg:element="一">
-							<path id="kvg:08df5-s10" kvg:type="㇐" d="M45,59.41c2,0.59,4.25,0.34,7.02-0.27c7.25-1.61,20.73-4.64,31.62-6.31c2.1-0.32,4.35-0.52,6.48-0.32"/>
-						</g>
+		</g>
+		<g id="kvg:08df5-g7" kvg:element="戈">
+			<g id="kvg:08df5-g8" kvg:element="弋" kvg:part="1">
+				<g id="kvg:08df5-g9" kvg:element="三" kvg:part="2">
+					<g id="kvg:08df5-g10" kvg:element="一">
+						<path id="kvg:08df5-s10" kvg:type="㇐" d="M45,59.41c2,0.59,4.25,0.34,7.02-0.27c7.25-1.61,20.73-4.64,31.62-6.31c2.1-0.32,4.35-0.52,6.48-0.32"/>
 					</g>
-					<path id="kvg:08df5-s11" kvg:type="㇂" d="M57.99,13c1.13,1.13,1.8,2.83,2.27,6.75c4,33.88,13.87,57.38,30.5,71.94c6.22,5.45,6.26,0.78,5.33-7.29"/>
 				</g>
-				<g id="kvg:08df5-g11" kvg:element="丿">
-					<path id="kvg:08df5-s12" kvg:type="㇒" d="M83.58,59.99c0.1,0.83-0.15,1.94-0.7,3.07C79,71,67.75,85.38,47.15,95.37"/>
-				</g>
-				<g id="kvg:08df5-g12" kvg:element="弋" kvg:part="2">
-					<g id="kvg:08df5-g13" kvg:element="丶">
-						<path id="kvg:08df5-s13" kvg:type="㇔" d="M76.88,13.38c3.57,1.53,9.29,5.02,10.95,7.64"/>
-					</g>
+				<path id="kvg:08df5-s11" kvg:type="㇂" d="M57.99,13c1.13,1.13,1.8,2.83,2.27,6.75c4,33.88,13.87,57.38,30.5,71.94c6.22,5.45,6.26,0.78,5.33-7.29"/>
+			</g>
+			<g id="kvg:08df5-g11" kvg:element="丿">
+				<path id="kvg:08df5-s12" kvg:type="㇒" d="M83.58,59.99c0.1,0.83-0.15,1.94-0.7,3.07C79,71,67.75,85.38,47.15,95.37"/>
+			</g>
+			<g id="kvg:08df5-g12" kvg:element="弋" kvg:part="2">
+				<g id="kvg:08df5-g13" kvg:element="丶">
+					<path id="kvg:08df5-s13" kvg:type="㇔" d="M76.88,13.38c3.57,1.53,9.29,5.02,10.95,7.64"/>
 				</g>
 			</g>
 		</g>
