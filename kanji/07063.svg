@@ -37,13 +37,13 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_07063" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:07063" kvg:element="灣">
-	<g id="kvg:07063-g1" kvg:element="䜌" kvg:variant="true" kvg:original="水" kvg:position="left" kvg:radical="general">
+	<g id="kvg:07063-g1" kvg:element="氵" kvg:variant="true" kvg:original="水" kvg:position="left" kvg:radical="general">
 		<path id="kvg:07063-s1" kvg:type="㇔" d="M18.13,13.5c3.92,1.69,10.13,6.96,11.12,9.59"/>
 		<path id="kvg:07063-s2" kvg:type="㇔" d="M14,39.75c4.24,1.63,10.94,6.71,12,9.25"/>
 		<path id="kvg:07063-s3" kvg:type="㇀" d="M14.25,88.23c1.71,1.27,3.78,1.32,4.86-0.25c3.14-4.57,6.29-10.16,9.14-15.99"/>
 	</g>
 	<g id="kvg:07063-g2" kvg:element="彎" kvg:position="right">
-		<g id="kvg:07063-g3" kvg:position="top">
+		<g id="kvg:07063-g3" kvg:element="䜌" kvg:position="top">
 			<g id="kvg:07063-g4" kvg:element="言">
 				<path id="kvg:07063-s4" kvg:type="㇔" d="M58.78,10.75c1.95,1.04,5.04,4.28,5.53,5.9"/>
 				<path id="kvg:07063-s5" kvg:type="㇐" d="M54.73,22.3c0.45,0.16,2.13,0.19,2.58,0.16c5.48-0.29,9.08-1.35,13.07-1.49c0.74-0.03,1.85,0.08,2.22,0.16"/>

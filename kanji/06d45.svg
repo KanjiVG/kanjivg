@@ -50,22 +50,22 @@ kvg:type CDATA #IMPLIED >
 			<g id="kvg:06d45-g5" kvg:element="一" kvg:position="bottom">
 				<path id="kvg:06d45-s5" kvg:type="㇐" d="M42.99,45.42c1.36,0.48,3.89,0.49,5.22,0.19c8.53-1.87,19.29-4.24,27.51-5.56c2.59-0.41,4.74-0.42,6-0.1"/>
 			</g>
-			<g id="kvg:06d45-g6" kvg:element="戈">
-				<g id="kvg:06d45-g7" kvg:element="弋" kvg:part="1">
-					<g id="kvg:06d45-g8" kvg:element="三" kvg:part="2">
-						<g id="kvg:06d45-g9" kvg:element="一">
-							<path id="kvg:06d45-s6" kvg:type="㇐" d="M37.55,60.38c2.13,0.62,6.08,0.5,8.16,0.1c9.79-1.85,30.21-6.09,43.13-7.48c2.49-0.27,4.46-0.12,5.66,0"/>
-						</g>
+		</g>
+		<g id="kvg:06d45-g6" kvg:element="戈">
+			<g id="kvg:06d45-g7" kvg:element="弋" kvg:part="1">
+				<g id="kvg:06d45-g8" kvg:element="三" kvg:part="2">
+					<g id="kvg:06d45-g9" kvg:element="一">
+						<path id="kvg:06d45-s6" kvg:type="㇐" d="M37.55,60.38c2.13,0.62,6.08,0.5,8.16,0.1c9.79-1.85,30.21-6.09,43.13-7.48c2.49-0.27,4.46-0.12,5.66,0"/>
 					</g>
-					<path id="kvg:06d45-s7" kvg:type="㇂" d="M50.88,11c1.62,1.25,2.67,3.62,2.96,6.49C57.25,52,66.12,77.19,89.31,93.61c7.17,5.08,6.67,0.81,5.68-7.58"/>
 				</g>
-				<g id="kvg:06d45-g10" kvg:element="丿">
-					<path id="kvg:06d45-s8" kvg:type="㇒" d="M84.75,60.25c0.12,0.84-0.11,1.97-0.74,3.1C79,72.25,65,87.12,40.78,96.23"/>
-				</g>
-				<g id="kvg:06d45-g11" kvg:element="弋" kvg:part="2">
-					<g id="kvg:06d45-g12" kvg:element="丶">
-						<path id="kvg:06d45-s9" kvg:type="㇔" d="M68.55,11.08c3.47,1.44,9.01,4.72,10.62,7.18"/>
-					</g>
+				<path id="kvg:06d45-s7" kvg:type="㇂" d="M50.88,11c1.62,1.25,2.67,3.62,2.96,6.49C57.25,52,66.12,77.19,89.31,93.61c7.17,5.08,6.67,0.81,5.68-7.58"/>
+			</g>
+			<g id="kvg:06d45-g10" kvg:element="丿">
+				<path id="kvg:06d45-s8" kvg:type="㇒" d="M84.75,60.25c0.12,0.84-0.11,1.97-0.74,3.1C79,72.25,65,87.12,40.78,96.23"/>
+			</g>
+			<g id="kvg:06d45-g11" kvg:element="弋" kvg:part="2">
+				<g id="kvg:06d45-g12" kvg:element="丶">
+					<path id="kvg:06d45-s9" kvg:type="㇔" d="M68.55,11.08c3.47,1.44,9.01,4.72,10.62,7.18"/>
 				</g>
 			</g>
 		</g>

@@ -51,22 +51,22 @@ kvg:type CDATA #IMPLIED >
 			<g id="kvg:0685f-g5" kvg:element="一" kvg:position="bottom">
 				<path id="kvg:0685f-s6" kvg:type="㇐" d="M48.98,44.47c2.21,0.9,5.44,0.56,7.65-0.1c7-2.12,17-4.87,24.5-5.68c1.87-0.2,3.33-0.3,5.14-0.3"/>
 			</g>
-			<g id="kvg:0685f-g6" kvg:element="戈">
-				<g id="kvg:0685f-g7" kvg:element="弋" kvg:part="1">
-					<g id="kvg:0685f-g8" kvg:element="三" kvg:part="2">
-						<g id="kvg:0685f-g9" kvg:element="一">
-							<path id="kvg:0685f-s7" kvg:type="㇐" d="M44.89,59.59c2.68,0.96,5.74,0.52,8.39-0.18c9.09-2.41,24.09-6.03,36.48-7.2c2.1-0.2,4.61-0.33,6.4-0.03"/>
-						</g>
+		</g>
+		<g id="kvg:0685f-g6" kvg:element="戈">
+			<g id="kvg:0685f-g7" kvg:element="弋" kvg:part="1">
+				<g id="kvg:0685f-g8" kvg:element="三" kvg:part="2">
+					<g id="kvg:0685f-g9" kvg:element="一">
+						<path id="kvg:0685f-s7" kvg:type="㇐" d="M44.89,59.59c2.68,0.96,5.74,0.52,8.39-0.18c9.09-2.41,24.09-6.03,36.48-7.2c2.1-0.2,4.61-0.33,6.4-0.03"/>
 					</g>
-					<path id="kvg:0685f-s8" kvg:type="㇂" d="M59.98,12.5c1.54,1.79,2.17,3.54,2.5,7.4c2.65,30.85,9.9,59.1,27.41,72.56c5.67,4.36,5.19,0.02,4.42-7.93"/>
 				</g>
-				<g id="kvg:0685f-g10" kvg:element="丿">
-					<path id="kvg:0685f-s9" kvg:type="㇒" d="M84.95,59.28c0.1,0.76-0.21,1.74-0.71,2.79c-3.37,7.05-15.62,20.3-37.45,29.34"/>
-				</g>
-				<g id="kvg:0685f-g11" kvg:element="弋" kvg:part="2">
-					<g id="kvg:0685f-g12" kvg:element="丶">
-						<path id="kvg:0685f-s10" kvg:type="㇔" d="M76.38,11.75c3.75,1.71,9.74,5.63,11.49,8.56"/>
-					</g>
+				<path id="kvg:0685f-s8" kvg:type="㇂" d="M59.98,12.5c1.54,1.79,2.17,3.54,2.5,7.4c2.65,30.85,9.9,59.1,27.41,72.56c5.67,4.36,5.19,0.02,4.42-7.93"/>
+			</g>
+			<g id="kvg:0685f-g10" kvg:element="丿">
+				<path id="kvg:0685f-s9" kvg:type="㇒" d="M84.95,59.28c0.1,0.76-0.21,1.74-0.71,2.79c-3.37,7.05-15.62,20.3-37.45,29.34"/>
+			</g>
+			<g id="kvg:0685f-g11" kvg:element="弋" kvg:part="2">
+				<g id="kvg:0685f-g12" kvg:element="丶">
+					<path id="kvg:0685f-s10" kvg:type="㇔" d="M76.38,11.75c3.75,1.71,9.74,5.63,11.49,8.56"/>
 				</g>
 			</g>
 		</g>
