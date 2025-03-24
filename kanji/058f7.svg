@@ -42,20 +42,24 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:058f7-s2" kvg:type="㇑" d="M52.77,11.77c0.86,0.34,1.37,1.54,1.54,2.23s0,13.87-0.17,18.16"/>
 		<path id="kvg:058f7-s3" kvg:type="㇐" d="M35.38,34.87c0.83,0.25,2.35,0.3,3.18,0.25C46,34.75,59,32.33,70.58,32.35c1.38,0,2.21,0.12,2.9,0.25"/>
 	</g>
-	<g id="kvg:058f7-g2" kvg:element="冖" kvg:position="bottom">
-		<path id="kvg:058f7-s4" kvg:type="㇔" d="M21.16,42.94c-0.13,3.87-3.1,14.01-4.16,16.31"/>
+	<g id="kvg:058f7-g2" kvg:position="bottom">
 		<g id="kvg:058f7-g3" kvg:element="亜" kvg:variant="true">
-			<g id="kvg:058f7-g4" kvg:element="二" kvg:part="1" kvg:variant="true">
-				<path id="kvg:058f7-s5" kvg:type="㇖" d="M21.22,46c3.53,0,47.25-4.25,64.97-4.25c12.06,0,3.81,4.75-0.69,8.5"/>
+			<g id="kvg:058f7-g4" kvg:element="冖">
+				<path id="kvg:058f7-s4" kvg:type="㇔" d="M21.16,42.94c-0.13,3.87-3.1,14.01-4.16,16.31"/>
+				<g id="kvg:058f7-g5" kvg:element="二" kvg:part="1" kvg:variant="true">
+					<g id="kvg:058f7-g6" kvg:element="冖" kvg:part="2">
+						<path id="kvg:058f7-s5" kvg:type="㇖" d="M21.22,46c3.53,0,47.25-4.25,64.97-4.25c12.06,0,3.81,4.75-0.69,8.5"/>
+					</g>
+				</g>
 			</g>
-			<g id="kvg:058f7-g5" kvg:element="口">
+			<g id="kvg:058f7-g7" kvg:element="口">
 				<path id="kvg:058f7-s6" kvg:type="㇑" d="M26.66,59c0.38,0.31,0.78,0.57,0.94,0.96c1.33,3.07,2.92,13.99,3.83,19.51"/>
 				<path id="kvg:058f7-s7" kvg:type="㇕a" d="M29.23,60.56c10.82-1.6,46.56-4.64,51.06-4.93c2.93-0.19,3.49,1.61,2.96,3.75c-0.99,3.94-1.75,8.37-4.02,15.95"/>
 				<path id="kvg:058f7-s8" kvg:type="㇐a" d="M31.19,76.51c5.27-0.46,39.81-3.01,48.65-3.26"/>
 			</g>
 			<path id="kvg:058f7-s9" kvg:type="㇑a" d="M44.19,46.47c0.98,0.45,1.57,2.02,1.76,2.92c0.2,0.9,0,38.24-0.2,43.86"/>
 			<path id="kvg:058f7-s10" kvg:type="㇑a" d="M62.18,44c0.98,0.45,1.57,2.02,1.76,2.92s0,40.04-0.2,45.66"/>
-			<g id="kvg:058f7-g6" kvg:element="二" kvg:part="2">
+			<g id="kvg:058f7-g8" kvg:element="二" kvg:part="2">
 				<path id="kvg:058f7-s11" kvg:type="㇐" d="M17.82,94.65c1.48,0.53,4.2,0.62,5.68,0.53C43.8,93.95,72.59,92.5,89,92.05c2.47-0.07,3.95,0.25,5.19,0.52"/>
 			</g>
 		</g>
