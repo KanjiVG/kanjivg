@@ -39,11 +39,11 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:09df9" kvg:element="鷹">
 	<g id="kvg:09df9-g1" kvg:element="广" kvg:part="1" kvg:position="tare" kvg:radical="nelson">
 		<path id="kvg:09df9-s1" kvg:type="㇑a" d="M52.45,9.13c0.96,0.96,1.29,2.37,1.29,3.89c0,0.68-0.07,1.85-0.07,3.63"/>
-		<g id="kvg:09df9-g2" kvg:element="雁">
-			<g id="kvg:09df9-g3" kvg:element="厂">
-				<g id="kvg:09df9-g4" kvg:element="广" kvg:part="2" kvg:radical="nelson">
-					<path id="kvg:09df9-s2" kvg:type="㇐" d="M23.47,19.78c3.14,1.06,6.98,0.19,10.19-0.14c14.72-1.52,29.97-3.14,46.7-4.43c2.93-0.23,5.87-0.23,8.77,0.36"/>
-				</g>
+	</g>
+	<g id="kvg:09df9-g2" kvg:element="雁">
+		<g id="kvg:09df9-g3" kvg:element="厂">
+			<g id="kvg:09df9-g4" kvg:element="广" kvg:part="2" kvg:radical="nelson">
+				<path id="kvg:09df9-s2" kvg:type="㇐" d="M23.47,19.78c3.14,1.06,6.98,0.19,10.19-0.14c14.72-1.52,29.97-3.14,46.7-4.43c2.93-0.23,5.87-0.23,8.77,0.36"/>
 				<path id="kvg:09df9-s3" kvg:type="㇒" d="M25.4,20.92c0.84,0.84,0.95,1.96,0.91,3.94C25.88,44.5,22.88,62,10.81,76.97"/>
 			</g>
 		</g>

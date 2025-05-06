@@ -43,13 +43,13 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:058f7-s3" kvg:type="㇐" d="M35.38,34.87c0.83,0.25,2.35,0.3,3.18,0.25C46,34.75,59,32.33,70.58,32.35c1.38,0,2.21,0.12,2.9,0.25"/>
 	</g>
 	<g id="kvg:058f7-g2" kvg:position="bottom">
-		<g id="kvg:058f7-g3" kvg:element="亜" kvg:variant="true">
-			<g id="kvg:058f7-g4" kvg:element="冖">
-				<path id="kvg:058f7-s4" kvg:type="㇔" d="M21.16,42.94c-0.13,3.87-3.1,14.01-4.16,16.31"/>
-				<g id="kvg:058f7-g5" kvg:element="二" kvg:part="1" kvg:variant="true">
-					<g id="kvg:058f7-g6" kvg:element="冖" kvg:part="2">
-						<path id="kvg:058f7-s5" kvg:type="㇖" d="M21.22,46c3.53,0,47.25-4.25,64.97-4.25c12.06,0,3.81,4.75-0.69,8.5"/>
-					</g>
+		<g id="kvg:058f7-g3" kvg:element="冖" kvg:part="1">
+			<path id="kvg:058f7-s4" kvg:type="㇔" d="M21.16,42.94c-0.13,3.87-3.1,14.01-4.16,16.31"/>
+		</g>
+		<g id="kvg:058f7-g4" kvg:element="亜" kvg:variant="true">
+			<g id="kvg:058f7-g5" kvg:element="二" kvg:part="1" kvg:variant="true">
+				<g id="kvg:058f7-g6" kvg:element="冖" kvg:part="2">
+					<path id="kvg:058f7-s5" kvg:type="㇖" d="M21.22,46c3.53,0,47.25-4.25,64.97-4.25c12.06,0,3.81,4.75-0.69,8.5"/>
 				</g>
 			</g>
 			<g id="kvg:058f7-g7" kvg:element="口">
