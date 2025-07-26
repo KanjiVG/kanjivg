@@ -53,8 +53,10 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:05c28-s5" kvg:type="㇒" d="M88.87,32.42c0.08,0.68,0.27,1.85-0.14,2.71c-2.81,5.93-14.22,19.12-25.8,25.96"/>
 		<path id="kvg:05c28-s6" kvg:type="㇒" d="M94.39,51.53c0.09,0.79,0.2,2.04-0.18,3.17C91.97,61.38,79.1,76.03,61.48,85"/>
 	</g>
-	<g id="kvg:05c28-g6" kvg:element="尤" kvg:part="2" kvg:radical="nelson">
-		<path id="kvg:05c28-s7" kvg:type="㇔" d="M47.45,15.5c3.41,1.59,8.81,6.53,9.66,9"/>
+	<g id="kvg:05c28-g6" kvg:element="尤" kvg:part="2">
+		<g id="kvg:05c28-g7" kvg:element="丶" kvg:radical="nelson">
+			<path id="kvg:05c28-s7" kvg:type="㇔" d="M47.45,15.5c3.41,1.59,8.81,6.53,9.66,9"/>
+		</g>
 	</g>
 </g>
 </g>
