@@ -39,11 +39,11 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:09df9-Kaisho" kvg:element="鷹">
 	<g id="kvg:09df9-Kaisho-g1" kvg:element="广" kvg:part="1" kvg:position="tare" kvg:radical="nelson">
 		<path id="kvg:09df9-Kaisho-s1" kvg:type="㇑a" d="M51.45,8.38c0.69,0.33,2.16,2.48,2.29,3.14c0.14,0.66,0.07,2-0.07,6.13"/>
-		<g id="kvg:09df9-Kaisho-g2" kvg:element="雁">
-			<g id="kvg:09df9-Kaisho-g3" kvg:element="厂">
-				<g id="kvg:09df9-Kaisho-g4" kvg:element="广" kvg:part="2" kvg:radical="nelson">
-					<path id="kvg:09df9-Kaisho-s2" kvg:type="㇐" d="M23.47,19.78c1.38,0.46,3.92,0.54,5.31,0.46c14.41-0.78,37.43-4.95,55.5-5.13c2.31-0.02,3.69,0.22,4.85,0.46"/>
-				</g>
+	</g>
+	<g id="kvg:09df9-Kaisho-g2" kvg:element="雁">
+		<g id="kvg:09df9-Kaisho-g3" kvg:element="厂">
+			<g id="kvg:09df9-Kaisho-g4" kvg:element="广" kvg:part="2" kvg:radical="nelson">
+				<path id="kvg:09df9-Kaisho-s2" kvg:type="㇐" d="M23.47,19.78c1.38,0.46,3.92,0.54,5.31,0.46c14.41-0.78,37.43-4.95,55.5-5.13c2.31-0.02,3.69,0.22,4.85,0.46"/>
 				<path id="kvg:09df9-Kaisho-s3" kvg:type="㇒" d="M26.4,20.67c0.05,1.35-0.09,3.48-0.09,5.44c0,22.15-3.6,39.27-15.5,51.61"/>
 			</g>
 		</g>
