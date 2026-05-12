@@ -181,7 +181,7 @@ class StrokeGr:
 					newLevel = level
 					if found: newLevel += 1
 					childsComp += child.components(simplified, recursive, newLevel)
-		if recursive and not len(ret) == 0: ret = [ level ] + ret + childsComp
+		if recursive: ret = [ level ] + ret + childsComp
 		return ret
 
 	def simplify(self):
