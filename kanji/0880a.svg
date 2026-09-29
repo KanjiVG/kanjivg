@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+<!ATTLIST g
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:element CDATA #IMPLIED
+kvg:variant CDATA #IMPLIED
+kvg:partial CDATA #IMPLIED
+kvg:original CDATA #IMPLIED
+kvg:part CDATA #IMPLIED
+kvg:number CDATA #IMPLIED
+kvg:tradForm CDATA #IMPLIED
+kvg:radicalForm CDATA #IMPLIED
+kvg:position CDATA #IMPLIED
+kvg:radical CDATA #IMPLIED
+kvg:phon CDATA #IMPLIED >
+<!ATTLIST path
+xmlns:kvg CDATA #FIXED "http://kanjivg.tagaini.net"
+kvg:type CDATA #IMPLIED >
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109" xmlns:kvg="https://kanjivg.tagaini.net/">
+<g id="kvg:StrokePaths_0880a" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
+<g id="kvg:0880a" kvg:element="蠊">
+	<g id="kvg:0880a-g1" kvg:element="虫" kvg:position="left" kvg:radical="general">
+		<g id="kvg:0880a-g2" kvg:element="中">
+			<g id="kvg:0880a-g3" kvg:element="口">
+				<path id="kvg:0880a-s1" kvg:type="㇑" d="M10.26,33.9c0.48,0.58,1.08,1.58,1.19,2.34c0.92,6.57,1.48,15.59,2.81,25.4"/>
+				<path id="kvg:0880a-s2" kvg:type="㇕b" d="M11.72,36.48c6.93-0.97,17.61-2.83,22.63-3.2c1.96-0.14,2.86,1.38,2.62,2.83c-0.83,4.98-1.98,13.34-3.33,21.62"/>
+				<path id="kvg:0880a-s3" kvg:type="㇐b" d="M14.26,59.93c5.58-0.98,13.46-1.48,21.26-2.39"/>
+			</g>
+			<g id="kvg:0880a-g4" kvg:element="丨">
+				<path id="kvg:0880a-s4" kvg:type="㇑a" d="M21.92,15.25c1.08,1,2.26,2.75,2.26,4.47c0,4.78-0.2,46.78-0.2,60.16"/>
+			</g>
+		</g>
+		<path id="kvg:0880a-s5" kvg:type="㇀" d="M11.57,84.77c0.6,1.16,2.46,1.11,3.06,0.82c0.6-0.29,16.04-8.15,19.76-10.47"/>
+		<path id="kvg:0880a-s6" kvg:type="㇔" d="M29.75,67c2.93,3.07,7.57,12.62,8.31,17.39"/>
+	</g>
+	<g id="kvg:0880a-g5" kvg:element="廉" kvg:variant="true" kvg:position="right">
+		<g id="kvg:0880a-g6" kvg:element="广" kvg:position="kamae">
+			<path id="kvg:0880a-s7" kvg:type="㇑a" d="M69.56,15.94c0.56,0.28,1.73,2.15,1.84,2.73c0.11,0.58,0.06,3.47-0.05,7.06"/>
+			<g id="kvg:0880a-g7" kvg:element="厂">
+				<path id="kvg:0880a-s8" kvg:type="㇐" d="M47.31,27.43c1.28,0.46,3.63,0.54,4.92,0.46c13.34-0.78,26.65-2.39,38.94-3.21c2.14-0.15,3.42,0.22,4.48,0.46"/>
+				<path id="kvg:0880a-s9" kvg:type="㇒" d="M51.42,28.53c0.03,1.21,0.06,2.01-0.06,3.76c-0.69,10.26-0.85,34.94-9.7,46.21"/>
+			</g>
+		</g>
+		<g id="kvg:0880a-g8" kvg:element="兼" kvg:variant="true">
+			<path id="kvg:0880a-s10" kvg:type="㇒" d="M69.35,31.39c0.03,0.21,0.06,0.53-0.06,0.83c-0.77,1.74-5.13,5.56-11.1,7.9"/>
+			<path id="kvg:0880a-s11" kvg:type="㇒" d="M85.01,30.16c0.03,0.2,0.07,0.5-0.06,0.78c-0.79,1.64-5.34,5.27-11.55,7.48"/>
+			<path id="kvg:0880a-s12" kvg:type="㇐" d="M54.34,44.92c1.16,0.36,3.27,0.44,4.42,0.36c7.74-0.51,20.43-2.48,31.96-3.19c1.92-0.12,3.07,0.17,4.04,0.35"/>
+			<g id="kvg:0880a-g9" kvg:element="⺕" kvg:variant="true" kvg:original="彑">
+				<path id="kvg:0880a-s13" kvg:type="㇕" d="M56.51,51.49c1.21,0.16,1.87,0.51,3.45,0.33c8.61-0.98,19.73-2.62,27.48-3.11c1.55-0.09,2.42,1.15,2.07,2.78c-0.9,4.28-1.53,9.66-2.25,13.39"/>
+				<path id="kvg:0880a-s14" kvg:type="㇐" d="M52.33,59.28c1.39,0.16,2.47,0.47,3.99,0.33c13.35-1.3,26.12-2.28,36.87-3.28c1.69-0.15,3.07,0.33,3.83,0.49"/>
+				<path id="kvg:0880a-s15" kvg:type="㇐c" d="M56.08,67.41c0.9,0.1,2.53,0.4,3.61,0.3c7.97-0.73,18.03-1.84,26.06-2.56c1.43-0.13,2.35,0,3.42,0.1"/>
+			</g>
+			<g id="kvg:0880a-g10" kvg:element="丨">
+				<path id="kvg:0880a-s16" kvg:type="㇑" d="M65.06,38.02c0.69,0.35,1.1,1.6,1.23,2.32c0.14,0.71,0,48.4-0.14,52.85"/>
+			</g>
+			<g id="kvg:0880a-g11" kvg:element="丨">
+				<path id="kvg:0880a-s17" kvg:type="㇑" d="M76.18,39.89c0.68,0.35,1.1,1.6,1.23,2.32c0.14,0.71,0,46.9-0.14,51.35"/>
+			</g>
+			<g id="kvg:0880a-g12" kvg:element="八">
+				<g id="kvg:0880a-g13" kvg:position="left">
+					<path id="kvg:0880a-s18" kvg:type="㇒" d="M65.8,67.41c-2.98,7.83-9.95,16.44-17.65,20.31"/>
+				</g>
+				<g id="kvg:0880a-g14" kvg:position="right">
+					<path id="kvg:0880a-s19" kvg:type="㇏" d="M77.63,66.07C80.9,70.94,90.13,81.91,96.28,85.51c1.24,0.72,1.97,1.38,3.03,1.65"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</g>
+<g id="kvg:StrokeNumbers_0880a" style="font-size:8;fill:#808080">
+	<text transform="matrix(1 0 0 1 4.50 41.50)">1</text>
+	<text transform="matrix(1 0 0 1 13.50 32.50)">2</text>
+	<text transform="matrix(1 0 0 1 16.50 56.85)">3</text>
+	<text transform="matrix(1 0 0 1 13.04 15.50)">4</text>
+	<text transform="matrix(1 0 0 1 3.50 87.50)">5</text>
+	<text transform="matrix(1 0 0 1 32.50 67.50)">6</text>
+	<text transform="matrix(1 0 0 1 62.82 16.90)">7</text>
+	<text transform="matrix(1 0 0 1 50.15 24.65)">8</text>
+	<text transform="matrix(1 0 0 1 53.79 36.03)">9</text>
+	<text transform="matrix(1 0 0 1 70.40 34.29)">10</text>
+	<text transform="matrix(1 0 0 1 87.06 33.06)">11</text>
+	<text transform="matrix(1 0 0 1 54.05 49.54)">12</text>
+	<text transform="matrix(1 0 0 1 52.06 60.89)">13</text>
+	<text transform="matrix(1 0 0 1 54.95 69.25)">14</text>
+	<text transform="matrix(1 0 0 1 49.14 76.32)">15</text>
+	<text transform="matrix(1 0 0 1 65.21 45.52)">16</text>
+	<text transform="matrix(1 0 0 1 76.81 44.89)">17</text>
+	<text transform="matrix(1 0 0 1 65.18 79.55)">18</text>
+	<text transform="matrix(1 0 0 1 85.63 73.73)">19</text>
+</g>
+</svg>
